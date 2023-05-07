@@ -1,0 +1,229 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ SAF_leninism_party:0 "СДФ" 
+ SAF_leninism_party_long:0 "Социал-демократическая федерация" 
+ SAF_marxism_party:0 "ПЛТ" 
+ SAF_marxism_party_long:0 "Политическая лига труда" 
+ SAF_rev_socialism_party:0 "ПЛТ" 
+ SAF_rev_socialism_party_long:0 "Политическая лига труда" 
+ SAF_soc_democracy_party:0 "ПЛТ" 
+ SAF_soc_democracy_party_long:0 "Политическая лига труда" 
+ SAF_soc_liberal_party:0 "ЮАП" 
+ SAF_soc_liberal_party_long:0 "Южноафриканская партия" 
+ SAF_lib_conservatism_party:0 "ЮАП" 
+ SAF_lib_conservatism_party_long:0 "Южноафриканская партия" 
+ SAF_soc_conservatism_party:0 "ПП (А-О)" 
+ SAF_soc_conservatism_party_long:0 "Прогрессивная партия "Анти-Отстраненные"" 
+ SAF_auth_democrat_party:0 "ПП (О)" 
+ SAF_auth_democrat_party_long:0 "Прогрессивная партия "Отстраненные"" 
+ SAF_pat_autocrat_party:0 "" 
+ SAF_pat_autocrat_party_long:0 "" 
+ SAF_fascism_party:0 "" 
+ SAF_fascism_party_long:0 "" 
+
+## Orange River Colony 
+
+ ORC_leninism_party:0 "" 
+ ORC_leninism_party_long:0 "" 
+ ORC_marxism_party:0 "" 
+ ORC_marxism_party_long:0 "" 
+ ORC_rev_socialism_party:0 "" 
+ ORC_rev_socialism_party_long:0 "" 
+ ORC_soc_democracy_party:0 "" 
+ ORC_soc_democracy_party_long:0 "" 
+ ORC_soc_liberal_party:0 "" 
+ ORC_soc_liberal_party_long:0 "" 
+ ORC_lib_conservatism_party:0 "" 
+ ORC_lib_conservatism_party_long:0 "" 
+ ORC_soc_conservatism_party:0 "" 
+ ORC_soc_conservatism_party_long:0 "" 
+ ORC_auth_democrat_party:0 "" 
+ ORC_auth_democrat_party_long:0 "" 
+ ORC_pat_autocrat_party:0 "" 
+ ORC_pat_autocrat_party_long:0 "" 
+ ORC_fascism_party:0 "" 
+ ORC_fascism_party_long:0 "" 
+
+## Transvaal 
+
+ TRA_leninism_party:0 "СДФ" 
+ TRA_leninism_party_long:0 "Социал-демократическая федерация" 
+ TRA_marxism_party:0 "ПЛТ" 
+ TRA_marxism_party_long:0 "Политическая лига труда" 
+ TRA_rev_socialism_party:0 "ПЛТ" 
+ TRA_rev_socialism_party_long:0 "Политическая лига труда" 
+ TRA_soc_democracy_party:0 "ПЛТ" 
+ TRA_soc_democracy_party_long:0 "Политическая лига труда" 
+ TRA_soc_liberal_party:0 "Н" 
+ TRA_soc_liberal_party_long:0 "Народ" 
+ TRA_lib_conservatism_party:0 "Н" 
+ TRA_lib_conservatism_party_long:0 "Народ" 
+ TRA_soc_conservatism_party:0 "АОП" 
+ TRA_soc_conservatism_party_long:0 "Ассоциация ответственного правительства" 
+ TRA_auth_democrat_party:0 "ПА" 
+ TRA_auth_democrat_party_long:0 "Прогрессивная ассоциация" 
+ TRA_pat_autocrat_party:0 "" 
+ TRA_pat_autocrat_party_long:0 "" 
+ TRA_fascism_party:0 "" 
+ TRA_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ CAPE_COLONY_CT_leninism:0 "Капская колония"
+ CAPE_COLONY_CT_leninism_DEF:0 "Капская колония"
+ CAPE_COLONY_CT_leninism_ADJ:0 "Африканск." 
+ CAPE_COLONY_CT_marxism:0 "Капская колония"
+ CAPE_COLONY_CT_marxism_DEF:0 "Капская колония"
+ CAPE_COLONY_CT_marxism_ADJ:0 "Африканск." 
+ CAPE_COLONY_CT_rev_socialism:0 "Капская колония"
+ CAPE_COLONY_CT_rev_socialism_DEF:0 "Капская колония"
+ CAPE_COLONY_CT_rev_socialism_ADJ:0 "Африканск." 
+ CAPE_COLONY_CT_soc_democracy:0 "Капская колония"
+ CAPE_COLONY_CT_soc_democracy_DEF:0 "Капская колония"
+ CAPE_COLONY_CT_soc_democracy_ADJ:0 "Африканск." 
+ CAPE_COLONY_CT_soc_liberal:0 "Капская колония"
+ CAPE_COLONY_CT_soc_liberal_DEF:0 "Капская колония"
+ CAPE_COLONY_CT_soc_liberal_ADJ:0 "Африканск." 
+ CAPE_COLONY_CT_lib_conservatism:0 "Капская колония"
+ CAPE_COLONY_CT_lib_conservatism_DEF:0 "Капская колония"
+ CAPE_COLONY_CT_lib_conservatism_ADJ:0 "Африканск." 
+ CAPE_COLONY_CT_soc_conservatism:0 "Капская колония"
+ CAPE_COLONY_CT_soc_conservatism_DEF:0 "Капская колония"
+ CAPE_COLONY_CT_soc_conservatism_ADJ:0 "Африканск." 
+ CAPE_COLONY_CT_auth_democrat:0 "Капская колония"
+ CAPE_COLONY_CT_auth_democrat_DEF:0 "Капская колония"
+ CAPE_COLONY_CT_auth_democrat_ADJ:0 "Африканск." 
+ CAPE_COLONY_CT_pat_autocrat:0 "Капская колония"
+ CAPE_COLONY_CT_pat_autocrat_DEF:0 "Капская колония"
+ CAPE_COLONY_CT_pat_autocrat_ADJ:0 "Африканск." 
+ CAPE_COLONY_CT_fascism:0 "Капская колония"
+ CAPE_COLONY_CT_fascism_DEF:0 "Капская колония"
+ CAPE_COLONY_CT_fascism_ADJ:0 "Африканск." 
+
+ SAF_leninism:0 "Южно-Африканский Союз" 
+ SAF_leninism_DEF:0 "Южно-Африканский Союз" 
+ SAF_leninism_ADJ:0 "Африканск." 
+ SAF_marxism:0 "Южно-Африканский Союз" 
+ SAF_marxism_DEF:0 "Южно-Африканский Союз" 
+ SAF_marxism_ADJ:0 "Африканск." 
+ SAF_rev_socialism:0 "Южно-Африканский Союз" 
+ SAF_rev_socialism_DEF:0 "Южно-Африканский Союз" 
+ SAF_rev_socialism_ADJ:0 "Африканск." 
+ SAF_soc_democracy:0 "Южно-Африканский Союз" 
+ SAF_soc_democracy_DEF:0 "Южно-Африканский Союз" 
+ SAF_soc_democracy_ADJ:0 "Африканск." 
+ SAF_soc_liberal:0 "Южно-Африканский Союз" 
+ SAF_soc_liberal_DEF:0 "Южно-Африканский Союз" 
+ SAF_soc_liberal_ADJ:0 "Африканск." 
+ SAF_lib_conservatism:0 "Южно-Африканский Союз" 
+ SAF_lib_conservatism_DEF:0 "Южно-Африканский Союз" 
+ SAF_lib_conservatism_ADJ:0 "Африканск." 
+ SAF_soc_conservatism:0 "Южно-Африканский Союз" 
+ SAF_soc_conservatism_DEF:0 "Южно-Африканский Союз" 
+ SAF_soc_conservatism_ADJ:0 "Африканск." 
+ SAF_auth_democrat:0 "Южно-Африканский Союз" 
+ SAF_auth_democrat_DEF:0 "Южно-Африканский Союз" 
+ SAF_auth_democrat_ADJ:0 "Африканск." 
+ SAF_pat_autocrat:0 "Южно-Африканский Союз" 
+ SAF_pat_autocrat_DEF:0 "Южно-Африканский Союз" 
+ SAF_pat_autocrat_ADJ:0 "Африканск." 
+ SAF_fascism:0 "Южно-Африканский Союз" 
+ SAF_fascism_DEF:0 "Южно-Африканский Союз" 
+ SAF_fascism_ADJ:0 "Африканск." 
+
+## Orange River Colony 
+
+ ORC_leninism:0 "Народная Республика Колония Оранжевой реки" 
+ ORC_leninism_DEF:0 "Народная Республика Колония Оранжевой реки" 
+ ORC_leninism_ADJ:0 "Африканск." 
+ ORC_marxism:0 "Народная Республика Колония Оранжевой реки" 
+ ORC_marxism_DEF:0 "Народная Республика Колония Оранжевой реки" 
+ ORC_marxism_ADJ:0 "Африканск." 
+ ORC_rev_socialism:0 "Народная Республика Колония Оранжевой реки" 
+ ORC_rev_socialism_DEF:0 "Народная Республика Колония Оранжевой реки" 
+ ORC_rev_socialism_ADJ:0 "Африканск." 
+ ORC_soc_democracy:0 "Республика Колония Оранжевой реки" 
+ ORC_soc_democracy_DEF:0 "Республика Колония Оранжевой реки" 
+ ORC_soc_democracy_ADJ:0 "Африканск." 
+ ORC_soc_liberal:0 "Республика Колония Оранжевой реки" 
+ ORC_soc_liberal_DEF:0 "Республика Колония Оранжевой реки" 
+ ORC_soc_liberal_ADJ:0 "Африканск." 
+ ORC_lib_conservatism:0 "Республика Колония Оранжевой реки" 
+ ORC_lib_conservatism_DEF:0 "Республика Колония Оранжевой реки" 
+ ORC_lib_conservatism_ADJ:0 "Африканск." 
+ ORC_soc_conservatism:0 "Республика Колония Оранжевой реки" 
+ ORC_soc_conservatism_DEF:0 "Республика Колония Оранжевой реки" 
+ ORC_soc_conservatism_ADJ:0 "Африканск." 
+ ORC_auth_democrat:0 "Колония Оранжевой реки" 
+ ORC_auth_democrat_DEF:0 "Колония Оранжевой реки" 
+ ORC_auth_democrat_ADJ:0 "Африканск." 
+ ORC_pat_autocrat:0 "Колония Оранжевой реки" 
+ ORC_pat_autocrat_DEF:0 "Колония Оранжевой реки" 
+ ORC_pat_autocrat_ADJ:0 "Африканск." 
+ ORC_fascism:0 "Африканская империя"
+ ORC_fascism_DEF:0 "Африканская империя"
+ ORC_fascism_ADJ:0 "Африканск." 
+
+## Transvaal 
+
+ TRA_leninism:0 "Народная Республика Трансвааль" 
+ TRA_leninism_DEF:0 "Народная Республика Трансвааль" 
+ TRA_leninism_ADJ:0 "Африканск." 
+ TRA_marxism:0 "Народная Республика Трансвааль" 
+ TRA_marxism_DEF:0 "Народная Республика Трансвааль" 
+ TRA_marxism_ADJ:0 "Африканск." 
+ TRA_rev_socialism:0 "Народная Республика Трансвааль" 
+ TRA_rev_socialism_DEF:0 "Народная Республика Трансвааль" 
+ TRA_rev_socialism_ADJ:0 "Африканск." 
+ TRA_soc_democracy:0 "Республика Трансвааль" 
+ TRA_soc_democracy_DEF:0 "Республика Трансвааль" 
+ TRA_soc_democracy_ADJ:0 "Африканск." 
+ TRA_soc_liberal:0 "Республика Трансвааль" 
+ TRA_soc_liberal_DEF:0 "Республика Трансвааль" 
+ TRA_soc_liberal_ADJ:0 "Африканск." 
+ TRA_lib_conservatism:0 "Республика Трансвааль" 
+ TRA_lib_conservatism_DEF:0 "Республика Трансвааль" 
+ TRA_lib_conservatism_ADJ:0 "Африканск." 
+ TRA_soc_conservatism:0 "Республика Трансвааль" 
+ TRA_soc_conservatism_DEF:0 "Республика Трансвааль" 
+ TRA_soc_conservatism_ADJ:0 "Африканск." 
+ TRA_auth_democrat:0 "Трансвааль" 
+ TRA_auth_democrat_DEF:0 "Трансвааль" 
+ TRA_auth_democrat_ADJ:0 "Африканск." 
+ TRA_pat_autocrat:0 "Трансвааль" 
+ TRA_pat_autocrat_DEF:0 "Трансвааль" 
+ TRA_pat_autocrat_ADJ:0 "Африканск." 
+ TRA_fascism:0 "Африканская империя"
+ TRA_fascism_DEF:0 "Африканская империя"
+ TRA_fascism_ADJ:0 "Африканск." 
+
+### Focuses ### 
+
+ SAF_Focus_ID:0 "" 
+ SAF_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ SAF_Idea_ID:0 "" 
+ SAF_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

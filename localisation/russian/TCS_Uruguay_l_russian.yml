@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ URG_leninism_party:0 "ПК" 
+ URG_leninism_party_long:0 "Партия Колорадо" 
+ URG_marxism_party:0 "ПК" 
+ URG_marxism_party_long:0 "Партия Колорадо" 
+ URG_rev_socialism_party:0 "ПК" 
+ URG_rev_socialism_party_long:0 "Партия Колорадо" 
+ URG_soc_democracy_party:0 "ПК" 
+ URG_soc_democracy_party_long:0 "Партия Колорадо" 
+ URG_soc_liberal_party:0 "ПК" 
+ URG_soc_liberal_party_long:0 "Партия Колорадо" 
+ URG_lib_conservatism_party:0 "НП" 
+ URG_lib_conservatism_party_long:0 "Национальная партия" 
+ URG_soc_conservatism_party:0 "НП" 
+ URG_soc_conservatism_party_long:0 "Национальная партия" 
+ URG_auth_democrat_party:0 "НП" 
+ URG_auth_democrat_party_long:0 "Национальная партия" 
+ URG_pat_autocrat_party:0 "-" 
+ URG_pat_autocrat_party_long:0 "" 
+ URG_fascism_party:0 "-" 
+ URG_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ URG_leninism:0 "Восточная Республика Уругвай" 
+ URG_leninism_DEF:0 "Восточная Республика Уругвай" 
+ URG_leninism_ADJ:0 "Уругвайск." 
+ URG_marxism:0 "Восточная Республика Уругвай" 
+ URG_marxism_DEF:0 "Восточная Республика Уругвай" 
+ URG_marxism_ADJ:0 "Уругвайск." 
+ URG_rev_socialism:0 "Восточная Республика Уругвай" 
+ URG_rev_socialism_DEF:0 "Восточная Республика Уругвай" 
+ URG_rev_socialism_ADJ:0 "Уругвайск." 
+ URG_soc_democracy:0 "Восточная Республика Уругвай" 
+ URG_soc_democracy_DEF:0 "Восточная Республика Уругвай" 
+ URG_soc_democracy_ADJ:0 "Уругвайск." 
+ URG_soc_liberal:0 "Восточная Республика Уругвай" 
+ URG_soc_liberal_DEF:0 "Восточная Республика Уругвай" 
+ URG_soc_liberal_ADJ:0 "Уругвайск." 
+ URG_lib_conservatism:0 "Восточная Республика Уругвай" 
+ URG_lib_conservatism_DEF:0 "Восточная Республика Уругвай" 
+ URG_lib_conservatism_ADJ:0 "Уругвайск." 
+ URG_soc_conservatism:0 "Восточная Республика Уругвай" 
+ URG_soc_conservatism_DEF:0 "Восточная Республика Уругвай" 
+ URG_soc_conservatism_ADJ:0 "Уругвайск." 
+ URG_auth_democrat:0 "Восточная Республика Уругвай" 
+ URG_auth_democrat_DEF:0 "Восточная Республика Уругвай" 
+ URG_auth_democrat_ADJ:0 "Уругвайск." 
+ URG_pat_autocrat:0 "Восточная Республика Уругвай" 
+ URG_pat_autocrat_DEF:0 "Восточная Республика Уругвай" 
+ URG_pat_autocrat_ADJ:0 "Уругвайск." 
+ URG_fascism:0 "Восточная Республика Уругвай" 
+ URG_fascism_DEF:0 "Восточная Республика Уругвай" 
+ URG_fascism_ADJ:0 "Уругвайск." 
+
+### Focuses ### 
+
+ URG_Focus_ID:0 "" 
+ URG_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ URG_Idea_ID:0 "" 
+ URG_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

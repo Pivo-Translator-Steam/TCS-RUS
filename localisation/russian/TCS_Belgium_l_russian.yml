@@ -1,0 +1,153 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+ BEL_political.1.title:0 "Смерть Леопольда II" 
+ BEL_political.1.desc:0 "" 
+ BEL_political.1.a:0 "Да здравствует король Альберт I!" 
+
+### Parties ### 
+
+ BEL_leninism_party:0 "-" 
+ BEL_leninism_party_long:0 "-" 
+ BEL_marxism_party:0 "-" 
+ BEL_marxism_party_long:0 "-" 
+ BEL_rev_socialism_party:0 "-" 
+ BEL_rev_socialism_party_long:0 "-" 
+ BEL_soc_democracy_party:0 "БРП-ПОБ" 
+ BEL_soc_democracy_party_long:0 "Бельгийская рабочая партия / Парти Оуврье Белге" 
+ BEL_soc_liberal_party:0 "ЛП-ПЛ" 
+ BEL_soc_liberal_party_long:0 "Либеральная партия / Парти Либерал" 
+ BEL_lib_conservatism_party:0 "ЛП-ПЛ" 
+ BEL_lib_conservatism_party_long:0 "Либеральная партия / Парти Либерал" 
+ BEL_soc_conservatism_party:0 "КП-ПК" 
+ BEL_soc_conservatism_party_long:0 "Католическая партия / Парти Католик" 
+ BEL_auth_democrat_party:0 "-" 
+ BEL_auth_democrat_party_long:0 "-" 
+ BEL_pat_autocrat_party:0 "-" 
+ BEL_pat_autocrat_party_long:0 "-" 
+ BEL_fascism_party:0 "ХНП" 
+ BEL_fascism_party_long:0 "Христианская народная партия" 
+
+### Country Name ### 
+
+ BEL_leninism:0 "Королевство Бельгия" 
+ BEL_leninism_DEF:0 "Королевство Бельгия" 
+ BEL_leninism_ADJ:0 "Бельгийск." 
+ BEL_marxism:0 "Королевство Бельгия" 
+ BEL_marxism_DEF:0 "Королевство Бельгия" 
+ BEL_marxism_ADJ:0 "Бельгийск." 
+ BEL_rev_socialism:0 "Королевство Бельгия" 
+ BEL_rev_socialism_DEF:0 "Королевство Бельгия" 
+ BEL_rev_socialism_ADJ:0 "Бельгийск." 
+ BEL_soc_democracy:0 "Королевство Бельгия" 
+ BEL_soc_democracy_DEF:0 "Королевство Бельгия" 
+ BEL_soc_democracy_ADJ:0 "Бельгийск." 
+ BEL_soc_liberal:0 "Королевство Бельгия" 
+ BEL_soc_liberal_DEF:0 "Королевство Бельгия" 
+ BEL_soc_liberal_ADJ:0 "Бельгийск." 
+ BEL_lib_conservatism:0 "Королевство Бельгия" 
+ BEL_lib_conservatism_DEF:0 "Королевство Бельгия" 
+ BEL_lib_conservatism_ADJ:0 "Бельгийск." 
+ BEL_soc_conservatism:0 "Королевство Бельгия" 
+ BEL_soc_conservatism_DEF:0 "Королевство Бельгия" 
+ BEL_soc_conservatism_ADJ:0 "Бельгийск." 
+ BEL_auth_democrat:0 "Королевство Бельгия" 
+ BEL_auth_democrat_DEF:0 "Королевство Бельгия" 
+ BEL_auth_democrat_ADJ:0 "Бельгийск." 
+ BEL_pat_autocrat:0 "Королевство Бельгия" 
+ BEL_pat_autocrat_DEF:0 "Королевство Бельгия" 
+ BEL_pat_autocrat_ADJ:0 "Бельгийск." 
+ BEL_fascism:0 "Королевство Бельгия" 
+ BEL_fascism_DEF:0 "Королевство Бельгия" 
+ BEL_fascism_ADJ:0 "Бельгийск." 
+
+## Congo Free State ## 
+
+ COG_leninism:0 "Свободное государство Конго" 
+ COG_leninism_DEF:0 "Свободное государство Конго" 
+ COG_leninism_ADJ:0 "Конголезск." 
+ COG_marxism:0 "Свободное государство Конго" 
+ COG_marxism_DEF:0 "Свободное государство Конго" 
+ COG_marxism_ADJ:0 "Конголезск." 
+ COG_rev_socialism:0 "Свободное государство Конго" 
+ COG_rev_socialism_DEF:0 "Свободное государство Конго" 
+ COG_rev_socialism_ADJ:0 "Конголезск." 
+ COG_soc_democracy:0 "Свободное государство Конго" 
+ COG_soc_democracy_DEF:0 "Свободное государство Конго" 
+ COG_soc_democracy_ADJ:0 "Конголезск." 
+ COG_soc_liberal:0 "Свободное государство Конго" 
+ COG_soc_liberal_DEF:0 "Свободное государство Конго" 
+ COG_soc_liberal_ADJ:0 "Конголезск." 
+ COG_lib_conservatism:0 "Свободное государство Конго" 
+ COG_lib_conservatism_DEF:0 "Свободное государство Конго" 
+ COG_lib_conservatism_ADJ:0 "Конголезск." 
+ COG_soc_conservatism:0 "Свободное государство Конго" 
+ COG_soc_conservatism_DEF:0 "Свободное государство Конго" 
+ COG_soc_conservatism_ADJ:0 "Конголезск." 
+ COG_auth_democrat:0 "Свободное государство Конго" 
+ COG_auth_democrat_DEF:0 "Свободное государство Конго" 
+ COG_auth_democrat_ADJ:0 "Конголезск." 
+ COG_pat_autocrat:0 "Свободное государство Конго" 
+ COG_pat_autocrat_DEF:0 "Свободное государство Конго" 
+ COG_pat_autocrat_ADJ:0 "Конголезск." 
+ COG_fascism:0 "Свободное государство Конго" 
+ COG_fascism_DEF:0 "Свободное государство Конго" 
+ COG_fascism_ADJ:0 "Конголезск." 
+
+### Focuses ### 
+
+ BEL_annexation_of_congo:0 "Аннексия Конго" 
+ BEL_annexation_of_congo_desc:0 "" 
+
+### Ideas ### 
+
+ BEL_Idea_ID:0 "" 
+ BEL_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+ BEL_rwandan_concessions_flag:0 "Руанда предложила уступки для деэскалации нашего вторжения." 
+
+### Decisions ### 
+
+ BEL_influence_rwandan_burundi_categories:0 "Влияние в Руанде и Бурунди" 
+ BEL_influence_rwandan_burundi_categories_desc:0 "В процессе Разработки". 
+ BEL_belgian_invasion_de:0 "Вторжение в Руанду" 
+ BEL_belgian_invasion_de:0 "В процессе Разработки" 
+ BEL_preparing_rwandan_invasion:0 "Подготовка вторжения в Руанду" 
+ BEL_preparing_rwandan_invasion:0 "В процессе Разработки" 
+
+### Tooltips ### 
+
+### Companies ### 
+
+ BEL_herstal:0 "FN Herstal" 
+ BEL_nagant:0 "L. Nagant" 
+
+ BEL_minerva:0 "Minerva" 
+ BEL_sava:0 "SAVA" 
+
+### Ministers ### 
+
+BEL_paul_naeyer:0 "Поль де Смет де Наейер" 
+ BEL_jules_trooz:0 "Жюль де Трооз" 
+BEL_frans_schollaert:0 "Франс Шоллаерт" 
+
+ BEL_paul_favereau:0 "Поль де Фаверо" 
+ BEL_julien_davignon:0 "Жюльен Давиньон" 
+
+BEL_paul_naeyer_b:0 "Поль де Смет де Наейер" 
+BEL_julien_liebaert:0 "Жюльен Либаерт" 
+
+ BEL_jules_trooz_b:0 "Жюль де Труаз" 
+BEL_frans_schollaert_b:0 "Франс Шоллаерт" 
+
+### Leaders ### 
+
+### Tech? ### 
+

@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+#  KLT_leninism_party:0 "" 
+#  KLT_leninism_party_long:0 "" 
+#  KLT_marxism_party:0 "" 
+#  KLT_marxism_party_long:0 "" 
+#  KLT_rev_socialism_party:0 "" 
+#  KLT_rev_socialism_party_long:0 "" 
+#  KLT_soc_democracy_party:0 "" 
+#  KLT_soc_democracy_party_long:0 "" 
+#  KLT_soc_liberal_party:0 "" 
+#  KLT_soc_liberal_party_long:0 "" 
+#  KLT_lib_conservatism_party:0 "" 
+#  KLT_lib_conservatism_party_long:0 "" 
+#  KLT_soc_conservatism_party:0 "" 
+#  KLT_soc_conservatism_party_long:0 "" 
+#  KLT_auth_democrat_party:0 "" 
+#  KLT_auth_democrat_party_long:0 "" 
+#  KLT_pat_autocrat_party:0 "" 
+#  KLT_pat_autocrat_party_long:0 "" 
+#  KLT_fascism_party:0 "" 
+#  KLT_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ KLT_leninism:0 "Калатское ханство" 
+ KLT_leninism_DEF:0 "Калатское ханство" 
+ KLT_leninism_ADJ:0 "Калатск." 
+ KLT_marxism:0 "Калатское ханство" 
+ KLT_marxism_DEF:0 "Калатское ханство" 
+ KLT_marxism_ADJ:0 "Калатск." 
+ KLT_rev_socialism:0 "Калатское ханство" 
+ KLT_rev_socialism_DEF:0 "Калатское ханство" 
+ KLT_rev_socialism_ADJ:0 "Калатск." 
+ KLT_soc_democracy:0 "Калатское ханство" 
+ KLT_soc_democracy_DEF:0 "Калатское ханство" 
+ KLT_soc_democracy_ADJ:0 "Калатск." 
+ KLT_soc_liberal:0 "Калатское ханство" 
+ KLT_soc_liberal_DEF:0 "Калатское ханство" 
+ KLT_soc_liberal_ADJ:0 "Калатск." 
+ KLT_lib_conservatism:0 "Калатское ханство" 
+ KLT_lib_conservatism_DEF:0 "Калатское ханство" 
+ KLT_lib_conservatism_ADJ:0 "Калатск." 
+ KLT_soc_conservatism:0 "Калатское ханство" 
+ KLT_soc_conservatism_DEF:0 "Калатское ханство" 
+ KLT_soc_conservatism_ADJ:0 "Калатск." 
+ KLT_auth_democrat:0 "Калатское ханство" 
+ KLT_auth_democrat_DEF:0 "Калатское ханство" 
+ KLT_auth_democrat_ADJ:0 "Калатск." 
+ KLT_pat_autocrat:0 "Калатское ханство" 
+ KLT_pat_autocrat_DEF:0 "Калатское ханство" 
+ KLT_pat_autocrat_ADJ:0 "Калатск." 
+ KLT_fascism:0 "Калатское ханство" 
+ KLT_fascism_DEF:0 "Калатское ханство" 
+ KLT_fascism_ADJ:0 "Калатск." 
+
+### Focuses ### 
+
+ KLT_Focus_ID:0 "" 
+ KLT_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ KLT_Idea_ID:0 "" 
+ KLT_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

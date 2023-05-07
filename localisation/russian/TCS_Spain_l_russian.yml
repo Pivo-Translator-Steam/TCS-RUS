@@ -1,0 +1,95 @@
+﻿l_russian:
+
+SPR_thepathahead:0 "Путь вперед" 
+SPR_thepathahead_desc:0 "В последние десятилетия Испания потерпела несколько унизительных поражений, а в условиях сильной нестабильности внутри страны многие даже сомневаются в способности правительства выполнять свою работу. Испания находится на перепутье и должна выбрать свое будущее". 
+SPR_supporttheking:0 "Поддержите короля" 
+SPR_supporttheking_desc:0 "Альфонсо XIII, хотя и ограниченный во власти, доказал, что является добродетельным королем. Мы должны продолжать доверять ему". 
+SPR_maintaincourse:0 "Поддерживать курс". 
+SPR_maintaincourse_desc:0 "Нынешняя система под руководством Марсело Аскарраги показала себя как несовершенная, но в конечном итоге стабильная система правления. Мы не должны отказываться от нашей системы, которая продержалась десятилетия". 
+SPR_anewdestiny:0 "Новая судьба" 
+SPR_anewdestiny_desc:0 "В восточных районах нашей страны есть те, кто ратует за то, что они называют "Новой Республикой", которая предоставит полные права народу во всем, что касается правительства, и которая станет спасителем рабочих. Наше нынешнее правительство должно приспособиться к этому образу мышления". 
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+SPR_leninism_party:0 "ФОВИР" 
+SPR_leninism_party_long:0 "Федерация обществ выносливости испанского региона" 
+SPR_marxism_party:0 "ИСРП" 
+SPR_marxism_party_long:0 "Испанская социалистическая рабочая партия" 
+SPR_rev_socialism_party:0 "ИСРП" 
+SPR_rev_socialism_party_long:0 "Испанская социалистическая рабочая партия" 
+SPR_soc_democracy_party:0 "РСП" 
+SPR_soc_democracy_party_long:0 "Республиканская союзная партия" 
+SPR_soc_liberal_party:0 "ЛП" 
+SPR_soc_liberal_party_long:0 "Либеральная партия" 
+SPR_lib_conservatism_party:0 "КП" 
+SPR_lib_conservatism_party_long:0 "Консервативная партия" 
+SPR_soc_conservatism_party:0 "КП" 
+SPR_soc_conservatism_party_long:0 "Консервативная партия" 
+SPR_auth_democrat_party:0 "-" 
+SPR_auth_democrat_party_long:0 "-" 
+SPR_pat_autocrat_party:0 "ИП" 
+SPR_pat_autocrat_party_long:0 "Интегристская партия" 
+SPR_fascism_party:0 "ИП" 
+SPR_fascism_party_long:0 "Интегристская партия" 
+
+### Country Name ### 
+
+SPR_leninism:0 "Королевство Испания" 
+SPR_leninism_DEF:0 "Королевство Испания" 
+SPR_leninism_ADJ:0 "Испанск." 
+SPR_marxism:0 "Королевство Испания" 
+SPR_marxism_DEF:0 "Королевство Испания" 
+SPR_marxism_ADJ:0 "Испанск." 
+SPR_rev_socialism:0 "Королевство Испания" 
+SPR_rev_socialism_DEF:0 "Королевство Испания" 
+SPR_rev_socialism_ADJ:0 "Испанск." 
+SPR_soc_democracy:0 "Королевство Испания" 
+SPR_soc_democracy_DEF:0 "Королевство Испания" 
+SPR_soc_democracy_ADJ:0 "Испанск." 
+SPR_soc_liberal:0 "Королевство Испания" 
+SPR_soc_liberal_DEF:0 "Королевство Испания" 
+SPR_soc_liberal_ADJ:0 "Испанск." 
+SPR_lib_conservatism:0 "Королевство Испания" 
+SPR_lib_conservatism_DEF:0 "Королевство Испания" 
+SPR_lib_conservatism_ADJ:0 "Испанск." 
+SPR_soc_conservatism:0 "Королевство Испания" 
+SPR_soc_conservatism_DEF:0 "Королевство Испания" 
+SPR_soc_conservatism_ADJ:0 "Испанск." 
+SPR_auth_democrat:0 "Королевство Испания" 
+SPR_auth_democrat_DEF:0 "Королевство Испания" 
+SPR_auth_democrat_ADJ:0 "Испанск." 
+SPR_pat_autocrat:0 "Королевство Испания" 
+SPR_pat_autocrat_DEF:0 "Королевство Испания" 
+SPR_pat_autocrat_ADJ:0 "Испанск." 
+SPR_fascism:0 "Королевство Испания" 
+SPR_fascism_DEF:0 "Королевство Испания" 
+SPR_fascism_ADJ:0 "Испанск." 
+
+### Focuses ### 
+
+SPR_Focus_ID:0 "" 
+SPR_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+SPR_Idea_ID:0 "" 
+SPR_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

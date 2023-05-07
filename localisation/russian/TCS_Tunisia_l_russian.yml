@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ TUN_leninism_party:0 "" 
+ TUN_leninism_party_long:0 "" 
+ TUN_marxism_party:0 "" 
+ TUN_marxism_party_long:0 "" 
+ TUN_rev_socialism_party:0 "" 
+ TUN_rev_socialism_party_long:0 "" 
+ TUN_soc_democracy_party:0 "" 
+ TUN_soc_democracy_party_long:0 "" 
+ TUN_soc_liberal_party:0 "" 
+ TUN_soc_liberal_party_long:0 "" 
+ TUN_lib_conservatism_party:0 "" 
+ TUN_lib_conservatism_party_long:0 "" 
+ TUN_soc_conservatism_party:0 "" 
+ TUN_soc_conservatism_party_long:0 "" 
+ TUN_auth_democrat_party:0 "" 
+ TUN_auth_democrat_party_long:0 "" 
+ TUN_pat_autocrat_party:0 "" 
+ TUN_pat_autocrat_party_long:0 "" 
+ TUN_fascism_party:0 "" 
+ TUN_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ TUN_leninism:0 "Тунисское королевство" 
+ TUN_leninism_DEF:0 "Тунисское королевство" 
+ TUN_leninism_ADJ:0 "Тунисск." 
+ TUN_marxism:0 "Тунисское королевство" 
+ TUN_marxism_DEF:0 "Тунисское королевство" 
+ TUN_marxism_ADJ:0 "Тунисск." 
+ TUN_rev_socialism:0 "Тунисское королевство" 
+ TUN_rev_socialism_DEF:0 "Тунисское королевство" 
+ TUN_rev_socialism_ADJ:0 "Тунисск." 
+ TUN_soc_democracy:0 "Тунисское королевство" 
+ TUN_soc_democracy_DEF:0 "Тунисское королевство" 
+ TUN_soc_democracy_ADJ:0 "Тунисск." 
+ TUN_soc_liberal:0 "Тунисское королевство" 
+ TUN_soc_liberal_DEF:0 "Тунисское королевство" 
+ TUN_soc_liberal_ADJ:0 "Тунисск." 
+ TUN_lib_conservatism:0 "Тунисское королевство" 
+ TUN_lib_conservatism_DEF:0 "Тунисское королевство" 
+ TUN_lib_conservatism_ADJ:0 "Тунисск." 
+ TUN_soc_conservatism:0 "Тунисское королевство" 
+ TUN_soc_conservatism_DEF:0 "Тунисское королевство" 
+ TUN_soc_conservatism_ADJ:0 "Тунисск." 
+ TUN_auth_democrat:0 "Тунисское королевство" 
+ TUN_auth_democrat_DEF:0 "Тунисское королевство" 
+ TUN_auth_democrat_ADJ:0 "Тунисск." 
+ TUN_pat_autocrat:0 "Тунисское королевство" 
+ TUN_pat_autocrat_DEF:0 "Тунисское королевство" 
+ TUN_pat_autocrat_ADJ:0 "Тунисск." 
+ TUN_fascism:0 "Тунисское королевство" 
+ TUN_fascism_DEF:0 "Тунисское королевство" 
+ TUN_fascism_ADJ:0 "Тунисск." 
+
+### Focuses ### 
+
+ TUN_Focus_ID:0 "" 
+ TUN_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ TUN_Idea_ID:0 "" 
+ TUN_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

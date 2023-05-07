@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+#  ELS_leninism_party:0 "" 
+#  ELS_leninism_party_long:0 "" 
+#  ELS_marxism_party:0 "" 
+#  ELS_marxism_party_long:0 "" 
+#  ELS_rev_socialism_party:0 "" 
+#  ELS_rev_socialism_party_long:0 "" 
+#  ELS_soc_democracy_party:0 "" 
+#  ELS_soc_democracy_party_long:0 "" 
+#  ELS_soc_liberal_party:0 "" 
+#  ELS_soc_liberal_party_long:0 "" 
+#  ELS_lib_conservatism_party:0 "" 
+#  ELS_lib_conservatism_party_long:0 "" 
+#  ELS_soc_conservatism_party:0 "" 
+#  ELS_soc_conservatism_party_long:0 "" 
+#  ELS_auth_democrat_party:0 "" 
+#  ELS_auth_democrat_party_long:0 "" 
+#  ELS_pat_autocrat_party:0 "" 
+#  ELS_pat_autocrat_party_long:0 "" 
+#  ELS_fascism_party:0 "" 
+#  ELS_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ ELS_leninism:0 "Республика Эль-Сальвадор"
+ ELS_leninism_DEF:0 "Республика Эль-Сальвадор"
+ ELS_leninism_ADJ:0 "Сальвадорск." 
+ ELS_marxism:0 "Республика Эль-Сальвадор"
+ ELS_marxism_DEF:0 "Республика Эль-Сальвадор"
+ ELS_marxism_ADJ:0 "Сальвадорск." 
+ ELS_rev_socialism:0 "Республика Эль-Сальвадор"
+ ELS_rev_socialism_DEF:0 "Республика Эль-Сальвадор"
+ ELS_rev_socialism_ADJ:0 "Сальвадорск." 
+ ELS_soc_democracy:0 "Республика Эль-Сальвадор"
+ ELS_soc_democracy_DEF:0 "Республика Эль-Сальвадор"
+ ELS_soc_democracy_ADJ:0 "Сальвадорск." 
+ ELS_soc_liberal:0 "Республика Эль-Сальвадор"
+ ELS_soc_liberal_DEF:0 "Республика Эль-Сальвадор"
+ ELS_soc_liberal_ADJ:0 "Сальвадорск." 
+ ELS_lib_conservatism:0 "Республика Эль-Сальвадор"
+ ELS_lib_conservatism_DEF:0 "Республика Эль-Сальвадор"
+ ELS_lib_conservatism_ADJ:0 "Сальвадорск." 
+ ELS_soc_conservatism:0 "Республика Эль-Сальвадор"
+ ELS_soc_conservatism_DEF:0 "Республика Эль-Сальвадор"
+ ELS_soc_conservatism_ADJ:0 "Сальвадорск." 
+ ELS_auth_democrat:0 "Республика Эль-Сальвадор"
+ ELS_auth_democrat_DEF:0 "Республика Эль-Сальвадор"
+ ELS_auth_democrat_ADJ:0 "Сальвадорск." 
+ ELS_pat_autocrat:0 "Республика Эль-Сальвадор"
+ ELS_pat_autocrat_DEF:0 "Республика Эль-Сальвадор"
+ ELS_pat_autocrat_ADJ:0 "Сальвадорск." 
+ ELS_fascism:0 "Республика Эль-Сальвадор"
+ ELS_fascism_DEF:0 "Республика Эль-Сальвадор"
+ ELS_fascism_ADJ:0 "Сальвадорск." 
+
+### Focuses ### 
+
+ ELS_Focus_ID:0 "" 
+ ELS_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ ELS_Idea_ID:0 "" 
+ ELS_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

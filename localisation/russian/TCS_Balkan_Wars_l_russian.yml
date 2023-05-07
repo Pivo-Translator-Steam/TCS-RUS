@@ -1,0 +1,21 @@
+﻿l_russian:
+ ## Events ## 
+ balkan_war_news.1.title:0 "Лондонский договор" 
+ balkan_war_news.1.desc:0 "" 
+ balkan_war_news.1.a:0 "Наступил ли наконец мир на Балканах?" 
+
+ balkan_war.2.title:0 "Победа Балканской лиги" 
+ balkan_war.2.desc:0 "" 
+ balkan_war.2.a:0 "Наша империя рушится еще больше" 
+
+ balkan_war_news.2.title:0 "Бухарестский договор" 
+ balkan_war_news.2.desc:0 "" 
+ balkan_war_news.2.a:0 "Неужели все закончилось?" 
+
+ balkan_war.3.title:0 "Наши враги победили" 
+ balkan_war.3.desc:0 "" 
+ balkan_war.3.a:0 "Мы должны уступить" 
+
+ balkan_war.4.title:0 "Мы победили!" 
+ balkan_war.4.desc:0 "" 
+ balkan_war.4.a:0 "Грандиозный успех Болгарии" 

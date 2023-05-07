@@ -1,0 +1,130 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+ tcs_estonia.1.t:0 "Коммуна трудящихся Эстонии" 
+ tcs_estonia.1.d:0 "После оккупации Нарвы красной армией местные коммунисты сформировали правительство при поддержке Советов, во главе с Яаном Анвельтом они стремятся свергнуть наше правительство и установить поддерживаемый Советами большевистский режим." 
+ tcs_estonia.1.a:0 "Мы не потерпим мятежников". 
+ tcs_estonia.1.b:0 "Коммуна победит (Играть за К.Т.Н.Э.)". 
+ tcs_estonia.2.t:0 "Оккупация Пернова и Дерпта". 
+ tcs_estonia.2.d:0 "Последний представитель Объединенного Балтийского Герцогства, Август Винниг, подписал с нами соглашение о передаче Перновской и Дерптской областей, те немногие верные стрелки, которых немцы еще имели в этих областях, скорее дезертировали или были распущены. Ясно, что дни герцогства сочтены". 
+ tcs_estonia.2.a:0 "Владычество немцев подходит к концу". 
+
+### Parties ### 
+
+ EST_leninism_party:0 "КПЭ (Б)" 
+ EST_leninism_party_long:0 "Коммунистическая партия Эстонии (Большевики)" 
+ EST_marxism_party:0 "ЭРСП" 
+ EST_marxism_party_long:0 "Эстонская радикальная социалистическая партия" 
+ EST_rev_socialism_party:0 "ПЭСР" 
+ EST_rev_socialism_party_long:0 "Партия эстонских социалистов-революционеров" 
+ EST_soc_democracy_party:0 "ЭСДРП" 
+ EST_soc_democracy_party_long:0 "Эстонская социал-демократическая рабочая партия" 
+ EST_soc_liberal_party:0 "ЭРДП" 
+ EST_soc_liberal_party_long:0 "Эстонская радикально-демократическая партия" 
+ EST_lib_conservatism_party:0 "НС" 
+ EST_lib_conservatism_party_long:0 "Народный союз" 
+ EST_soc_conservatism_party:0 "ЭДП" 
+ EST_soc_conservatism_party_long:0 "Эстонская демократическая партия" 
+ EST_auth_democrat_party:0 "ЛНЭ" 
+ EST_auth_democrat_party_long:0 "Лига независимости Эстонии" 
+ EST_pat_autocrat_party:0 "-" 
+ EST_pat_autocrat_party_long:0 "-" 
+ EST_fascism_party:0 "БлА" 
+ EST_fascism_party_long:0 "Балтийская Адель" 
+
+### Country Name ### 
+
+ EST_leninism:0 "Эстонская Республика" 
+ EST_leninism_DEF:0 "Эстонская Республика" 
+ EST_leninism_ADJ:0 "Эстонск." 
+ EST_marxism:0 "Эстонская Республика" 
+ EST_marxism_DEF:0 "Эстонская Республика" 
+ EST_marxism_ADJ:0 "Эстонск." 
+ EST_rev_socialism:0 "Эстонская Республика" 
+ EST_rev_socialism_DEF:0 "Эстонская Республика" 
+ EST_rev_socialism_ADJ:0 "Эстонск." 
+ EST_soc_democracy:0 "Эстонская Республика" 
+ EST_soc_democracy_DEF:0 "Эстонская Республика" 
+ EST_soc_democracy_ADJ:0 "Эстонск." 
+ EST_soc_liberal:0 "Эстонская Республика" 
+ EST_soc_liberal_DEF:0 "Эстонская Республика" 
+ EST_soc_liberal_ADJ:0 "Эстонск." 
+ EST_lib_conservatism:0 "Эстонская Республика" 
+ EST_lib_conservatism_DEF:0 "Эстонская Республика" 
+ EST_lib_conservatism_ADJ:0 "Эстонск." 
+ EST_soc_conservatism:0 "Эстонская Республика" 
+ EST_soc_conservatism_DEF:0 "Эстонская Республика" 
+ EST_soc_conservatism_ADJ:0 "Эстонск." 
+ EST_auth_democrat:0 "Эстонская Республика" 
+ EST_auth_democrat_DEF:0 "Эстонская Республика" 
+ EST_auth_democrat_ADJ:0 "Эстонск." 
+ EST_pat_autocrat:0 "Эстонская Республика" 
+ EST_pat_autocrat_DEF:0 "Эстонская Республика" 
+ EST_pat_autocrat_ADJ:0 "Эстонск." 
+ EST_fascism:0 "Эстонская Республика" 
+ EST_fascism_DEF:0 "Эстонская Республика" 
+ EST_fascism_ADJ:0 "Эстонск." 
+
+### Focuses ### 
+
+EST_Establish_Third_Pats_Cabinet:0 "Создать третий кабинет Пятса" 
+ EST_Establish_Third_Pats_Cabinet_desc:0 ".В процессе разработки". 
+ EST_Call_Finish:0 "Вызвать финиш" 
+ EST_Call_Finish_desc:0 "" 
+ EST_Return_Exiles:0 "Возвращение изгнанников" 
+ EST_Return_Exiles_desc:0 "" 
+ EST_Increase_Relliance_Britain:0 "Повысить доверие к Британии" 
+ EST_Increase_Relliance_Britain_desc:0 "" 
+ EST_Secure_French_Equipment:0 "Защитить французское оборудование" 
+ EST_Secure_French_Equipment_desc:0 "" 
+ EST_Assistance_Whites:0 "Помощь от белых" 
+ EST_Assistance_Whites_desc:0 "" 
+ EST_Reaffirm_Declaration_Independence:0 "Подтвердить Декларацию независимости" 
+ EST_Reaffirm_Declaration_Independence_desc:0 "" 
+ EST_Stomp_ETK:0 "Растоптать Э.Т.К." 
+ EST_Stomp_ETK_desc:0 "" 
+EST_Establish_Soomusrongid:0 "Учредить Соомусронгид" 
+ EST_Establish_Soomusrongid_desc:0 "" 
+ EST_Operation_White_Sword:0 "Операция Белый Меч" 
+ EST_Operation_White_Sword_desc:0 "" 
+ EST_Call_Constitutional_Assembley:0 "Призыв к конституционному собранию" 
+ EST_Call_Constitutional_Assembley_desc:0 "" 
+ EST_Adopt_Provisional_Constitution:0 "Принять временную конституцию" 
+ EST_Adopt_Provisional_Constitution_desc:0 "" 
+ EST_Institute_Mandatory_Elementary_Education:0 "Ввести обязательное начальное образование" 
+ EST_Institute_Mandatory_Elementary_Education_desc:0 "" 
+ EST_Seize_German_Lands:0 "Захватить немецкие земли" 
+ EST_Seize_German_Lands_desc:0 "" 
+ EST_Restart_Peace_Talks:0 "Возобновить мирные переговоры" 
+ EST_Restart_Peace_Talks_desc:0 "" 
+ EST_Ratification_Treaty_Tartu:0 "Ратификация Тартуского договора" 
+ EST_Ratification_Treaty_Tartu_desc:0 "" 
+ EST_Draft_Estonian_Constitution:0 "Проект Конституции Эстонии" 
+ EST_Draft_Estonian_Constitution_desc:0 "" 
+ EST_Free_Last:0 "Наконец-то свободен" 
+ EST_Free_Last_desc:0 "" 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+ EST_konstantin_pats_hog:0 "Константин Пятс" 
+ EST_konstantin_pats_int:0 "Константин Пятс" 
+
+EST_jaan_soots:0 "Джаан Сутс". 
+ EST_johan_laidoner:0 "Йохан Лайдонер" 
+
+### Leaders ### 
+
+### Tech? ### 
+

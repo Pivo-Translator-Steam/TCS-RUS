@@ -1,0 +1,90 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ MAK_leninism_party:0 "РПАУ" 
+ MAK_leninism_party_long:0 "Революционная повстанческая армия Украины" 
+ MAK_marxism_party:0 "РПАУ" 
+ MAK_marxism_party_long:0 "Революционная повстанческая армия Украины" 
+ MAK_rev_socialism_party:0 "РПАУ" 
+ MAK_rev_socialism_party_long:0 "Революционная повстанческая армия Украины" 
+ MAK_soc_democracy_party:0 "-" 
+ MAK_soc_democracy_party_long:0 "" 
+ MAK_soc_liberal_party:0 "-" 
+ MAK_soc_liberal_party_long:0 "" 
+ MAK_lib_conservatism_party:0 "-" 
+ MAK_lib_conservatism_party_long:0 "" 
+ MAK_soc_conservatism_party:0 "-" 
+ MAK_soc_conservatism_party_long:0 "" 
+ MAK_auth_democrat_party:0 "-" 
+ MAK_auth_democrat_party_long:0 "" 
+ MAK_pat_autocrat_party:0 "-" 
+ MAK_pat_autocrat_party_long:0 "" 
+ MAK_fascism_party:0 "-" 
+ MAK_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ MAK_leninism:0 "Махновщина" 
+ MAK_leninism_DEF:0 "Махновщина" 
+ MAK_leninism_ADJ:0 "Махновск." 
+ MAK_marxism:0 "Махновщина" 
+ MAK_marxism_DEF:0 "Махновщина" 
+ MAK_marxism_ADJ:0 "Махновск." 
+ MAK_rev_socialism:0 "Махновщина" 
+ MAK_rev_socialism_DEF:0 "Махновщина" 
+ MAK_rev_socialism_ADJ:0 "Махновск." 
+ MAK_soc_democracy:0 "Махновщина" 
+ MAK_soc_democracy_DEF:0 "Махновщина" 
+ MAK_soc_democracy_ADJ:0 "Махновск." 
+ MAK_soc_liberal:0 "Махновщина" 
+ MAK_soc_liberal_DEF:0 "Махновщина" 
+ MAK_soc_liberal_ADJ:0 "Махновск." 
+ MAK_lib_conservatism:0 "Махновщина" 
+ MAK_lib_conservatism_DEF:0 "Махновщина" 
+ MAK_lib_conservatism_ADJ:0 "Махновск." 
+ MAK_soc_conservatism:0 "Махновщина" 
+ MAK_soc_conservatism_DEF:0 "Махновщина" 
+ MAK_soc_conservatism_ADJ:0 "Махновск." 
+ MAK_auth_democrat:0 "Махновщина" 
+ MAK_auth_democrat_DEF:0 "Махновщина" 
+ MAK_auth_democrat_ADJ:0 "Махновск." 
+ MAK_pat_autocrat:0 "Махновщина" 
+ MAK_pat_autocrat_DEF:0 "Махновщина" 
+ MAK_pat_autocrat_ADJ:0 "Махновск." 
+ MAK_fascism:0 "Махновщина" 
+ MAK_fascism_DEF:0 "Махновщина" 
+ MAK_fascism_ADJ:0 "Махновск." 
+
+### Focuses ### 
+
+MAK_Focus_ID:0 "" 
+MAK_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+MAK_bandit_army:0 "Армия бандитов" 
+MAK_bandit_army_desc:0 "Наша армия состоит в основном из бандитов". 
+MAK_peasant_force:0 "Крестьянские силы" 
+MAK_peasant_force_desc:0 "Большая часть нашей армии состоит из местного крестьянства". 
+MAK_mass_assembly_based_governance:0 "Управление на основе массовых собраний" 
+MAK_mass_assembly_based_governance_desc:0 "Наши земли управляются через систему взаимосвязанных "свободных советов" и либертарианских коммун". 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

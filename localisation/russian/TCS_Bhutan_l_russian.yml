@@ -1,0 +1,178 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+ BHU_Expeditions_in:0 "Позволяли нашим исследователям входить в их земли" 
+
+### Events ### 
+
+ bhu.1.t:0 "Посредники между Тибетом и Британской империей" 
+ bhu.2.t:0 "Бутано-британский договор о взаимном сотрудничестве" 
+ bhu.3.t:0 "Поиск реинкарнации Жабдрунга" 
+ bhu.4.t:0 "Конференция Понлопов" 
+ bhu.5.t:0 "Армия праведников" 
+
+### Parties ### 
+
+ BHU_leninism_party:0 "-" 
+ BHU_leninism_party_long:0 "" 
+ BHU_marxism_party:0 "-" 
+ BHU_marxism_party_long:0 "" 
+ BHU_rev_socialism_party:0 "-" 
+ BHU_rev_socialism_party_long:0 "" 
+ BHU_soc_democracy_party:0 "-" 
+ BHU_soc_democracy_party_long:0 "" 
+ BHU_soc_liberal_party:0 "-" 
+ BHU_soc_liberal_party_long:0 "" 
+ BHU_lib_conservatism_party:0 "-" 
+ BHU_lib_conservatism_party_long:0 "" 
+ BHU_soc_conservatism_party:0 "-" 
+ BHU_soc_conservatism_party_long:0 "" 
+ BHU_auth_democrat_party:0 "'Бруг Сде-срид" 
+ BHU_auth_democrat_party_long:0 "'Бруг Сде-срид" 
+ BHU_pat_autocrat_party:0 "'Бруг Сде-срид" 
+ BHU_pat_autocrat_party_long:0 "'Бруг Сде-срид" 
+ BHU_fascism_party:0 "'Бруг Па-бка' Бргюд" 
+ BHU_fascism_party_long:0 "'Бруг Па-бка' Бргюд" 
+
+### Country Name ### 
+
+ BHU_leninism:0 "Бутанская коммуна" 
+ BHU_leninism_DEF:0 "Бутанская коммуна" 
+ BHU_leninism_ADJ:0 "Бутанск." 
+ BHU_marxism:0 "Народная Республика Бутан" 
+ BHU_marxism_DEF:0 "Народная Республика Бутан" 
+ BHU_marxism_ADJ:0 "Бутанск." 
+ BHU_rev_socialism:0 "Народная Республика Бутан" 
+ BHU_rev_socialism_DEF:0 "Народная Республика Бутан" 
+ BHU_rev_socialism_ADJ:0 "Бутанск." 
+ BHU_soc_democracy:0 "Понлопы Бутана" 
+ BHU_soc_democracy_DEF:0 "Понлопы Бутана" 
+ BHU_soc_democracy_ADJ:0 "Бутанск." 
+ BHU_soc_liberal:0 "Понлопы Бутана" 
+ BHU_soc_liberal_DEF:0 "Понлопы Бутана" 
+ BHU_soc_liberal_ADJ:0 "Бутанск." 
+ BHU_lib_conservatism:0 "Понлопы Бутана" 
+ BHU_lib_conservatism_DEF:0 "Понлопы Бутана" 
+ BHU_lib_conservatism_ADJ:0 "Бутанск." 
+ BHU_soc_conservatism:0 "Понлопы Бутана" 
+ BHU_soc_conservatism_DEF:0 "Понлопы Бутана" 
+ BHU_soc_conservatism_ADJ:0 "Бутанск." 
+ BHU_auth_democrat:0 "Понлопы Бутана" 
+ BHU_auth_democrat_DEF:0 "Понлопы Бутана" 
+ BHU_auth_democrat_ADJ:0 "Бутанск." 
+ BHU_pat_autocrat:0 "Понлопы Бутана" 
+ BHU_pat_autocrat_DEF:0 "Понлопы Бутана" 
+ BHU_pat_autocrat_ADJ:0 "Бутанск." 
+ BHU_fascism:0 "Понлопы Бутана" 
+ BHU_fascism_DEF:0 "Понлопы Бутана" 
+ BHU_fascism_ADJ:0 "Бутанск." 
+
+ BHU_monarchy_leninism:0 "Королевство Бутан" 
+ BHU_monarchy_leninism_DEF:0 "Королевство Бутан" 
+ BHU_monarchy_leninism_ADJ:0 "Бутанск." 
+ BHU_monarchy_marxism:0 "Королевство Бутан" 
+ BHU_monarchy_marxism_DEF:0 "Королевство Бутан" 
+ BHU_monarchy_marxism_ADJ:0 "Бутанск." 
+ BHU_monarchy_rev_socialism:0 "Королевство Бутан" 
+ BHU_monarchy_rev_socialism_DEF:0 "Королевство Бутан" 
+ BHU_monarchy_rev_socialism_ADJ:0 "Бутанск." 
+ BHU_monarchy_soc_democracy:0 "Королевство Бутан" 
+ BHU_monarchy_soc_democracy_DEF:0 "Королевство Бутан" 
+ BHU_monarchy_soc_democracy_ADJ:0 "Бутанск." 
+ BHU_monarchy_soc_liberal:0 "Королевство Бутан" 
+ BHU_monarchy_soc_liberal_DEF:0 "Королевство Бутан" 
+ BHU_monarchy_soc_liberal_ADJ:0 "Бутанск." 
+ BHU_monarchy_lib_conservatism:0 "Королевство Бутан" 
+ BHU_monarchy_lib_conservatism_DEF:0 "Королевство Бутан" 
+ BHU_monarchy_lib_conservatism_ADJ:0 "Бутанск." 
+ BHU_monarchy_soc_conservatism:0 "Королевство Бутан" 
+ BHU_monarchy_soc_conservatism_DEF:0 "Королевство Бутан" 
+ BHU_monarchy_soc_conservatism_ADJ:0 "Бутанск." 
+ BHU_monarchy_auth_democrat:0 "Королевство Бутан" 
+ BHU_monarchy_auth_democrat_DEF:0 "Королевство Бутан" 
+ BHU_monarchy_auth_democrat_ADJ:0 "Бутанск." 
+ BHU_monarchy_pat_autocrat:0 "Королевство Бутан" 
+ BHU_monarchy_pat_autocrat_DEF:0 "Королевство Бутан" 
+ BHU_monarchy_pat_autocrat_ADJ:0 "Бутанск." 
+ BHU_monarchy_fascism:0 "Королевство Бутан" 
+ BHU_monarchy_fascism_DEF:0 "Королевство Бутан" 
+ BHU_monarchy_fascism_ADJ:0 "Бутанск." 
+
+ BHU_theocracy_decentralized_leninism:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_leninism_DEF:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_leninism_ADJ:0 "Бутанск." 
+ BHU_theocracy_decentralized_marxism:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_marxism_DEF:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_marxism_ADJ:0 "Бутанск." 
+ BHU_theocracy_decentralized_rev_socialism:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_rev_socialism_DEF:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_rev_socialism_ADJ:0 "Бутанск." 
+ BHU_theocracy_decentralized_soc_democracy:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_soc_democracy_DEF:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_soc_democracy_ADJ:0 "Бутанск." 
+ BHU_theocracy_decentralized_soc_liberal:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_soc_liberal_DEF:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_soc_liberal_ADJ:0 "Бутанск." 
+ BHU_theocracy_decentralized_lib_conservatism:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_lib_conservatism_DEF:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_lib_conservatism_ADJ:0 "Бутанск." 
+ BHU_theocracy_decentralized_soc_conservatism:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_soc_conservatism_DEF:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_soc_conservatism_ADJ:0 "Бутанск." 
+ BHU_theocracy_decentralized_auth_democrat:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_auth_democrat_DEF:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_auth_democrat_ADJ:0 "Бутанск." 
+ BHU_theocracy_decentralized_pat_autocrat:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_pat_autocrat_DEF:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_pat_autocrat_ADJ:0 "Бутанск." 
+ BHU_theocracy_decentralized_fascism:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_fascism_DEF:0 "Монашеские регионы Бутана" 
+ BHU_theocracy_decentralized_fascism_ADJ:0 "Бутанск." 
+
+### Focuses ### 
+ BHU_ratify_1904_convention:0 "Ратифицировать Англо-Тибетскую конвенцию" 
+ BHU_ratify_1904_convention_desc:0 "" 
+ BHU_make_assurances_to_monasteries:0 "Предоставить гарантии монастырям" 
+ BHU_make_assurances_to_monasteries_desc:0 "" 
+ BHU_mandate_cultivation_of_land_tenures:0 "Поручить возделывание земли" 
+ BHU_mandate_cultivation_of_land_tenures_desc:0 "" 
+ BHU_allow_british_expeditions:0 "Разрешить британские экспедиции в Бутан" 
+ BHU_allow_british_expeditions_desc:0 "" 
+ BHU_ugyen_knighthood:0 "Рыцарство Угьена Вангчука" 
+ BHU_ugyen_knighthood_desc:0 "" 
+ BHU_search_for_reincarnation_of_zhabdrung:0 "Поиск реинкарнации Жабдрунга" 
+ BHU_search_for_reincarnation_of_zhabdrung_desc:0 "" 
+ BHU_conference_of_the_ponlops:0 "Созвать конференцию Понлопов" 
+ BHU_conference_of_the_ponlops_desc:0 "" 
+ BHU_theocracy:0 "Создать теократическое монастырское государство" 
+ BHU_theocracy_desc:0 "" 
+ BHU_hereditary_monarchy:0 "Установить наследственную монархию" 
+ BHU_hereditary_monarchy_desc:0 "" 
+ BHU_seize_fuedal_estates:0 "Захватить феодальные владения для монастырей" 
+ BHU_seize_fuedal_estates_desc:0 "" 
+ BHU_new_administration_system:0 "Создать новую административную систему" 
+ BHU_new_administration_system_desc:0 "" 
+
+### Ideas ### 
+
+ BHU_monastic_lands_leased_for_farming:0 "Монастырские земли, арендованные для ведения сельского хозяйства" 
+ BHU_displaced_nobility:0 "Перемещенное дворянство" 
+
+### Flags ### 
+
+ BHU_theocracy_flag:0 "Понлоп из Паро создал теократическое монастырское государство" 
+ BHU_monarchy_flag:0 "Понлоп Тонгса установил наследственную монархию" 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

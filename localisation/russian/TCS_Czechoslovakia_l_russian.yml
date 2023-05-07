@@ -1,0 +1,110 @@
+﻿l_russian:
+
+ ### Bookmark ### 
+
+ ### Opinions ### 
+
+### Parties ### 
+
+ CZE_leninism_party:0 "ЧСДПРП" 
+ CZE_leninism_party_long:0 "Чехословацкая социал-демократическая партия Рабочая партия - Левая" 
+ CZE_marxism_party:0 "ЧСДПРП" 
+ CZE_marxism_party_long:0 "Чехословацкая социал-демократическая партия Рабочая партия - Левая" 
+ CZE_rev_socialism_party:0 "ЧСДПРП" 
+ CZE_rev_socialism_party_long:0 "Чехословацкая социал-демократическая партия Рабочая партия" 
+ CZE_soc_democracy_party:0 "ЧСДПРП" 
+ CZE_soc_democracy_party_long:0 "Чехословацкая социал-демократическая партия Рабочая партия" 
+ CZE_soc_liberal_party:0 "ЧСП" 
+ CZE_soc_liberal_party_long:0 "Чехословацкая социалистическая партия" 
+ CZE_lib_conservatism_party:0 "РПСМН" 
+ CZE_lib_conservatism_party_long:0 "Республиканская партия сельскохозяйственного и малоземельного народа" 
+ CZE_soc_conservatism_party:0 "ЧГД" 
+ CZE_soc_conservatism_party_long:0 "Чешская государственная демократия" 
+ CZE_auth_democrat_party:0 "ЧГД" 
+ CZE_auth_democrat_party_long:0 "Чешская государственная демократия" 
+ CZE_pat_autocrat_party:0 "-" 
+ CZE_pat_autocrat_party_long:0 "" 
+ CZE_fascism_party:0 "-" 
+ CZE_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ CZE_leninism:0 "Чехословацкая Республика" 
+ CZE_leninism_DEF:0 "Чехословацкая Республика" 
+ CZE_leninism_ADJ:0 "Чехословацк." 
+ CZE_marxism:0 "Чехословацкая Республика" 
+ CZE_marxism_DEF:0 "Чехословацкая Республика" 
+ CZE_marxism_ADJ:0 "Чехословацк." 
+ CZE_rev_socialism:0 "Чехословацкая Республика" 
+ CZE_rev_socialism_DEF:0 "Чехословацкая Республика" 
+ CZE_rev_socialism_ADJ:0 "Чехословацк." 
+ CZE_soc_democracy:0 "Чехословацкая Республика" 
+ CZE_soc_democracy_DEF:0 "Чехословацкая Республика" 
+ CZE_soc_democracy_ADJ:0 "Чехословацк." 
+ CZE_soc_liberal:0 "Чехословацкая Республика" 
+ CZE_soc_liberal_DEF:0 "Чехословацкая Республика" 
+ CZE_soc_liberal_ADJ:0 "Чехословацк." 
+ CZE_lib_conservatism:0 "Чехословацкая Республика" 
+ CZE_lib_conservatism_DEF:0 "Чехословацкая Республика" 
+ CZE_lib_conservatism_ADJ:0 "Чехословацк." 
+ CZE_soc_conservatism:0 "Чехословацкая Республика" 
+ CZE_soc_conservatism_DEF:0 "Чехословацкая Республика" 
+ CZE_soc_conservatism_ADJ:0 "Чехословацк." 
+ CZE_auth_democrat:0 "Чехословацкая Республика" 
+ CZE_auth_democrat_DEF:0 "Чехословацкая Республика" 
+ CZE_auth_democrat_ADJ:0 "Чехословацк." 
+ CZE_pat_autocrat:0 "Чехословацкая Республика" 
+ CZE_pat_autocrat_DEF:0 "Чехословацкая Республика" 
+ CZE_pat_autocrat_ADJ:0 "Чехословацк." 
+ CZE_fascism:0 "Чехословацкая Республика" 
+ CZE_fascism_DEF:0 "Чехословацкая Республика" 
+ CZE_fascism_ADJ:0 "Чехословацк." 
+
+### Cosmetic Tags ### 
+
+### Focuses ### 
+ CZE_integrate_sudetenland:0 "Интегрировать Судетенланд" 
+
+ CZE_integrate_slovakia:0 "Интегрировать словацкие земли" 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Tooltips ### 
+ cze.1.a.tooltip.first_cabinet:0 "§YПервый кабинет министров Чехословакии будет сформирован§! §S\nКарел Крамарж§! станет §Yглавой правительства§! §Q\nЭдвард Бенеш§! станет §Yминистром иностранных дел§! §J\nАлоис Рашин§! станет §Y-министром экономики§! §J\nАнтонин Швехла§! станет §Yминистром внутренних дел§!". 
+### Companies ### 
+
+### Ministers ### 
+ CZE_karel_kramar_hog:0 "Карел Крамар" 
+ CZE_alois_rasin:0 "Алоис Рашин" 
+ CZE_antonin_svehla:0 "Антонин Швехла" 
+ CZE_edvard_benes:0 "Эдвард Бенеш" 
+
+### Leaders ### 
+
+### Tech? ### 
+
+### Decisions ### 
+ CZE_independence_struggle_cat:0 "Борьба за независимость Чехословакии" 
+ CZE_independence_struggle_cat_desc:0 "тест" 
+ CZE_invasion_sudetenland:0 "Вторжение в Судетенланд" 
+ CZE_offer_demarcation_line:0 "Предложить демаркационную линию" 
+ CZE_ruthenian_incorporation:0 "Инкорпорация Карпатской Рутении" 
+
+ ### Events ### 
+ cze.0.title:0 "Временная конституция Чехословакии" 
+ cze.0.desc:0 "" 
+ cze.0.a:0 "Да здравствует Чехословакия" 
+ cze.1.title:0 "Первое заседание Революционного национального собрания" 
+ cze.1.desc:0 "" 
+ cze.1.a:0 "Хорошо" 
+ cze.2.title:0 "Возвращение Томаша Масарика" 
+ cze.2.desc:0 "" 
+ cze.2.a:0 "Да здравствует президент" 
+ CZE_diplomacy_1918.1.title:0 "Соглашение о демаркации Чехословакии" 
+ CZE_diplomacy_1918.1.desc:0 "" 
+ CZE_diplomacy_1918.1.a:0 "Словакия была потеряна, но мир восстановлен" 
+ CZE_diplomacy_1918.2.title:0 "Корректировка демаркационной линии Чехословакия-Венгрия" 
+ CZE_diplomacy_1918.2.desc:0 "" 
+ CZE_diplomacy_1918.2.a:0 "Наши союзники в Праге должны быть поддержаны" 

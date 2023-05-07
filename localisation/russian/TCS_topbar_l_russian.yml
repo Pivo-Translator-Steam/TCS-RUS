@@ -1,0 +1,47 @@
+﻿l_russian:
+ ### Coalition ### 
+
+ TCS_TOPBAR_LOC:0 "§YПопулярность партии§!\nНаша правящая партия - §Y[topbarIdeology]§! и она имеет популярность §Y[?ROOT.party_popularity@ruling_party|%0]§![coalitionActive][oppositionActive]". 
+ topbarAnarchism:0 "Авангардизм" 
+ topbarmarxism:0 "Марксизм" 
+ topbarRevSocialism:0 "Революционный социализм" 
+ topbarSocDemocracy:0 "Социал-демократия" 
+ topbarSocLiberal:0 "Социал-либерализм" 
+ topbarLibConservatism:0 "Либеральный консерватизм" 
+ topbarSocConservatism:0 "Социальный консерватизм" 
+ topbarAuthDemocrat:0 "Авторитарная демократия" 
+ topbarPatAutocrat:0 "Патерналистская автократия" 
+ topbarFascism:0 "(Прото-)Фашистский" 
+
+TCS_TOPBAR_COALITION:0 "\n\n§YКоалиция§!\nНаша правящая коалиция имеет общую популярность §Y[?coalition_pop_total]%§! \nНаша коалиция состоит из:[coalitionAnarchism][coalitionmarxism][coalitionRevSocialism][coalitionSocDemocracy][coalitionSocLiberal][coalitionLibConservatism][coalitionSocConservatism][coalitionAuthDemocrat][coalitionPatAutocrat][coalitionFascism]". 
+ TCS_TOPBAR_NO_COALITION:0 "" 
+
+ TCS_COALITION_POP:0 "[?coalition_pop_total]%" 
+ TCS_PARTY_POP:0 "[?ROOT.party_popularity@ruling_party|%0]" 
+
+ COALITION_ANARCHISM:0 "\n§Y- Авангардисты§!" 
+ COALITION_marxism:0 "\n§Y- Марксисты§!" 
+ COALITION_REV_SOCIALISM:0 "\n§Y- Революционные социалисты§!" 
+ COALITION_SOC_DEMOCRACY:0 "\n§Y- Социал-демократы§!" 
+ COALITION_SOC_LIBERAL:0 "\n§Y- Социал-либералы§!" 
+ COALITION_LIB_CONSERVATISM:0 "\n§Y- Либеральные консерваторы§!" 
+ COALITION_SOC_CONSERVATISM:0 "\n§Y- Социальные консерваторы§!" 
+ COALITION_AUTH_DEMOCRAT:0 "\n§Y- Авторитарные демократы§!" 
+ COALITION_PAT_AUTOCRAT:0 "\n§Y- Патерналистские автократы§!" 
+ COALITION_FASCISM:0 "\n§Y- (Прото-)фашисты§!" 
+
+ ### Opposition ### 
+
+ TCS_TOPBAR_OPPOSITION:0"\n\n§YОппозиция§!\nОппозиция имеет общую популярность §Y[?opposition_pop_total]%§! \nОппозиция состоит из:[oppositionAnarchism][oppositionmarxism][oppositionRevSocialism][oppositionSocDemocracy][oppositionSocLiberal][oppositionLibConservatism][oppositionSocConservatism][oppositionAuthDemocrat][oppositionPatAutocrat][oppositionFascism]". 
+ TCS_TOPBAR_NO_OPPOSITION:0 "" 
+
+ OPPOSITION_ANARCHISM:0 "\n§Y- Авангардисты§!" 
+ OPPOSITION_marxism:0 "\n§Y- Марксисты§!" 
+ OPPOSITION_REV_SOCIALISM:0 "\n§Y- Революционные социалисты§!" 
+ OPPOSITION_SOC_DEMOCRACY:0 "\n§Y- Социал-демократы§!" 
+ OPPOSITION_SOC_LIBERAL:0 "\n§Y- Социал-либералы§!" 
+ OPPOSITION_LIB_CONSERVATISM:0 "\n§Y- Либеральные консерваторы§!" 
+ OPPOSITION_SOC_CONSERVATISM:0 "\n§Y- Социальные консерваторы§!" 
+ OPPOSITION_AUTH_DEMOCRAT:0 "\n§Y- Авторитарные демократы§!" 
+OPPOSITION_PAT_AUTOCRAT:0 "\n§Y- Патерналистские автократы§!" 
+ OPPOSITION_FASCISM:0 "\n§Y- (Прото-)фашисты§!" 

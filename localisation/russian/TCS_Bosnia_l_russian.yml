@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ BOS_leninism_party:0 "" 
+ BOS_leninism_party_long:0 "" 
+ BOS_marxism_party:0 "" 
+ BOS_marxism_party_long:0 "" 
+ BOS_rev_socialism_party:0 "" 
+ BOS_rev_socialism_party_long:0 "" 
+ BOS_soc_democracy_party:0 "" 
+ BOS_soc_democracy_party_long:0 "" 
+ BOS_soc_liberal_party:0 "" 
+ BOS_soc_liberal_party_long:0 "" 
+ BOS_lib_conservatism_party:0 "" 
+ BOS_lib_conservatism_party_long:0 "" 
+ BOS_soc_conservatism_party:0 "" 
+ BOS_soc_conservatism_party_long:0 "" 
+ BOS_auth_democrat_party:0 "" 
+ BOS_auth_democrat_party_long:0 "" 
+ BOS_pat_autocrat_party:0 "" 
+ BOS_pat_autocrat_party_long:0 "" 
+ BOS_fascism_party:0 "" 
+ BOS_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ BOS_leninism:0 "" 
+ BOS_leninism_DEF:0 "" 
+ BOS_leninism_ADJ:0 "" 
+ BOS_marxism:0 "" 
+ BOS_marxism_DEF:0 "" 
+ BOS_marxism_ADJ:0 "" 
+ BOS_rev_socialism:0 "" 
+ BOS_rev_socialism_DEF:0 "" 
+ BOS_rev_socialism_ADJ:0 "" 
+ BOS_soc_democracy:0 "" 
+ BOS_soc_democracy_DEF:0 "" 
+ BOS_soc_democracy_ADJ:0 "" 
+ BOS_soc_liberal:0 "" 
+ BOS_soc_liberal_DEF:0 "" 
+ BOS_soc_liberal_ADJ:0 "" 
+ BOS_lib_conservativism:0 "" 
+ BOS_lib_conservativism_DEF:0 "" 
+ BOS_lib_conservativism_ADJ:0 "" 
+ BOS_soc_conservatism:0 "" 
+ BOS_soc_conservatism_DEF:0 "" 
+ BOS_soc_conservatism_ADJ:0 "" 
+ BOS_auth_democrat:0 "Босния" 
+ BOS_auth_democrat_DEF:0 "Босния" 
+ BOS_auth_democrat_ADJ:0 "Боснийск." 
+ BOS_pat_autocrat:0 "" 
+ BOS_pat_autocrat_DEF:0 "" 
+ BOS_pat_autocrat_ADJ:0 "" 
+ BOS_fascism:0 "" 
+ BOS_fascism_DEF:0 "" 
+ BOS_fascism_ADJ:0 "" 
+
+### Focuses ### 
+
+ BOS_Focus_ID:0 "" 
+ BOS_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ BOS_nominal_ottoman_state:0 "Номинальное османское правление" 
+ BOS_nominal_ottoman_state_desc:0 "После поражения Османской империи от рук русских в 1878 году был созван Берлинский конгресс для определения судьбы Балкан. Учитывая способность Возвышенной Порты сохранять контроль над северо-западом, Австрии был передан контроль над нашей территорией. Хотя они берут на себя все административные обязанности на наших землях, технически мы все еще являемся частью Османской империи - факт, который Австро-Венгрия, кажется, игнорирует с каждым днем все больше и больше. Поскольку амбиции Габсбургов на балканское господство хорошо известны, остается только гадать, как долго продлится нынешнее положение дел". 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

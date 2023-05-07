@@ -1,0 +1,196 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Parties ### 
+
+ CHI_leninism_party:0 "" 
+ CHI_leninism_party_long:0 "" 
+ CHI_marxism_party:0 "" 
+ CHI_marxism_party_long:0 "" 
+ CHI_rev_socialism_party:0 "" 
+ CHI_rev_socialism_party_long:0 "" 
+ CHI_soc_democracy_party:0 "" 
+ CHI_soc_democracy_party_long:0 "" 
+ CHI_soc_liberal_party:0 "" 
+ CHI_soc_liberal_party_long:0 "" 
+ CHI_lib_conservatism_party:0 "" 
+ CHI_lib_conservatism_party_long:0 "" 
+ CHI_soc_conservatism_party:0 "" 
+ CHI_soc_conservatism_party_long:0 "" 
+ CHI_auth_democrat_party:0 "" 
+ CHI_auth_democrat_party_long:0 "" 
+ CHI_pat_autocrat_party:0 "" 
+ CHI_pat_autocrat_party_long:0 "" 
+ CHI_fascism_party:0 "" 
+ CHI_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ CHI_leninism:0 "Китайская Республика" 
+ CHI_leninism_DEF:0 "Китайская Республика" 
+ CHI_leninism_ADJ:0 "Китайск." 
+ CHI_marxism:0 "Китайская Республика" 
+ CHI_marxism_DEF:0 "Китайская Республика" 
+ CHI_marxism_ADJ:0 "Китайск." 
+ CHI_rev_socialism:0 "Китайская Республика" 
+ CHI_rev_socialism_DEF:0 "Китайская Республика" 
+ CHI_rev_socialism_ADJ:0 "Китайск." 
+ CHI_soc_democracy:0 "Китайская Республика" 
+ CHI_soc_democracy_DEF:0 "Китайская Республика" 
+ CHI_soc_democracy_ADJ:0 "Китайск." 
+ CHI_soc_liberal:0 "Китайская Республика" 
+ CHI_soc_liberal_DEF:0 "Китайская Республика" 
+ CHI_soc_liberal_ADJ:0 "Китайск." 
+ CHI_lib_conservatism:0 "Китайская Республика" 
+ CHI_lib_conservatism_DEF:0 "Китайская Республика" 
+ CHI_lib_conservatism_ADJ:0 "Китайск." 
+ CHI_soc_conservatism:0 "Китайская Республика" 
+ CHI_soc_conservatism_DEF:0 "Китайская Республика" 
+ CHI_soc_conservatism_ADJ:0 "Китайск." 
+ CHI_auth_democrat:0 "Китайская Республика" 
+ CHI_auth_democrat_DEF:0 "Китайская Республика" 
+ CHI_auth_democrat_ADJ:0 "Китайск." 
+ CHI_pat_autocrat:0 "Китайская Республика" 
+ CHI_pat_autocrat_DEF:0 "Китайская Республика" 
+ CHI_pat_autocrat_ADJ:0 "Китайск." 
+ CHI_fascism:0 "Китайская Республика" 
+ CHI_fascism_DEF:0 "Китайская Республика" 
+ CHI_fascism_ADJ:0 "Китайск." 
+
+ CHI_MIL_GOVERNMENT_leninism:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_leninism_DEF:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_leninism_ADJ:0 "Китайск." 
+ CHI_MIL_GOVERNMENT_marxism:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_marxism_DEF:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_marxism_ADJ:0 "Китайск." 
+ CHI_MIL_GOVERNMENT_rev_socialism:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_rev_socialism_DEF:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_rev_socialism_ADJ:0 "Китайск." 
+ CHI_MIL_GOVERNMENT_soc_democracy:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_soc_democracy_DEF:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_soc_democracy_ADJ:0 "Китайск." 
+ CHI_MIL_GOVERNMENT_soc_liberal:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_soc_liberal_DEF:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_soc_liberal_ADJ:0 "Китайск." 
+ CHI_MIL_GOVERNMENT_lib_conservatism:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_lib_conservatism_DEF:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_lib_conservatism_ADJ:0 "Китайск." 
+ CHI_MIL_GOVERNMENT_soc_conservatism:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_soc_conservatism_DEF:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_soc_conservatism_ADJ:0 "Китайск." 
+ CHI_MIL_GOVERNMENT_auth_democrat:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_auth_democrat_DEF:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_auth_democrat_ADJ:0 "Китайск." 
+ CHI_MIL_GOVERNMENT_pat_autocrat:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_pat_autocrat_DEF:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_pat_autocrat_ADJ:0 "Китайск." 
+ CHI_MIL_GOVERNMENT_fascism:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_fascism_DEF:0 "Военное правительство Китайской Республики" 
+ CHI_MIL_GOVERNMENT_fascism_ADJ:0 "Китайск." 
+
+ CHI_HUBEI_MIL_GOVERNMENT_leninism:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_leninism_DEF:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_leninism_ADJ:0 "Китайск." 
+ CHI_HUBEI_MIL_GOVERNMENT_marxism:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_marxism_DEF:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_marxism_ADJ:0 "Китайск." 
+ CHI_HUBEI_MIL_GOVERNMENT_rev_socialism:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_rev_socialism_DEF:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_rev_socialism_ADJ:0 "Китайск." 
+ CHI_HUBEI_MIL_GOVERNMENT_soc_democracy:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_soc_democracy_DEF:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_soc_democracy_ADJ:0 "Китайск." 
+ CHI_HUBEI_MIL_GOVERNMENT_soc_liberal:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_soc_liberal_DEF:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_soc_liberal_ADJ:0 "Китайск." 
+ CHI_HUBEI_MIL_GOVERNMENT_lib_conservatism:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_lib_conservatism_DEF:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_lib_conservatism_ADJ:0 "Китайск." 
+ CHI_HUBEI_MIL_GOVERNMENT_soc_conservatism:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_soc_conservatism_DEF:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_soc_conservatism_ADJ:0 "Китайск." 
+ CHI_HUBEI_MIL_GOVERNMENT_auth_democrat:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_auth_democrat_DEF:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_auth_democrat_ADJ:0 "Китайск." 
+ CHI_HUBEI_MIL_GOVERNMENT_pat_autocrat:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_pat_autocrat_DEF:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_pat_autocrat_ADJ:0 "Китайск." 
+ CHI_HUBEI_MIL_GOVERNMENT_fascism:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_fascism_DEF:0 "Военное правительство Хубэя" 
+ CHI_HUBEI_MIL_GOVERNMENT_fascism_ADJ:0 "Китайск." 
+
+ CHI_PROV_leninism:0 "Временная Китайская Республика" 
+ CHI_PROV_leninism_DEF:0 "Временная Китайская Республика" 
+ CHI_PROV_leninism_ADJ:0 "Китайск." 
+ CHI_PROV_marxism:0 "Временная Китайская Республика" 
+ CHI_PROV_marxism_DEF:0 "Временная Китайская Республика" 
+ CHI_PROV_marxism_ADJ:0 "Китайск." 
+ CHI_PROV_rev_socialism:0 "Временная Китайская Республика" 
+ CHI_PROV_rev_socialism_DEF:0 "Временная Китайская Республика" 
+ CHI_PROV_rev_socialism_ADJ:0 "Китайск." 
+ CHI_PROV_soc_democracy:0 "Временная Китайская Республика" 
+ CHI_PROV_soc_democracy_DEF:0 "Временная Китайская Республика" 
+ CHI_PROV_soc_democracy_ADJ:0 "Китайск." 
+ CHI_PROV_soc_liberal:0 "Временная Китайская Республика" 
+ CHI_PROV_soc_liberal_DEF:0 "Временная Китайская Республика" 
+ CHI_PROV_soc_liberal_ADJ:0 "Китайск." 
+ CHI_PROV_lib_conservatism:0 "Временная Китайская Республика" 
+ CHI_PROV_lib_conservatism_DEF:0 "Временная Китайская Республика" 
+ CHI_PROV_lib_conservatism_ADJ:0 "Китайск." 
+ CHI_PROV_soc_conservatism:0 "Временная Китайская Республика" 
+ CHI_PROV_soc_conservatism_DEF:0 "Временная Китайская Республика" 
+ CHI_PROV_soc_conservatism_ADJ:0 "Китайск." 
+ CHI_PROV_auth_democrat:0 "Временная Китайская Республика" 
+ CHI_PROV_auth_democrat_DEF:0 "Временная Китайская Республика" 
+ CHI_PROV_auth_democrat_ADJ:0 "Китайск." 
+ CHI_PROV_pat_autocrat:0 "Временная Китайская Республика" 
+ CHI_PROV_pat_autocrat_DEF:0 "Временная Китайская Республика" 
+ CHI_PROV_pat_autocrat_ADJ:0 "Китайск." 
+ CHI_PROV_fascism:0 "Временная Китайская Республика" 
+ CHI_PROV_fascism_DEF:0 "Временная Китайская Республика" 
+ CHI_PROV_fascism_ADJ:0 "Китайск." 
+
+### Focuses ### 
+
+ CHI_Focus_ID:0 "" 
+ CHI_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ CHI_Idea_ID:0 "" 
+ CHI_Idea_ID_desc:0 "" 
+
+### Decisions ### 
+ TCS_XINHAI_revolution_category:0 "Синьхайская революция" 
+ TCS_XINHAI_revolution_category_desc:0 "Наша долго правящая династия Цин медленно ползет к своему концу, а общественное несогласие, бунты и восстания становятся все более распространенными с каждым днем. Мы уже давно пытаемся реформировать правительство и противостоять иностранной агрессии, но различные группировки внутри и за пределами нашей страны с каждым днем становятся все более недовольными.\n\n\nПожалуй, точка отсчета наступит в виде §YВучанского восстания§!, которое станет началом большой революции по всему Китаю, известной как §YСиньхайская революция§!". 
+ TCS_XINHAI_the_abdication:0 "Отречение императора Цин" 
+ TCS_XINHAI_wuchang_uprising:0 "Восстание в Вучане" 
+ TCS_XINHAI_second_wave:0 "Вторая волна восстаний" 
+ TCS_XINHAI_third_wave:0 "Третья волна восстаний" 
+ TCS_XINHAI_fourth_wave:0 "Четвертая волна восстаний" 
+ TCS_XINHAI_mongolian_and_tuvan_independence:0 "Монгольская и тувинская декларации независимости" 
+ TCS_XINHAI_tibetan_independence:0 "Тибетская декларация независимости" 
+
+### Flags ### 
+
+### Tooltips ### 
+TCS_XINHAI_wuchang_uprising_tt:0 "§YВучанское восстание§! начнет §ҮСиньхайскую революцию§!!!\n\nВ настоящее время предотвратить §ҮСиньхайскую революцию§! невозможно." 
+ TCS_CHI_declare_war_tibet_tt:0 "§YТибет§! будет объявлен неотъемлемой частью §Y[CHI.GetNameDef]§! и ему будет объявлена война!". 
+
+### Events ### 
+ TCS_CHI_political.1.title:0 "Тибетский вопрос" 
+ TCS_CHI_political.1.desc:0 "" 
+ TCS_CHI_political.1.a:0 "Мы должны сосредоточиться на самом Китае". 
+ TCS_CHI_political.1.b:0 "Тибет - неотъемлемая часть Китая!" 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

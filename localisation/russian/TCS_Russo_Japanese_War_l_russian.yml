@@ -1,0 +1,61 @@
+﻿l_russian:
+## Balance of Power - Russo-Japanese War ## 
+ TCS_RUS_JAP_war:0 "Русско-японская война" 
+ TCS_RUS_JAP_war_russian_victory:0 "§Y[RUS.GetName]§! Побеждает" 
+ TCS_RUS_JAP_war_japanese_victory:0 "§Y[JAP.GetName]§! Побеждает" 
+# Japanese Victory 
+ TCS_RUS_JAP_war_limited_peace_range:0 "Ограниченный мир" 
+TCS_RUS_JAP_war_limited_peace_tt:0 "§LПосле §YМирной Конференции§! произойдет следующее:\n\n - §YЮжный Сахалин§! будет уступлен §YЯпонии§!\n - §YПорт-Артур§! станет §YДемилитаризованным§!§!" 
+ TCS_RUS_JAP_war_japanese_historical_victory_range:0 "Адекватная победа" 
+TCS_RUS_JAP_war_japanese_historical_victory_tt:0 "§LПосле §YМирной Конференции§! произойдет следующее:\n\n\n - §YРусские§! потеряют контроль над §YМаньчжурией§!\n - §ҮЮжный Сахалин§! будет уступлен §ҮЯпонии§!\n - §ҮПорт-Артур§! будет уступлен Японии§!". 
+ TCS_RUS_JAP_war_japanese_victory_more_concessions_range:0 "Возможность больших требований" 
+TCS_RUS_JAP_war_japanese_victory_more_concessions_tt:0 "§LПосле §YМирной Конференции§! произойдет следующее:\n\nЕсли §Y[USA.GetName]§! согласится уступить §YЯпонии§! большие уступки, §ҮЯпония§! получит:\n\n - §YМаньчжурия§! будет уступлена §YЯпонии!\n\n - §YВесь Сахалин§! будет уступлен §YЯпонии§!\n\n - §YПорт Артур§! будет уступлен §ҮЯпонии§!\n\nВ противном случае §ҮЯпония§! получит те же уступки, что и §Y"Адекватная победа"§!§!". 
+ TCS_RUS_JAP_war_japanese_victory_total_victory_range:0 "Не щадя мёртвого" 
+TCS_RUS_JAP_war_japanese_victory_total_victory_tt:0 "§LПосле §YМирной Конференции§! произойдет следующее:\n\n - §YМаньчжурия§! будет уступлена §ҮЯпонии§!\n - §ҮВесь Сахалин§! будет уступлен §ҮЯпонии§!\n - §ҮПорт-Артур§! будет уступлен Японии§!" 
+# Russian Victory
+ TCS_RUS_JAP_war_russian_victory_range:0 "Статус кво" 
+ TCS_RUS_JAP_war_russian_victory_tt:0 "§LПосле §YМирной Конференции§! произойдет следующее:\n\n - Будет восстановлен статус-кво, существовавший до войны." 
+ TCS_RUS_JAP_war_russian_victory_concessions_range:0 "Требование уступок" 
+ TCS_RUS_JAP_war_russian_victory_concessions_tt:0 "§LПосле §YМирной Конференции§! произойдет следующее:\n\n - §YКурилы§! будут уступлены §YРоссии§!\n - Корея станет гарантированной §YРоссией§!" 
+ TCS_RUS_JAP_war_russian_victory_total_victory_range:0 "Восходящее солнце зашло" 
+TCS_RUS_JAP_war_russian_victory_total_victory_tt:0 "§LПосле §YМирной Конференции§! произойдет следующее:\n\n\n - §YКурилы§! будут уступлены §YРоссии§!\n - §YКорея§! станет марионеткой §ҮРоссии§!\n - §YЯпония§! выплатит военные репарации §ҮРоссии§!" 
+## Decisions ## 
+ JAP_russo_japanese_war:0 "Русско-японская война" 
+ JAP_russo_japanese_war_desc:0 "Привет, Махо был здесь\n\n\nПункты мирного соглашения: [?peace_deal_point|H0]" 
+ JAP_port_arthur_1:0 "Контролировать Порт-Артур" 
+ JAP_port_arthur_1_desc:0 "§RСрок действия истекает 7 января 1905 года§!" 
+ JAP_port_arthur_2:0 "Контролировать Порт-Артур" 
+ JAP_port_arthur_2_desc:0 "§RСрок действия истекает 31 января 1905 года§!" 
+ JAP_hold_port_arthur:0 "Удерживать Порт-Артур" 
+ JAP_mukden_1:0 "Контролировать Мукден" 
+ JAP_mukden_1_desc:0 "§RСрок действия истекает 28 февраля 1905 года§!". 
+ JAP_mukden_2:0 "Контроль Мукден" 
+ JAP_mukden_2_desc:0 "§RСрок действия истекает 31 марта 1905 года§!" 
+ JAP_hold_mukden:0 "Удерживать Мукден" 
+ JAP_toyohara_1:0 "Контролировать Тойохару" 
+ JAP_toyohara_1_desc:0 "§RСрок действия истекает 30 июня 1905 года§!". 
+ JAP_toyohara_2:0 "Контроль Тойохара" 
+ JAP_toyohara_2_desc:0 "§RСрок действия истекает 31 июля 1905 года§!" 
+ JAP_hold_toyohara:0 "Удерживать Тойохару" 
+ JAP_sakhalin_1:0 "Контролировать Сахалин" 
+ JAP_sakhalin_1_desc:0 "§RСрок действия истекает 31 июля 1905 года§!". 
+ JAP_sakhalin_2:0 "Контролировать Сахалин" 
+ JAP_sakhalin_2_desc:0 "§RСрок действия истекает 31 августа 1905 года§!" 
+ JAP_hold_sakhalin:0 "Удерживать Сахалин" 
+ JAP_portsmouth_peace_conference:0 "Мирная конференция" 
+ JAP_portsmouth_peace_conference_desc:0 "§GНачнется 4 сентября 1905 года§!" 
+
+ JAP_spend_cp_toyohara:0 "Вторжение в Тойохару" 
+
+ decision_cost_CP_10:0 "£command_power §Y10§!" 
+ decision_cost_CP_10_blocked:0 "£command_power §R10§!" 
+ decision_cost_CP_10_tooltip:0 "Принятие решения стоит £command_power §Y10§!". 
+
+ RUS_portsmouth_peace_conference:0 "Мирная конференция" 
+ RUS_push_to_port_arthur:0 "Способствовать повторному захвату Порт-Артура" 
+ RUS_capture_port_arthur:0 "Повторный захват Порт-Артура" 
+ RUS_push_japan_to_their_islands:0 "Вытеснить японцев на их острова" 
+ RUS_push_through_the_north:0 "Продвинуться через север Кореи" 
+ RUS_push_through_the_south:0 "Продвинуться через Южную Корею" 
+ RUS_continental_domination_over_japan:0 "Провозгласить континентальное господство над Японией" 
+ RUS_invade_kurils:0 "Захватить Курильские острова" 

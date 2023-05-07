@@ -1,0 +1,111 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+DEN_leninism_party:0 "С" 
+DEN_leninism_party_long:0 "Социал-демократический альянс (Радикалы)" 
+DEN_marxism_party:0 "С" 
+DEN_marxism_party_long:0 "Социал-демократический альянс" 
+DEN_rev_socialism_party:0 "С" 
+DEN_rev_socialism_party_long:0 "Социал-демократический альянс" 
+DEN_soc_democracy_party:0 "С" 
+DEN_soc_democracy_party_long:0 "Социал-демократический альянс" 
+DEN_soc_liberal_party:0 "В" 
+DEN_soc_liberal_party_long:0 "Венстререформпартии (Радикалы)" 
+DEN_lib_conservatism_party:0 "В" 
+DEN_lib_conservatism_party_long:0 "Венстререформпартии (Умеренные)" 
+DEN_soc_conservatism_party:0 "Х" 
+DEN_soc_conservatism_party_long:0 "Хёйре" 
+DEN_auth_democrat_party:0 "ДФк" 
+DEN_auth_democrat_party_long:0 "Де Фриконсерватор" 
+DEN_pat_autocrat_party:0 "Р" 
+DEN_pat_autocrat_party_long:0 "Хусет Глюксборг" 
+DEN_fascism_party:0 "-" 
+DEN_fascism_party_long:0 "-" 
+
+### Country Name ### 
+
+DEN_leninism:0 "Датская социалистическая республика" 
+DEN_leninism_DEF:0 "Датская социалистическая республика" 
+DEN_leninism_ADJ:0 "Датск." 
+DEN_marxism:0 "Датская социалистическая республика" 
+DEN_marxism_DEF:0 "Датская социалистическая республика" 
+DEN_marxism_ADJ:0 "Датск." 
+DEN_rev_socialism:0 "Датская социалистическая республика" 
+DEN_rev_socialism_DEF:0 "Датская социалистическая республика" 
+DEN_rev_socialism_ADJ:0 "Датск." 
+DEN_soc_democracy:0 "Королевство Дания" 
+DEN_soc_democracy_DEF:0 "Королевство Дания" 
+DEN_soc_democracy_ADJ:0 "Датск." 
+DEN_soc_liberal:0 "Королевство Дания" 
+DEN_soc_liberal_DEF:0 "Королевство Дания" 
+DEN_soc_liberal_ADJ:0 "Датск." 
+DEN_lib_conservatism:0 "Королевство Дания" 
+DEN_lib_conservatism_DEF:0 "Королевство Дания" 
+DEN_lib_conservatism_ADJ:0 "Датск." 
+DEN_soc_conservatism:0 "Королевство Дания" 
+DEN_soc_conservatism_DEF:0 "Королевство Дания" 
+DEN_soc_conservatism_ADJ:0 "Датск." 
+DEN_auth_democrat:0 "Королевство Дания" 
+DEN_auth_democrat_DEF:0 "Королевство Дания" 
+DEN_auth_democrat_ADJ:0 "Датск." 
+DEN_pat_autocrat:0 "Королевство Дания" 
+DEN_pat_autocrat_DEF:0 "Королевство Дания" 
+DEN_pat_autocrat_ADJ:0 "Датск." 
+DEN_fascism:0 "Королевство Дания" 
+DEN_fascism_DEF:0 "Королевство Дания" 
+DEN_fascism_ADJ:0 "Датск." 
+
+### Focuses ### 
+
+DEN_Focus_ID:0 "" 
+DEN_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+DEN_Labour_Movement:0 "Растущее рабочее движение" 
+DEN_Labour_Movement_desc:0 "В процессе разработки" 
+DEN_Diplomatic_Neutrality:0 "Дипломатический нейтралитет" 
+DEN_Diplomatic_Neutrality_desc:0 "В процессе разработки" 
+DEN_Unprofitable_Colonies:0 "Невыгодные колониальные холдинги" 
+DEN_Unprofitable_Colonies_desc:0 "В процессе разработки" 
+DEN_Defense_Spending_Debate:0 "Дебаты о расходах на оборону" 
+DEN_Defense_Spending_Debate_desc:0 "В процессе разработки" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+## Head of Government ## 
+
+DEN_johan_henrik_deuntzer:0 "Йохан Хенрик Дёнтцер" 
+DEN_jens_christian_christensen:0 "Йенс Кристиан Кристенсен" 
+
+## министр экономики ## 
+
+DEN_christopher_friedenreich_hage:0 "Кристофер Фриденрайх Хаге" 
+DEN_vilhelm_lassen:0 "Вильгельм Лассен". 
+
+## Министр иностранных дел ## 
+
+DEN_johan_henrik_deuntzer_for:0 "Йохан Хенрик Дёнтцер" 
+DEN_frederik_raben_levetzau:0 "Фредерик Рабен-Леветцау" 
+
+## министр внутренних дел ## 
+
+DEN_peter_adler_alberti:0 "Питер Адлер Альберти" 
+
+### Leaders ### 
+
+### Tech? ### 
+

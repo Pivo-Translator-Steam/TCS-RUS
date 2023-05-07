@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ GEL_leninism_party:0 "-" 
+ GEL_leninism_party_long:0 "" 
+ GEL_marxism_party:0 "-" 
+ GEL_marxism_party_long:0 "" 
+ GEL_rev_socialism_party:0 "-" 
+ GEL_rev_socialism_party_long:0 "" 
+ GEL_soc_democracy_party:0 "-" 
+ GEL_soc_democracy_party_long:0 "" 
+ GEL_soc_liberal_party:0 "-" 
+ GEL_soc_liberal_party_long:0 "" 
+ GEL_lib_conservatism_party:0 "-" 
+ GEL_lib_conservatism_party_long:0 "" 
+ GEL_soc_conservatism_party:0 "Ксисбияда Касрига Ах" 
+ GEL_soc_conservatism_party_long:0 "Ксисбияда Касрига Ах (Умеренная фракция)" 
+ GEL_auth_democrat_party:0 "Вааксда Даквада" 
+ GEL_auth_democrat_party_long:0 "Вааксда Даквада (Придворная фракция)" 
+ GEL_pat_autocrat_party:0 "Ксисбига Султан" 
+ GEL_pat_autocrat_party_long:0 "Ксисбига Султан (Султанская фракция)" 
+ GEL_fascism_party:0 "Кабсашада Кабиилка" 
+ GEL_fascism_party_long:0 "Кабсашада Кабиилка (Племенная фракция)" 
+
+### Country Name ### 
+
+ GEL_leninism:0 "Султанат Геледи". 
+ GEL_leninism_DEF:0 "Султанат Геледи". 
+ GEL_leninism_ADJ:0 "Геледийск."
+ GEL_marxism:0 "Султанат Геледи". 
+ GEL_marxism_DEF:0 "Султанат Геледи". 
+ GEL_marxism_ADJ:0 "Геледийск."
+ GEL_rev_socialism:0 "Султанат Геледи". 
+ GEL_rev_socialism_DEF:0 "Султанат Геледи". 
+ GEL_rev_socialism_ADJ:0 "Геледийск."
+ GEL_soc_democracy:0 "Султанат Геледи". 
+ GEL_soc_democracy_DEF:0 "Султанат Геледи". 
+ GEL_soc_democracy_ADJ:0 "Геледийск."
+ GEL_soc_liberal:0 "Султанат Геледи". 
+ GEL_soc_liberal_DEF:0 "Султанат Геледи". 
+ GEL_soc_liberal_ADJ:0 "Геледийск."
+ GEL_lib_conservatism:0 "Султанат Геледи". 
+ GEL_lib_conservatism_DEF:0 "Султанат Геледи". 
+ GEL_lib_conservatism_ADJ:0 "Геледийск."
+ GEL_soc_conservatism:0 "Султанат Геледи". 
+ GEL_soc_conservatism_DEF:0 "Султанат Геледи". 
+ GEL_soc_conservatism_ADJ:0 "Геледийск."
+ GEL_auth_democrat:0 "Султанат Геледи". 
+ GEL_auth_democrat_DEF:0 "Султанат Геледи". 
+ GEL_auth_democrat_ADJ:0 "Геледийск."
+ GEL_pat_autocrat:0 "Султанат Геледи". 
+ GEL_pat_autocrat_DEF:0 "Султанат Геледи". 
+ GEL_pat_autocrat_ADJ:0 "Геледийск."
+ GEL_fascism:0 "Султанат Геледи". 
+ GEL_fascism_DEF:0 "Султанат Геледи". 
+ GEL_fascism_ADJ:0 "Геледийск."
+
+### Focuses ### 
+
+ GEL_Focus_ID:0 "" 
+ GEL_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ GEL_Idea_ID:0 "" 
+ GEL_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

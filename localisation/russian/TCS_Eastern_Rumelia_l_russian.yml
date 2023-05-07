@@ -1,0 +1,108 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Parties ### 
+
+ RUM_principality_leninism_party:0 "-" 
+ RUM_principality_leninism_party_long:0 "-" 
+ RUM_principality_marxism_party:0 "БРСДП (ТС)" 
+ RUM_principality_marxism_party_long:0 "Болгарская рабочая Социал-Демократическая партия (Тесни Социалисты)" 
+ RUM_principality_rev_socialism_party:0 "БРСДП (ТС)" 
+ RUM_principality_rev_socialism_party_long:0 "Болгарская рабочая Социал-Демократическая партия (Тесни Социалисты)" 
+ RUM_principality_soc_democracy_party:0 "БЗНС" 
+ RUM_principality_soc_democracy_party_long:0 "Балгарский Земедельский Народный Союз" 
+ RUM_principality_soc_liberal_party:0 "ПЛП" 
+ RUM_principality_soc_liberal_party_long:0 "Прогрессивнолиберальная партия" 
+ RUM_principality_lib_conservatism_party:0 "НЛП" 
+ RUM_principality_lib_conservatism_party_long:0 "Народнолиберальная партия" 
+ RUM_principality_soc_conservatism_party:0 "ДП" 
+ RUM_principality_soc_conservatism_party_long:0 "Демократическая партия" 
+ RUM_principality_auth_democrat_party:0 "ЛП" 
+ RUM_principality_auth_democrat_party_long:0 "Либеральная партия" 
+ RUM_principality_pat_autocrat_party:0 "СД" 
+ RUM_principality_pat_autocrat_party_long:0 "Сакскобургготский Династия" 
+ RUM_principality_fascism_party:0 "-" 
+ RUM_principality_fascism_party_long:0 "-" 
+
+### Country Name ### 
+ RUM_leninism:0 "Коммуна Румелии" 
+ RUM_leninism_DEF:0 "Коммуна Румелии" 
+ RUM_leninism_ADJ:0 "Румелийск."
+ RUM_marxism:0 "Республика Румелия" 
+ RUM_marxism_DEF:0 "Республика Румелия" 
+ RUM_marxism_ADJ:0 "Румелийск."
+ RUM_rev_socialism:0 "Восточная Румелия" 
+ RUM_rev_socialism_DEF:0 "Восточная Румелия" 
+ RUM_rev_socialism_ADJ:0 "Румелийск."
+ RUM_soc_democracy:0 "Восточная Румелия" 
+ RUM_soc_democracy_DEF:0 "Восточная Румелия" 
+ RUM_soc_democracy_ADJ:0 "Румелийск."
+ RUM_soc_liberal:0 "Восточная Румелия" 
+ RUM_soc_liberal_DEF:0 "Восточная Румелия" 
+ RUM_soc_liberal_ADJ:0 "Румелийск."
+ RUM_lib_conservatism:0 "Восточная Румелия" 
+ RUM_lib_conservatism_DEF:0 "Восточная Румелия" 
+ RUM_lib_conservatism_ADJ:0 "Румелийск."
+ RUM_soc_conservatism:0 "Восточная Румелия" 
+ RUM_soc_conservatism_DEF:0 "Восточная Румелия" 
+ RUM_soc_conservatism_ADJ:0 "Румелийск."
+ RUM_auth_democrat:0 "Восточная Румелия" 
+ RUM_auth_democrat_DEF:0 "Восточная Румелия" 
+ RUM_auth_democrat_ADJ:0 "Румелийск."
+ RUM_pat_autocrat:0 "Восточная Румелия" 
+ RUM_pat_autocrat_DEF:0 "Восточная Румелия" 
+ RUM_pat_autocrat_ADJ:0 "Румелийск."
+ RUM_fascism:0 "Восточная Румелия" 
+ RUM_fascism_DEF:0 "Восточная Румелия" 
+ RUM_fascism_ADJ:0 "Румелийск."
+
+ RUM_ottoman_vassal_leninism:0 "Коммуна Румелии" 
+ RUM_ottoman_vassal_leninism_DEF:0 "Коммуна Румелии" 
+ RUM_ottoman_vassal_leninism_ADJ:0 "Румелийск."
+ RUM_ottoman_vassal_marxism:0 "Республика Румелия" 
+ RUM_ottoman_vassal_marxism_DEF:0 "Республика Румелия" 
+ RUM_ottoman_vassal_marxism_ADJ:0 "Румелийск."
+ RUM_ottoman_vassal_rev_socialism:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_rev_socialism_DEF:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_rev_socialism_ADJ:0 "Румелийск."
+ RUM_ottoman_vassal_soc_democracy:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_soc_democracy_DEF:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_soc_democracy_ADJ:0 "Румелийск."
+ RUM_ottoman_vassal_soc_liberal:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_soc_liberal_DEF:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_soc_liberal_ADJ:0 "Румелийск."
+ RUM_ottoman_vassal_lib_conservatism:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_lib_conservatism_DEF:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_lib_conservatism_ADJ:0 "Румелийск."
+ RUM_ottoman_vassal_soc_conservatism:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_soc_conservatism_DEF:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_soc_conservatism_ADJ:0 "Румелийск."
+ RUM_ottoman_vassal_auth_democrat:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_auth_democrat_DEF:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_auth_democrat_ADJ:0 "Румелийск."
+ RUM_ottoman_vassal_pat_autocrat:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_pat_autocrat_DEF:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_pat_autocrat_ADJ:0 "Румелийск."
+ RUM_ottoman_vassal_fascism:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_fascism_DEF:0 "Восточная Румелия" 
+ RUM_ottoman_vassal_fascism_ADJ:0 "Румелийск."
+
+ ### Ideas ### 
+
+
+ ### Foci ### 
+
+
+ ### Events ### 
+
+
+
+ ### Decisions ### 
+
+ #Categories 
+
+ #Decisions 
+
+ #Tooltips 
+

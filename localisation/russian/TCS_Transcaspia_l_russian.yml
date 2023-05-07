@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ TRC_leninism_party:0 "РСДРП (Б)"
+ TRC_leninism_party_long:0 "Российская социал-демократическая рабочая партия (Большевиков)"
+ TRC_marxism_party:0 "РСДРП (М)"
+ TRC_marxism_party_long:0 "Российская социал-демократическая рабочая партия (Меньшевиков)"
+ TRC_rev_socialism_party:0 "ПЛСР"
+ TRC_rev_socialism_party_long:0 "Партия левых социалистов-революционеров"
+ TRC_soc_democracy_party:0 "ПСР"
+ TRC_soc_democracy_party_long:0 "Партия социалистов-революционеров"
+ TRC_soc_liberal_party:0 "ПП"
+ TRC_soc_liberal_party_long:0 "Прогрессивная партия"
+ TRC_lib_conservatism_party:0 "С17О"
+ TRC_lib_conservatism_party_long:0 "Союз 17 Октября"
+ TRC_soc_conservatism_party:0 "К-Д"
+ TRC_soc_conservatism_party_long:0 "Конституционно-демократическая партия"
+ TRC_auth_democrat_party:0 "ММ" 
+ TRC_auth_democrat_party_long:0 "Миссия Маллесон" 
+ TRC_pat_autocrat_party:0 "ТХ" 
+ TRC_pat_autocrat_party_long:0 "Туркменские ханы" 
+ TRC_fascism_party:0 "-" 
+ TRC_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ TRC_leninism:0 "Закаспийское временное правительство" 
+ TRC_leninism_DEF:0 "Закаспийское временное правительство" 
+ TRC_leninism_ADJ:0 "Закаспийск." 
+ TRC_marxism:0 "Закаспийское временное правительство" 
+ TRC_marxism_DEF:0 "Закаспийское временное правительство" 
+ TRC_marxism_ADJ:0 "Закаспийск." 
+ TRC_rev_socialism:0 "Закаспийское временное правительство" 
+ TRC_rev_socialism_DEF:0 "Закаспийское временное правительство" 
+ TRC_rev_socialism_ADJ:0 "Закаспийск." 
+ TRC_soc_democracy:0 "Закаспийское временное правительство" 
+ TRC_soc_democracy_DEF:0 "Закаспийское временное правительство" 
+ TRC_soc_democracy_ADJ:0 "Закаспийск." 
+ TRC_soc_liberal:0 "Закаспийское временное правительство" 
+ TRC_soc_liberal_DEF:0 "Закаспийское временное правительство" 
+ TRC_soc_liberal_ADJ:0 "Закаспийск." 
+ TRC_lib_conservatism:0 "Закаспийское временное правительство" 
+ TRC_lib_conservatism_DEF:0 "Закаспийское временное правительство" 
+ TRC_lib_conservatism_ADJ:0 "Закаспийск." 
+ TRC_soc_conservatism:0 "Закаспийское временное правительство" 
+ TRC_soc_conservatism_DEF:0 "Закаспийское временное правительство" 
+ TRC_soc_conservatism_ADJ:0 "Закаспийск." 
+ TRC_auth_democrat:0 "Закаспийское временное правительство" 
+ TRC_auth_democrat_DEF:0 "Закаспийское временное правительство" 
+ TRC_auth_democrat_ADJ:0 "Закаспийск." 
+ TRC_pat_autocrat:0 "Закаспийское временное правительство" 
+ TRC_pat_autocrat_DEF:0 "Закаспийское временное правительство" 
+ TRC_pat_autocrat_ADJ:0 "Закаспийск." 
+ TRC_fascism:0 "Закаспийское временное правительство" 
+ TRC_fascism_DEF:0 "Закаспийское временное правительство" 
+ TRC_fascism_ADJ:0 "Закаспийск." 
+
+### Focuses ### 
+
+ TRC_Focus_ID:0 "" 
+ TRC_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ TRC_Idea_ID:0 "" 
+ TRC_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

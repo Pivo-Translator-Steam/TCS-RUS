@@ -1,0 +1,117 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ SHA_leninism_party:0 "" 
+ SHA_leninism_party_long:0 "" 
+ SHA_marxism_party:0 "" 
+ SHA_marxism_party_long:0 "" 
+ SHA_rev_socialism_party:0 "" 
+ SHA_rev_socialism_party_long:0 "" 
+ SHA_soc_democracy_party:0 "" 
+ SHA_soc_democracy_party_long:0 "" 
+ SHA_soc_liberal_party:0 "" 
+ SHA_soc_liberal_party_long:0 "" 
+ SHA_lib_conservatism_party:0 "" 
+ SHA_lib_conservatism_party_long:0 "" 
+ SHA_soc_conservatism_party:0 "" 
+ SHA_soc_conservatism_party_long:0 "" 
+ SHA_auth_democrat_party:0 "" 
+ SHA_auth_democrat_party_long:0 "" 
+ SHA_pat_autocrat_party:0 "" 
+ SHA_pat_autocrat_party_long:0 "" 
+ SHA_fascism_party:0 "" 
+ SHA_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ SHA_leninism:0 "Клика Шэньси" 
+ SHA_leninism_DEF:0 "Клика Шэньси" 
+ SHA_leninism_ADJ:0 "Шэньсийск."
+ SHA_marxism:0 "Клика Шэньси" 
+ SHA_marxism_DEF:0 "Клика Шэньси" 
+ SHA_marxism_ADJ:0 "Шэньсийск."
+ SHA_rev_socialism:0 "Клика Шэньси" 
+ SHA_rev_socialism_DEF:0 "Клика Шэньси" 
+ SHA_rev_socialism_ADJ:0 "Шэньсийск."
+ SHA_soc_democracy:0 "Клика Шэньси" 
+ SHA_soc_democracy_DEF:0 "Клика Шэньси" 
+ SHA_soc_democracy_ADJ:0 "Шэньсийск."
+ SHA_soc_liberal:0 "Клика Шэньси" 
+ SHA_soc_liberal_DEF:0 "Клика Шэньси" 
+ SHA_soc_liberal_ADJ:0 "Шэньсийск."
+ SHA_lib_conservatism:0 "Клика Шэньси" 
+ SHA_lib_conservatism_DEF:0 "Клика Шэньси" 
+ SHA_lib_conservatism_ADJ:0 "Шэньсийск."
+ SHA_soc_conservatism:0 "Клика Шэньси" 
+ SHA_soc_conservatism_DEF:0 "Клика Шэньси" 
+ SHA_soc_conservatism_ADJ:0 "Шэньсийск."
+ SHA_auth_democrat:0 "Клика Шэньси" 
+ SHA_auth_democrat_DEF:0 "Клика Шэньси" 
+ SHA_auth_democrat_ADJ:0 "Шэньсийск."
+ SHA_pat_autocrat:0 "Клика Шэньси" 
+ SHA_pat_autocrat_DEF:0 "Клика Шэньси" 
+ SHA_pat_autocrat_ADJ:0 "Шэньсийск."
+ SHA_fascism:0 "Клика Шэньси" 
+ SHA_fascism_DEF:0 "Клика Шэньси" 
+ SHA_fascism_ADJ:0 "Шэньсийск."
+
+ SHA_NPA_leninism:0 "Национальная армия умиротворения" 
+ SHA_NPA_leninism_DEF:0 "Национальная армия умиротворения" 
+ SHA_NPA_leninism_ADJ:0 "Умиротворен." 
+ SHA_NPA_marxism:0 "Национальная армия умиротворения" 
+ SHA_NPA_marxism_DEF:0 "Национальная армия умиротворения" 
+ SHA_NPA_marxism_ADJ:0 "Умиротворен." 
+ SHA_NPA_rev_socialism:0 "Национальная армия умиротворения" 
+ SHA_NPA_rev_socialism_DEF:0 "Национальная армия умиротворения" 
+ SHA_NPA_rev_socialism_ADJ:0 "Умиротворен." 
+ SHA_NPA_soc_democracy:0 "Национальная армия умиротворения" 
+ SHA_NPA_soc_democracy_DEF:0 "Национальная армия умиротворения" 
+ SHA_NPA_soc_democracy_ADJ:0 "Умиротворен." 
+ SHA_NPA_soc_liberal:0 "Национальная армия умиротворения" 
+ SHA_NPA_soc_liberal_DEF:0 "Национальная армия умиротворения" 
+ SHA_NPA_soc_liberal_ADJ:0 "Умиротворен." 
+ SHA_NPA_lib_conservatism:0 "Национальная армия умиротворения" 
+ SHA_NPA_lib_conservatism_DEF:0 "Национальная армия умиротворения" 
+ SHA_NPA_lib_conservatism_ADJ:0 "Умиротворен." 
+ SHA_NPA_soc_conservatism:0 "Национальная армия умиротворения" 
+ SHA_NPA_soc_conservatism_DEF:0 "Национальная армия умиротворения" 
+ SHA_NPA_soc_conservatism_ADJ:0 "Умиротворен." 
+ SHA_NPA_auth_democrat:0 "Национальная армия умиротворения" 
+ SHA_NPA_auth_democrat_DEF:0 "Национальная армия умиротворения" 
+ SHA_NPA_auth_democrat_ADJ:0 "Умиротворен." 
+ SHA_NPA_pat_autocrat:0 "Национальная армия умиротворения" 
+ SHA_NPA_pat_autocrat_DEF:0 "Национальная армия умиротворения" 
+ SHA_NPA_pat_autocrat_ADJ:0 "Умиротворен." 
+ SHA_NPA_fascism:0 "Национальная армия умиротворения" 
+ SHA_NPA_fascism_DEF:0 "Национальная армия умиротворения" 
+ SHA_NPA_fascism_ADJ:0 "Умиротворен." 
+
+### Focuses ### 
+
+ SHA_Focus_ID:0 "" 
+ SHA_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ SHA_Idea_ID:0 "" 
+ SHA_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

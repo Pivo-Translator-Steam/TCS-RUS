@@ -1,0 +1,71 @@
+﻿l_russian:
+
+### Bookmark & Leader Desc. ### 
+
+### Events ### 
+
+### Parties ### 
+
+ COL_leninism_party:0 "-" 
+ COL_leninism_party_long:0 "-" 
+ COL_marxism_party:0 "-" 
+ COL_marxism_party_long:0 "-" 
+ COL_rev_socialism_party:0 "КЛП" 
+ COL_rev_socialism_party_long:0 "Колумбийская либеральная партия" 
+ COL_soc_democracy_party:0 "КЛП" 
+ COL_soc_democracy_party_long:0 "Колумбийская либеральная партия" 
+ COL_soc_liberal_party:0 "КЛП" 
+ COL_soc_liberal_party_long:0 "Колумбийская либеральная партия" 
+ COL_lib_conservatism_party:0 "ККП" 
+ COL_lib_conservatism_party_long:0 "Колумбийская консервативная партия" 
+ COL_soc_conservatism_party:0 "ККП" 
+ COL_soc_conservatism_party_long:0 "Колумбийская консервативная партия" 
+ COL_auth_democrat_party:0 "ККП" 
+ COL_auth_democrat_party_long:0 "Колумбийская консервативная партия" 
+ COL_pat_autocrat_party:0 "ККП" 
+ COL_pat_autocrat_party_long:0 "Колумбийская консервативная партия" 
+ COL_fascism_party:0 "-" 
+ COL_fascism_party_long:0 "-" 
+
+### Country Name ### 
+
+ COL_leninism:0 "Республика Колумбия" 
+ COL_leninism_DEF:0 "Республика Колумбия" 
+ COL_leninism_ADJ:0 "Колумбийск." 
+ COL_marxism:0 "Республика Колумбия" 
+ COL_marxism_DEF:0 "Республика Колумбия" 
+ COL_marxism_ADJ:0 "Колумбийск." 
+ COL_rev_socialism:0 "Республика Колумбия" 
+ COL_rev_socialism_DEF:0 "Республика Колумбия" 
+ COL_rev_socialism_ADJ:0 "Колумбийск." 
+ COL_soc_democracy:0 "Республика Колумбия" 
+ COL_soc_democracy_DEF:0 "Республика Колумбия" 
+ COL_soc_democracy_ADJ:0 "Колумбийск." 
+ COL_soc_liberal:0 "Республика Колумбия" 
+ COL_soc_liberal_DEF:0 "Республика Колумбия" 
+ COL_soc_liberal_ADJ:0 "Колумбийск." 
+ COL_lib_conservatism:0 "Республика Колумбия" 
+ COL_lib_conservatism_DEF:0 "Республика Колумбия" 
+ COL_lib_conservatism_ADJ:0 "Колумбийск." 
+ COL_soc_conservatism:0 "Республика Колумбия" 
+ COL_soc_conservatism_DEF:0 "Республика Колумбия" 
+ COL_soc_conservatism_ADJ:0 "Колумбийск." 
+ COL_auth_democrat:0 "Республика Колумбия" 
+ COL_auth_democrat_DEF:0 "Республика Колумбия" 
+ COL_auth_democrat_ADJ:0 "Колумбийск." 
+ COL_pat_autocrat:0 "Республика Колумбия" 
+ COL_pat_autocrat_DEF:0 "Республика Колумбия" 
+ COL_pat_autocrat_ADJ:0 "Колумбийск." 
+ COL_fascism:0 "Республика Колумбия" 
+ COL_fascism_DEF:0 "Республика Колумбия" 
+ COL_fascism_ADJ:0 "Колумбийск." 
+
+### Events ### 
+
+### Focuses ### 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Tooltips ### 

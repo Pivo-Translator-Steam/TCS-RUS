@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ HOB_leninism_party:0 "-" 
+ HOB_leninism_party_long:0 "" 
+ HOB_marxism_party:0 "-" 
+ HOB_marxism_party_long:0 "" 
+ HOB_rev_socialism_party:0 "-" 
+ HOB_rev_socialism_party_long:0 "" 
+ HOB_soc_democracy_party:0 "-" 
+ HOB_soc_democracy_party_long:0 "" 
+ HOB_soc_liberal_party:0 "-" 
+ HOB_soc_liberal_party_long:0 "" 
+ HOB_lib_conservatism_party:0 "-" 
+ HOB_lib_conservatism_party_long:0 "" 
+ HOB_soc_conservatism_party:0 "Ксисбияда Касрига Ах" 
+ HOB_soc_conservatism_party_long:0 "Ксисбияда Касрига Ах (Умеренная фракция)" 
+ HOB_auth_democrat_party:0 "Вааксда Даквада" 
+ HOB_auth_democrat_party_long:0 "Вааксда Даквада (Придворная фракция)" 
+ HOB_pat_autocrat_party:0 "Ксисбига Султан" 
+ HOB_pat_autocrat_party_long:0 "Ксисбига Султан (Султанская фракция)" 
+ HOB_fascism_party:0 "Кабсашада Кабиилка" 
+ HOB_fascism_party_long:0 "Кабсашада Кабиилка (Племенная фракция)" 
+
+### Country Name ### 
+
+ HOB_leninism:0 "Султанат Хобьо" 
+ HOB_leninism_DEF:0 "Султанат Хобьо" 
+ HOB_leninism_ADJ:0 "Хобийск."
+ HOB_marxism:0 "Султанат Хобьо" 
+ HOB_marxism_DEF:0 "Султанат Хобьо" 
+ HOB_marxism_ADJ:0 "Хобийск."
+ HOB_rev_socialism:0 "Султанат Хобьо" 
+ HOB_rev_socialism_DEF:0 "Султанат Хобьо" 
+ HOB_rev_socialism_ADJ:0 "Хобийск."
+ HOB_soc_democracy:0 "Султанат Хобьо" 
+ HOB_soc_democracy_DEF:0 "Султанат Хобьо" 
+ HOB_soc_democracy_ADJ:0 "Хобийск."
+ HOB_soc_liberal:0 "Султанат Хобьо" 
+ HOB_soc_liberal_DEF:0 "Султанат Хобьо" 
+ HOB_soc_liberal_ADJ:0 "Хобийск."
+ HOB_lib_conservatism:0 "Султанат Хобьо" 
+ HOB_lib_conservatism_DEF:0 "Султанат Хобьо" 
+ HOB_lib_conservatism_ADJ:0 "Хобийск."
+ HOB_soc_conservatism:0 "Султанат Хобьо" 
+ HOB_soc_conservatism_DEF:0 "Султанат Хобьо" 
+ HOB_soc_conservatism_ADJ:0 "Хобийск."
+ HOB_auth_democrat:0 "Султанат Хобьо" 
+ HOB_auth_democrat_DEF:0 "Султанат Хобьо" 
+ HOB_auth_democrat_ADJ:0 "Хобийск."
+ HOB_pat_autocrat:0 "Султанат Хобьо" 
+ HOB_pat_autocrat_DEF:0 "Султанат Хобьо" 
+ HOB_pat_autocrat_ADJ:0 "Хобийск."
+ HOB_fascism:0 "Султанат Хобьо" 
+ HOB_fascism_DEF:0 "Султанат Хобьо" 
+ HOB_fascism_ADJ:0 "Хобийск."
+
+### Focuses ### 
+
+ HOB_Focus_ID:0 "" 
+ HOB_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ HOB_Idea_ID:0 "" 
+ HOB_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

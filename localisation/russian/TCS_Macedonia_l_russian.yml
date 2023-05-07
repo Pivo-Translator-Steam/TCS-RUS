@@ -1,0 +1,107 @@
+﻿l_russian:
+
+### Parties ### 
+ MAC_revolt_leninism_party:0 "ВМРО (Л)" 
+ MAC_revolt_leninism_party_long:0 "Ватрешна Македонска-Одринска Революционна Организация (Левое крыло)" 
+ MAC_revolt_marxism_party:0 "ВМРО (Л)" 
+ MAC_revolt_marxism_party_long:0 "Ватрешна Македонска-Одринска Революционна Организация (Левое крыло)" 
+ MAC_revolt_rev_socialism_party:0 "ВМРО (Л)" 
+ MAC_revolt_rev_socialism_party_long:0 "Ватрешна Македонска-Одринска Революционна Организация (Левое крыло)" 
+ MAC_revolt_soc_democracy_party:0 "ВМРО (Л)" 
+ MAC_revolt_soc_democracy_party_long:0 "Ватрешна Македонска-Одринска Революционна Организация (Левое крыло)" 
+ MAC_revolt_soc_liberal_party:0 "ВМРО (Л)" 
+ MAC_revolt_soc_liberal_party_long:0 "Ватрешна Македонска-Одринска Революционна Организация (Левое крыло)" 
+ MAC_revolt_lib_conservatism_party:0 "ВМРО (П)" 
+ MAC_revolt_lib_conservatism_party_long:0 "Ватрешна Македонска-Одринска Революционна Организация (Правое крыло)" 
+ MAC_revolt_soc_conservatism_party:0 "ВМРО (П)" 
+ MAC_revolt_soc_conservatism_party_long:0 "Ватрешна Македонска-Одринска Революционна Организация (Правое крыло)" 
+ MAC_revolt_auth_democrat_party:0 "ВМРО (П)" 
+ MAC_revolt_auth_democrat_party_long:0 "Ватрешна Македонска-Одринска Революционна Организация (Правое крыло)" 
+ MAC_revolt_pat_autocrat_party:0 "-" 
+ MAC_revolt_pat_autocrat_party_long:0 "-" 
+ MAC_revolt_fascism_party:0 "-" 
+ MAC_revolt_fascism_party_long:0 "-" 
+
+### Country Name ### 
+ MAC_leninism:0 "Коммуна Македонии" 
+ MAC_leninism_DEF:0 "Коммуна Македонии" 
+ MAC_leninism_ADJ:0 "Македонск." 
+ MAC_marxism:0 "Социалистическая Республика Македония" 
+ MAC_marxism_DEF:0 "Социалистическая Республика Македония" 
+ MAC_marxism_ADJ:0 "Македонск." 
+ MAC_rev_socialism:0 "Социалистическая Республика Македония" 
+ MAC_rev_socialism_DEF:0 "Социалистическая Республика Македония" 
+ MAC_rev_socialism_ADJ:0 "Македонск." 
+ MAC_soc_democracy:0 "Княжество Македония" 
+ MAC_soc_democracy_DEF:0 "Княжество Македония" 
+ MAC_soc_democracy_ADJ:0 "Македонск." 
+ MAC_soc_liberal:0 "Княжество Македония" 
+ MAC_soc_liberal_DEF:0 "Княжество Македония" 
+ MAC_soc_liberal_ADJ:0 "Македонск." 
+ MAC_lib_conservatism:0 "Княжество Македония" 
+ MAC_lib_conservatism_DEF:0 "Княжество Македония" 
+ MAC_lib_conservatism_ADJ:0 "Македонск." 
+ MAC_soc_conservatism:0 "Княжество Македония" 
+ MAC_soc_conservatism_DEF:0 "Княжество Македония" 
+ MAC_soc_conservatism_ADJ:0 "Македонск." 
+ MAC_auth_democrat:0 "Княжество Македония" 
+ MAC_auth_democrat_DEF:0 "Княжество Македония" 
+ MAC_auth_democrat_ADJ:0 "Македонск." 
+ MAC_pat_autocrat:0 "Княжество Македония" 
+ MAC_pat_autocrat_DEF:0 "Княжество Македония" 
+ MAC_pat_autocrat_ADJ:0 "Македонск." 
+ MAC_fascism:0 "Княжество Македония" 
+ MAC_fascism_DEF:0 "Княжество Македония" 
+ MAC_fascism_ADJ:0 "Македонск." 
+
+ MAC_revolt_leninism:0 "Македонское восстание" 
+ MAC_revolt_leninism_DEF:0 "Македонское восстание" 
+ MAC_revolt_leninism_ADJ:0 "Македонск." 
+ MAC_revolt_marxism:0 "Македонское восстание" 
+ MAC_revolt_marxism_DEF:0 "Македонское восстание" 
+ MAC_revolt_marxism_ADJ:0 "Македонск." 
+ MAC_revolt_rev_socialism:0 "Македонское восстание" 
+ MAC_revolt_rev_socialism_DEF:0 "Македонское восстание" 
+ MAC_revolt_rev_socialism_ADJ:0 "Македонск." 
+ MAC_revolt_soc_democracy:0 "Македонское восстание" 
+ MAC_revolt_soc_democracy_DEF:0 "Македонское восстание" 
+ MAC_revolt_soc_democracy_ADJ:0 "Македонск." 
+ MAC_revolt_soc_liberal:0 "Македонское восстание" 
+ MAC_revolt_soc_liberal_DEF:0 "Македонское восстание" 
+ MAC_revolt_soc_liberal_ADJ:0 "Македонск." 
+ MAC_revolt_lib_conservatism:0 "Македонское восстание" 
+ MAC_revolt_lib_conservatism_DEF:0 "Македонское восстание" 
+ MAC_revolt_lib_conservatism_ADJ:0 "Македонск." 
+ MAC_revolt_soc_conservatism:0 "Македонское восстание" 
+ MAC_revolt_soc_conservatism_DEF:0 "Македонское восстание" 
+ MAC_revolt_soc_conservatism_ADJ:0 "Македонск." 
+ MAC_revolt_auth_democrat:0 "Македонское восстание" 
+ MAC_revolt_auth_democrat_DEF:0 "Македонское восстание" 
+ MAC_revolt_auth_democrat_ADJ:0 "Македонск." 
+ MAC_revolt_pat_autocrat:0 "Македонское восстание" 
+ MAC_revolt_pat_autocrat_DEF:0 "Македонское восстание" 
+ MAC_revolt_pat_autocrat_ADJ:0 "Македонск." 
+ MAC_revolt_fascism:0 "Македонское восстание" 
+ MAC_revolt_fascism_DEF:0 "Македонское восстание" 
+ MAC_revolt_fascism_ADJ:0 "Македонск." 
+
+ ### Ideas ### 
+ MAC_revolt_idea:0 "Македонское восстание" 
+ MAC_fragile_alliance:0 "Хрупкая организация" 
+
+ ### Foci ### 
+
+
+ ### Events ### 
+
+ ### Decisions ### 
+
+ #Categories 
+
+
+ #Tooltips 
+
+ #Ministers 
+
+
+ #Traits 

@@ -1,0 +1,221 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+ BLR_political.1.title:0 "Немецкие войска отступают с наших территорий" 
+ BLR_political.1.desc:0 "" 
+ BLR_political.1.a:0 "Это, безусловно, приведет к катастрофе" 
+
+### Parties ### 
+
+ BLR_leninism_party:0 "КП(Б)Б" 
+ BLR_leninism_party_long:0 "Каммунистическая партия (Большевиков) Беларуси" 
+ BLR_marxism_party:0 "КП(М)Б" 
+ BLR_marxism_party_long:0 "Каммунистическая партия (Меньшавиков) Беларуси" 
+ BLR_rev_socialism_party:0 "BSG" 
+ BLR_rev_socialism_party_long:0 "Белорусская Сацыялистичная Грамада" 
+ BLR_soc_democracy_party:0 "БСДП" 
+ BLR_soc_democracy_party_long:0 "Белорусская Сацыял-Демакратическая партия" 
+ BLR_soc_liberal_party:0 "БПС-Ф" 
+ BLR_soc_liberal_party_long:0 "Белорусская партия Сацыялистов-Фидералистов" 
+ BLR_lib_conservatism_party:0 "Крайовцы" 
+ BLR_lib_conservatism_party_long:0 "Крайовцы" 
+ BLR_soc_conservatism_party:0 "БХЗ" 
+ BLR_soc_conservatism_party_long:0 "Белорусская Христянская Злучнасть" 
+ BLR_auth_democrat_party:0 "Крайовцы" 
+ BLR_auth_democrat_party_long:0 "Крайовцы" 
+ BLR_pat_autocrat_party:0 "Балашовцы" 
+ BLR_pat_autocrat_party_long:0 "Балашовцы" 
+ BLR_fascism_party:0 "Балашовцы" 
+ BLR_fascism_party_long:0 "Балашовцы" 
+
+ SRB_leninism_party:0 "КП(Б)Б" 
+ SRB_leninism_party_long:0 "Каммунистическая партия (Большевиков) Беларуси" 
+ SRB_marxism_party:0 "КП(М)Б" 
+ SRB_marxism_party_long:0 "Каммунистическая партия (Меньшавиков) Беларуси" 
+ SRB_rev_socialism_party:0 "BSG" 
+ SRB_rev_socialism_party_long:0 "Белорусская Сацыялистичная Грамада" 
+ SRB_soc_democracy_party:0 "БСДП" 
+ SRB_soc_democracy_party_long:0 "Белорусская Сацыял-Демакратическая партия" 
+ SRB_soc_liberal_party:0 "БПС-Ф" 
+ SRB_soc_liberal_party_long:0 "Белорусская партия Сацыялистов-Фидералистов" 
+ SRB_lib_conservatism_party:0 "Крайовцы" 
+ SRB_lib_conservatism_party_long:0 "Крайовцы" 
+ SRB_soc_conservatism_party:0 "БХЗ" 
+ SRB_soc_conservatism_party_long:0 "Белорусская Христянская Злучнасть" 
+ SRB_auth_democrat_party:0 "Крайовцы" 
+ SRB_auth_democrat_party_long:0 "Крайовцы" 
+ SRB_pat_autocrat_party:0 "Балашовцы" 
+ SRB_pat_autocrat_party_long:0 "Балашовцы" 
+ SRB_fascism_party:0 "Балашовцы" 
+ SRB_fascism_party_long:0 "Балашовцы" 
+
+ SRB_LITBEL_leninism_party:0 "КП(Б)Б" 
+ SRB_LITBEL_leninism_party_long:0 "Каммунистическая партия (Большевиков) Беларуси" 
+ SRB_LITBEL_marxism_party:0 "КП(М)Б" 
+ SRB_LITBEL_marxism_party_long:0 "Каммунистическая партия (Меньшавиков) Беларуси" 
+ SRB_LITBEL_rev_socialism_party:0 "BSG" 
+ SRB_LITBEL_rev_socialism_party_long:0 "Белорусская Сацыялистичная Грамада" 
+ SRB_LITBEL_soc_democracy_party:0 "БСДП" 
+ SRB_LITBEL_soc_democracy_party_long:0 "Белорусская Сацыял-Демакратическая партия" 
+ SRB_LITBEL_soc_liberal_party:0 "БПС-Ф" 
+ SRB_LITBEL_soc_liberal_party_long:0 "Белорусская партия Сацыялистов-Фидералистов" 
+ SRB_LITBEL_lib_conservatism_party:0 "Крайовцы" 
+ SRB_LITBEL_lib_conservatism_party_long:0 "Крайовцы" 
+ SRB_LITBEL_soc_conservatism_party:0 "БХЗ" 
+ SRB_LITBEL_soc_conservatism_party_long:0 "Белорусская Христянская Злучнасть" 
+ SRB_LITBEL_auth_democrat_party:0 "Крайовцы" 
+ SRB_LITBEL_auth_democrat_party_long:0 "Крайовцы" 
+ SRB_LITBEL_pat_autocrat_party:0 "Балашовцы" 
+ SRB_LITBEL_pat_autocrat_party_long:0 "Балашовцы" 
+ SRB_LITBEL_fascism_party:0 "Балашовцы" 
+ SRB_LITBEL_fascism_party_long:0 "Балашовцы" 
+
+### Country Name ### 
+
+ BLR_leninism:0 "Белорусская Народная Республика" 
+ BLR_leninism_DEF:0 "Белорусская Народная Республика" 
+ BLR_leninism_ADJ:0 "Белорусск." 
+ BLR_marxism:0 "Белорусская Народная Республика" 
+ BLR_marxism_DEF:0 "Белорусская Народная Республика" 
+ BLR_marxism_ADJ:0 "Белорусск." 
+ BLR_rev_socialism:0 "Белорусская Народная Республика" 
+ BLR_rev_socialism_DEF:0 "Белорусская Народная Республика" 
+ BLR_rev_socialism_ADJ:0 "Белорусск." 
+ BLR_soc_democracy:0 "Белорусская Народная Республика" 
+ BLR_soc_democracy_DEF:0 "Белорусская Народная Республика" 
+ BLR_soc_democracy_ADJ:0 "Белорусск." 
+ BLR_soc_liberal:0 "Белорусская Народная Республика" 
+ BLR_soc_liberal_DEF:0 "Белорусская Народная Республика" 
+ BLR_soc_liberal_ADJ:0 "Белорусск." 
+ BLR_lib_conservatism:0 "Белорусская Народная Республика" 
+ BLR_lib_conservatism_DEF:0 "Белорусская Народная Республика" 
+ BLR_lib_conservatism_ADJ:0 "Белорусск." 
+ BLR_soc_conservatism:0 "Белорусская Народная Республика" 
+ BLR_soc_conservatism_DEF:0 "Белорусская Народная Республика" 
+ BLR_soc_conservatism_ADJ:0 "Белорусск." 
+ BLR_auth_democrat:0 "Белорусская Народная Республика" 
+ BLR_auth_democrat_DEF:0 "Белорусская Народная Республика" 
+ BLR_auth_democrat_ADJ:0 "Белорусск." 
+ BLR_pat_autocrat:0 "Белорусская Народная Республика" 
+ BLR_pat_autocrat_DEF:0 "Белорусская Народная Республика" 
+ BLR_pat_autocrat_ADJ:0 "Белорусск." 
+ BLR_fascism:0 "Белорусская Народная Республика" 
+ BLR_fascism_DEF:0 "Белорусская Народная Республика" 
+ BLR_fascism_ADJ:0 "Белорусск." 
+
+## Soviet Belarus ## 
+
+ SRB_leninism:0 "Социалистическая Советская Республика Беларусь" 
+ SRB_leninism_DEF:0 "Социалистическая Советская Республика Беларусь" 
+ SRB_leninism_ADJ:0 "Белорусск." 
+ SRB_marxism:0 "Советская Беларусь"
+ SRB_marxism_DEF:0 "Советская Беларусь"
+ SRB_marxism_ADJ:0 "Белорусск." 
+ SRB_rev_socialism:0 "Советская Беларусь"
+ SRB_rev_socialism_DEF:0 "Советская Беларусь"
+ SRB_rev_socialism_ADJ:0 "Белорусск." 
+ SRB_soc_democracy:0 "Советская Беларусь"
+ SRB_soc_democracy_DEF:0 "Советская Беларусь"
+ SRB_soc_democracy_ADJ:0 "Белорусск." 
+ SRB_soc_liberal:0 "Советская Беларусь"
+ SRB_soc_liberal_DEF:0 "Советская Беларусь"
+ SRB_soc_liberal_ADJ:0 "Белорусск." 
+ SRB_lib_conservatism:0 "Советская Беларусь"
+ SRB_lib_conservatism_DEF:0 "Советская Беларусь"
+ SRB_lib_conservatism_ADJ:0 "Белорусск." 
+ SRB_soc_conservatism:0 "Советская Беларусь"
+ SRB_soc_conservatism_DEF:0 "Советская Беларусь"
+ SRB_soc_conservatism_ADJ:0 "Белорусск." 
+ SRB_auth_democrat:0 "Советская Беларусь"
+ SRB_auth_democrat_DEF:0 "Советская Беларусь"
+ SRB_auth_democrat_ADJ:0 "Белорусск." 
+ SRB_pat_autocrat:0 "Советская Беларусь"
+ SRB_pat_autocrat_DEF:0 "Советская Беларусь"
+ SRB_pat_autocrat_ADJ:0 "Белорусск." 
+ SRB_fascism:0 "Советская Беларусь"
+ SRB_fascism_DEF:0 "Советская Беларусь"
+ SRB_fascism_ADJ:0 "Белорусск." 
+
+## Lit-Bel ## 
+
+ SRB_LITBEL_leninism:0 "Социалистическая Советская Республика Литвы и Беларуси" 
+ SRB_LITBEL_leninism_DEF:0 "Социалистическая Советская Республика Литвы и Беларуси" 
+ SRB_LITBEL_leninism_ADJ:0 "Литовско-Белорусск." 
+ SRB_LITBEL_marxism:0 "Советская Беларусь"
+ SRB_LITBEL_marxism_DEF:0 "Советская Беларусь"
+ SRB_LITBEL_marxism_ADJ:0 "Белорусск." 
+ SRB_LITBEL_rev_socialism:0 "Советская Беларусь"
+ SRB_LITBEL_rev_socialism_DEF:0 "Советская Беларусь"
+ SRB_LITBEL_rev_socialism_ADJ:0 "Белорусск." 
+ SRB_LITBEL_soc_democracy:0 "Советская Беларусь"
+ SRB_LITBEL_soc_democracy_DEF:0 "Советская Беларусь"
+ SRB_LITBEL_soc_democracy_ADJ:0 "Белорусск." 
+ SRB_LITBEL_soc_liberal:0 "Советская Беларусь"
+ SRB_LITBEL_soc_liberal_DEF:0 "Советская Беларусь"
+ SRB_LITBEL_soc_liberal_ADJ:0 "Белорусск." 
+ SRB_LITBEL_lib_conservatism:0 "Советская Беларусь"
+ SRB_LITBEL_lib_conservatism_DEF:0 "Советская Беларусь"
+ SRB_LITBEL_lib_conservatism_ADJ:0 "Белорусск." 
+ SRB_LITBEL_soc_conservatism:0 "Советская Беларусь"
+ SRB_LITBEL_soc_conservatism_DEF:0 "Советская Беларусь"
+ SRB_LITBEL_soc_conservatism_ADJ:0 "Белорусск." 
+ SRB_LITBEL_auth_democrat:0 "Советская Беларусь"
+ SRB_LITBEL_auth_democrat_DEF:0 "Советская Беларусь"
+ SRB_LITBEL_auth_democrat_ADJ:0 "Белорусск." 
+ SRB_LITBEL_pat_autocrat:0 "Советская Беларусь"
+ SRB_LITBEL_pat_autocrat_DEF:0 "Советская Беларусь"
+ SRB_LITBEL_pat_autocrat_ADJ:0 "Белорусск." 
+ SRB_LITBEL_fascism:0 "Советская Беларусь"
+ SRB_LITBEL_fascism_DEF:0 "Советская Беларусь"
+ SRB_LITBEL_fascism_ADJ:0 "Белорусск." 
+
+### Focuses ### 
+
+ SRB_first_congress:0 "1-й съезд Белорусской партии" 
+ SRB_first_congress_desc:0 "" 
+ SRB_revolutionary_war_council:0 "Революционный совет обороны" 
+ SRB_revolutionary_war_council_desc:0 "" 
+ SRB_district_governance_councils:0 "Создать советы по управлению округами" 
+ SRB_district_governance_councils_desc:0 "" 
+ SRB_organize_red_militias:0 "Организовать ополчение Красной Армии" 
+ SRB_organize_red_militias_desc:0 "" 
+ SRB_war_communism:0 "Внедрить белорусский военный коммунизм" 
+ SRB_war_communism_desc:0 "" 
+ SRB_fate_of_the_ssrb:0 "Судьба ССРБ" 
+ SRB_fate_of_the_ssrb_desc:0 "" 
+ SRB_maintain_the_ssrb:0 "Поддерживать ССРБ" 
+ SRB_maintain_the_ssrb_desc:0 "" 
+ SRB_litbel:0 "Создание Лит-Бел" 
+ SRB_litbel_desc:0 "" 
+
+### Ideas ### 
+
+BLR_Idea_ID:0 "" 
+BLR_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+ BLR_roman_skirmunt_hog:0 "Раман Скирмунт". 
+ BLR_anton_luckievic_hog:0 "Антон Лучкевич" 
+BLR_vaclau_lastouski_hog:0 "Вацлав Ластовский" 
+ BLR_anton_luckievic_for:0 "Антон Лучкевич" 
+ BLR_vasil_zacharka:0 "Василь Захарка" 
+BLR_jazep_varonka:0 "Язеп Варонка" 
+BLR_kuzma_ciarescanka:0 "Кузьма Чарешчанка" 
+BLR_jafim_bialievic:0 "Яфим Беляевич" 
+
+### Leaders ### 
+
+### Tech? ### 
+

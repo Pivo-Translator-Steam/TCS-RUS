@@ -1,0 +1,495 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+TCS_persia.1.t:0 "Шах отвергает реформы" 
+TCS_persia.1.d:0 "Шах Ирана всегда обладал неоспоримой властью, но с ухудшением экономики, в то время как державы вокруг них продолжают расти, шах больше не является жизнеспособным источником национализма. Парламент достиг переломного момента и потребовал от шаха уйти в отставку в пользу его сына, который может иметь больший потенциал в качестве "марионеточного короля". Хотя советники призывали [PER.GetLeader] уйти в отставку, пока страна еще позволяет это сделать, так как он может в конечном итоге "потерять голову", как покойные французские короли, он отказался принять предложение Парламента, ссылаясь на то, что ему суждено быть королем, и что он не поддастся воле некоторых "Змей с серебряными языками". \nВместо этого он решил активно оспаривать власть Парлемента и приказал своим подчиненным арестовывать, избивать или подкупать Парлемент, чтобы тот поддержал его вместо этих "отъявленных головорезов". Что это будет означать для этой хрупкой нации, неизвестно, но что точно, так это то, что без кровопролития не обойдется." 
+TCS_persia.1.a:0 "Конституции не будет!". 
+TCS_persia.2.t:0 "Общий конфликт" 
+TCS_persia.2.d:0 "Реза Хан и Таки Пессан, оба размещенные в [RezaKhanPosition], потребовали, чтобы другой был перемещен в другой регион; в регион с большей властью. Это перемещение власти для того, чтобы получить больше влияния в стране". 
+TCS_persia.2.a:0 "Переместить Реза Хана". 
+TCS_persia.2.b:0 "Переместить Таки Пессана" 
+TCS_persia.2.c:0 "Скажите им, чтобы шли охотиться или что-то в этом роде". 
+TCS_persia.3.t:0 "Смерть Насруллы Хана" 
+TCS_persia.3.d:0 "Великий государственный деятель Мирза Насрулла-хан скончался, и с его смертью политика Ирана изменилась". 
+TCS_persia.3.a:0 "По крайней мере, он ушел с миром". 
+TCS_persia.4.t:0 "Мирза Кучак Хан в правительстве?" 
+TCS_persia.4.d:0 "Мирза Кучак Хан обратился к нам с просьбой ввести его в правительство, однако, он будет доволен должностью губернатора Гилана." 
+TCS_persia.4.a:0 "Из него получится великий государственный деятель". 
+TCS_persia.4.b:0 "Губернатор - это хорошо". 
+TCS_persia.4.c:0 "Что? Нет!" 
+TCS_persia.5.t:0 "Победа в Герате!" 
+TCS_persia.5.d:0 "После того, как наши армии захватили Герат, пятно провала первой Гератской кампании было стерто, и теперь это не более чем далекое воспоминание. С нашей победой меняется отношение между Британией и Россией, будем ли мы теперь просить мира или будем продолжать?". 
+TCS_persia.5.a:0 "Торговля опиумом звучит прибыльно..." 
+TCS_persia.5.b:0 "Возьмите Герат, это все, что нам нужно!" 
+TCS_persia.5.c:0 "Взять Герат и подчинить себе все к востоку от него!" 
+TCS_persia.5.e:0 "Афганистан должен быть покорен!" 
+TCS_Persia_constitutional_revolt.1.t:0 "Конституционная революция" 
+TCS_Persia_constitutional_revolt.1.d:0 "Время коррумпированных монархий подошло к концу. Впервые в Иране будет установлена республика. Императорский дворец осаждают конституционные силы во главе с Саттар Ханом, а проконституционные деятели собрались вокруг [ENG.GetAdjective] посольства, чтобы бороться против старого и слабого [PER.GetLeader].\n\n[PER.GetLeader], уже в огромных долгах и на смертном одре, уступил конституционалистам и дал им право создать официальную конституцию. После избрания первых членов все еще идет дискуссия о том, кто составит большинство в парламенте." 
+TCS_Persia_constitutional_revolt.1.a:0 "Мирза Насрулла-хан формирует большинство!". 
+TCS_Persia_constitutional_revolt.1.b:0 "Саттар Хан создает консервативное правительство." 
+TCS_Persia_constitutional_revolt.1.c:0 "Сейед Абдолла Бехбахани и другие имамы формируют основную часть правительства." 
+TCS_Persia_constitutional_revolt.2.t:0 "Революция подавлена" 
+TCS_Persia_constitutional_revolt.2.d:0 "Его Императорскому Величеству,\n\n\nНаши армии уже некоторое время сражаются с населением. Казалось, что на некоторое время восстание увенчается успехом, но нам удалось отбить протестующих.\n\nЛидеры Конституции были арестованы и приговорены к смерти за измену.\n\nПохоже, что в стране снова становится спокойно.\n\nОт верховного командования,\n\nВладимир Ляхов." 
+TCS_Persia_constitutional_revolt.2.a:0 "Служит им верно!" 
+TCS_Persia_constitutional_revolt.3.t:0 "[PER.GetLeader] Отрекается от престола" 
+TCS_Persia_constitutional_revolt.3.d:0 "Конституционный подъем в Иране не остался незамеченным для монархии. [PER.GetLeader] решил отречься от престола, так как он болен и скоро ляжет на смертный одр. Трон занял его сын, Мохаммед Али Шах. В отличие от своего отца, он выступает против конституции и может попытаться осадить недавно созданный парламент. В Иране теперь есть конституция, и теперь это конституционная монархия. Каджарская монархия - не более чем фигура главы.\n\nВремя покажет, будет ли он действительно бороться с парламентом..." 
+TCS_Persia_constitutional_revolt.3.a:0 "По крайней мере, монархия в безопасности!" 
+TCS_Persia_constitutional_revolt.4.t:0 "Бомбардировка парламента!" 
+TCS_Persia_constitutional_revolt.4.d:0 "Король с помощью британцев и русских взялся за оружие против парламента, который имел наглость выступить против его императорского величества. Сейчас мы войдем в здание парламента с артиллерией и солдатами и арестуем нелегитимных фигурантов." 
+TCS_Persia_constitutional_revolt.4.a:0 "Разнести все на куски!". 
+TCS_Persia_constitutional_revolt.5.t:0 "Мохаммед Али Шах Каджар отстранен от власти" 
+TCS_Persia_constitutional_revolt.5.d:0 "Попытка Мохаммеда Али Шаха сместить парламент закончилась полным провалом, даже при помощи британцев и русских. Теперь он должен отречься от престола в пользу своего молодого преемника, которого парламент может использовать в качестве марионеточного короля.\n\nПохоже, не все пошло по плану." 
+TCS_Persia_constitutional_revolt.5.a:0 "Мирза Насрулла Хан формирует большинство!" 
+TCS_Persia_constitutional_revolt.5.b:0 "Саттар Хан создает консервативное правительство." 
+TCS_Persia_constitutional_revolt.5.c:0 "Сейед Абдолла Бехбахани и другие имамы формируют основную часть правительства." 
+TCS_persia_rebel_army.1.t:0 "Армия не может сдержать протестующих!". 
+TCS_persia_rebel_army.1.d:0 "Когда улицы заполняются протестующими и бунтовщиками, армия и местные полицейские силы делают все возможное, чтобы сдержать и отогнать массы. По мере того, как в людей стреляют, толпы становятся все больше и больше, а армия и полиция постепенно теряют контроль над ситуацией." 
+TCS_persia_rebel_army.1.a:0 "Армии и полиции придется довольствоваться тем, что есть". 
+TCS_persia_rebel_army.1.b:0 "Использовать некоторые личные богатства членов семьи Каджаров". 
+TCS_persia_rebel_army.2.t:0 "Армия теряет контроль над ситуацией". 
+TCS_persia_rebel_army.2.d:0 "Армия и полиция делают все возможное, чтобы подавить восстание, но постепенно они устают, в то время как постоянно растущие толпы становятся все более возбужденными. " 
+TCS_persia_rebel_army.2.a:0 "Мы не в состоянии им помочь". 
+TCS_persia_rebel_army.2.b:0 "Передайте армии и полиции, чтобы они нацелились на ключевых зачинщиков". 
+TCS_persia_diplomacy.1.t:0 "Персия предлагает порты с теплыми водами". 
+TCS_persia_diplomacy.1.d:0 "Персия, наш сосед на юге, предложила нам использовать их теплые порты, и за их проблемы мы заплатим им небольшую сумму, это несомненно поможет нашей стране в долгосрочной перспективе." 
+TCS_persia_diplomacy.1.a:0 "Нам нужна вся теплая вода, которую мы можем получить". 
+TCS_persia_diplomacy.1.b:0 "Скажите им, что мы...". 
+TCS_persia_diplomacy.2.t:0 "Возвращение иранского азербайджанского" 
+TCS_persia_diplomacy.2.d:0 "После наших успехов на Кавказе, иранцы получают обратно свои старые государства, которые они отдали нам." 
+TCS_persia_diplomacy.2.a:0 "Спасибо, Иран". 
+
+### Parties ### 
+
+PER_leninism_party:0 "ФЭА" 
+PER_leninism_party_long:0 "Ферка'йе Эджтема'июн-е 'Аммйюн" 
+PER_marxism_party:0 "ФЭА" 
+PER_marxism_party_long:0 "Ферка'йе Эджтема'июн-е 'Аммйюн" 
+PER_rev_socialism_party:0 "ФЭА" 
+PER_rev_socialism_party_long:0 "Ферка'йе Эджтема'июн-е 'Аммйюн" 
+PER_soc_democracy_party:0 "ФЭА" 
+PER_soc_democracy_party_long:0 "Ферка'йе Эджтема'июн-е 'Аммйюн" 
+PER_soc_liberal_party:0 "ДжА" 
+PER_soc_liberal_party_long:0 "Джаме'-е Адамият" 
+PER_lib_conservatism_party:0 "АБМ" 
+PER_lib_conservatism_party_long:0 "Анжоман-е Баг-е Мейкадех" 
+PER_soc_conservatism_party:0 "АМ" 
+PER_soc_conservatism_party_long:0 "Анжоман-и-Макфи" 
+PER_auth_democrat_party:0 "Каджар" 
+PER_auth_democrat_party_long:0 "Селселе-е Каджар" 
+PER_pat_autocrat_party:0 "Каджар" 
+PER_pat_autocrat_party_long:0 "Селселе-е Каджар" 
+PER_fascism_party:0 "Каджар" 
+PER_fascism_party_long:0 "Селселе-е Каджар" 
+
+### Country Name ### 
+
+PER_leninism:0 "Иран" 
+PER_leninism_DEF:0 "Иран" 
+PER_leninism_ADJ:0 "Иранск." 
+PER_marxism:0 "Иран" 
+PER_marxism_DEF:0 "Иран" 
+PER_marxism_ADJ:0 "Иран" 
+PER_rev_socialism:0 "Иран" 
+PER_rev_socialism_DEF:0 "Иран" 
+PER_rev_socialism_ADJ:0 "Иранск." 
+PER_soc_democracy:0 "Иран" 
+PER_soc_democracy_DEF:0 "Иран" 
+PER_soc_democracy_ADJ:0 "Иранск." 
+PER_soc_liberal:0 "Иран" 
+PER_soc_liberal_DEF:0 "Иран" 
+PER_soc_liberal_ADJ:0 "Иранск." 
+PER_lib_conservativism:0 "Иран" 
+PER_lib_conservativism_DEF:0 "Иран" 
+PER_lib_conservativism_ADJ:0 "Иранск." 
+PER_soc_conservatism:0 "Иран" 
+PER_soc_conservatism_DEF:0 "Иран" 
+PER_soc_conservatism_ADJ:0 "Иранск." 
+PER_auth_democrat:0 "Возвышенное государство Персия" 
+PER_auth_democrat_DEF:0 "Возвышенное государство Персия" 
+PER_auth_democrat_ADJ:0 "Персидск." 
+PER_pat_autocrat:0 "Возвышенное государство Персия" 
+PER_pat_autocrat_DEF:0 "Возвышенное государство Персия" 
+PER_pat_autocrat_ADJ:0 "Персидск." 
+PER_fascism:0 "Возвышенное государство Персия" 
+PER_fascism_DEF:0 "Возвышенное государство Персия" 
+PER_fascism_ADJ:0 "Персидск." 
+
+### Focuses ### 
+
+PER_Focus_ID:0 "" 
+PER_Focus_ID_desc:0 "" 
+PER_vatanam_vatanam:0 "§LВатанам Ватанам Ватанам Ватанам§!" 
+PER_vatanam_vatanam_desc:0 "О моя родина, как ты великолепна. Когда-то наши земли отличались богатством, культурой и прогрессом. Теперь она превратилась в упадочный остов того, чем когда-то была". 
+PER_pawn_in_the_great_game:0 "Просто пешка в большой игре". 
+PER_submit_to_russia:0 "Подчиниться [RUS.GetNameDef]" 
+PER_submit_to_england:0 "Подчиниться [ENG.GetName]" 
+PER_resist_imperialists:0 "Перевернуть правление" 
+PER_russian_warm_water_ports:0 "Предоставить России порты с теплой водой" 
+PER_in_the_shadow_of_bear:0 "В тени медведя" 
+PER_renounce_claim_caucasus:0 "Отказаться от наших претензий на Кавказе" 
+PER_Oil_concessions:0 "Нефтяные концессии" 
+PER_secure_arms:0 "Обеспечить безопасность британского оружия" 
+PER_the_sun_never_sets:0 "Солнце может никогда не заходить" 
+PER_befriend_ottomans:0 "Два лазарета" 
+PER_revanchist_legacy:0 "Наследие реваншистов" 
+PER_increase_gendarmerie_budget:0 "Увеличить бюджет жандармерии" 
+PER_support_soc_dems:0 "Поддерживать умеренных" 
+PER_support_conservatists:0 "Захват религии" 
+PER_ban_traditional_clothes:0 "Движение за запрет традиционной одежды" 
+PER_ban_western_clothes:0 "Движение за запрет западной одежды" 
+PER_legacy_of_kaveh:0 "Наследие Кавеха" 
+PER_legacy_of_imam_hussein:0 "Наследие имама Хусейна" 
+PER_reject_constitution:0 "Отказ от конституции" 
+PER_compromise_monarchy:0 "Компромисс по монархии" 
+PER_enforce_royal_rule:0 "Усилить монархическую власть" 
+PER_inspire_persia:0 "Восстановить иранскую идентичность" 
+PER_engelabeh_e_mashruteh:0 "Конституционная революция" 
+PER_engelabeh_e_mashruteh_desc:0 "С момента установления династии Каджаров кажется, что Иран становится все хуже и хуже. Смерть печально известного Насер ад-Дин-шаха Каджара ознаменовала переломный момент в власти Каджаров, их могущество идет на убыль, и теперь настало время нанести удар." 
+PER_ensure_army_loyalty:0 "Обеспечить лояльность армии" 
+PER_crush_constitutionalist_dream:0 "Сокрушить мечту конституционалистов" 
+PER_placate_parliament:0 "Успокоить парламент, пока..." 
+PER_bombard_parliament:0 "Разбомбить парламент" 
+PER_expand_dar_al_funun:0 "Расширить Дар Аль Фунун" 
+PER_cyrus_cylinder:0 "Хартия прав человека" 
+PER_friday_prayers:0 "Шиитские молитвы джуму'а" 
+PER_islamic_school:0 "Исламские школы" 
+PER_sufi_mysticism:0 "Кружащийся дервиш" 
+PER_imperial_legacy:0 "Могущество делает право" 
+PER_qajar_legacy:0 "Укрепление государства Каджаров" 
+PER_as_god_willed:0 "Назначенный Богом" 
+PER_cossack_brigade:0 "Казачья бригада: §GReorganized§!" 
+PER_progress_foci_tt:0 "Этот фокус показывает прогресс и ничего не делает сам по себе". 
+var_russian_persian_relation_more_2_tt:0 "§Y[RUS.GetAdjective]§! мнение о нас должно быть не ниже §GСреднего§!". 
+var_per_army_reform_20_tt:0 "Набрать §G20%§! в направлении §YАрмейских Реформ§!". 
+
+
+### Ideas ### 
+
+PER_Idea_ID:0 "" 
+PER_Idea_ID_desc:0 "" 
+PER_curtailing_dissent:0 "Подавление инакомыслия" 
+PER_curtailing_dissent_desc:0 "Армия занята подавлением инакомыслия и поэтому не может должным образом подготовиться к войне". 
+PER_iranian_decadence:0 "Иранский упадок" 
+PER_iranian_decadence_desc:0 "После смерти Амира Кабира и убийства Насера Аль-Дина Шаха иранцы просто потеряли интерес к своей стране и стали все меньше и меньше заботиться как об экономике, так и о политике.\n\nИранцы потеряли мотивацию поддерживать страну, и общество превратилось в мелкое кумовство и массовое взяточничество.\n\n§GПо крайней мере, наши чаи хороши...§!" 
+PER_iranian_decadence_2:0 "Иранский упадок" 
+PER_iranian_decadence_2_desc:0 "После смерти Амира Кабира и убийства Насера Аль-Дина Шаха иранцы просто потеряли интерес к своей стране и стали все меньше и меньше заботиться как об экономике, так и о политике.\n\nИранцы потеряли мотивацию поддерживать страну, и общество превратилось в мелкое кумовство и массовое взяточничество.\n\n§GПо крайней мере, наши чаи хороши...§!" 
+PER_iranian_decadence_3:0 "Иранский упадок" 
+PER_iranian_decadence_3_desc:0 "После смерти Амира Кабира и убийства Насера Аль-Дина Шаха иранцы просто потеряли интерес к своей стране и стали все меньше и меньше заботиться как об экономике, так и о политике.\n\nИранцы потеряли мотивацию поддерживать страну, и общество превратилось в мелкое кумовство и массовое взяточничество.\n\n§GПо крайней мере, наши чаи хороши...§!" 
+PER_iranian_decadence_4:0 "Иранский упадок" 
+PER_iranian_decadence_4_desc:0 "После смерти Амира Кабира и убийства Насера Аль-Дина Шаха иранцы просто потеряли интерес к своей стране и стали все меньше и меньше заботиться как об экономике, так и о политике.\n\nИранцы потеряли мотивацию поддерживать страну, и общество превратилось в мелкое кумовство и массовое взяточничество.\n\n§GПо крайней мере, наши чаи хороши...§!" 
+PER_iranian_decadence_5:0 "Иранский упадок" 
+PER_iranian_decadence_5_desc:0 "После смерти Амира Кабира и убийства Насера Аль-Дина Шаха иранцы просто потеряли интерес к своей стране и стали все меньше и меньше заботиться как об экономике, так и о политике.\n\nИранцы потеряли мотивацию поддерживать страну, и общество превратилось в мелкое кумовство и массовое взяточничество.\n\n§GПо крайней мере, наши чаи хороши...§!" 
+PER_constitutional_rise:0 "Конституция?" 
+PER_constitutional_rise_desc:0 "Поскольку Каджарская монархия настолько некомпетентна, насколько она есть, население обсуждает идею конституции, рассматривая британский стиль правления.\n\n\nРеза Хан находится в: §Y[RezaKhanPosition]§!\n\n\nТаки Пессан находится в: §Y[PessianPosition]§!\n\nНаше количество контроля армии добавляет [?var_army_persia|+0] к шансу восстания.\n\nНаше общее количество очков к шансу восстания составляет: [?var_revolt_chance|+0]\n\nНаша стабильность£stability_texticon умножает наши очки к восстанию на [?var_multiply_var|-].\n\nЧтобы восстание было успешным, количество очков должно быть меньше, чем §R17§!!\n\nВ настоящее время восстание будет [RevoltFailSucceed].\n\nТаймер восстания запускается завершением §YУсиление монархической власти§! или §Yпутем бомбардировки парламента§!". 
+PER_antiquated_agriculture:0 "Устаревший сельскохозяйственный сектор" 
+PER_antiquated_agriculture_desc:0 "О механизации и автоматизации в сельскохозяйственном секторе просто не может быть и речи. В результате низшие классы, которые составляют большинство населения Ирана, страдают больше всех.\n\n§RЕсли какая-либо страна оккупирует юг Ирана, это, несомненно, приведет к массовому голоду§!". 
+PER_humilated_army:0 "Устаревшая структура армии" 
+PER_humilated_army_desc:0 "В Иране не существует настоящей армии. Армия в основном состоит из левоподобных батальонов, которые призываются в провинции по мере необходимости. Армия не предназначена для походов в другие страны, она призвана подавлять инакомыслие дома и защищать монархию." 
+PER_loyal_army_payment:0 "Повышенные выплаты армии". 
+PER_human_rights_charter:0 "Хартия прав человека" 
+PER_islamic_schooling:0 "Исламское школьное образование" 
+PER_might_making_right:0 "Могущество делает право" 
+PER_russian_payments_warm_water_ports:0 "Российские платежи" 
+PER_RUS_payments_to_persia:0 "Платежи в Персию" 
+PER_british_oil_payments2:0 "Британские платежи" 
+PER_sun_never_set:0 "Принятие британского господства" 
+### Flags ### 
+
+### Tooltips ### 
+PER_persia_revolution_info_tt:0 "[RezaKhanPosition]" 
+PER_going_anti_monarch_tt:0 "§YМеджлис будет бороться за то, кто будет править Ираном.§!\n" 
+PER_going_monarch_tt:0 "§RЕсли король примет решение об абсолютном правлении, его страна может отвернуться от него.§!\n\n" 
+PER_if_stability_lower_than_40_tt:0 "Если Стабильность£stability_texticon продолжит оставаться ниже §R35%§!, §YМеджлис§! возьмется за оружие против шаха.\n\n" 
+PER_army_control_lower_10_tt:0 "Если контроль над страной со стороны §Lпостоянной армии§!£manpower_texticon будет ниже §R-10§!, народ поднимется на восстание.\n\n" 
+var_army_tooltip:0 "§YУправление армией§!\nЭто показывает, какой контроль армия имеет над нашей страной." 
+var_army_tooltip_delayed:0 "Если количество контроля армии над нашей страной превысит §G30§! армия будет медленно истощать нашу политическую власть." 
+var_increase_army_10_tt:0 "Увеличивает §YКонтроль армии§! на §G10§! но увеличивает §YСтабильность§! на §G5%§!£стабильность_texticon\n\nПотерять §R100§!£политическую власть." 
+var_decrease_army_10_tt:0 "Уменьшает §YКонтроль армии§! на §R10§! и уменьшает §YВоенную Поддержку§! на §R5§!£war_support_texticon\n\nДаёт §R-100§!£pol_power." 
+require_100_pp:0 "Требуется §Y100§!£pol_power." 
+require_100_pp_not_idea:0 "Требуется §Y100§!£pol_power и у вас не должно быть идеи §YПодавление инакомыслия§!". 
+add_idea_dissent_tt:0 "Добавляет идею §YПодавление инакомыслия§! на 80 дней, которая дает:\n§G1%§!£stability_texticon Еженедельную §YСтабильность§!\n§G1%§!£war_support_texticon Еженедельную §ҮПоддержку войны§!\n§R40%§! Более эффективное воздействие вражеских партизан на нас\n§R-25%§! Организации дивизии\n\nДаёт §R-100§!\n£pol_power. 
+PER_army_civil_war_tt:0 " §YРеза Хан§!, §YТаки Пессан§! и различные другие военные элементы будут бороться за §YИран§!.\n\n§YРеза Хан§! размещен в §YТабризе§!.\n\n§YТаки Пессан§! размещен в §YГилане§!\n\n§RКонституционалисты воспользуются этим!§!" 
+var_persia_less_than_30_tt:0 "§HУправление армией§! равно или меньше §Y30§!". 
+var_persia_army_up_10_tt:0 "§GУвеличивает§! Контроль армии на §G10§!\n" 
+var_persia_down_up_10_tt:0 "§RУмеьшает§! Контроль армии на §R10§!\n" 
+PER_iranian_decadence_up_tt:0 "Уменьшает §RИранский упадок§!\n\n" 
+PER_pls_store_pp:0 "Было бы разумно хранить по крайней мере §Y250§!£pol_power." 
+PER_revolution_crushed:0 "Конституционная революция разгромлена" 
+PER_constitutional_revolution_happened:0 "Конституционная революция произошла" 
+PER_bombard_parliament_failed:0 "Бомбардировка парламента провалилась" 
+DIPLOMACY_MILACC:0 "Военный доступ" 
+PER_we_gain_tt:0 "Мы выиграли: " 
+PER_they_gain_tt:0 "Они получают: " 
+PER_active_for_200_tt:0 "Оба духа действуют 300 дней.\n" 
+PER_in_the_shadow_of_bear_tt:0 "И §Y[420.GetName]§! и §Y[419.GetName]§! будут переведены в @RUS§Y[RUS.GetName]§! Эти регионы будут переданы обратно после окончания любого крупного конфликта и будут более развитыми.\n\n§Y[GIL.GetNameDef]§! §RВосстанет в§! §Y[420.GetName]§! §Rпосле того, как пройдет достаточно времени после передачи обратно указанных штатов!§!" 
+PER_lose_small_guns_tt:0 "§RНебольшое количество огнестрельного оружия пропадет...§!\n" 
+PER_lose_big_guns_tt:0 "§РБольшое количество огнестрельного оружия пропадет...§!\n" 
+PER_remove_decadence_tt:0 "Удаляет все идеи, связанные с §YУпадком§!". 
+var_british_persian_relation_up_tt:0 "Повышает мнение с §Y[ENG.GetNameDef]§!". 
+var_british_persian_relation_down_tt:0 "Уменьшите наше мнение с помощью §Y[ENG.GetNameDef]§!". 
+var_russian_persian_relation_up_tt:0 "Повышает наше мнение с помощью §Y[RUS.GetNameDef]§!" 
+var_russian_persian_relation_down_tt:0 "Уменьшает наше мнение с §Y[RUS.GetNameDef]§!" 
+PER_monarchist:0 "Монархический" 
+### Companies ### 
+PER_cossacks_army:0 "Казачьи бригады" 
+PER_nader_shah_reform:0 "Реформы Надер-шаха" 
+PER_qizilbash_reform:0 "Кызылбашские левиты" 
+PER_european_reform:0 "Европейская армия" 
+recon_tech_research:0 "Технологии разведки" 
+
+### Ministers ### 
+reza_khan_idea:0 "Реза Хан Мирпандж" 
+reza_khan_idea_desc:0 "Казачий генерал, Реза Хан - предводитель кавалерии и сражался против многих восстаний". 
+hog_respected_war_hero:0 "Уважаемый герой войны" 
+abdolhossein_teymourtash_hog:0 "Абдул-Хуссейн Теймурташ" 
+sattar_khan_hog:0 "Саттар Хан" 
+mirza_kuchik_hog:0 "Мирза Кучак Хан". 
+abdol_majid_mirza_hog:0 "Абдол Маджид Мирза Эйн-эд-Доулех". 
+mirza_nasrullah_hog:0 "Мирза Насрулла Хан" 
+mirza_nasrullah_died:0 "Мирза Насрулла Хан скончался" 
+seyyed_abdollah_hog:0 "Сейед Абдолла Бехбахани" 
+firouz_dowleh_iii_fom:0 "Фируз Носрат-эд-Доулех III" 
+firouz_dowleh_iii_for:0 "Фируз Носрат-эд-Доулех III" 
+abdol_qasem_molk_fom:0 "Аболькасем Насер оль-Мольк" 
+mirza_abdul_talibov_fom:0 "Мирза Абдул-Рахим Талибов Табризи" 
+abdol_qasem_molk_hog:0 "Аболькасем Насер оль-Мольк" 
+mohammad_ala_saltaneh_for:0 "Мухаммад-Али Ала аль-Салтанех" 
+hog_old_compromiser:0 "Старый компромисс" 
+mirza_nasrullah_for:0 "Мирза Насрулла Хан" 
+ahmad_moshir_sec:0 "Ахмад Мошир аль-Салтанех" 
+morteza_gholi_sec:0 "Мортеза Голи Хан Хедаят " 
+mirza_mahmoud_khan_sec:0 "Мирза Махмуд Хан" 
+sheikh_fazlollah_sec:0 "Шейх Фазлоллах Нури" 
+reza_khan_sec:0 "Реза Мирпандж" 
+hossein_naini_sec:0 "Мухаммад Хоссейн Наини" 
+### Leaders ### 
+
+### Tech? ### 
+
+###### Scripted loc 
+var_position_khuzestan:0 "Хузестан" 
+var_position_gilan:0 "Гилан" 
+var_position_isfahan:0 "Исфахан" 
+var_position_tabriz:0 "Тебриз" 
+var_position_teheran:0 "Тегеран" 
+var_position_golestan:0 "Голестан" 
+PER_move_reza_khan_tt:0 "Переместить §YРеза Хана§!". 
+PER_move_pessian_tt:0 "Переместить §YТаки Пессана§!" 
+pessian_not_in_service_tt:0 "§YПессан§! не поступил на службу." 
+persia_pessian_army_text_NA_tt:0 "N/A" 
+persia_pessian_army_text_tt:0 "[PessianPosition]" 
+require_30_pp:0 "Требуется §Y30§!£pol_power." 
+var_position_pessian_NA:0 "§YНе работает§!" 
+
+### decisions ### 
+PER_fill:0 "" 
+PER_army_control_cat:0 "Персидская армия" 
+PER_army_control_cat_desc:0 "В настоящее время Реза Хан находится в: §Y[RezaKhanPosition]§! что дает [?var_reza_khan_position] очков к шансу восстания.\n\nВ настоящее время Таки Пессан находится в: §Y[PessianPosition]§! что дает [?var_pessian_position] Очки к шансу восстания\n\n\nВ настоящее время мы находимся на [?var_per_army_reform?|+0%] пути реформирования нашей армии.\n\nВоспитание местных племен уменьшает реформу армии, завершение очагов и решений реформы армии увеличивает реформу армии. При §G100%§! Реформа армии позволяет избавиться от устаревшей формы состава армии.\n\nРекомендуется приостановить игру, если вы нажмете любую из кнопок графического интерфейса.\n\n". 
+PER_army_too_much_control:0 "Опасное влияние армии" 
+PER_army_too_much_control_desc:0 "На армию полагаются слишком сильно, она приобрела огромное влияние и будет медленно истощать нашу политическую власть." 
+PER_move_rezakhan_tehran:0 "Переместить Реза Хана в Тегеран". 
+PER_move_rezakhan_khuzestan:0 "Переместить Реза Хана в Хузестан" 
+PER_move_rezakhan_gilan:0 "Переместить Реза Хана в Гилян" 
+PER_move_rezakhan_golestan:0 "Переместить Реза Хана в Голестан" 
+PER_move_rezakhan_isfahan:0 "Переместить Реза Хана в Исфахан" 
+PER_move_rezakhan_tabriz:0 "Переместить Реза Хана в Тебриз" 
+# 
+PER_move_pessian_tehran:0 "Переместить Таки Пессана в Тегеран" 
+PER_move_pessian_khuzestan:0 "Переместить Таки Пессана в Хузестан" 
+PER_move_pessian_gilan:0 "Переместить Таки Пессана в Гилан" 
+PER_move_pessian_golestan:0 "Переместить Таки Пессана в Голестан" 
+PER_move_pessian_isfahan:0 "Переместить Таки Пессана в Исфахан" 
+PER_move_pessian_tabriz:0 "Переместить Таки Пессана в Тебриз" 
+### 
+PER_qajar_monarch:0 "Каджарский монарх\n\n§LКаджарский монарх и, следовательно, легитимный глава государства.§!" 
+PER_anti_constitutionalist:0 "Ярый антиконституционалист" 
+PER_qajar_monarch_desc:0 "Каджарский монарх и, следовательно, легитимный глава государства." 
+# 
+PER_raise_tribes_kurd:0 "Поднять §YКурдские§! Племена" 
+PER_raise_tribes_qashqai:0 "Поднять §YКашкайские§! Племена" 
+PER_raise_tribes_azeri:0 "Поднять §YАзерские§! Племена" 
+PER_raise_tribes_arab:0 "Поднять §YАрабские§! Племена" 
+PER_raise_tribes_sistani:0 "Поднять §YСистанийские§! Племена" 
+PER_raise_tribes_turkmen:0 "Поднять §YТуркменские§! Племена" 
+PER_raise_tribes_mazandarani:0 "Поднять §YМазандарани§! Племена" 
+PER_raise_tribes_bakhtiari:0 "Поднять §YБахтиарийские§! Племена" 
+PER_raise_tribes_afghan:0 "Поднять §YАфганские§! Племена" 
+PER_raise_tribes_luri:0 "Поднять §YЛурийские§! Племена" 
+PER_raise_tribes_gilaki:0 "Поднять §YГилакийские§! Племена" 
+PER_raise_tribes_armenian:0 "Поднять §YАрмянские§! Племена" 
+PER_raise_tribes_georgian:0 "Поднять §YГрузинские§! племена" 
+# 
+PER_allow_pessian_into_service:0 "Повысить Пессана до майора" 
+PER_army_cat_info:0 "Здесь отображается информация". 
+PER_reorganize_cossack:0 "Реорганизовать казачью бригаду". 
+PER_move_rezakhan_dec:0 "Реза-хан передислоцируется" 
+PER_move_pessian_dec:0 "Пессан передислоцируется" 
+# 
+PER_revanchism_cat_desc:0 "И для §YРусских§! и для §YБританцев§! мы считаемся всего лишь пешкой в большой игре.\n\n§Y[ENG.GetAdjective]§! @ENG мнение о нас таково: [PersianBritishRelation]\n\n§Y[RUS.GetAdjective]§! @RUS мнение о нас: [PersianRussianRelation]\n " 
+PER_revanchism_cat:0 "Пешка, королева и король" 
+PER_retry_herat_campaign:0 "Гератская кампания @AFG" 
+PER_equip_rifles_kerman_khorasan_tt:0 "Экипировать рекрутов винтовками в §Y[414.GetName]§! и §Y[416.GetName]§!.\n" 
+PER_invade_afghanistan:0 "Вторжение в Афганистан! @AFG" 
+PER_swedish_gendarmerie:0 "Пригласить советников шведской жандармерии @SWE" 
+PER_mass_grain_imports:0 "Массовый импорт зерна" 
+PER_mass_grain_imports_tt:0 "\nПоскольку Персия все еще находится в стадии разработки, это способ удалить идею §YУстаревшего сельскохозяйственного сектора§! .\n" 
+
+# 
+PER_constitutional_movement_mission:0 "Судьба Ирана" 
+PER_constitutional_movement_cat:0 "§gКонституционная революция§!" 
+PER_constitutional_movement_cat_desc:0 "Реза Хан находится в: §Y[RezaKhanPosition]§!\n\nТаки Пессиан находится в: §Y[PessianPosition]§!\n\nНаше количество контроля армии добавляет [?var_army_persia|+0] к шансу восстания.\n\nНаша стабильность£stability_texticon умножает наши очки к восстанию на [?var_multiply_var|-]\n\n\nНаше общее количество очков к шансу восстания составляет: [?var_revolt_chance|+0].\n\nЧтобы восстание было успешным, количество очков должно быть меньше, чем §R17§!\n\nВ настоящее время восстание будет [RevoltFailSucceed].\n\nТаймер восстания запускается при выполнении §YУсиления власти Каджаров§! или §YПутем бомбардировки парламента§!". 
+RevoltFail:0 "§GПровал§!" 
+RevoltSucceed:0 "§RУспешно§!" 
+PER_constitutional_movement_cat_info:0 "Здесь показана информация." 
+# 
+PersianBritishRelation_Neutral:0 "§YНейтральные§!" 
+PersianBritishRelation_Placated:0 "§GПриземленные§!" 
+PersianBritishRelation_Average:0 "§GСредние§!" 
+PersianBritishRelation_Protective:0 "§GОборонительные§!" 
+PersianBritishRelation_Friendly:0 "§GДружелюбные§!" 
+PersianBritishRelation_Distrustful:0 "§RНедоверчивые§!" 
+PersianBritishRelation_Suspicious:0 "§RПодозрительные§!" 
+PersianBritishRelation_Angry:0 "§RЗлые§!" 
+PersianBritishRelation_Hatred:0 "§RНенавистные§!" 
+
+################# 
+### khuzestan ### 
+################# 
+SKR_leninism_party:0 "-" 
+SKR_leninism_party_long:0 "-" 
+SKR_marxism_party:0 "-" 
+SKR_marxism_party_long:0 "-" 
+SKR_rev_socialism_party:0 "-" 
+SKR_rev_socialism_party_long:0 "-" 
+SKR_soc_democracy_party:0 "-" 
+SKR_soc_democracy_party_long:0 "-" 
+SKR_soc_liberal_party:0 "-" 
+SKR_soc_liberal_party_long:0 "-" 
+SKR_lib_conservatism_party:0 "-" 
+SKR_lib_conservatism_party_long:0 "-" 
+SKR_soc_conservatism_party:0 "-" 
+SKR_soc_conservatism_party_long:0 "-" 
+SKR_auth_democrat_party:0 "Бану Кааб" 
+SKR_auth_democrat_party_long:0 "Племя Бану Кааб" 
+SKR_pat_autocrat_party:0 "Бану Кааб" 
+SKR_pat_autocrat_party_long:0 "Племя Бану Кааб" 
+SKR_fascism_party:0 "Бану Кааб" 
+SKR_fascism_party_long:0 "Племя Бану Кааб" 
+
+### Country Name ### 
+
+SKR_leninism:0 "Государство Хузестан" 
+SKR_leninism_DEF:0 "Государство Хузестан" 
+SKR_leninism_ADJ:0 "Арабск." 
+SKR_marxism:0 "Государство Хузестан" 
+SKR_marxism_DEF:0 "Государство Хузестан" 
+SKR_marxism_ADJ:0 "Государство Хузестан" 
+SKR_rev_socialism:0 "Государство Хузестан" 
+SKR_rev_socialism_DEF:0 "Государство Хузестан" 
+SKR_rev_socialism_ADJ:0 "Арабск." 
+SKR_soc_democracy:0 "Государство Хузестан" 
+SKR_soc_democracy_DEF:0 "Государство Хузестан" 
+SKR_soc_democracy_ADJ:0 "Арабск." 
+SKR_soc_liberal:0 "Государство Хузестан" 
+SKR_soc_liberal_DEF:0 "Государство Хузестан" 
+SKR_soc_liberal_ADJ:0 "Арабск." 
+SKR_lib_conservativism:0 "Государство Хузестан" 
+SKR_lib_conservativism_DEF:0 "Государство Хузестан" 
+SKR_lib_conservativism_ADJ:0 "Арабск." 
+SKR_soc_conservatism:0 "Государство Хузестан" 
+SKR_soc_conservatism_DEF:0 "Государство Хузестан" 
+SKR_soc_conservatism_ADJ:0 "Арабск." 
+SKR_auth_democrat:0 "Шейхство Мохаммера" 
+SKR_auth_democrat_DEF:0 "Шейхство Мохаммера" 
+SKR_auth_democrat_ADJ:0 "Арабск." 
+SKR_pat_autocrat:0 "Шейхство Мохаммера" 
+SKR_pat_autocrat_DEF:0 "Шейхство Мохаммера" 
+SKR_pat_autocrat_ADJ:0 "Арабск." 
+SKR_fascism:0 "Шейхство Мохаммера" 
+SKR_fascism_DEF:0 "Шейхство Мохаммера" 
+SKR_fascism_ADJ:0 "Арабск." 
+# 
+SKR_revolt_state:0 "Бунтующее государство" 
+# 
+TCS_sheikh_revolt.1.t:0 "Восстание шейха Хазала" 
+TCS_sheikh_revolt.1.d:0 "Шейх Хазал, который является эмиратом Мохаммера, решил бороться за независимое арабское государство в Хузестане. Обладая огромным состоянием, он смог заплатить местным племенам и ополченцам, чтобы они сражались за него. Если мы хотим и дальше контролировать наши нефтяные месторождения, это восстание должно быть немедленно подавлено!". 
+TCS_sheikh_revolt.1.a:0 "Сокрушить этих арабов!". 
+TCS_sheikh_revolt.1.b:0 "За арабов! (Играть за восстание)" 
+################# 
+### gilan ####### 
+################# 
+GIL_leninism:0 "Республика Гилян" 
+GIL_leninism_DEF:0 "Республика Гилян" 
+GIL_leninism_ADJ:0 "Иранск." 
+GIL_marxism:0 "Республика Гилян" 
+GIL_marxism_DEF:0 "Республика Гилян" 
+GIL_marxism_ADJ:0 "Республика Гилян" 
+GIL_rev_socialism:0 "Республика Гилян" 
+GIL_rev_socialism_DEF:0 "Республика Гилян" 
+GIL_rev_socialism_ADJ:0 "Иранск." 
+GIL_soc_democracy:0 "Республика Гилян" 
+GIL_soc_democracy_DEF:0 "Республика Гилян" 
+GIL_soc_democracy_ADJ:0 "Иранск." 
+GIL_soc_liberal:0 "Республика Гилян" 
+GIL_soc_liberal_DEF:0 "Республика Гилян" 
+GIL_soc_liberal_ADJ:0 "Иранск." 
+GIL_lib_conservativism:0 "Республика Гилян" 
+GIL_lib_conservativism_DEF:0 "Республика Гилян" 
+GIL_lib_conservativism_ADJ:0 "Иранск." 
+GIL_soc_conservatism:0 "Республика Гилян" 
+GIL_soc_conservatism_DEF:0 "Республика Гилян" 
+GIL_soc_conservatism_ADJ:0 "Иранск." 
+GIL_auth_democrat:0 "Государство Гилян" 
+GIL_auth_democrat_DEF:0 "Государство Гилян" 
+GIL_auth_democrat_ADJ:0 "Иранск." 
+GIL_pat_autocrat:0 "Государство Гилян" 
+GIL_pat_autocrat_DEF:0 "Государство Гилян" 
+GIL_pat_autocrat_ADJ:0 "Иранск." 
+GIL_fascism:0 "Государство Гилян" 
+GIL_fascism_DEF:0 "Государство Гилян" 
+GIL_fascism_ADJ:0 "Иранск." 
+# 
+GIL_leninism_party:0 "-" 
+GIL_leninism_party_long:0 "-" 
+GIL_marxism_party:0 "-" 
+GIL_marxism_party_long:0 "-" 
+GIL_rev_socialism_party:0 "Джангали" 
+GIL_rev_socialism_party_long:0 "Джангали" 
+GIL_soc_democracy_party:0 "-" 
+GIL_soc_democracy_party_long:0 "-" 
+GIL_soc_liberal_party:0 "-" 
+GIL_soc_liberal_party_long:0 "-" 
+GIL_lib_conservatism_party:0 "-" 
+GIL_lib_conservatism_party_long:0 "-" 
+GIL_soc_conservatism_party:0 "-" 
+GIL_soc_conservatism_party_long:0 "-" 
+GIL_auth_democrat_party:0 "-" 
+GIL_auth_democrat_party_long:0 "-" 
+GIL_pat_autocrat_party:0 "-" 
+GIL_pat_autocrat_party_long:0 "-" 
+GIL_fascism_party:0 "-" 
+GIL_fascism_party_long:0 "-" 
+######## victory points 
+VICTORY_POINTS_4609:0 "Рашт" 
+VICTORY_POINTS_4901:0 "Астара" 
+VICTORY_POINTS_7604:0 "Орумие" 
+VICTORY_POINTS_8093:0 "Семнан" 
+VICTORY_POINTS_12818:0 "Гармсар" 
+VICTORY_POINTS_10782:0 "Сараван" 
+VICTORY_POINTS_2039:0 "Пахра" 
+VICTORY_POINTS_10782:0 "Керман" 
+VICTORY_POINTS_10782:0 "Дауздаб" 
+VICTORY_POINTS_5005:0 "Абадан" 
+VICTORY_POINTS_12863:0 "Лар" 
+VICTORY_POINTS_5098:0 "Керманшах" 
+VICTORY_POINTS_829:0 "Илам" 
+VICTORY_POINTS_8125:0 "Занджан" 
+VICTORY_POINTS_10922:0 "Кум" 
+VICTORY_POINTS_7602:0 "Горган" 
+VICTORY_POINTS_12895:0 "Захедан" 
+###### bookmarks 
+PER_COMING_STORM_DESC:0 "Персия, или, как ее называют люди, живущие в самой стране: Иран находится на задворках со времен упадка династии Сефевидов и последующей династии Афшаридов. Каджарское правление в основном изобиловало коррупцией, жаждущими денег политиками, желающими только увеличить собственное состояние, а также внешними силами, пытающимися контролировать шахматную доску, которой является Персия. Однако в стране разгорается пожар, пожар революции. Этот огонь может положить конец абсолютной власти Каджаров и вместо этого создать конституцию, не принимая во внимание шаха. Хватит ли огня, чтобы сжечь Льва, или иранские традиции выдержат испытание временем?". 

@@ -1,0 +1,140 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Parties ### 
+
+ SAX_leninism_party:0 "СДПГ" 
+ SAX_leninism_party_long:0 "Социал-демократическая партия Германии - Левые Радикалы" 
+ SAX_marxism_party:0 "СДПГ" 
+ SAX_marxism_party_long:0 "Социал-демократическая партия Германии - Марксисты" 
+ SAX_rev_socialism_party:0 "СДПГ" 
+ SAX_rev_socialism_party_long:0 "Социал-демократическая партия Германии - Революционисты" 
+ SAX_soc_democracy_party:0 "СДПГ" 
+ SAX_soc_democracy_party_long:0 "Социал-демократическая партия Германии - Реформисты" 
+ SAX_soc_liberal_party:0 "СНп" # 
+ SAX_soc_liberal_party_long:0 "Свободная народная партия" 
+ SAX_lib_conservatism_party:0 "НЛП" # 
+ SAX_lib_conservatism_party_long:0 "Национально-либеральная партия" 
+ SAX_soc_conservatism_party:0 "Ц" 
+ SAX_soc_conservatism_party_long:0 "Центристская партия" 
+ SAX_auth_democrat_party:0 "ПГР" # 
+ SAX_auth_democrat_party_long:0 "Партия германского рейха" 
+ SAX_pat_autocrat_party:0 "КПГ" # 
+ SAX_pat_autocrat_party_long:0 "Консервативная партия Германии" 
+ SAX_fascism_party:0 "ЭО" 
+ SAX_fascism_party_long:0 "Экономическое объединение" 
+
+ #1918 Startdate Parties 
+
+ SAX_1918_leninism_party:0 "Лига Спартака" #КПГ 1918 30 December 
+ SAX_1918_leninism_party_long:0 "Лига Спартака" 
+ SAX_1918_marxism_party:0 "НСДПГ" 
+ SAX_1918_marxism_party_long:0 "Независимая Социал-демократическая партия Германии - Левое крыло" 
+ SAX_1918_rev_socialism_party:0 "НСДПГ" 
+ SAX_1918_rev_socialism_party_long:0 "Независимая Социал-демократическая партия Германии - Правое крыло" 
+ SAX_1918_soc_democracy_party:0 "СДПГ(Б)" 
+ SAX_1918_soc_democracy_party_long:0 "Социал-демократическая партия Германии(Большинство)" 
+ SAX_1918_soc_liberal_party:0 "ГДП" 
+ SAX_1918_soc_liberal_party_long:0 "Германская демократическая партия" 
+ SAX_1918_lib_conservatism_party:0 "НЛП" #ННП 1918 15 December 
+ SAX_1918_lib_conservatism_party_long:0 "Национально-либеральная партия" 
+ SAX_1918_soc_conservatism_party:0 "Ц" 
+ SAX_1918_soc_conservatism_party_long:0 "Центристская партия" 
+ SAX_1918_auth_democrat_party:0 "-" #НННП 1918 10 December 
+ SAX_1918_auth_democrat_party_long:0 "" 
+ SAX_1918_pat_autocrat_party:0 "КПГ" #НННП 1918 10 December 
+ SAX_1918_pat_autocrat_party_long:0 "Консервативная партия Германии" 
+ SAX_1918_fascism_party:0 "НПО" #НННП 1918 10 December #НРП 1919 5 January 
+ SAX_1918_fascism_party_long:0 "Немецкая партия Отечества" 
+
+
+ #Formed Parties 
+
+### Country Name ### 
+
+ SAX_leninism:0 "Королевство Саксония" 
+ SAX_leninism_DEF:0 "Королевство Саксония" 
+ SAX_leninism_ADJ:0 "Саксонск." 
+ SAX_marxism:0 "Королевство Саксония" 
+ SAX_marxism_DEF:0 "Королевство Саксония" 
+ SAX_marxism_ADJ:0 "Саксонск." 
+ SAX_rev_socialism:0 "Королевство Саксония" 
+ SAX_rev_socialism_DEF:0 "Королевство Саксония" 
+ SAX_rev_socialism_ADJ:0 "Саксонск." 
+ SAX_soc_democracy:0 "Королевство Саксония" 
+ SAX_soc_democracy_DEF:0 "Королевство Саксония" 
+ SAX_soc_democracy_ADJ:0 "Саксонск." 
+ SAX_soc_liberal:0 "Королевство Саксония" 
+ SAX_soc_liberal_DEF:0 "Королевство Саксония" 
+ SAX_soc_liberal_ADJ:0 "Саксонск." 
+ SAX_lib_conservatism:0 "Королевство Саксония" 
+ SAX_lib_conservatism_DEF:0 "Королевство Саксония" 
+ SAX_lib_conservatism_ADJ:0 "Саксонск." 
+ SAX_soc_conservatism:0 "Королевство Саксония" 
+ SAX_soc_conservatism_DEF:0 "Королевство Саксония" 
+ SAX_soc_conservatism_ADJ:0 "Саксонск." 
+ SAX_auth_democrat:0 "Королевство Саксония" 
+ SAX_auth_democrat_DEF:0 "Королевство Саксония" 
+ SAX_auth_democrat_ADJ:0 "Саксонск." 
+ SAX_pat_autocrat:0 "Королевство Саксония" 
+ SAX_pat_autocrat_DEF:0 "Королевство Саксония" 
+ SAX_pat_autocrat_ADJ:0 "Саксонск." 
+ SAX_fascism:0 "Королевство Саксония" 
+ SAX_fascism_DEF:0 "Королевство Саксония" 
+ SAX_fascism_ADJ:0 "Саксонск." 
+
+ SAX_1918_leninism:0 "Королевство Саксония" 
+ SAX_1918_leninism_DEF:0 "Королевство Саксония" 
+ SAX_1918_leninism_ADJ:0 "Саксонск." 
+ SAX_1918_marxism:0 "Королевство Саксония" 
+ SAX_1918_marxism_DEF:0 "Королевство Саксония" 
+ SAX_1918_marxism_ADJ:0 "Саксонск." 
+ SAX_1918_rev_socialism:0 "Королевство Саксония" 
+ SAX_1918_rev_socialism_DEF:0 "Королевство Саксония" 
+ SAX_1918_rev_socialism_ADJ:0 "Саксонск." 
+ SAX_1918_soc_democracy:0 "Советская Республика Саксония" 
+ SAX_1918_soc_democracy_DEF:0 "Советская Республика Саксония" 
+ SAX_1918_soc_democracy_ADJ:0 "Саксонск." 
+ SAX_1918_soc_liberal:0 "Королевство Саксония" 
+ SAX_1918_soc_liberal_DEF:0 "Королевство Саксония" 
+ SAX_1918_soc_liberal_ADJ:0 "Саксонск." 
+ SAX_1918_lib_conservatism:0 "Королевство Саксония" 
+ SAX_1918_lib_conservatism_DEF:0 "Королевство Саксония" 
+ SAX_1918_lib_conservatism_ADJ:0 "Саксонск." 
+ SAX_1918_soc_conservatism:0 "Королевство Саксония" 
+ SAX_1918_soc_conservatism_DEF:0 "Королевство Саксония" 
+ SAX_1918_soc_conservatism_ADJ:0 "Саксонск." 
+ SAX_1918_auth_democrat:0 "Королевство Саксония" 
+ SAX_1918_auth_democrat_DEF:0 "Королевство Саксония" 
+ SAX_1918_auth_democrat_ADJ:0 "Саксонск." 
+ SAX_1918_pat_autocrat:0 "Королевство Саксония" 
+ SAX_1918_pat_autocrat_DEF:0 "Королевство Саксония" 
+ SAX_1918_pat_autocrat_ADJ:0 "Саксонск." 
+ SAX_1918_fascism:0 "Королевство Саксония" 
+ SAX_1918_fascism_DEF:0 "Королевство Саксония" 
+ SAX_1918_fascism_ADJ:0 "Саксонск." 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Decisions ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Technology ### 
+
+### Equipment ### 
+
+### Parliament ### 
+
+### Events ### 
+
+### Focus Tree ### 

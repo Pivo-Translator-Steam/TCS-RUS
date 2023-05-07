@@ -1,0 +1,3 @@
+﻿l_russian:
+ TRUCKS:0 "Грузовики и вагоны" #Changed because we have Carriages that function as supply too 
+ infrastructure_research:0 "Скорость исследования Инфраструктуры"

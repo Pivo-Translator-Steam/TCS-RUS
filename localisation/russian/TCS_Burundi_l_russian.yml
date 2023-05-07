@@ -1,0 +1,87 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ BRD_leninism_party:0 "-" 
+ BRD_leninism_party_long:0 "-" 
+ BRD_marxism_party:0 "-" 
+ BRD_marxism_party_long:0 "-" 
+ BRD_rev_socialism_party:0 "-" 
+ BRD_rev_socialism_party_long:0 "-" 
+ BRD_soc_democracy_party:0 "-" 
+ BRD_soc_democracy_party_long:0 "-" 
+ BRD_soc_liberal_party:0 "-" 
+ BRD_soc_liberal_party_long:0 "-" 
+ BRD_lib_conservatism_party:0 "-" 
+ BRD_lib_conservatism_party_long:0 "-" 
+ BRD_soc_conservatism_party:0 "Ganwa" 
+ BRD_soc_conservatism_party_long:0 "Ganwa" 
+ BRD_auth_democrat_party:0 "Ganwa" 
+ BRD_auth_democrat_party_long:0 "Ganwa" 
+ BRD_pat_autocrat_party:0 "Ganwa" 
+ BRD_pat_autocrat_party_long:0 "Ganwa" 
+ BRD_fascism_party:0 "Ganwa" 
+ BRD_fascism_party_long:0 "Ganwa" 
+
+### Country Name ### 
+
+ BRD_leninism:0 "Бурунди"  
+ BRD_leninism_DEF:0 "Бурунди"  
+ BRD_leninism_ADJ:0 "Бурундийск." 
+ BRD_marxism:0 "Бурунди"  
+ BRD_marxism_DEF:0 "Бурунди"  
+ BRD_marxism_ADJ:0 "Бурундийск." 
+ BRD_rev_socialism:0 "Бурунди"  
+ BRD_rev_socialism_DEF:0 "Бурунди"  
+ BRD_rev_socialism_ADJ:0 "Бурундийск." 
+ BRD_soc_democracy:0 "Королевство Бурунди" 
+ BRD_soc_democracy_DEF:0 "Королевство Бурунди" 
+ BRD_soc_democracy_ADJ:0 "Бурундийск." 
+ BRD_soc_liberal:0 "Королевство Бурунди" 
+ BRD_soc_liberal_DEF:0 "Королевство Бурунди" 
+ BRD_soc_liberal_ADJ:0 "Бурундийск." 
+ BRD_lib_conservatism:0 "Королевство Бурунди" 
+ BRD_lib_conservatism_DEF:0 "Королевство Бурунди" 
+ BRD_lib_conservatism_ADJ:0 "Бурундийск." 
+ BRD_soc_conservatism:0 "Королевство Бурунди" 
+ BRD_soc_conservatism_DEF:0 "Королевство Бурунди" 
+ BRD_soc_conservatism_ADJ:0 "Бурундийск." 
+ BRD_auth_democrat:0 "Королевство Бурунди" 
+ BRD_auth_democrat_DEF:0 "Королевство Бурунди" 
+ BRD_auth_democrat_ADJ:0 "Бурундийск." 
+ BRD_pat_autocrat:0 "Королевство Бурунди" 
+ BRD_pat_autocrat_DEF:0 "Королевство Бурунди" 
+ BRD_pat_autocrat_ADJ:0 "Бурундийск." 
+ BRD_fascism:0 "Королевство Бурунди" 
+ BRD_fascism_DEF:0 "Королевство Бурунди" 
+ BRD_fascism_ADJ:0 "Бурундийск." 
+
+### Focuses ### 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Decisions ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+ POLITICS_VARIOUS_RIRIKUMUTIMA_BRD_DESC:0 "Ририкумутима - третья дочь вождя Секавоньи из клана Ватусси Муньякарама от его жены Инанкинсо и одна из тринадцати жен Мвези Гисабо, короля Бурунди до нее. Чтобы обеспечить себе корону Бурунди, Ририкумутима организовала убийство Нтибахини, которая была другой женой Мвези, завоевавшей расположение двора. Сейчас она служит регентом королевства Бурунди, в то время как внук Мвези, Мбукидже, еще не готов стать королем". 
+
+### Tech ### 
+
+### Opinion Modifiers ### 
+
+### Wars ### 

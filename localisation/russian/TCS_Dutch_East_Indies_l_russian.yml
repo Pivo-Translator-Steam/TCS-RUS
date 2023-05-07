@@ -1,0 +1,92 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ DEI_leninism_party:0 "СДРП" 
+ DEI_leninism_party_long:0 "Социал-демократическая рабочая партия - Авангардисты" 
+ DEI_marxism_party:0 "СДРП" 
+ DEI_marxism_party_long:0 "Социал-демократическая рабочая партия - Православные марксисты" 
+ DEI_rev_socialism_party:0 "СДРП" 
+ DEI_rev_socialism_party_long:0 "Социал-демократическая рабочая партия - Революционеры" 
+ DEI_soc_democracy_party:0 "СДРП" 
+ DEI_soc_democracy_party_long:0 "Социал-демократическая рабочая партия - Реформисты" 
+ DEI_soc_liberal_party:0 "ЛДС" 
+ DEI_soc_liberal_party_long:0 "Либерально-демократический союз" 
+ DEI_lib_conservatism_party:0 "ЛС" 
+ DEI_lib_conservatism_party_long:0 "Либеральный союз" 
+ DEI_soc_conservatism_party:0 "Совет Индий" 
+ DEI_soc_conservatism_party_long:0 "Совет Нидерландской Ост-Индии" 
+ DEI_auth_democrat_party:0 "Совет Индий" 
+ DEI_auth_democrat_party_long:0 "Совет Нидерландской Ост-Индии" 
+ DEI_pat_autocrat_party:0 "Совет Индий" 
+ DEI_pat_autocrat_party_long:0 "Совет Нидерландской Ост-Индии" 
+ DEI_fascism_party:0 "Совет Индий" 
+ DEI_fascism_party_long:0 "Совет Нидерландской Ост-Индии" 
+
+### Country Name ### 
+
+ DEI_leninism:0 "Голландская Ост-Индия" 
+ DEI_leninism_DEF:0 "Голландская Ост-Индия" 
+ DEI_leninism_ADJ:0 "Голландск." 
+ DEI_marxism:0 "Голландская Ост-Индия" 
+ DEI_marxism_DEF:0 "Голландская Ост-Индия" 
+ DEI_marxism_ADJ:0 "Голландск." 
+ DEI_rev_socialism:0 "Голландская Ост-Индия" 
+ DEI_rev_socialism_DEF:0 "Голландская Ост-Индия" 
+ DEI_rev_socialism_ADJ:0 "Голландск." 
+ DEI_soc_democracy:0 "Голландская Ост-Индия" 
+ DEI_soc_democracy_DEF:0 "Голландская Ост-Индия" 
+ DEI_soc_democracy_ADJ:0 "Голландск." 
+ DEI_soc_liberal:0 "Голландская Ост-Индия" 
+ DEI_soc_liberal_DEF:0 "Голландская Ост-Индия" 
+ DEI_soc_liberal_ADJ:0 "Голландск." 
+ DEI_lib_conservatism:0 "Голландская Ост-Индия" 
+ DEI_lib_conservatism_DEF:0 "Голландская Ост-Индия" 
+ DEI_lib_conservatism_ADJ:0 "Голландск." 
+ DEI_soc_conservatism:0 "Голландская Ост-Индия" 
+ DEI_soc_conservatism_DEF:0 "Голландская Ост-Индия" 
+ DEI_soc_conservatism_ADJ:0 "Голландск." 
+ DEI_auth_democrat:0 "Голландская Ост-Индия" 
+ DEI_auth_democrat_DEF:0 "Голландская Ост-Индия" 
+ DEI_auth_democrat_ADJ:0 "Голландск." 
+ DEI_pat_autocrat:0 "Голландская Ост-Индия" 
+ DEI_pat_autocrat_DEF:0 "Голландская Ост-Индия" 
+ DEI_pat_autocrat_ADJ:0 "Голландск." 
+ DEI_fascism:0 "Голландская Ост-Индия" 
+ DEI_fascism_DEF:0 "Голландская Ост-Индия" 
+ DEI_fascism_ADJ:0 "Голландск." 
+ 
+ DEI_ENG_autonomy_puppet:0 "Оккупированная Ост-Индия" 
+ DEI_ENG_autonomy_puppet_DEF:0 "Оккупированная Ост-Индия" 
+ DEI_ENG_autonomy_puppet_ADJ:0 "Оккупированная Ост-Индия" 
+
+### Focuses ### 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Events ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+HOL_pieter_merkus_lambertus_de_bruyn_prince:0 "Питер Меркус Ламбертус де Бруин Принц" 
+ HOL_colonial_control_hos:0 "[HOL.GetFlag]§YNetherlands§! контролирует нашего §YГлаву Правительства§!". 
+ HOL_colonial_control_fom:0 "[HOL.GetFlag]§YNetherlands§! контролирует наше §YМинистерство иностранных дел§!" 
+ HOL_colonial_control_fim:0 "[HOL.GetFlag]§YNetherlands§! контролирует наше §YМинистерство экономики§!" 
+ HOL_colonial_control_im:0 "[HOL.GetFlag]§YNetherlands§! контролирует наше §YМинистерство внутренних дел§!" 
+
+### Leaders ### 
+
+### Tech? ### 
+

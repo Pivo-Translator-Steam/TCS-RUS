@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+#  MYS_leninism_party:0 "" 
+#  MYS_leninism_party_long:0 "" 
+#  MYS_marxism_party:0 "" 
+#  MYS_marxism_party_long:0 "" 
+#  MYS_rev_socialism_party:0 "" 
+#  MYS_rev_socialism_party_long:0 "" 
+#  MYS_soc_democracy_party:0 "" 
+#  MYS_soc_democracy_party_long:0 "" 
+#  MYS_soc_liberal_party:0 "" 
+#  MYS_soc_liberal_party_long:0 "" 
+#  MYS_lib_conservatism_party:0 "" 
+#  MYS_lib_conservatism_party_long:0 "" 
+#  MYS_soc_conservatism_party:0 "" 
+#  MYS_soc_conservatism_party_long:0 "" 
+#  MYS_auth_democrat_party:0 "" 
+#  MYS_auth_democrat_party_long:0 "" 
+#  MYS_pat_autocrat_party:0 "" 
+#  MYS_pat_autocrat_party_long:0 "" 
+#  MYS_fascism_party:0 "" 
+#  MYS_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ MYS_leninism:0 "Королевство Майсур" 
+ MYS_leninism_DEF:0 "Королевство Майсур" 
+ MYS_leninism_ADJ:0 "Майсурск." 
+ MYS_marxism:0 "Королевство Майсур" 
+ MYS_marxism_DEF:0 "Королевство Майсур" 
+ MYS_marxism_ADJ:0 "Майсурск." 
+ MYS_rev_socialism:0 "Королевство Майсур" 
+ MYS_rev_socialism_DEF:0 "Королевство Майсур" 
+ MYS_rev_socialism_ADJ:0 "Майсурск." 
+ MYS_soc_democracy:0 "Королевство Майсур" 
+ MYS_soc_democracy_DEF:0 "Королевство Майсур" 
+ MYS_soc_democracy_ADJ:0 "Майсурск." 
+ MYS_soc_liberal:0 "Королевство Майсур" 
+ MYS_soc_liberal_DEF:0 "Королевство Майсур" 
+ MYS_soc_liberal_ADJ:0 "Майсурск." 
+ MYS_lib_conservatism:0 "Королевство Майсур" 
+ MYS_lib_conservatism_DEF:0 "Королевство Майсур" 
+ MYS_lib_conservatism_ADJ:0 "Майсурск." 
+ MYS_soc_conservatism:0 "Королевство Майсур" 
+ MYS_soc_conservatism_DEF:0 "Королевство Майсур" 
+ MYS_soc_conservatism_ADJ:0 "Майсурск." 
+ MYS_auth_democrat:0 "Королевство Майсур" 
+ MYS_auth_democrat_DEF:0 "Королевство Майсур" 
+ MYS_auth_democrat_ADJ:0 "Майсурск." 
+ MYS_pat_autocrat:0 "Королевство Майсур" 
+ MYS_pat_autocrat_DEF:0 "Королевство Майсур" 
+ MYS_pat_autocrat_ADJ:0 "Майсурск." 
+ MYS_fascism:0 "Королевство Майсур" 
+ MYS_fascism_DEF:0 "Королевство Майсур" 
+ MYS_fascism_ADJ:0 "Майсурск." 
+
+### Focuses ### 
+
+ MYS_Focus_ID:0 "" 
+ MYS_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ MYS_Idea_ID:0 "" 
+ MYS_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

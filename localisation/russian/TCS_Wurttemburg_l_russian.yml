@@ -1,0 +1,139 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Parties ### 
+
+ WUR_leninism_party:0 "СДПГ" 
+ WUR_leninism_party_long:0 "Социал-демократическая партия Германии - Левые Радикалы" 
+ WUR_marxism_party:0 "СДПГ" 
+ WUR_marxism_party_long:0 "Социал-демократическая партия Германии - Марксисты" 
+ WUR_rev_socialism_party:0 "СДПГ" 
+ WUR_rev_socialism_party_long:0 "Социал-демократическая партия Германии - Революционисты" 
+ WUR_soc_democracy_party:0 "СДПГ" 
+ WUR_soc_democracy_party_long:0 "Социал-демократическая партия Германии - Реформисты" 
+ WUR_soc_liberal_party:0 "СНп" # 
+ WUR_soc_liberal_party_long:0 "Свободная народная партия" 
+ WUR_lib_conservatism_party:0 "НЛП" # 
+ WUR_lib_conservatism_party_long:0 "Национально-либеральная партия" 
+ WUR_soc_conservatism_party:0 "Ц" 
+ WUR_soc_conservatism_party_long:0 "Центристская партия" 
+ WUR_auth_democrat_party:0 "ПГР" # 
+ WUR_auth_democrat_party_long:0 "Партия германского рейха" 
+ WUR_pat_autocrat_party:0 "КПГ" # 
+ WUR_pat_autocrat_party_long:0 "Консервативная партия Германии" 
+ WUR_fascism_party:0 "ЭО" 
+ WUR_fascism_party_long:0 "Экономическое объединение" 
+
+ #1918 Startdate Parties 
+
+ WUR_1918_leninism_party:0 "Лига Спартака" #КПГ 1918 30 December 
+ WUR_1918_leninism_party_long:0 "Лига Спартака" 
+ WUR_1918_marxism_party:0 "НСДПГ" 
+ WUR_1918_marxism_party_long:0 "Независимая Социал-демократическая партия Германии - Левое крыло" 
+ WUR_1918_rev_socialism_party:0 "НСДПГ" 
+ WUR_1918_rev_socialism_party_long:0 "Независимая Социал-демократическая партия Германии - Правое крыло" 
+ WUR_1918_soc_democracy_party:0 "СДПГ(Б)" 
+ WUR_1918_soc_democracy_party_long:0 "Социал-демократическая партия Германии(Большинство)" 
+ WUR_1918_soc_liberal_party:0 "ГДП" 
+ WUR_1918_soc_liberal_party_long:0 "Германская демократическая партия" 
+ WUR_1918_lib_conservatism_party:0 "НЛП" #ННП 1918 15 December 
+ WUR_1918_lib_conservatism_party_long:0 "Национально-либеральная партия" 
+ WUR_1918_soc_conservatism_party:0 "Ц" 
+ WUR_1918_soc_conservatism_party_long:0 "Центристская партия" 
+ WUR_1918_auth_democrat_party:0 "-" #НННП 1918 10 December 
+ WUR_1918_auth_democrat_party_long:0 "" 
+ WUR_1918_pat_autocrat_party:0 "КПГ" #НННП 1918 10 December 
+ WUR_1918_pat_autocrat_party_long:0 "Консервативная партия Германии" 
+ WUR_1918_fascism_party:0 "НПО" #НННП 1918 10 December #НРП 1919 5 January 
+ WUR_1918_fascism_party_long:0 "Немецкая партия Отечества" 
+
+ #Formed Parties 
+
+### Country Name ### 
+
+ WUR_leninism:0 "Королевство Вюртемберг" 
+ WUR_leninism_DEF:0 "Королевство Вюртемберг" 
+ WUR_leninism_ADJ:0 "Вюртембергск."
+ WUR_marxism:0 "Королевство Вюртемберг" 
+ WUR_marxism_DEF:0 "Королевство Вюртемберг" 
+ WUR_marxism_ADJ:0 "Вюртембергск."
+ WUR_rev_socialism:0 "Королевство Вюртемберг" 
+ WUR_rev_socialism_DEF:0 "Королевство Вюртемберг" 
+ WUR_rev_socialism_ADJ:0 "Вюртембергск."
+ WUR_soc_democracy:0 "Королевство Вюртемберг" 
+ WUR_soc_democracy_DEF:0 "Королевство Вюртемберг" 
+ WUR_soc_democracy_ADJ:0 "Вюртембергск."
+ WUR_soc_liberal:0 "Королевство Вюртемберг" 
+ WUR_soc_liberal_DEF:0 "Королевство Вюртемберг" 
+ WUR_soc_liberal_ADJ:0 "Вюртембергск."
+ WUR_lib_conservatism:0 "Королевство Вюртемберг" 
+ WUR_lib_conservatism_DEF:0 "Королевство Вюртемберг" 
+ WUR_lib_conservatism_ADJ:0 "Вюртембергск."
+ WUR_soc_conservatism:0 "Королевство Вюртемберг" 
+ WUR_soc_conservatism_DEF:0 "Королевство Вюртемберг" 
+ WUR_soc_conservatism_ADJ:0 "Вюртембергск."
+ WUR_auth_democrat:0 "Королевство Вюртемберг" 
+ WUR_auth_democrat_DEF:0 "Королевство Вюртемберг" 
+ WUR_auth_democrat_ADJ:0 "Вюртембергск."
+ WUR_pat_autocrat:0 "Королевство Вюртемберг" 
+ WUR_pat_autocrat_DEF:0 "Королевство Вюртемберг" 
+ WUR_pat_autocrat_ADJ:0 "Вюртембергск."
+ WUR_fascism:0 "Королевство Вюртемберг" 
+ WUR_fascism_DEF:0 "Королевство Вюртемберг" 
+ WUR_fascism_ADJ:0 "Вюртембергск."
+
+ WUR_1918_leninism:0 "Королевство Вюртемберг" 
+ WUR_1918_leninism_DEF:0 "Королевство Вюртемберг" 
+ WUR_1918_leninism_ADJ:0 "Вюртембергск."
+ WUR_1918_marxism:0 "Королевство Вюртемберг" 
+ WUR_1918_marxism_DEF:0 "Королевство Вюртемберг" 
+ WUR_1918_marxism_ADJ:0 "Вюртембергск."
+ WUR_1918_rev_socialism:0 "Королевство Вюртемберг" 
+ WUR_1918_rev_socialism_DEF:0 "Королевство Вюртемберг" 
+ WUR_1918_rev_socialism_ADJ:0 "Вюртембергск."
+ WUR_1918_soc_democracy:0 "Социальная республика Вюртемберг" 
+ WUR_1918_soc_democracy_DEF:0 "Социальная республика Вюртемберг" 
+ WUR_1918_soc_democracy_ADJ:0 "Вюртембергск."
+ WUR_1918_soc_liberal:0 "Королевство Вюртемберг" 
+ WUR_1918_soc_liberal_DEF:0 "Королевство Вюртемберг" 
+ WUR_1918_soc_liberal_ADJ:0 "Вюртембергск."
+ WUR_1918_lib_conservatism:0 "Королевство Вюртемберг" 
+ WUR_1918_lib_conservatism_DEF:0 "Королевство Вюртемберг" 
+ WUR_1918_lib_conservatism_ADJ:0 "Вюртембергск."
+ WUR_1918_soc_conservatism:0 "Королевство Вюртемберг" 
+ WUR_1918_soc_conservatism_DEF:0 "Королевство Вюртемберг" 
+ WUR_1918_soc_conservatism_ADJ:0 "Вюртембергск."
+ WUR_1918_auth_democrat:0 "Королевство Вюртемберг" 
+ WUR_1918_auth_democrat_DEF:0 "Королевство Вюртемберг" 
+ WUR_1918_auth_democrat_ADJ:0 "Вюртембергск."
+ WUR_1918_pat_autocrat:0 "Королевство Вюртемберг" 
+ WUR_1918_pat_autocrat_DEF:0 "Королевство Вюртемберг" 
+ WUR_1918_pat_autocrat_ADJ:0 "Вюртембергск."
+ WUR_1918_fascism:0 "Королевство Вюртемберг" 
+ WUR_1918_fascism_DEF:0 "Королевство Вюртемберг" 
+ WUR_1918_fascism_ADJ:0 "Вюртембергск."
+
+### Ideas ### 
+
+### Flags ### 
+
+### Decisions ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Technology ### 
+
+### Equipment ### 
+
+### Parliament ### 
+
+### Events ### 
+
+### Focus Tree ### 

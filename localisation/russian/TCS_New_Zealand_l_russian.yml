@@ -1,0 +1,171 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+NZL_flavour.1.t:0 "Либеральное правительство" 
+NZL_flavour.1.d:0 "Нечто" 
+NZL_flavour.1.a:0 "Эпик" 
+# 
+NZL_flavour.2.t:0 "Подготовка к выборам 1908 года". 
+NZL_flavour.3.t:0 "Либералы победили!". 
+NZL_important.1.t:0 "Доминион Новая Зеландия!" 
+NZL_important.2.t:0 "Подготовка к выборам 1911 года". 
+
+### Parties ### 
+
+NZL_colony_leninism_party:0 "-" 
+NZL_colony_leninism_party_long:0 "-" 
+NZL_colony_marxism_party:0 "-" 
+NZL_colony_marxism_party_long:0 "-" 
+NZL_colony_rev_socialism_party:0 "-" 
+NZL_colony_rev_socialism_party_long:0 "-" 
+NZL_colony_soc_democracy_party:0 "НПРЛ" 
+NZL_colony_soc_democracy_party_long:0 "Независимая политическая рабочая лига" 
+NZL_colony_soc_liberal_party:0 "НЛП" 
+NZL_colony_soc_liberal_party_long:0 "Новая либеральная партия" 
+NZL_colony_lib_conservatism_party:0 "ЛПНЗ" 
+NZL_colony_lib_conservatism_party_long:0 "Либеральная партия Новой Зеландии" 
+NZL_colony_soc_conservatism_party:0 "ЛПР" 
+NZL_colony_soc_conservatism_party_long:0 "Лига политической реформы" 
+NZL_colony_auth_democrat_party:0 "-" 
+NZL_colony_auth_democrat_party_long:0 "-" 
+NZL_colony_pat_autocrat_party:0 "-" 
+NZL_colony_pat_autocrat_party_long:0 "-" 
+NZL_colony_fascism_party:0 "-" 
+NZL_colony_fascism_party_long:0 "-" 
+
+### Country Name ### 
+
+NZL_colony_leninism:0 "Колония Новая Зеландия" 
+NZL_colony_leninism_DEF:0 "Колония Новая Зеландия" 
+NZL_colony_leninism_ADJ:0 "Новозеландск." 
+NZL_colony_marxism:0 "Колония Новая Зеландия" 
+NZL_colony_marxism_DEF:0 "Колония Новая Зеландия" 
+NZL_colony_marxism_ADJ:0 "Новозеландск." 
+NZL_colony_rev_socialism:0 "Колония Новая Зеландия" 
+NZL_colony_rev_socialism_DEF:0 "Колония Новая Зеландия" 
+NZL_colony_rev_socialism_ADJ:0 "Новозеландск." 
+NZL_colony_soc_democracy:0 "Колония Новая Зеландия" 
+NZL_colony_soc_democracy_DEF:0 "Колония Новая Зеландия" 
+NZL_colony_soc_democracy_ADJ:0 "Новозеландск." 
+NZL_colony_soc_liberal:0 "Колония Новая Зеландия" 
+NZL_colony_soc_liberal_DEF:0 "Колония Новая Зеландия" 
+NZL_colony_soc_liberal_ADJ:0 "Новозеландск." 
+NZL_colony_lib_conservatism:0 "Колония Новая Зеландия" 
+NZL_colony_lib_conservatism_DEF:0 "Колония Новая Зеландия" 
+NZL_colony_lib_conservatism_ADJ:0 "Новозеландск." 
+NZL_colony_soc_conservatism:0 "Колония Новая Зеландия" 
+NZL_colony_soc_conservatism_DEF:0 "Колония Новая Зеландия" 
+NZL_colony_soc_conservatism_ADJ:0 "Новозеландск." 
+NZL_colony_auth_democrat:0 "Колония Новая Зеландия" 
+NZL_colony_auth_democrat_DEF:0 "Колония Новая Зеландия" 
+NZL_colony_auth_democrat_ADJ:0 "Новозеландск." 
+NZL_colony_pat_autocrat:0 "Колония Новая Зеландия" 
+NZL_colony_pat_autocrat_DEF:0 "Колония Новая Зеландия" 
+NZL_colony_pat_autocrat_ADJ:0 "Новозеландск." 
+NZL_colony_fascism:0 "Колония Новая Зеландия" 
+NZL_colony_fascism_DEF:0 "Колония Новая Зеландия" 
+NZL_colony_fascism_ADJ:0 "Новозеландск." 
+
+NZL_leninism:0 "Доминион Новая Зеландия" 
+NZL_leninism_DEF:0 "Доминион Новая Зеландия" 
+NZL_leninism_ADJ:0 "Новозеландск." 
+NZL_marxism:0 "Доминион Новая Зеландия" 
+NZL_marxism_DEF:0 "Доминион Новая Зеландия" 
+NZL_marxism_ADJ:0 "Новозеландск." 
+NZL_rev_socialism:0 "Доминион Новая Зеландия" 
+NZL_rev_socialism_DEF:0 "Доминион Новая Зеландия" 
+NZL_rev_socialism_ADJ:0 "Новозеландск." 
+NZL_soc_democracy:0 "Доминион Новая Зеландия" 
+NZL_soc_democracy_DEF:0 "Доминион Новая Зеландия" 
+NZL_soc_democracy_ADJ:0 "Новозеландск." 
+NZL_soc_liberal:0 "Доминион Новая Зеландия" 
+NZL_soc_liberal_DEF:0 "Доминион Новая Зеландия" 
+NZL_soc_liberal_ADJ:0 "Новозеландск." 
+NZL_lib_conservatism:0 "Доминион Новая Зеландия" 
+NZL_lib_conservatism_DEF:0 "Доминион Новая Зеландия" 
+NZL_lib_conservatism_ADJ:0 "Новозеландск." 
+NZL_soc_conservatism:0 "Доминион Новая Зеландия" 
+NZL_soc_conservatism_DEF:0 "Доминион Новая Зеландия" 
+NZL_soc_conservatism_ADJ:0 "Новозеландск." 
+NZL_auth_democrat:0 "Доминион Новая Зеландия" 
+NZL_auth_democrat_DEF:0 "Доминион Новая Зеландия" 
+NZL_auth_democrat_ADJ:0 "Новозеландск." 
+NZL_pat_autocrat:0 "Доминион Новая Зеландия" 
+NZL_pat_autocrat_DEF:0 "Доминион Новая Зеландия" 
+NZL_pat_autocrat_ADJ:0 "Новозеландск." 
+NZL_fascism:0 "Доминион Новая Зеландия" 
+NZL_fascism_DEF:0 "Доминион Новая Зеландия" 
+NZL_fascism_ADJ:0 "Новозеландск." 
+
+### Focuses ### 
+
+NZL_the_liberal_government:0 "Либеральное правительство" 
+NZL_maori_land_settlement_act:0 "Закон о земельном поселении маори" 
+NZL_workers_dwelling_act:0 "Закон о жилье для рабочих" 
+NZL_increased_school_funds:0 "Увеличение школьных фондов" 
+NZL_tohunga_supression_act:0 "Закон о супрессии тохунга" 
+NZL_government_advances_to_workers_act:0 "Закон об авансах правительства рабочим" 
+NZL_government_advances_to_settlers_act:0 "Закон о государственных пособиях поселенцам" 
+NZL_sale_of_food_and_drugs_act:0 "Закон о продаже продуктов питания и лекарств" 
+NZL_school_construction_campaign:0 "Кампания по строительству школ" 
+NZL_maori_vaccination_campaign:0 "Кампания по вакцинации маори" 
+NZL_oral_hygiene_campaign:0 "Кампания по гигиене полости рта" 
+## 
+NZL_dominion_of_nz:0 "Доминион Новая Зеландия" 
+NZL_infant_life:0 "Закон о защите жизни младенцев" 
+NZL_second_ballot:0 "Закон о втором голосовании" 
+NZL_comprehensive_retirement:0 "Комплексная схема выхода на пенсию для государственных служащих" 
+NZL_prepare_1908_election:0 "Подготовка к выборам 1908 года" 
+NZL_the_libgov2:0 "Либеральное правительство" 
+NZL_hospital_charity:0 "Закон о больницах и благотворительных учреждениях" 
+NZL_north_island_train:0 "Открытие главной магистрали Северного острова" 
+NZL_quackery_protection:0 "Закон о предотвращении шарлатанства" 
+NZL_nat_prov_funds:0 "Закон о Национальном фонде обеспечения" 
+NZL_defence_act:0 "Закон об обороне" 
+NZL_commtrust_act:0 "Закон о коммерческих трастах" 
+NZL_crimes_trust:0 "Закон о преступлениях" 
+NZL_new_gov_brits:0 "Новый правитель" 
+NZL_prepare_1911_election:0 "Подготовка к выборам 1911 года" 
+
+### Ideas ### 
+
+NZL_plague_fear_1:0 "Страх перед чумой" 
+NZL_plague_fear_1_desc:0 "" 
+NZL_plague_fear_2:0 "Страх перед чумой" 
+NZL_plague_fear_2_desc:0 "" 
+NZL_plague_fear_3:0 "Страх перед чумой" 
+NZL_plague_fear_3_desc:0 "" 
+NZL_plague_fear_4:0 "Страх перед чумой" 
+NZL_plague_fear_4_desc:0 "" 
+NZL_workers_dwelling_act_1:0 "Закон о жилище рабочих" 
+NZL_workers_dwelling_act_1_desc:0 "" 
+NZL_workers_dwelling_act_2:0 "Закон о жилье для рабочих" 
+NZL_workers_dwelling_act_2_desc:0 "" 
+NZL_workers_dwelling_act_3:0 "Закон о жилье для рабочих" 
+NZL_workers_dwelling_act_3_desc:0 "" 
+NZL_treaty_of_waitangi:0 "Договор Вайтанги" 
+NZL_treaty_of_waitangi_desc:0 "Договор Вайтанги" 
+NZL_infant_life_idea:0 "Закон о защите жизни младенцев" 
+NZL_comprehensive_retirement_idea:0 "Комплексная схема выхода на пенсию для государственных служащих" 
+NZL_nat_prov_funds_idea:0 "Закон о Национальном фонде обеспечения" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+NZL_plague_scare_tt:0 "Мы должны усердно работать, чтобы противостоять этой чуме!". 
+NZL_dwelling_act_tt:0 "Мы должны упорно трудиться, чтобы у людей было лучше!". 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

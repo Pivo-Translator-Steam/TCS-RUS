@@ -1,0 +1,85 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ DER_leninism_party:0 "-" 
+ DER_leninism_party_long:0 "-" 
+ DER_marxism_party:0 "-" 
+ DER_marxism_party_long:0 "-" 
+ DER_rev_socialism_party:0 "-" 
+ DER_rev_socialism_party_long:0 "-" 
+ DER_soc_democracy_party:0 "-" 
+ DER_soc_democracy_party_long:0 "-" 
+ DER_soc_liberal_party:0 "-" 
+ DER_soc_liberal_party_long:0 "-" 
+ DER_lib_conservatism_party:0 "-" 
+ DER_lib_conservatism_party_long:0 "-" 
+ DER_soc_conservatism_party:0 "-" 
+ DER_soc_conservatism_party_long:0 "-" 
+ DER_auth_democrat_party:0 "Даулада Дарвиш" 
+ DER_auth_democrat_party_long:0 "Даулада Дарвиш" 
+ DER_pat_autocrat_party:0 "Даулада Дарвиш" 
+ DER_pat_autocrat_party_long:0 "Даулада Дарвиш" 
+ DER_fascism_party:0 "Даулада Дарвиш" 
+ DER_fascism_party_long:0 "Даулада Дарвиш" 
+
+### Country Name ### 
+
+ DER_leninism:0 "Народная Республика Дервишей"
+ DER_leninism_DEF:0 "Народная Республика Дервишей"
+ DER_leninism_ADJ:0 "Дервишск." 
+ DER_marxism:0 "Народная Республика Дервишей"
+ DER_marxism_DEF:0 "Народная Республика Дервишей"
+ DER_marxism_ADJ:0 "Дервишск." 
+ DER_rev_socialism:0 "Народная Республика Дервишей"
+ DER_rev_socialism_DEF:0 "Народная Республика Дервишей"
+ DER_rev_socialism_ADJ:0 "Дервишск." 
+ DER_soc_democracy:0 "Республика Дервишей" 
+ DER_soc_democracy_DEF:0 "Республика Дервишей" 
+ DER_soc_democracy_ADJ:0 "Дервишск." 
+ DER_soc_liberal:0 "Республика Дервишей" 
+ DER_soc_liberal_DEF:0 "Республика Дервишей" 
+ DER_soc_liberal_ADJ:0 "Дервишск." 
+ DER_lib_conservatism:0 "Республика Дервишей" 
+ DER_lib_conservatism_DEF:0 "Республика Дервишей" 
+ DER_lib_conservatism_ADJ:0 "Дервишск." 
+ DER_soc_conservatism:0 "Республика Дервишей" 
+ DER_soc_conservatism_DEF:0 "Республика Дервишей" 
+ DER_soc_conservatism_ADJ:0 "Дервишск." 
+ DER_auth_democrat:0  "Дервиши" 
+ DER_auth_democrat_DEF:0  "Дервиши" 
+ DER_auth_democrat_ADJ:0 "Дервишск." 
+ DER_pat_autocrat:0 "Государство Дервишей" 
+ DER_pat_autocrat_DEF:0 "Государство Дервишей" 
+ DER_pat_autocrat_ADJ:0 "Дервишск." 
+ DER_fascism:0 "Империя Дервишей" 
+ DER_fascism_DEF:0 "Империя Дервишей" 
+ DER_fascism_ADJ:0 "Дервишск." 
+
+### Focuses ### 
+
+ DER_Focus_ID:0 "-" 
+ DER_Focus_ID_desc:0 "-" 
+
+### Ideas ### 
+
+ DER_Idea_ID:0 "-" 
+ DER_Idea_ID_desc:0 "-" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 

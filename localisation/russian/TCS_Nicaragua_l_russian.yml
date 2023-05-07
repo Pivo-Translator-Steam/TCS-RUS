@@ -1,0 +1,93 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+ NIC_political.1.title:0 "Спонсирование повстанцев в Гондурасе" 
+ NIC_political.1.desc:0 "" 
+ NIC_political.1.a:0 "Это положит конец противостоящему правительству" 
+
+ NIC_political.2.title:0 "Вторжение на Север" 
+ NIC_political.2.desc:0 "" 
+ NIC_political.2.a:0 "Мы покончим с этим раз и навсегда" 
+
+### Parties ### 
+
+ NIC_leninism_party:0 "" 
+ NIC_leninism_party_long:0 "" 
+ NIC_marxism_party:0 "" 
+ NIC_marxism_party_long:0 "" 
+ NIC_rev_socialism_party:0 "" 
+ NIC_rev_socialism_party_long:0 "" 
+ NIC_soc_democracy_party:0 "" 
+ NIC_soc_democracy_party_long:0 "" 
+ NIC_soc_liberal_party:0 "ПС" 
+ NIC_soc_liberal_party_long:0 "Правительство Селайи" 
+ NIC_lib_conservatism_party:0 "ПС" 
+ NIC_lib_conservatism_party_long:0 "Правительство Селайи" 
+ NIC_soc_conservatism_party:0 "КП" 
+ NIC_soc_conservatism_party_long:0 "Консервативная партия" 
+ NIC_auth_democrat_party:0 "КП" 
+ NIC_auth_democrat_party_long:0 "Консервативная партия" 
+ NIC_pat_autocrat_party:0 "" 
+ NIC_pat_autocrat_party_long:0 "" 
+ NIC_fascism_party:0 "" 
+ NIC_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ NIC_leninism:0 "Республика Никарагуа" 
+ NIC_leninism_DEF:0 "Республика Никарагуа" 
+ NIC_leninism_ADJ:0 "Никарагуанск." 
+ NIC_marxism:0 "Республика Никарагуа" 
+ NIC_marxism_DEF:0 "Республика Никарагуа" 
+ NIC_marxism_ADJ:0 "Никарагуанск." 
+ NIC_rev_socialism:0 "Республика Никарагуа" 
+ NIC_rev_socialism_DEF:0 "Республика Никарагуа" 
+ NIC_rev_socialism_ADJ:0 "Никарагуанск." 
+ NIC_soc_democracy:0 "Республика Никарагуа" 
+ NIC_soc_democracy_DEF:0 "Республика Никарагуа" 
+ NIC_soc_democracy_ADJ:0 "Никарагуанск." 
+ NIC_soc_liberal:0 "Республика Никарагуа" 
+ NIC_soc_liberal_DEF:0 "Республика Никарагуа" 
+ NIC_soc_liberal_ADJ:0 "Никарагуанск." 
+ NIC_lib_conservatism:0 "Республика Никарагуа" 
+ NIC_lib_conservatism_DEF:0 "Республика Никарагуа" 
+ NIC_lib_conservatism_ADJ:0 "Никарагуанск." 
+ NIC_soc_conservatism:0 "Республика Никарагуа" 
+ NIC_soc_conservatism_DEF:0 "Республика Никарагуа" 
+ NIC_soc_conservatism_ADJ:0 "Никарагуанск." 
+ NIC_auth_democrat:0 "Республика Никарагуа" 
+ NIC_auth_democrat_DEF:0 "Республика Никарагуа" 
+ NIC_auth_democrat_ADJ:0 "Никарагуанск." 
+ NIC_pat_autocrat:0 "Республика Никарагуа" 
+ NIC_pat_autocrat_DEF:0 "Республика Никарагуа" 
+ NIC_pat_autocrat_ADJ:0 "Никарагуанск." 
+ NIC_fascism:0 "Республика Никарагуа" 
+ NIC_fascism_DEF:0 "Республика Никарагуа" 
+ NIC_fascism_ADJ:0 "Никарагуанск." 
+
+### Focuses ### 
+
+ NIC_Focus_ID:0 "" 
+ NIC_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ NIC_professional_military:0 "Professional Military" 
+ NIC_professional_military_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

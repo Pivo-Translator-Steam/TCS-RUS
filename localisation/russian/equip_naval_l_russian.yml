@@ -1,0 +1,183 @@
+﻿l_russian:
+ naval_equipment:0 "Корабли" 
+
+ ## Destroyers 
+ destroyer_1:0 "Ранний эсминец торпедных катеров" 
+ destroyer_1_short:0 "TB Эсминец I" 
+ destroyer_1_desc:0 "" 
+destroyer_2:0 "Улучшенный Эсминец торпедных катеров" 
+ destroyer_2_short:0 "TB Эсминец II" 
+ destroyer_2_desc:0 "" 
+destroyer_3:0 "Поздний Эсминец торпедных катеров"" 
+ destroyer_3_short:0 "TB Эсминец III" 
+ destroyer_3_desc:0 "" 
+ destroyer_4:0 "Ранний Эсминец" 
+ destroyer_4_short:0 "Эсминец I" 
+ destroyer_4_desc:0 "" 
+ destroyer_5:0 "Улучшенный Эсминец" 
+ destroyer_5_short:0 "Эсминец II" 
+ destroyer_5_desc:0 "" 
+ destroyer_6:0 "Улучшенный Эсминец" 
+ destroyer_6_short:0 "Эсминец III" 
+ destroyer_6_desc:0 "" 
+ destroyer_7:0 "Поздний Эсминец" 
+ destroyer_7_short:0 "Эсминец IV" 
+ destroyer_7_desc:0 "" 
+
+ ## Protected/Light Cruisers 
+ light_cruiser_1:0 "Ранний защищенный крейсер" 
+ light_cruiser_1_short:0 "Защищенный крейсер I" 
+ light_cruiser_1_desc:0 "" 
+ light_cruiser_2:0 "Улучшенный защищенный крейсер" 
+ light_cruiser_2_short:0 "Защищенный крейсер II" 
+ light_cruiser_2_desc:0 "" 
+ light_cruiser_3:0 "Поздний защищенный крейсер" 
+ light_cruiser_3_short:0 "Защищенный крейсер III" 
+ light_cruiser_3_desc:0 "" 
+ light_cruiser_4:0 "Ранний легкий крейсер" 
+ light_cruiser_4_short:0 "Легкий крейсер I" 
+ light_cruiser_4_desc:0 "" 
+ light_cruiser_5:0 "Улучшенный легкий крейсер" 
+ light_cruiser_5_short:0 "Легкий крейсер II" 
+ light_cruiser_5_desc:0 "" 
+ light_cruiser_6:0 "Улучшенный легкий крейсер" 
+ light_cruiser_6_short:0 "Легкий крейсер III" 
+ light_cruiser_6_desc:0 "" 
+ light_cruiser_7:0 "Поздний легкий крейсер" 
+ light_cruiser_7_short:0 "Легкий крейсер IV" 
+ light_cruiser_7_desc:0 "" 
+
+ ## Armored/Heavy Cruisers 
+ heavy_cruiser_1:0 "Ранний бронированный крейсер" 
+ heavy_cruiser_1_short:0 "Бронепалубный крейсер I" 
+ heavy_cruiser_1_desc:0 "" 
+ heavy_cruiser_2:0 "Улучшенный броненосный крейсер" 
+ heavy_cruiser_2_short:0 "Бронепалубный крейсер II" 
+ heavy_cruiser_2_desc:0 "" 
+ heavy_cruiser_3:0 "Поздний бронированный крейсер" 
+ heavy_cruiser_3_short:0 "Бронепалубный крейсер III" 
+ heavy_cruiser_3_desc:0 "" 
+ heavy_cruiser_4:0 "Ранний тяжелый крейсер" 
+ heavy_cruiser_4_short:0 "Тяжелый крейсер I" 
+ heavy_cruiser_4_desc:0 "" 
+
+ ## Battleships & Battlecruisers 
+ battleship_1:0 "Улучшенный линкор пре-дредноут" 
+ battleship_1_short:0 "Пре-дредноут I" 
+ battleship_1_desc:0 "" 
+battleship_2:0 "Поздний линкор пре-дредноут" 
+ battleship_2_short:0 "Пре-дредноут II" 
+ battleship_2_desc:0 "" 
+
+ battleship_3:0 "Ранний дредноут-линкор" 
+ battleship_3_short:0 "Дредноут I" 
+ battleship_3_desc:0 "" 
+ battleship_4:0 "Улучшенный дредноут-линкор" 
+ battleship_4_short:0 "Дредноут II" 
+ battleship_4_desc:0 "" 
+ battleship_5:0 "Улучшенный дредноут-линкор" 
+ battleship_5_short:0 "Дредноут III" 
+ battleship_5_desc:0 "" 
+ battleship_6:0 "Поздний дредноут-линкор" 
+ battleship_6_short:0 "Дредноут IV" 
+ battleship_6_desc:0 "" 
+
+ battle_cruiser_1:0 "Боевой крейсер I" 
+ battle_cruiser_1_desc:0 "" 
+ battle_cruiser_2:0 "Боевой крейсер II" 
+ battle_cruiser_2_desc:0 "" 
+ battle_cruiser_3:0 "Боевой крейсер III" 
+ battle_cruiser_3_desc:0 "" 
+ battle_cruiser_4:0 "Боевой крейсер IV" 
+ battle_cruiser_4_desc:0 "" 
+
+ ## Carriers 
+carrier_1:0 " Морской тендер" 
+ carrier_1_short:0 "Морской тендер" 
+ carrier_1_desc:0 "" 
+ carrier_2:0 "Переоборудованный крейсер" 
+ carrier_2_short:0 "Переоборудованный крейсер" 
+ carrier_2_desc:0 "" 
+ carrier_3:0 "Переоборудованный капитальный корабль" 
+ carrier_3_short:0 "Переоборудованный капитальный корабль" 
+ carrier_3_desc:0 "" 
+ carrier_4:0 "Ранний авианосец" 
+ carrier_4_short:0 "Авианосец I" 
+ carrier_4_desc:0 "" 
+
+ ## Submarines 
+ submarine_1:0 "Ранняя подводная лодка" 
+ submarine_1_short:0 "Подводная лодка I" 
+ submarine_1_desc:0 "" 
+ submarine_2:0 "Улучшенная подводная лодка" 
+ submarine_2_short:0 "Подводная лодка II" 
+ submarine_2_desc:0 "" 
+ submarine_3:0 "Усовершенствованная подводная лодка" 
+ submarine_3_short:0 "Подводная лодка III" 
+ submarine_3_desc:0 "" 
+ submarine_4:0 "Расширенная подводная лодка" 
+ submarine_4_short:0 "Подводная лодка IV" 
+ submarine_4_desc:0 "" 
+
+ # Landing Technologies 
+ armored_row_boats:0 "Бронированные гребные шлюпки" 
+ armored_row_boats_desc:0 "" 
+ motor_boat_1:0 "Моторная лодка" 
+ motor_boat_1_desc:0 "" 
+ motor_boat_2:0 "Моторная лодка Mk2" 
+ motor_boat_2_desc:0 "" 
+
+ ## follow this to name country specific tech - maho ## 
+ #123_destroyer_1:0 "123's Destroyer" 
+ #123_light_cruiser_1:0 "123's Light Cruiser" 
+ #123_heavy_cruiser_1:0 "123's Heavy Cruiser" 
+ #123_battle_cruiser_1:0 "123's Battlecruiser" 
+ #123_battleship_1:0 "123's Battleship" 
+ #123_carrier_1:0 "123's Carrier" 
+ #123_submarine_1:0 "123's Submarine" 
+
+ ### FRA - FRANCE ### 
+
+ ###French Unprotected Cruisers## 
+ #FRA_unprotected_cruiser_1:0 "Milan-class Unprotected Cruiser" 
+# 
+ ###French Protected Cruisers## 
+ #FRA_protected_cruiser_1:0 "Troude-class Protected Cruiser" 
+ #FRA_protected_cruiser_1_desc:0 "The Troude-class cruisers were blablabla..." 
+ #FRA_protected_cruiser_2:0 "D'Estrées-class Protected Cruiser" 
+ #FRA_protected_cruiser_3:0 "D'Assas-class Protected Cruiser" 
+# 
+ ###French Armored Cruisers## 
+ #FRA_armored_cruiser_1:0 "Amiral Charner-class Armored Cruiser" 
+ #FRA_armored_cruiser_2:0 "Jeanne d'Arc-class Armored Cruiser" 
+ #FRA_armored_cruiser_3:0 "Glorie-class Armored Cruiser" 
+ #FRA_armored_cruiser_4:0 "Edgar Quintet-class Armored Cruiser" 
+# 
+ ###French Light Cruisers## 
+ #FRA_light_cruiser_1:0 "La Motte-Picquet-class Light Cruiser" 
+ #FRA_light_cruiser_2:0 "Duguay-Trouin Class" 
+ #FRA_light_cruiser_2_desc:0 "The Duguay-Trouin light cruisers were the first major French warships built after World War I in the 1922 naval program. They became the first light cruisers with super-firing enclosed main turrets. Among light cruisers, they had a strong torpedo armament but virtually nonexistent armor." 
+# 
+ ###French Heavy Cruisers## 
+ #FRA_heavy_cruiser_1:0 "Duquesne-class Heavy Cruiser" 
+# 
+ ###French Battle Cruisers## 
+ #FRA_battle_cruiser_1:0 "Durand-Viel Design" 
+ #FRA_battle_cruiser_1_desc:0 "The Durand-Viel design of battlecruiser was a proposal among a series of studies dating back to pre-WWI. They were essentially the battlecruiser versions of the Normandie and Lyon classes of battleship featuring the same quad turrets and guns though in reduced number. Like contemporary battlecruisers of other navies, they would be faster but less armored than a battleship." 
+ #FRA_battlecruiser_2:0 "WIP" 
+# 
+ ###French Battleships## 
+ #FRA_pre_dreadnaught_1:0 "Charlemagne-class Pre-Dreadnaught Battleship" 
+ #FRA_pre_dreadnaught_2:0 "Liberté-class Pre-Dreadnaught Battleship" 
+ #FRA_battleship_1:0 "Courbet Class" 
+ #FRA_battleship_1_desc:0 "The Courbet-class battleships were the first super-dreadnoughts built for the French Navy before and during the First World War. Authorized in the 1910 and 1911 naval programs these ships would find themselves serving france in years to come" 
+# 
+# 
+ #### RUS - Russia ### 
+# 
+ ###Russian Unprotected Cruisers## 
+ # RUS_protected_cruiser_1:0 "Palada-class Protected Cruiser" 
+ # RUS_protected_cruiser_2:0 "Bogatyr-class Protected Cruiser" 
+ # RUS_protected_cruiser_3:0 "Novik-class ProtectedCruiser" 
+ # RUS_light_cruiser_1:0 "Svetlana-class Light Cruiser" 
+ # RUS_light_cruiser_2:0 "Admiral Nakhimov-class Light Cruiser" 

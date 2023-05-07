@@ -1,0 +1,89 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ TAN_leninism_party:0 "" 
+ TAN_leninism_party_long:0 "" 
+ TAN_marxism_party:0 "" 
+ TAN_marxism_party_long:0 "" 
+ TAN_rev_socialism_party:0 "" 
+ TAN_rev_socialism_party_long:0 "" 
+ TAN_soc_democracy_party:0 "" 
+ TAN_soc_democracy_party_long:0 "" 
+ TAN_soc_liberal_party:0 "" 
+ TAN_soc_liberal_party_long:0 "" 
+ TAN_lib_conservatism_party:0 "" 
+ TAN_lib_conservatism_party_long:0 "" 
+ TAN_soc_conservatism_party:0 "" 
+ TAN_soc_conservatism_party_long:0 "" 
+ TAN_auth_democrat_party:0 "" 
+ TAN_auth_democrat_party_long:0 "" 
+ TAN_pat_autocrat_party:0 "" 
+ TAN_pat_autocrat_party_long:0 "" 
+ TAN_fascism_party:0 "" 
+ TAN_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ TAN_leninism:0 "Республика Урянхай" 
+ TAN_leninism_DEF:0 "Республика Урянхай" 
+ TAN_leninism_ADJ:0 "Тувинск." 
+ TAN_marxism:0 "Республика Урянхай" 
+ TAN_marxism_DEF:0 "Республика Урянхай" 
+ TAN_marxism_ADJ:0 "Тувинск." 
+ TAN_rev_socialism:0 "Республика Урянхай" 
+ TAN_rev_socialism_DEF:0 "Республика Урянхай" 
+ TAN_rev_socialism_ADJ:0 "Тувинск." 
+ TAN_soc_democracy:0 "Республика Урянхай" 
+ TAN_soc_democracy_DEF:0 "Республика Урянхай" 
+ TAN_soc_democracy_ADJ:0 "Тувинск." 
+ TAN_soc_liberal:0 "Республика Урянхай" 
+ TAN_soc_liberal_DEF:0 "Республика Урянхай" 
+ TAN_soc_liberal_ADJ:0 "Тувинск." 
+ TAN_lib_conservatism:0 "Республика Урянхай" 
+ TAN_lib_conservatism_DEF:0 "Республика Урянхай" 
+ TAN_lib_conservatism_ADJ:0 "Тувинск." 
+ TAN_soc_conservatism:0 "Республика Урянхай" 
+ TAN_soc_conservatism_DEF:0 "Республика Урянхай" 
+ TAN_soc_conservatism_ADJ:0 "Тувинск." 
+ TAN_auth_democrat:0 "Республика Урянхай" 
+ TAN_auth_democrat_DEF:0 "Республика Урянхай" 
+ TAN_auth_democrat_ADJ:0 "Тувинск." 
+ TAN_pat_autocrat:0 "Республика Урянхай" 
+ TAN_pat_autocrat_DEF:0 "Республика Урянхай" 
+ TAN_pat_autocrat_ADJ:0 "Тувинск." 
+ TAN_fascism:0 "Республика Урянхай" 
+ TAN_fascism_DEF:0 "Республика Урянхай" 
+ TAN_fascism_ADJ:0 "Тувинск." 
+
+ TAN_RUS_autonomy_protectorate:0 "Урянхайский край" 
+ TAN_RUS_autonomy_protectorate_DEF:0 "Урянхайский край" 
+
+### Focuses ### 
+
+ TAN_Focus_ID:0 "" 
+ TAN_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ TAN_Idea_ID:0 "" 
+ TAN_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

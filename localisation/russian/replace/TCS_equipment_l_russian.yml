@@ -1,0 +1,16 @@
+﻿l_russian:
+ infantry_equipment:0 "Снаряжение пехоты" 
+ infantry_equipment_short:0 "Пехотное снар.". 
+ infantry_equipment_desc:0 "Личное и обслуживаемое экипажем оружие для пехоты, а также различные другие предметы, необходимые солдату". 
+ infantry_equipment_0:0 "Основное снаряжение пехоты" 
+ infantry_equipment_0_short:0 "Основные оружия" 
+ infantry_equipment_0_desc:0 "Личное и обслуживаемое экипажем оружие для пехоты, а также различные другие необходимые солдату предметы". 
+ infantry_equipment_1:0 "Снаряжение пехоты I" 
+ infantry_equipment_1_short:0 "Оружия I" 
+ infantry_equipment_1_desc:0 "Личное и обслуживаемое экипажем оружие для пехоты, а также различные другие предметы, необходимые солдату." 
+ infantry_equipment_2:0 "Снаряжение пехоты II" 
+ infantry_equipment_2_short:0 "Оружия II" 
+ infantry_equipment_2_desc:0 "Личное и обслуживаемое экипажем оружие для пехоты, а также различные другие предметы, необходимые солдату". 
+ infantry_equipment_3:0 "Снаряжение пехоты III" 
+ infantry_equipment_3_short:0 "Оружия III" 
+ infantry_equipment_3_desc:0 "Личное и обслуживаемое экипажем оружие для пехоты, а также различные другие предметы, необходимые солдату." 

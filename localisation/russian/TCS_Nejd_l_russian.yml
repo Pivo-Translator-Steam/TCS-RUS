@@ -1,0 +1,181 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+ SAU_political.1.title:0 "Османские войска прибывают в [1093.GetName]" 
+ SAU_political.1.desc:0 "Чтобы вырвать у нас контроль над провинцией, Ахмад Файзи-паша добрался до [1093.GetName]. Хотя наши местные силы переместились в Аль-Зульфи, мы уже строим планы, как вернуть этот район. Несмотря на грозную силу армии паши, мы уже побеждали османов и сделаем это еще раз!". 
+ SAU_political.1.a:0 "Небольшая неудача, но мы скоро вернемся". 
+
+ SAU_political.2.title:0 "[SAU.GetName] просит о сотрудничестве" 
+ SAU_political.2.desc:0 "" 
+ SAU_political.2.a:0 "Мы согласимся, если они откажутся от своих претензий" 
+ SAU_political.2.b:0 "У нас нет интереса к незначительным племенам" 
+
+ SAU_political.3.title:0 "Британцы хотят, чтобы мы отказались от своих претензий" 
+ SAU_political.3.desc:0 "" 
+ SAU_political.3.a:0 "Мы примем" 
+ SAU_political.3.b:0 "Мы не отказываемся от наших святых земель" 
+
+ SAU_political.4.title:0 "Британцы отвергают наши переговоры" 
+ SAU_political.4.desc:0 "" 
+ SAU_political.4.a:0 "Они почувствуют гнев Аллаха" 
+
+### Parties ### 
+
+ SAU_leninism_party:0 "-" 
+ SAU_leninism_party_long:0 "-" 
+ SAU_marxism_party:0 "-" 
+ SAU_marxism_party_long:0 "-" 
+ SAU_rev_socialism_party:0 "-" 
+ SAU_rev_socialism_party_long:0 "-" 
+ SAU_soc_democracy_party:0 "-" 
+ SAU_soc_democracy_party_long:0 "-" 
+ SAU_soc_liberal_party:0 "-" 
+ SAU_soc_liberal_party_long:0 "-" 
+ SAU_lib_conservatism_party:0 "-" 
+ SAU_lib_conservatism_party_long:0 "-" 
+ SAU_soc_conservatism_party:0 "-" 
+ SAU_soc_conservatism_party_long:0 "-" 
+ SAU_auth_democrat_party:0 "-" 
+ SAU_auth_democrat_party_long:0 "-" 
+ SAU_pat_autocrat_party:0 "Ас-Са'уд" 
+ SAU_pat_autocrat_party_long:0 "Ас-Са'уд" 
+ SAU_fascism_party:0 "Аль-Ихван" 
+ SAU_fascism_party_long:0 "Аль-Ихван" 
+
+### Country Name ### 
+
+ SAU_leninism:0 "Арабская Демократическая Республика" 
+ SAU_leninism_DEF:0 "Арабская Демократическая Республика" 
+ SAU_leninism_ADJ:0 "Арабск." 
+ SAU_marxism:0 "Коммуны Эр-Рияда" 
+ SAU_marxism_DEF:0 "Коммуны Эр-Рияда" 
+ SAU_marxism_ADJ:0 "Риядск." 
+ SAU_rev_socialism:0 "Коммуны Эр-Рияда" 
+ SAU_rev_socialism_DEF:0 "Коммуны Эр-Рияда" 
+ SAU_rev_socialism_ADJ:0 "Риядск." 
+ SAU_soc_democracy:0 "Эмират Эр-Рияд" 
+ SAU_soc_democracy_DEF:0 "Саудовская Аравия" 
+ SAU_soc_democracy_ADJ:0 "Эмират Эр-Рияд" 
+ SAU_soc_liberal:0 "Эмират Эр-Рияд" 
+ SAU_soc_liberal_DEF:0 "Эмират Эр-Рияд" 
+ SAU_soc_liberal_ADJ:0 "Саудовск." 
+ SAU_lib_conservatism:0 "Эмират Эр-Рияд" 
+ SAU_lib_conservatism_DEF:0 "Эмират Эр-Рияд" 
+ SAU_lib_conservatism_ADJ:0 "Саудовск." 
+ SAU_soc_conservatism:0 "Эмират Эр-Рияд" 
+ SAU_soc_conservatism_DEF:0 "Эмират Эр-Рияд" 
+ SAU_soc_conservatism_ADJ:0 "Саудовск." 
+ SAU_auth_democrat:0 "Эмират Эр-Рияд" 
+ SAU_auth_democrat_DEF:0 "Эмират Эр-Рияд" 
+ SAU_auth_democrat_ADJ:0 "Саудовск." 
+ SAU_pat_autocrat:0 "Эмират Эр-Рияд" 
+ SAU_pat_autocrat_DEF:0 "Эмират Эр-Рияд" 
+ SAU_pat_autocrat_ADJ:0 "Саудовск." 
+ SAU_fascism:0 "Саудовская Аравия" 
+ SAU_fascism_DEF:0 "Эмират Эр-Рияд" 
+ SAU_fascism_ADJ:0 "Саудовск." 
+
+ SAU_HSA_leninism:0 "Арабская Демократическая Республика" 
+ SAU_HSA_leninism_DEF:0 "Арабская Демократическая Республика" 
+ SAU_HSA_leninism_ADJ:0 "Арабск." 
+ SAU_HSA_marxism:0 "Коммуны Эр-Рияда" 
+ SAU_HSA_marxism_DEF:0 "Коммуны Эр-Рияда" 
+ SAU_HSA_marxism_ADJ:0 "Риядск." 
+ SAU_HSA_rev_socialism:0 "Коммуны Эр-Рияда" 
+ SAU_HSA_rev_socialism_DEF:0 "Коммуны Эр-Рияда" 
+ SAU_HSA_rev_socialism_ADJ:0 "Риядск." 
+ SAU_HSA_soc_democracy:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_soc_democracy_DEF:0 "Саудовская Аравия" 
+ SAU_HSA_soc_democracy_ADJ:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_soc_liberal:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_soc_liberal_DEF:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_soc_liberal_ADJ:0 "Саудовск." 
+ SAU_HSA_lib_conservatism:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_lib_conservatism_DEF:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_lib_conservatism_ADJ:0 "Саудовск." 
+ SAU_HSA_soc_conservatism:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_soc_conservatism_DEF:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_soc_conservatism_ADJ:0 "Саудовск." 
+ SAU_HSA_auth_democrat:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_auth_democrat_DEF:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_auth_democrat_ADJ:0 "Саудовск." 
+ SAU_HSA_pat_autocrat:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_pat_autocrat_DEF:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_pat_autocrat_ADJ:0 "Саудовск." 
+ SAU_HSA_fascism:0 "Саудовская Аравия" 
+ SAU_HSA_fascism_DEF:0 "Эмират Неджд и Хаса". 
+ SAU_HSA_fascism_ADJ:0 "Саудовск." 
+
+### Focuses ### 
+ SAU_struggle_for_qassim:0 "Борьба за Касим" 
+ SAU_struggle_for_qassim_desc:0 "" 
+ SAU_negotiations_with_ottomans:0 "Переговоры с османами" 
+ SAU_negotiations_with_ottomans_desc:0 "" 
+ SAU_force_their_hand:0 "Силой их руки" 
+ SAU_force_their_hand_desc:0 "" 
+ SAU_success_in_qassim:0 "Успех в Касиме" 
+ SAU_success_in_qassim_desc:0 "" 
+ SAU_invade_al_hasa:0 "Вторжение в Аль-Хасу" 
+ SAU_invade_al_hasa_desc:0 "" 
+ SAU_integrate_al_hasa:0 "Интегрировать Аль-Хасу в Эмират" 
+ SAU_integrate_al_hasa_desc:0 "" 
+ SAU_ottoman_recognition:0 "Просить о признании Османской империи" 
+ SAU_ottoman_recognition_desc:0 "" 
+ SAU_qaimmaqam_of_qassim:0 "Каиммакам Касима" 
+ SAU_qaimmaqam_of_qassim_desc:0 "" 
+ SAU_wali_of_nejd:0 "Вали из Неджда" 
+ SAU_wali_of_nejd_desc:0 "" 
+ SAU_proclaim_nejd_and_hasa:0 "Провозгласить эмират Неджд и Хаса" 
+ SAU_proclaim_nejd_and_hasa_desc:0 "" 
+ SAU_great_drought:0 "Великая засуха" 
+ SAU_great_drought_desc:0 "" 
+ SAU_nomadism_crisis:0 "Кризис номадизма" 
+ SAU_nomadism_crisis_desc:0 "" 
+ SAU_encourage_sedentarization:0 "Поощрение сидячего образа жизни" 
+ SAU_encourage_sedentarization_desc:0 "" 
+ SAU_fund_ikhwan_settlers:0 "Финансировать поселенцев Ихвана" 
+ SAU_fund_ikhwan_settlers_desc:0 "" 
+ SAU_build_schools_mosques:0 "Строить школы и мечети" 
+ SAU_build_schools_mosques_desc:0 "" 
+ SAU_agricultural_equipment:0 "Сельскохозяйственное оборудование" 
+ SAU_agricultural_equipment_desc:0 "" 
+ SAU_send_mutawwas_to_settlements:0 "Отправить мутаввы в новые поселения" 
+ SAU_send_mutawwas_to_settlements_desc:0 "" 
+ SAU_promote_settled_life:0 "Продвигать поселенческую жизнь" 
+ SAU_promote_settled_life_desc:0 "" 
+ SAU_talks_with_britain:0 "Беседы с британцами" 
+ SAU_talks_with_britain_desc:0 "" 
+
+### Ideas ### 
+
+ SAU_Nejd_Kuwait_Alliance:0 "Союз с Кувейтом" 
+ SAU_Nejd_Kuwait_Alliance_desc:0 "Кувейт и Неджд давно поддерживают союзнические отношения, а последние события еще больше сблизили наши страны. После падения Второго Саудовского государства в 1891 году королевская семья Саудовской Аравии нашла убежище в Кувейте в качестве гостей шейха. В 1898 году, когда Мубарак Аль-Сабах начал войну с Джабаль Шаммаром, мы были едины в нашей вражде к Рашидам, и, видя их слабость после войны, Кувейт спонсировал наше возвращение в Эр-Рияд в 1902 году. С тех пор мы оба были едины в нашей цели уничтожить Дом Рашидов раз и навсегда". 
+ SAU_Wahhabi_Leadership:0 "Лидерство ваххабитов" 
+ SAU_Wahhabi_Leadership_desc:0 "Мы многим обязаны ваххабитскому учению и его основателю Мухаммаду ибн Абд аль-Ваххабу, можно даже утверждать, что без них первое саудовское государство никогда бы не существовало. Наши отношения с учением Мухаммада ибн Абд аль-Ваххаба начались в 1744 году, когда был заключен договор с ним и нашим предком Мухаммадом I ибн Саудом. В обмен на нашу защиту и распространение его учения, Аль-Ваххаб предоставил нам оправдание для ведения войны с неверующими и установление его шариата для обеспечения порядка на наших территориях. С тех пор наши семьи неоднократно вступали в браки, а вера ваххабитов остается неотъемлемой частью нашей национальной идентичности.\n\nНе все разделяют нашу интерпретацию ислама, и по мере расширения нашего влияния неизбежно возникнут трения..." 
+ SAU_Ikhwan_idea_1:0 "Ихван" 
+ SAU_Ikhwan_idea_1_desc:0 "Ихван или \"Братство\", это группа фанатичных воинов, посвятивших себя распространению доктрин ваххабизма и уничтожению всех других систем верований в исламском мире. Ихван черпает свои силы в основном из недавно обращенных в ислам бедуинов, которые отказались от кочевого образа жизни и поселились в деревнях, известных как \"Хаджур\" (название происходит от знаменитой Хиджры). Это поселение должно символизировать переход от неверия к вере для ихванов, подобно тому, как Хиджра изменила первоначальную общину Мухаммеда. Ихваны в основном зарабатывают на жизнь набегами на племена так называемых неверующих, но в последнее время многие стали присоединяться к нашему делу в надежде распространить веру и заработать личное богатство. Если мы решим воспользоваться этим движением, оно может дать очень многообещающие результаты для нашей армии...". 
+ SAU_Ikhwan_idea_2:0 "Ихван" 
+ SAU_Ikhwan_idea_unhappy:0 "Беспорядки в Ихване" 
+ SAU_nominal_ottoman_rule:0 "Номинальное османское сюзеренитет" 
+ SAU_nominal_ottoman_rule_desc:0 "Как было оговорено на Басрской конференции 1905 года, мы теперь официально являемся подданным Османской империи и как таковые имеем право на зарплату от турецкого правительства. Это соглашение также не позволяет нам совершать набеги на османские поселения и провоцировать восстания племен в Аравии, контролируемой Османской империей. Хотя на первый взгляд создается впечатление, что мы находимся в союзе с Османской империей, это не может быть дальше от истины. Турки по-прежнему продолжают поддерживать наших врагов в надежде подавить наши попытки объединить Аравию, а мы, в свою очередь, стремимся раз и навсегда покончить с их влиянием на полуострове. Пока османы заняты своими делами на севере, мы вольны поступать так, как нам заблагорассудится". 
+
+### Flags ### 
+
+### Tooltips ### 
+SAU_struggle_for_qassim_tt:0 "Началась §YБорьба за Кассим§!" 
+ SAU_gain_qassim_tt:0 "Если мы победим, то получим регион §Y[1093.GetName]§!". 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+ POLITICS_ABDULAZIZ_DESC:0 "Абдулазиз ибн Сауд всего за 3 года превратился из ничего не значащего принца в изгнании в эмира всего Неджда. В 1902 году он захватил родовую резиденцию своей семьи в Эр-Рияде с помощью всего 60 человек, что привело к созданию Третьего Саудовского государства и окончанию изгнания его семьи в Кувейте. Узнав о победе своего сына над Рашидами, Абдул Рахман бин Фейсал отрекся от престола в пользу своего сына, и с тех пор ибн Сауд правит владениями Эр-Рияда. Его харизматическое лидерство и способности к военной стратегии привели эмират к новым территориальным высотам. Почти весь Неджд теперь принадлежит эмирату, а благодаря недавней череде побед над Джабал Шаммаром мало что может встать на пути ибн Сауда к господству во внутренних районах Аравии." 
+
+### Tech? ### 

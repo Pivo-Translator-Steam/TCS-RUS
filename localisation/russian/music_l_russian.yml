@@ -1,0 +1,123 @@
+﻿l_russian:
+ #Don't mess with this file because it allows the tCS music to work with vanilla !
+ maintheme:0 "Главная тема – Союзники"
+
+
+ # HOI4 Soundtrack !
+ main_vanilla:0 "Главная тема - Союзники" !
+ axis_war_1:0 "Тема Оси"
+
+ allies_peace_1:0 "Утро дня «Д»"
+
+ general_war_1:0 "Отправляйте танки"
+
+ axis_peace_1:0 "Краков"
+
+ general_war_2:0 "Атака"
+
+ comintern_war_1:0 "Мощь Советского Союза"
+
+ comintern_war_2:0 "Тема Коминтерна"
+
+ axis_war_4:0 "Грозовые дни"
+
+ general_peace_1:0 "Сердца людей"
+
+ allies_war_2:0 "Королевские ВВС"
+
+ axis_war_2:0 "Тяжелая вода"
+
+ comintern_war_3:0 "Великая Отечественная война"
+
+ general_peace_3:0 "Песня для детей Второй мировой"
+
+ comintern_peace_2:0 "Красная Армия"
+
+ allies_war_1:0 "Мы – солдаты"
+
+ comintern_peace_1:0 "Родина-Мать"
+
+ axis_peace_2:0 "Марш люфтваффе – реприза"
+
+ axis_war_3:0 "Операция «Барбаросса»"
+
+ allies_peace_2:0 "Конец службы"
+
+ comintern_peace_3:0 "Русская победа"
+
+ general_peace_2:0 "Окончание войны"
+
+
+ # HOI2 Soundtrack !
+ achtungpanzer:0 "Achtung Panzer!"
+
+ astateofgrace:0 "Состояние благодати"
+
+ happymarch:0 "Счастливый март"
+
+ heartsofiron2overturemenu:0 "Hearts of Iron 2 увертюра + меню"
+
+ hoilero:0 "Hoilero"
+
+ japanoverture:0 "Японская увертюра"
+
+ kriegsgewitter:0 "Kriegsgewitter"
+
+ leavingshore:0 "Покинутый берег"
+
+ lullabyofwar:0 "Колыбельная войны"
+
+ marchtothefront:0 "Марш на фронт"
+
+ montgomerysmarch:0 "Марш Монтгомери"
+
+ rafheroesofthesky:0 "R.A.F - Герои неба"
+
+ stalingradadagioindminor:0 "Сталинград - адажио в ре-миноре"
+
+ the101stairborne:0 "101-й воздушно-десантный"
+
+ war:0 "Война"
+
+ variationsontherussianthem:0 "Вариации на русскую тему"
+
+
+ # HOI3 Soundtrack !
+ alliesfaction:0 "Фракция союзников"
+
+ alotofseactions:0 "Морские действия"
+
+ axis1march:0 "Марш оси"
+
+ bigairforce:0 "Большой воздушный флот"
+
+ bigfleet:0 "Большой флот"
+
+ bombingthem:0 "Бомбить их"
+
+ epicbattle:0 "Эпическая битва"
+
+ hoi3maintheme:0 "Главная тема"
+
+ hymnfortheoneslostatsea:0 "Гимн для тех, кто погиб в море"
+
+ landactions:0 "Действия на суше"
+
+ lettersfromhome:0 "Письма из дома"
+
+ lotsofbattles:0 "Множество сражений"
+
+ offensive:0 "Наступление"
+
+ sovietsuite_finale:0 "Советская сюита - финал"
+
+ sovietsuite_part2:0 "Советская сюита - часть 2"
+
+ threatenedwhileatpeace:0 "Угроза"
+
+ unitednations:0 "Объединенные нации"
+
+unitylow:0 "Низкое Единство"
+
+ wearefree:0 "Мы Свободны"
+

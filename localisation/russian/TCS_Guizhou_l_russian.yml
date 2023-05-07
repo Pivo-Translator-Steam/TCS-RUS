@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ GUI_leninism_party:0 "" 
+ GUI_leninism_party_long:0 "" 
+ GUI_marxism_party:0 "" 
+ GUI_marxism_party_long:0 "" 
+ GUI_rev_socialism_party:0 "" 
+ GUI_rev_socialism_party_long:0 "" 
+ GUI_soc_democracy_party:0 "" 
+ GUI_soc_democracy_party_long:0 "" 
+ GUI_soc_liberal_party:0 "" 
+ GUI_soc_liberal_party_long:0 "" 
+ GUI_lib_conservatism_party:0 "" 
+ GUI_lib_conservatism_party_long:0 "" 
+ GUI_soc_conservatism_party:0 "" 
+ GUI_soc_conservatism_party_long:0 "" 
+ GUI_auth_democrat_party:0 "" 
+ GUI_auth_democrat_party_long:0 "" 
+ GUI_pat_autocrat_party:0 "" 
+ GUI_pat_autocrat_party_long:0 "" 
+ GUI_fascism_party:0 "" 
+ GUI_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ GUI_leninism:0 "Гуйчжоуская клика" 
+ GUI_leninism_DEF:0 "Гуйчжоуская клика" 
+ GUI_leninism_ADJ:0 "Гуйчжоуск." 
+ GUI_marxism:0 "Гуйчжоуская клика" 
+ GUI_marxism_DEF:0 "Гуйчжоуская клика" 
+ GUI_marxism_ADJ:0 "Гуйчжоуск." 
+ GUI_rev_socialism:0 "Гуйчжоуская клика" 
+ GUI_rev_socialism_DEF:0 "Гуйчжоуская клика" 
+ GUI_rev_socialism_ADJ:0 "Гуйчжоуск." 
+ GUI_soc_democracy:0 "Гуйчжоуская клика" 
+ GUI_soc_democracy_DEF:0 "Гуйчжоуская клика" 
+ GUI_soc_democracy_ADJ:0 "Гуйчжоуск." 
+ GUI_soc_liberal:0 "Гуйчжоуская клика" 
+ GUI_soc_liberal_DEF:0 "Гуйчжоуская клика" 
+ GUI_soc_liberal_ADJ:0 "Гуйчжоуск." 
+ GUI_lib_conservatism:0 "Гуйчжоуская клика" 
+ GUI_lib_conservatism_DEF:0 "Гуйчжоуская клика" 
+ GUI_lib_conservatism_ADJ:0 "Гуйчжоуск." 
+ GUI_soc_conservatism:0 "Гуйчжоуская клика" 
+ GUI_soc_conservatism_DEF:0 "Гуйчжоуская клика" 
+ GUI_soc_conservatism_ADJ:0 "Гуйчжоуск." 
+ GUI_auth_democrat:0 "Гуйчжоуская клика" 
+ GUI_auth_democrat_DEF:0 "Гуйчжоуская клика" 
+ GUI_auth_democrat_ADJ:0 "Гуйчжоуск." 
+ GUI_pat_autocrat:0 "Гуйчжоуская клика" 
+ GUI_pat_autocrat_DEF:0 "Гуйчжоуская клика" 
+ GUI_pat_autocrat_ADJ:0 "Гуйчжоуск." 
+ GUI_fascism:0 "Гуйчжоуская клика" 
+ GUI_fascism_DEF:0 "Гуйчжоуская клика" 
+ GUI_fascism_ADJ:0 "Гуйчжоуск." 
+
+### Focuses ### 
+
+ GUI_Focus_ID:0 "" 
+ GUI_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ GUI_Idea_ID:0 "" 
+ GUI_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

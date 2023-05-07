@@ -1,0 +1,80 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+AST_leninism_party:0 "-" 
+AST_leninism_party_long:0 "-" 
+AST_marxism_party:0 "-" 
+AST_marxism_party_long:0 "-" 
+AST_rev_socialism_party:0 "-" 
+AST_rev_socialism_party_long:0 "-" 
+AST_soc_democracy_party:0 "АЛП" 
+AST_soc_democracy_party_long:0 "Австралийская лейбористская партия" 
+AST_soc_liberal_party:0 "ПП" 
+AST_soc_liberal_party_long:0 "Протекционистская партия" 
+AST_lib_conservatism_party:0 "ААСТЛ" 
+AST_lib_conservatism_party_long:0 "Австралийская ассоциация свободной торговли и либералов" 
+AST_soc_conservatism_party:0 "ААСТЛ" 
+AST_soc_conservatism_party_long:0 "Австралийская ассоциация свободной торговли и либералов" 
+AST_auth_democrat_party:0 "-" 
+AST_auth_democrat_party_long:0 "-" 
+AST_pat_autocrat_party:0 "-" 
+AST_pat_autocrat_party_long:0 "-" 
+AST_fascism_party:0 "-" 
+AST_fascism_party_long:0 "-" 
+
+### Country Name ### 
+
+AST_leninism:0 "Содружество Австралии" 
+AST_leninism_DEF:0 "Содружество Австралии" 
+AST_leninism_ADJ:0 "Австралийск." 
+AST_marxism:0 "Содружество Австралии" 
+AST_marxism_DEF:0 "Содружество Австралии" 
+AST_marxism_ADJ:0 "Австралийск." 
+AST_rev_socialism:0 "Содружество Австралии" 
+AST_rev_socialism_DEF:0 "Содружество Австралии" 
+AST_rev_socialism_ADJ:0 "Австралийск." 
+AST_soc_democracy:0 "Содружество Австралии" 
+AST_soc_democracy_DEF:0 "Содружество Австралии" 
+AST_soc_democracy_ADJ:0 "Австралийск." 
+AST_soc_liberal:0 "Содружество Австралии" 
+AST_soc_liberal_DEF:0 "Содружество Австралии" 
+AST_soc_liberal_ADJ:0 "Австралийск." 
+AST_lib_conservatism:0 "Содружество Австралии" 
+AST_lib_conservatism_DEF:0 "Содружество Австралии" 
+AST_lib_conservatism_ADJ:0 "Австралийск." 
+AST_soc_conservatism:0 "Содружество Австралии" 
+AST_soc_conservatism_DEF:0 "Содружество Австралии" 
+AST_soc_conservatism_ADJ:0 "Австралийск." 
+AST_auth_democrat:0 "Содружество Австралии" 
+AST_auth_democrat_DEF:0 "Содружество Австралии" 
+AST_auth_democrat_ADJ:0 "Австралийск." 
+AST_pat_autocrat:0 "Содружество Австралии" 
+AST_pat_autocrat_DEF:0 "Содружество Австралии" 
+AST_pat_autocrat_ADJ:0 "Австралийск." 
+AST_fascism:0 "Содружество Австралии" 
+AST_fascism_DEF:0 "Содружество Австралии" 
+AST_fascism_ADJ:0 "Австралийск." 
+
+### Focuses ### 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

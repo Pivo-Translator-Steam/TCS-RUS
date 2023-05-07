@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+AZR_leninism_party:0 "ХСДМТ" 
+AZR_leninism_party_long:0 "Хюммет Сосиал-Демократ Мюсельман Таскилати" 
+AZR_marxism_party:0 "ХСДМТ" 
+AZR_marxism_party_long:0 "Хюммет Сосиал-Демократ Мюсельман Таскилати" 
+AZR_rev_socialism_party:0 "ХСДМТ" 
+AZR_rev_socialism_party_long:0 "Хюммет Сосиал-Демократ Мюсельман Таскилати" 
+AZR_soc_democracy_party:0 "ХСДМТ" 
+AZR_soc_democracy_party_long:0 "Хюммет Сосиал-Демократ Мюсельман Таскилати" 
+AZR_soc_liberal_party:0 "АФ" 
+AZR_soc_liberal_party_long:0 "Ахрар Фиркаси" 
+AZR_lib_conservatism_party:0 "ПМ" 
+AZR_lib_conservatism_party_long:0 "Партия Мусават" 
+AZR_soc_conservatism_party:0 "ПМ" 
+AZR_soc_conservatism_party_long:0 "Партия Мусават" 
+AZR_auth_democrat_party:0 "ИФ" 
+AZR_auth_democrat_party_long:0 "Иттихад Фиркаси" 
+AZR_pat_autocrat_party:0 "ИФ" 
+AZR_pat_autocrat_party_long:0 "Иттихад Фиркаси" 
+AZR_fascism_party:0 "ИФ" 
+AZR_fascism_party_long:0 "Иттихад Фиркаси" 
+
+### Country Name ### 
+
+AZR_leninism:0 "Азербайджанская Демократическая Республика" 
+AZR_leninism_DEF:0 "Азербайджанская Демократическая Республика" 
+AZR_leninism_ADJ:0 "Азербайджанск." 
+AZR_marxism:0 "Азербайджанская Демократическая Республика" 
+AZR_marxism_DEF:0 "Азербайджанская Демократическая Республика" 
+AZR_marxism_ADJ:0 "Азербайджанск." 
+AZR_rev_socialism:0 "Азербайджанская Демократическая Республика" 
+AZR_rev_socialism_DEF:0 "Азербайджанская Демократическая Республика" 
+AZR_rev_socialism_ADJ:0 "Азербайджанск." 
+AZR_soc_democracy:0 "Азербайджанская Демократическая Республика" 
+AZR_soc_democracy_DEF:0 "Азербайджанская Демократическая Республика" 
+AZR_soc_democracy_ADJ:0 "Азербайджанск." 
+AZR_soc_liberal:0 "Азербайджанская Демократическая Республика" 
+AZR_soc_liberal_DEF:0 "Азербайджанская Демократическая Республика" 
+AZR_soc_liberal_ADJ:0 "Азербайджанск." 
+AZR_lib_conservatism:0 "Азербайджанская Демократическая Республика" 
+AZR_lib_conservatism_DEF:0 "Азербайджанская Демократическая Республика" 
+AZR_lib_conservatism_ADJ:0 "Азербайджанск." 
+AZR_soc_conservatism:0 "Азербайджанская Демократическая Республика" 
+AZR_soc_conservatism_DEF:0 "Азербайджанская Демократическая Республика" 
+AZR_soc_conservatism_ADJ:0 "Азербайджанск." 
+AZR_auth_democrat:0 "Азербайджанская Демократическая Республика" 
+AZR_auth_democrat_DEF:0 "Азербайджанская Демократическая Республика" 
+AZR_auth_democrat_ADJ:0 "Азербайджанск." 
+AZR_pat_autocrat:0 "Азербайджанская Демократическая Республика" 
+AZR_pat_autocrat_DEF:0 "Азербайджанская Демократическая Республика" 
+AZR_pat_autocrat_ADJ:0 "Азербайджанск." 
+AZR_fascism:0 "Азербайджанская Демократическая Республика" 
+AZR_fascism_DEF:0 "Азербайджанская Демократическая Республика" 
+AZR_fascism_ADJ:0 "Азербайджанск." 
+
+### Focuses ### 
+
+AZR_Focus_ID:0 "" 
+AZR_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+AZR_Idea_ID:0 "" 
+AZR_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

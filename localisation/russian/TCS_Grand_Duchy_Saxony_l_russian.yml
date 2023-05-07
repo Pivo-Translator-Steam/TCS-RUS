@@ -1,0 +1,92 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ THU_leninism_party:0 "-" 
+ THU_leninism_party_long:0 "" 
+ THU_marxism_party:0 "-" 
+ THU_marxism_party_long:0 "" 
+ THU_rev_socialism_party:0 "-" 
+ THU_rev_socialism_party_long:0 "" 
+ THU_soc_democracy_party:0 "-" 
+ THU_soc_democracy_party_long:0 "" 
+ THU_soc_liberal_party:0 "-" 
+ THU_soc_liberal_party_long:0 "" 
+ THU_lib_conservatism_party:0 "-" 
+ THU_lib_conservatism_party_long:0 "" 
+ THU_soc_conservatism_party:0 "-" 
+ THU_soc_conservatism_party_long:0 "" 
+ THU_auth_democrat_party:0 "Имперский совет" 
+ THU_auth_democrat_party_long:0 "Имперский совет" 
+ THU_pat_autocrat_party:0 "Имперский совет" 
+ THU_pat_autocrat_party_long:0 "Имперский совет" 
+ THU_fascism_party:0 "Имперский совет" 
+ THU_fascism_party_long:0 "Имперский совет" 
+
+### Country Name ### 
+
+ THU_leninism:0 "Великое герцогство Саксонское" 
+ THU_leninism_DEF:0 "Великое герцогство Саксонское" 
+ THU_leninism_ADJ:0 "Саксонск." 
+ THU_marxism:0 "Великое герцогство Саксонское" 
+ THU_marxism_DEF:0 "Великое герцогство Саксонское" 
+ THU_marxism_ADJ:0 "Саксонск." 
+ THU_rev_socialism:0 "Великое герцогство Саксонское" 
+ THU_rev_socialism_DEF:0 "Великое герцогство Саксонское" 
+ THU_rev_socialism_ADJ:0 "Саксонск." 
+ THU_soc_democracy:0 "Великое герцогство Саксонское" 
+ THU_soc_democracy_DEF:0 "Великое герцогство Саксонское" 
+ THU_soc_democracy_ADJ:0 "Саксонск." 
+ THU_soc_liberal:0 "Великое герцогство Саксонское" 
+ THU_soc_liberal_DEF:0 "Великое герцогство Саксонское" 
+ THU_soc_liberal_ADJ:0 "Саксонск." 
+ THU_lib_conservatism:0 "Великое герцогство Саксонское" 
+ THU_lib_conservatism_DEF:0 "Великое герцогство Саксонское" 
+ THU_lib_conservatism_ADJ:0 "Саксонск." 
+ THU_soc_conservatism:0 "Великое герцогство Саксонское" 
+ THU_soc_conservatism_DEF:0 "Великое герцогство Саксонское" 
+ THU_soc_conservatism_ADJ:0 "Саксонск." 
+ THU_auth_democrat:0 "Великое герцогство Саксонское" 
+ THU_auth_democrat_DEF:0 "Великое герцогство Саксонское" 
+ THU_auth_democrat_ADJ:0 "Саксонск." 
+ THU_pat_autocrat:0 "Великое герцогство Саксонское" 
+ THU_pat_autocrat_DEF:0 "Великое герцогство Саксонское" 
+ THU_pat_autocrat_ADJ:0 "Саксонск." 
+ THU_fascism:0 "Великое герцогство Саксонское" 
+ THU_fascism_DEF:0 "Великое герцогство Саксонское" 
+ THU_fascism_ADJ:0 "Саксонск." 
+
+ HRE_UNIFIED:0 "Священная Римская империя" 
+ HRE_UNIFIED_DEF:0 "Священная Римская империя" 
+ HRE_UNIFIED_ADJ:0 "Священно-Римск." 
+
+### Focuses ### 
+
+ THU_Focus_ID:0 "" 
+ THU_Focus_ID_desc:0 "" 
+
+### Decisions ### 
+
+ TCS_form_hre:0 "Реформа Священной Римской империи" 
+ TCS_form_hre_category:0 "Реформировать Священную Римскую империю" 
+ TCS_form_hre_category_desc:0 "Немецкий народ долгое время был угнетен множеством империй, стремящихся к господству в Европе, в наши дни они известны как Германская империя и Австро-Венгерская империя. Но эти дни позади для немецкого народа, ибо наша нация распустит эти угнетающие государства и восстановит Священную Римскую Империю, с автономией для каждого города, герцогства и королевства в пределах старых империй!\nAquila Elegit Iovis Omnia Vincit!" 
+ TCS_form_hre_desc:0 "Пришло время объединить немецкий народ под нашим священным знаменем!". 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

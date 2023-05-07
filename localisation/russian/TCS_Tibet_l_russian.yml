@@ -1,0 +1,89 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ TIB_leninism_party:0 "" 
+ TIB_leninism_party_long:0 "" 
+ TIB_marxism_party:0 "" 
+ TIB_marxism_party_long:0 "" 
+ TIB_rev_socialism_party:0 "" 
+ TIB_rev_socialism_party_long:0 "" 
+ TIB_soc_democracy_party:0 "" 
+ TIB_soc_democracy_party_long:0 "" 
+ TIB_soc_liberal_party:0 "" 
+ TIB_soc_liberal_party_long:0 "" 
+ TIB_lib_conservatism_party:0 "" 
+ TIB_lib_conservatism_party_long:0 "" 
+ TIB_soc_conservatism_party:0 "" 
+ TIB_soc_conservatism_party_long:0 "" 
+ TIB_auth_democrat_party:0 "" 
+ TIB_auth_democrat_party_long:0 "" 
+ TIB_pat_autocrat_party:0 "" 
+ TIB_pat_autocrat_party_long:0 "" 
+ TIB_fascism_party:0 "" 
+ TIB_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ TIB_leninism:0 "Королевство Тибет" 
+ TIB_leninism_DEF:0 "Королевство Тибет" 
+ TIB_leninism_ADJ:0 "Тибетск." 
+ TIB_marxism:0 "Королевство Тибет" 
+ TIB_marxism_DEF:0 "Королевство Тибет" 
+ TIB_marxism_ADJ:0 "Тибетск." 
+ TIB_rev_socialism:0 "Королевство Тибет" 
+ TIB_rev_socialism_DEF:0 "Королевство Тибет" 
+ TIB_rev_socialism_ADJ:0 "Тибетск." 
+ TIB_soc_democracy:0 "Королевство Тибет" 
+ TIB_soc_democracy_DEF:0 "Королевство Тибет" 
+ TIB_soc_democracy_ADJ:0 "Тибетск." 
+ TIB_soc_liberal:0 "Королевство Тибет" 
+ TIB_soc_liberal_DEF:0 "Королевство Тибет" 
+ TIB_soc_liberal_ADJ:0 "Тибетск." 
+ TIB_lib_conservatism:0 "Королевство Тибет" 
+ TIB_lib_conservatism_DEF:0 "Королевство Тибет" 
+ TIB_lib_conservatism_ADJ:0 "Тибетск." 
+ TIB_soc_conservatism:0 "Королевство Тибет" 
+ TIB_soc_conservatism_DEF:0 "Королевство Тибет" 
+ TIB_soc_conservatism_ADJ:0 "Тибетск." 
+ TIB_auth_democrat:0 "Королевство Тибет" 
+ TIB_auth_democrat_DEF:0 "Королевство Тибет" 
+ TIB_auth_democrat_ADJ:0 "Тибетск." 
+ TIB_pat_autocrat:0 "Королевство Тибет" 
+ TIB_pat_autocrat_DEF:0 "Королевство Тибет" 
+ TIB_pat_autocrat_ADJ:0 "Тибетск." 
+ TIB_fascism:0 "Королевство Тибет" 
+ TIB_fascism_DEF:0 "Королевство Тибет" 
+ TIB_fascism_ADJ:0 "Тибетск." 
+
+ TIB_QNG_autonomy_puppet:0 "Тибетские государства" 
+ TIB_QNG_autonomy_puppet_DEF:0 "Тибетские государства" 
+
+### Focuses ### 
+
+ TIB_Focus_ID:0 "" 
+ TIB_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ TIB_Idea_ID:0 "" 
+ TIB_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

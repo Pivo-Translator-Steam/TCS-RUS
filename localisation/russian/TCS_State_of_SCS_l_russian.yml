@@ -1,0 +1,89 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+ SCS_political.1.title:0 "Сирмия отделилась и присоединилась к Сербии" 
+ SCS_political.1.desc:0 "" 
+ SCS_political.1.a:0 "Югославские идеалы превыше нашей нации" 
+
+### Parties ### 
+
+ SCS_leninism_party:0 "" 
+ SCS_leninism_party_long:0 "" 
+ SCS_marxism_party:0 "" 
+ SCS_marxism_party_long:0 "" 
+ SCS_rev_socialism_party:0 "" 
+ SCS_rev_socialism_party_long:0 "" 
+ SCS_soc_democracy_party:0 "" 
+ SCS_soc_democracy_party_long:0 "" 
+ SCS_soc_liberal_party:0 "" 
+ SCS_soc_liberal_party_long:0 "" 
+ SCS_lib_conservatism_party:0 "" 
+ SCS_lib_conservatism_party_long:0 "" 
+ SCS_soc_conservatism_party:0 "" 
+ SCS_soc_conservatism_party_long:0 "" 
+ SCS_auth_democrat_party:0 "" 
+ SCS_auth_democrat_party_long:0 "" 
+ SCS_pat_autocrat_party:0 "" 
+ SCS_pat_autocrat_party_long:0 "" 
+ SCS_fascism_party:0 "" 
+ SCS_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ SCS_leninism:0 "Народная Республика Государство словенцев, хорватов и сербов" 
+ SCS_leninism_DEF:0 "Народная Республика Государство словенцев, хорватов и сербов" 
+ SCS_leninism_ADJ:0 "Словенский, хорватский и сербск." 
+ SCS_marxism:0 "Народная Республика Государство словенцев, хорватов и сербов" 
+ SCS_marxism_DEF:0 "Народная Республика Государство словенцев, хорватов и сербов" 
+ SCS_marxism_ADJ:0 "Словенский, хорватский и сербск." 
+ SCS_rev_socialism:0 "Народная Республика Государство словенцев, хорватов и сербов" 
+ SCS_rev_socialism_DEF:0 "Народная Республика Государство словенцев, хорватов и сербов" 
+ SCS_rev_socialism_ADJ:0 "Словенский, хорватский и сербск." 
+ SCS_soc_democracy:0 "Республика Государство словенцев, хорватов и сербов" 
+ SCS_soc_democracy_DEF:0 "Республика Государство словенцев, хорватов и сербов" 
+ SCS_soc_democracy_ADJ:0 "Словенский, хорватский и сербск." 
+ SCS_soc_liberal:0 "Республика Государство словенцев, хорватов и сербов" 
+ SCS_soc_liberal_DEF:0 "Республика Государство словенцев, хорватов и сербов" 
+ SCS_soc_liberal_ADJ:0 "Словенский, хорватский и сербск." 
+ SCS_lib_conservatism:0 "Республика Государство словенцев, хорватов и сербов" 
+ SCS_lib_conservatism_DEF:0 "Республика Государство словенцев, хорватов и сербов" 
+ SCS_lib_conservatism_ADJ:0 "Словенский, хорватский и сербск." 
+ SCS_soc_conservatism:0 "Государство словенцев, хорватов и сербов" 
+ SCS_soc_conservatism_DEF:0 "Государство словенцев, хорватов и сербов" 
+ SCS_soc_conservatism_ADJ:0 "Словенский, хорватский и сербск." 
+ SCS_auth_democrat:0 "Государство словенцев, хорватов и сербов" 
+ SCS_auth_democrat_DEF:0 "Государство словенцев, хорватов и сербов" 
+ SCS_auth_democrat_ADJ:0 "Словенский, хорватский и сербск." 
+ SCS_pat_autocrat:0 "Государство словенцев, хорватов и сербов" 
+ SCS_pat_autocrat_DEF:0 "Государство словенцев, хорватов и сербов" 
+ SCS_pat_autocrat_ADJ:0 "Словенский, хорватский и сербск." 
+ SCS_fascism:0 "Словенская, хорватская и сербская империя" 
+ SCS_fascism_DEF:0 "Словенская, хорватская и сербская империя" 
+ SCS_fascism_ADJ:0 "Словенский, хорватский и сербск." 
+
+### Focuses ### 
+
+ SCS_Focus_ID:0 "" 
+ SCS_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ SCS_Idea_ID:0 "" 
+ SCS_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

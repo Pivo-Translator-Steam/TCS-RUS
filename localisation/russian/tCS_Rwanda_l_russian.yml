@@ -1,0 +1,188 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+ RWA_political.1.t:0 "Сотрудничество с Руандой" 
+ RWA_political.1.d:0 "После поражения немцев и отделения Руанды и Бурунди от Германской Восточной Африки, обе наши страны стали весьма зависимы друг от друга, окруженные европейскими колониальными империями на севере, западе и юге, договор о дружбе, сотрудничестве и военном союзе мог бы принести нам большую пользу." 
+ RWA_political.1.a:0 "Мы стоим вместе!". 
+ RWA_political.1.b:0 "У нас есть более важные приоритеты". 
+ RWA_political.2.t:0 "Бурунди принимает договор о сотрудничестве" 
+ RWA_political.2.d:0 "Пришло сообщение из Бурунди в ответ на нашу просьбу о союзе между нашими странами, они принимают условия с большим энтузиазмом, чтобы сформировать более тесные связи и отношения с нами." 
+ RWA_political.2.a:0 "Замечательно". 
+ RWA_political.3.t:0 "Бурунди отвергает договор о сотрудничестве" 
+ RWA_political.3.d:0 "Пришло сообщение из Бурунди в ответ на нашу просьбу о заключении союза между нашими странами, они отклонили предложение, заявив, что условия договора неприемлемы." 
+ RWA_political.3.a:0 "Но почему?". 
+ RWA_political.4.t:0 "Бельгийские войска приближаются к границе" 
+ RWA_political.4.d:0 "Наши разведчики на нашей западной границе заметили армию бельгийских колониальных полков, марширующих к нашей границе и устанавливающих военный лагерь прямо за пределами наших территорий, их намерения ясны, поскольку Руанда больше не является немецкой колонией, они здесь, чтобы забрать ее себе." 
+ RWA_political.4.a:0 "Относительно новостей". 
+ RWA_political.5.t:0 "Возможности в Руанде" 
+ RWA_political.5.d:0 "Распад Германской Восточной Африки открыл возможность в Руанде, так как Германия больше не держит эти территории, мы теперь можем свободно распространять наше влияние там." 
+ RWA_political.5.a:0 "Мобилизовать колониальные войска". 
+ RWA_political.5.b:0 "Мы не заинтересованы". 
+ RWA_political.6.t:0 "Уступки Бельгии" 
+ RWA_political.6.d:0 "Кажущееся усиление бельгийской угрозы поставило нас в опасное положение, совет племенных вождей решил попытаться умиротворить бельгийцев, предоставив им некоторые особые уступки." 
+ RWA_political.6.a:0 "Предложить особые права бельгийским предприятиям и инвестициям". 
+ RWA_political.7.t:0 "Руанда предлагает особые права нашим предприятиям и инвестициям". 
+ RWA_political.7.d:0 "В процессе разработки." 
+ RWA_political.7.a:0 "Будем надеяться, что они сдержат свое обещание". 
+ RWA_political.7.b:0 "Недостаточно, Руанда должна быть полностью нашей!" 
+ RWA_political.8.t:0 "Бельгийские войска пересекают границу" 
+ RWA_political.8.d:0 "В процессе разработки". 
+ RWA_political.8.a:0 "Призвать всех свободных мужчин к бою!" 
+ RWA_political.9.t:0 "Решающее сражение под Мухангой" 
+ RWA_political.9.d:0 "В процессе разработки." 
+ RWA_political.9.a:0 "Все или ничего!" 
+ RWA_political.10.t:0 "Поражение против Бельгии" 
+ RWA_political.10.d:0 "В процессе разработки". 
+ RWA_political.10.a:0 "Сначала немцы, теперь бельгийцы". 
+ RWA_political.11.t:0 "Победа над захватчиками" 
+ RWA_political.11.d:0 "В процессе разработки". 
+ RWA_political.11.a:0 "Еще один удар по колониализму". 
+ RWA_political.12.t:0 "Падение Руанды" 
+ RWA_political.12.d:0 "В процессе разработки". 
+ RWA_political.12.a:0 "Экселент". 
+ RWA_political.13.t:0 "Наши войска отбиты под Мухангой" 
+ RWA_political.13.d:0 "В процессе разработки". 
+ RWA_political.13.a:0 "Унизительно". 
+ RWA_political.14.t:0 "Вторжение в Руанду подготовлено" 
+ RWA_political.14.d:0 "В процессе разработки". 
+ RWA_political.14.a:0 "Время входить". 
+ RWA_political.15.t:0 "Бельгия принимает уступки" 
+ RWA_political.15.d:0 "В процессе разработки". 
+ RWA_political.15.a:0 "У свободы есть цена". 
+ RWA_political.16.t:0 "Бельгия отказывается от уступок" 
+ RWA_political.16.d:0 "В процессе разработки". 
+ RWA_political.16.a:0 "Мы должны готовиться к худшему". 
+ RWA_political.17.t:0 "Наши войска маршируют в Руанду" 
+ RWA_political.17.d:0 "В процессе разработки". 
+ RWA_political.17.a:0 "У них нет шансов". 
+
+### Parties ### 
+
+ RWA_leninism_party:0 "-" 
+ RWA_leninism_party_long:0 "-" 
+ RWA_marxism_party:0 "-" 
+ RWA_marxism_party_long:0 "-" 
+ RWA_rev_socialism_party:0 "-" 
+ RWA_rev_socialism_party_long:0 "-" 
+ RWA_soc_democracy_party:0 "-" 
+ RWA_soc_democracy_party_long:0 "-" 
+ RWA_soc_liberal_party:0 "-" 
+ RWA_soc_liberal_party_long:0 "-" 
+ RWA_lib_conservatism_party:0 "-" 
+ RWA_lib_conservatism_party_long:0 "-" 
+ RWA_soc_conservatism_party:0 "ИЮ" 
+ RWA_soc_conservatism_party_long:0 "Инама Юмурянго" 
+ RWA_auth_democrat_party:0 "ИЮ" 
+ RWA_auth_democrat_party_long:0 "Инама Юмурянго" 
+ RWA_pat_autocrat_party:0 "ИЮ" 
+ RWA_pat_autocrat_party_long:0 "Инама Юмурянго" 
+ RWA_fascism_party:0 "ИЮ" 
+ RWA_fascism_party_long:0 "Инама Юмурянго" 
+
+ RWA_belgian_tag_pat_autocrat_party:0 "КА" 
+ RWA_belgian_tag_pat_autocrat_party_long:0 "Колониальная администрация" 
+
+### Country Name ### 
+
+ RWA_leninism:0 "Руанда" 
+ RWA_leninism_DEF:0 "Руанда" 
+ RWA_leninism_ADJ:0 "Руандийск." 
+ RWA_marxism:0 "Руанда" 
+ RWA_marxism_DEF:0 "Руанда" 
+ RWA_marxism_ADJ:0 "Руандийск." 
+ RWA_rev_socialism:0 "Руанда" 
+ RWA_rev_socialism_DEF:0 "Руанда" 
+ RWA_rev_socialism_ADJ:0 "Руандийск." 
+ RWA_soc_democracy:0 "Королевство Руанда" 
+ RWA_soc_democracy_DEF:0 "Королевство Руанда" 
+ RWA_soc_democracy_ADJ:0 "Руандийск." 
+ RWA_soc_liberal:0 "Королевство Руанда" 
+ RWA_soc_liberal_DEF:0 "Королевство Руанда" 
+ RWA_soc_liberal_ADJ:0 "Руандийск." 
+ RWA_lib_conservatism:0 "Королевство Руанда" 
+ RWA_lib_conservatism_DEF:0 "Королевство Руанда" 
+ RWA_lib_conservatism_ADJ:0 "Руандийск." 
+ RWA_soc_conservatism:0 "Королевство Руанда" 
+ RWA_soc_conservatism_DEF:0 "Королевство Руанда" 
+ RWA_soc_conservatism_ADJ:0 "Руандийск." 
+ RWA_auth_democrat:0 "Королевство Руанда" 
+ RWA_auth_democrat_DEF:0 "Королевство Руанда" 
+ RWA_auth_democrat_ADJ:0 "Руандийск." 
+ RWA_pat_autocrat:0 "Королевство Руанда" 
+ RWA_pat_autocrat_DEF:0 "Королевство Руанда" 
+ RWA_pat_autocrat_ADJ:0 "Руандийск." 
+ RWA_fascism:0 "Королевство Руанда" 
+ RWA_fascism_DEF:0 "Королевство Руанда" 
+ RWA_fascism_ADJ:0 "Руандийск." 
+
+ RWA_belgian_tag:0 "Бельгийская Руанда" 
+ RWA_belgian_tag_DEF:0 "Бельгийская Руанда" 
+ RWA_belgian_tag_ADJ:0 "Руандийск." 
+
+### Focuses ### 
+
+ RWA_Rwandan_Independence_Declared:0 "Независимость Руанды провозглашена" 
+ RWA_Rwandan_Independence_Declared_desc:0 "В процессе разработки." 
+ RWA_Assassinate_German_Court_Members:0 "Убийство членов немецкого суда" 
+ RWA_Assassinate_German_Court_Members_desc:0 "В процессе разработки." 
+ RWA_Cooperation_Burundi:0 "Сотрудничать с Бурунди" 
+ RWA_Cooperation_Burundi_desc:0 "После поражения немцев и отделения Руанды и Бурунди от Германской Восточной Африки, обе наши страны стали весьма зависимы друг от друга, окруженные европейскими колониальными империями на севере, западе и юге, договор о дружбе, сотрудничестве и военном союзе мог бы принести нам большую пользу." 
+ RWA_Belgian_Threat:0 "Бельгийская угроза" 
+ RWA_Belgian_Threat_desc:0 "В процессе разработки". 
+ RWA_Restructure_Economy:0 "Реструктурировать экономику" 
+ RWA_Restructure_Economy_desc:0 "В процессе разработки." 
+ RWA_Aquire_European_Firearms:0 "Приобрести европейское огнестрельное оружие" 
+ RWA_Aquire_European_Firearms_desc:0 "В процессе разработки." 
+ RWA_Neutral_Foreign_Policy:0 "Нейтральная внешняя политика" 
+ RWA_Neutral_Foreign_Policy_desc:0 "В процессе разработки." 
+ RWA_Great_War_Question:0 "Вопрос о Великой войне" 
+ RWA_Great_War_Question_desc:0 "В процессе разработки." 
+
+### Ideas ### 
+
+ RWA_special_rights_belgian_commerce:0 "Особые права на бельгийскую торговлю" 
+ RWA_special_rights_belgian_commerce_desc:0 "В процессе разработки." 
+
+### Flags ### 
+
+ RWA_belgian_declined_intervention_flag:0 "Бельгия решила не вмешиваться в Руанду". 
+ RWA_british_declined_intervention_flag:0 "Великобритания решила не вмешиваться в Руанду". 
+
+### Decisions ### 
+
+ RWA_dealing_colonial_powers:0 "Сделки с колониальными державами" 
+ RWA_dealing_colonial_powers_desc:0 "В процессе разработки". 
+ RWA_belgian_intervention_de:0 "Бельгийская интервенция" 
+ RWA_belgian_intervention_de_desc:0 "В процессе разработки." 
+
+### Tooltips ### 
+
+ RWA_Cooperation_Burundi_tt:0 "§GЕсли Королевство Бурунди примет договор о сотрудничестве, мы получим следующие эффекты:§!\n Гарантия §YКоролевство Бурунди§! \n Предоставление §YКоролевству Бурунди§! военный доступ.\n (£BRD_flag §YКоролевство Бурунди§!):\n Гарантия §ҮКоролевства Руанда§!.\n Предоставление §ҮКоролевству Руанда§! военный доступ." 
+RWA_Concessions_Belgium_tt:0 "§GЕсли Королевство Бельгия примет наши уступки, мы получим следующие эффекты:§!\n Идея §YОсобые права на бельгийскую торговлю§!, что дает ((£BEL_flag §YКоролевство Бельгия§!),£trade §YЭкстра торговля§! целевой стране: §G+25.00%§!, (£BEL_flag §YКоролевство Бельгия§!), £trade §YЭкстра торговля§!с целевой страной: §G-25.00%§!)." 
+ RWA_Belgium_Invasion_tt:0 "§RВторжение в Руанду.§!". 
+ RWA_Belgium_Invasion_de_unlock_tt:0 "Разблокирует  Решения £decision_icon_small §HВторжения в Руанду§!". 
+ RWA_belgian_intervention_de_tt:0 "(£BEL_flag §YКоролевство Бельгия§!) Получает событие "§YВторжение в Руанду подготовлено§!"." 
+ RWA_BEL_Our_Troops_March_Into_Rwanda_tt:0 "Произойдет один из §Y2§! вариантов.\n§Y80%§! шанс получить событие '§YПадение Руанды§!'.\n§Y20%§! шанс получить событие '§YНаши войска отбиты под Мухангой§!'." 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+ POLITICS_VARIOUS_TRIBAL_LEADERS_RWA_DESC:0 "Совет вождей руандийских племен состоит из вождей мятежных племен, которые также командуют своими племенными солдатами." 
+ POLITICS_COLONIAL_ADMINISTRATION_RWA_DESC:0 "В процессе разработки." 
+
+### Tech ### 
+
+### Opinion Modifiers ### 
+
+ RWA_GER_killed_diplomats:0 "Убитые немецкие дипломаты" 
+ RWA_BRD_rejected_cooperation:0 "Отказано в сотрудничестве" 
+
+### Wars ### 

@@ -1,0 +1,136 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+ SOV_political.2.title:0 "Немецкие войска отступили из Беларуси" 
+ SOV_political.2.desc:0 "" 
+ SOV_political.2.a:0 "Настало наше время освободить эти районы" 
+
+ SOV_news.1.title:0 "Советская Россия денонсирует Брест-Литовский договор" 
+ SOV_news.1.desc:0 "" 
+
+
+### Parties ### 
+
+ SOV_leninism_party:0 "РСДРП (Б)"
+ SOV_leninism_party_long:0 "Российская социал-демократическая рабочая партия (Большевиков)"
+ SOV_marxism_party:0 "РСДРП (М)"
+ SOV_marxism_party_long:0 "Российская социал-демократическая рабочая партия (Меньшевиков)"
+ SOV_rev_socialism_party:0 "ПЛСР"
+ SOV_rev_socialism_party_long:0 "Партия левых социалистов-революционеров"
+ SOV_soc_democracy_party:0 "ПСР"
+ SOV_soc_democracy_party_long:0 "Партия социалистов-революционеров"
+ SOV_soc_liberal_party:0 "ПП"
+ SOV_soc_liberal_party_long:0 "Прогрессивная партия"
+ SOV_lib_conservatism_party:0 "С17О"
+ SOV_lib_conservatism_party_long:0 "Союз 17 Октября"
+ SOV_soc_conservatism_party:0 "К-Д"
+ SOV_soc_conservatism_party_long:0 "Конституционно-демократическая партия"
+ SOV_auth_democrat_party:0 "ВВП"
+ SOV_auth_democrat_party_long:0 "Временное Всероссийское Правительство"
+ SOV_pat_autocrat_party:0 "ВВП"
+ SOV_pat_autocrat_party_long:0 "Временное Всероссийское Правительство"
+ SOV_fascism_party:0 "СРН"
+ SOV_fascism_party_long:0 "Союз Русского Народа"
+
+### Country Name ### 
+
+SOV_leninism:0 "Советский Союз" 
+SOV_leninism_DEF:0 "Советский Союз" 
+SOV_leninism_ADJ:0 "Советск." 
+SOV_marxism:0 "Советский Союз" 
+SOV_marxism_DEF:0 "Советский Союз" 
+SOV_marxism_ADJ:0 "Советск." 
+SOV_rev_socialism:0 "Советский Союз" 
+SOV_rev_socialism_DEF:0 "Советский Союз" 
+SOV_rev_socialism_ADJ:0 "Советск." 
+SOV_soc_democracy:0 "Советский Союз" 
+SOV_soc_democracy_DEF:0 "Советский Союз" 
+SOV_soc_democracy_ADJ:0 "Советск." 
+SOV_soc_liberal:0 "Советский Союз" 
+SOV_soc_liberal_DEF:0 "Советский Союз" 
+SOV_soc_liberal_ADJ:0 "Советск." 
+SOV_lib_conservatism:0 "Советский Союз" 
+SOV_lib_conservatism_DEF:0 "Советский Союз" 
+SOV_lib_conservatism_ADJ:0 "Советск." 
+SOV_soc_conservatism:0 "Советский Союз" 
+SOV_soc_conservatism_DEF:0 "Советский Союз" 
+SOV_soc_conservatism_ADJ:0 "Советск." 
+SOV_auth_democrat:0 "Советский Союз" 
+SOV_auth_democrat_DEF:0 "Советский Союз" 
+SOV_auth_democrat_ADJ:0 "Советск." 
+SOV_pat_autocrat:0 "Советский Союз" 
+SOV_pat_autocrat_DEF:0 "Советский Союз" 
+SOV_pat_autocrat_ADJ:0 "Советск." 
+SOV_fascism:0 "Советский Союз" 
+SOV_fascism_DEF:0 "Советский Союз" 
+SOV_fascism_ADJ:0 "Советск." 
+
+SOV_RUS_leninism:0 "Советская Россия" 
+SOV_RUS_leninism_DEF:0 "Советская Россия" 
+SOV_RUS_leninism_ADJ:0 "Советск." 
+SOV_RUS_marxism:0 "Советская Россия" 
+SOV_RUS_marxism_DEF:0 "Советская Россия" 
+SOV_RUS_marxism_ADJ:0 "Советск." 
+SOV_RUS_rev_socialism:0 "Советская Россия" 
+SOV_RUS_rev_socialism_DEF:0 "Советская Россия" 
+SOV_RUS_rev_socialism_ADJ:0 "Советск." 
+SOV_RUS_soc_democracy:0 "Советская Россия" 
+SOV_RUS_soc_democracy_DEF:0 "Советская Россия" 
+SOV_RUS_soc_democracy_ADJ:0 "Советск." 
+SOV_RUS_soc_liberal:0 "Советская Россия" 
+SOV_RUS_soc_liberal_DEF:0 "Советская Россия" 
+SOV_RUS_soc_liberal_ADJ:0 "Советск." 
+SOV_RUS_lib_conservatism:0 "Советская Россия" 
+SOV_RUS_lib_conservatism_DEF:0 "Советская Россия" 
+SOV_RUS_lib_conservatism_ADJ:0 "Советск." 
+SOV_RUS_soc_conservatism:0 "Советская Россия" 
+SOV_RUS_soc_conservatism_DEF:0 "Советская Россия" 
+SOV_RUS_soc_conservatism_ADJ:0 "Советск." 
+SOV_RUS_auth_democrat:0 "Советская Россия" 
+SOV_RUS_auth_democrat_DEF:0 "Советская Россия" 
+SOV_RUS_auth_democrat_ADJ:0 "Советск." 
+SOV_RUS_pat_autocrat:0 "Советская Россия" 
+SOV_RUS_pat_autocrat_DEF:0 "Советская Россия" 
+SOV_RUS_pat_autocrat_ADJ:0 "Советск." 
+SOV_RUS_fascism:0 "Советская Россия" 
+SOV_RUS_fascism_DEF:0 "Советская Россия" 
+SOV_RUS_fascism_ADJ:0 "Советск." 
+
+### Focuses ### 
+
+SOV_Focus_ID:0 "" 
+SOV_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+SOV_Idea_ID:0 "" 
+SOV_Idea_ID_desc:0 "" 
+
+### Decisions ### 
+ SOV_annexations:0 "Последние советские приобретения" 
+ #SOV_annexation_belarus_establish_soviet:0 "Установить [SRB.GetFlag]§IСоветскую Марионетку§! в Беларуси" 
+ SOV_annexation_belarus:0 "Установить [SRB.GetFlag]§IСоветскую Марионетку§! в Беларуси" 
+ SOV_establish_belarus_soviet:0 "Мы установим [SRB.GetFlag]§IСоветскую Марионетку§! в Беларуси" 
+ SOV_establish_belarus_soviet_timeout:0 "В Беларуси будет создана [SRB.GetFlag]§IСоветская Марионетка§!". 
+
+ SOV_creation_of_the_soviet_ukraine:0 "Создание Временного рабоче-крестьянского правительства Украины" 
+ SOV_SRB_invade_lithuania:0 "Вторжение в Литву" 
+
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

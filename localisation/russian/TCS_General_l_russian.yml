@@ -1,0 +1,637 @@
+﻿l_russian:
+
+#Startdates 
+THE_BREEZE_OF_PEACE_NAME:0 "Бриз мира" 
+THE_BREEZE_OF_PEACE_DESC:0 "1905 год стал кульминацией беспрецедентной эпохи мира, роста, либерального идеализма и экономического развития. За исключением Крымской войны 1853 года и Франко-прусской войны 1870 года, Европа не переживала крупных континентальных конфликтов со времен Наполеона. Это век безудержного оптимизма. Однако на горизонте появились грозовые тучи. Борьба за власть в Азии переросла в открытую войну между Россией и Японией, а долгий, медленный упадок Османской империи заставляет ее противников кружить, как стервятники." 
+
+THE_COMING_STORM_NAME:0 "Грядущий шторм" 
+THE_COMING_STORM_DESC:0 "Эпоха мира закончилась; оптимизм эдвардианской эпохи уступил место мрачным реалиям растущего национализма и жестокой дипломатии. Великие державы формируют сложную сеть союзов друг против друга. Старые многонациональные империи дают трещины в своих основаниях. Франция и Россия вооружаются для неизбежной, как им кажется, конфронтации с Тройственным союзом. Нации Балкан откладывают свои разногласия на время, ожидая малейшей возможности напасть на своего древнего врага." 
+
+THE_STORM_OF_STEEL_NAME:0 "Стальной шторм" 
+THE_STORM_OF_STEEL_DESC:0 "Мир стоит на грани пожара. Борьба за власть между альянсами достигла апогея. На Балканах две кровопролитные войны ничего не решили, а вторжение Австрии в регион обеспокоило международное сообщество. Пока дипломаты и министры пытаются сохранить хрупкий баланс сил, огромные армии и флоты, созданные гонкой вооружений предыдущего десятилетия, ждут, как свернутая пружина. Европа - это ящик с зажигательной смесью, и достаточно одной шальной искры, чтобы поджечь весь континент". 
+
+THE_SETTLING_STORM_NAME:0 "Оседлые ветры" 
+THE_SETTLING_STORM_DESC:0 "Буря наконец прошла, и пушки замолчали. Европа лежит в руинах. Великая война унесла миллионы жизней, и мир уже никогда не будет прежним. Старые режимы Европы, а вместе с ними монархия, либерализм и многонациональный империализм были полностью дискредитированы. На их месте возникли десятки новых государств и экстремистских идеологий, таких как коммунизм и радикальный авторитарный национализм. Российская империя рухнула в гражданскую войну, а побежденная Германия теперь стоит на пороге революции". 
+
+RED_OCTOBER_TT:0 "§YСабмод "§RRed October§!" §Gвключён§!!\n\n§gРусская революция 1905 года разрушила старые дипломатические предположения великих держав. После катастрофического поражения Российской империи в войне с Японией, громоздкая коалиция социалистов, анархистов, марксистов и конституционных демократов вышла победителем из трехлетней гражданской войны и свергла царский режим. Теперь перед молодой Российской республикой стоят опасные враги, старый союз с Францией под вопросом, Япония становится все сильнее на востоке, а Германия рухнула в революцию.§!" 
+
+RED_OCTOBER_TT_NO:0 "§YСабмод "§RRed October§!" §Rотключён§!!\n\n§gРусская революция 1905 года опрокинула старые дипломатические предположения великих держав. После катастрофического поражения Российской империи в войне с Японией, громоздкая коалиция социалистов, анархистов, марксистов и конституционных демократов вышла победителем из трехлетней гражданской войны и свергла царский режим. Теперь перед молодой Российской республикой стоят опасные враги, старый союз с Францией под вопросом, Япония становится все сильнее на востоке, а Германия рухнула в революцию.§!" 
+
+FROM_THE_BARRICADES_TT:0"§YСабмод "§RFrom the Barricades§!" §Gвключён§!!!\n\n§gПрошло более тридцати лет после третьей французской революции. После ошеломляющего поражения империи от Пруссии в 1871 году, рабочие классы Парижа вышли на улицы и основали Французскую Коммуну, первое в мире государство коммунаров. Новая Германская империя теперь возглавляет растущий союз наций, надеющихся остановить наступающую волну радикализма, Австро-Венгрия распалась на множество конкурирующих государств, сила Итальянского королевства растет на Адриатике, а Россия оказалась без друзей и катится к катастрофе.§!" 
+
+FROM_THE_BARRICADES_TT_NO:0"§YСабмод "§RFrom the Barricades§!" §Rотключён§!!\n\n§gПрошло более тридцати лет после третьей Французской революции. После ошеломляющего поражения империи от Пруссии в 1871 году, рабочие классы Парижа вышли на улицы и основали Французскую Коммуну, первое в мире государство коммунаров. Новая Германская империя теперь возглавляет растущий союз наций, надеющихся остановить наступающую волну радикализма, Австро-Венгрия распалась на множество конкурирующих наций, сила Итальянского королевства растет на Адриатике, а Россия оказалась без друзей и катится к катастрофе.§!" 
+
+TCS_WORK_IN_PROGRESS_TT:0 "§R! П Р Е Д У П Р Е Ж Д Е Н И Е !§!\nСтартовые даты 1910-1918 годов не закончены и в настоящее время находятся в совершенно неиграбельном состоянии. Мы не рекомендуем играть в эти даты, и сообщения об ошибках в них не будут рассматриваться в настоящее время." 
+
+### Resources ### 
+ PRODUCTION_MATERIALS_COAL:0 "Уголь" 
+ coal_desc:0 "Вонючий уголь" 
+
+### Laws ### 
+ voting_laws:0 "Избирательное право" 
+ universal_suffrage:0 "Всеобщее избирательное право" 
+ male_suffrage:0 "Мужское избирательное право" 
+ propertied_male_suffrage:0 "Иммущественное избирательное право" 
+ sham_elections:0 "Фиктивные выборы" 
+ no_elections:0 "Нет выборов" 
+
+ EFFECT_CHANGE_LAW_voting_laws:0 "Изменить закон о голосовании на '$NAME|Y$', который предоставляет ($DESC$)". 
+
+### Difficulty ### 
+custom_diff_strong_ger:0 "Усилить Германскую империю" 
+custom_diff_strong_eng:0 "Усилить Британию" 
+custom_diff_strong_can:0 "Усилить Канаду" 
+custom_diff_strong_rus:0 "Усилить Россию" 
+custom_diff_strong_sov:0 "Усилить Советы" 
+custom_diff_strong_aus:0 "Усилить Австро-Венгрию" 
+custom_diff_strong_usa:0 "Усилить США" 
+custom_diff_strong_fra:0 "Усилить Францию" 
+custom_diff_strong_ita:0 "Усилить Италию" 
+custom_diff_strong_jap:0 "Усилить Японию" 
+custom_diff_strong_qie:0 "Усилить империю Цин" 
+
+### Autonomy Tooltips ### 
+can_lower_autonomy_level:0 "Может понизить уровень автономии\n" 
+can_raise_autonomy_level:0 "Может повысить уровень автономии\n" 
+puppet_can_become_free:0 "Может стать независимым\n" 
+puppet_can_be_annexed:0 "Может быть аннексирована владыкой\n" 
+may_raise_autonomy:0 "§Y[Root.GetNameDefCap]§! теперь может повысить уровень автономии\n" 
+may_become_free:0 "§Y[Root.GetNameDefCap]§! может теперь работать над достижением независимости\n" 
+
+### Interface ### 
+minister:1 "Министры" 
+research_production:1 "Компании" 
+industrial_concern:1 "Промышленная компания" 
+weapons_manufacturer:0 "Производитель оружия" 
+tank_manufacturer:1 "Производитель тяжелой техники" 
+air_naval_manufacturer:0 "Производитель авиационной и военно-морской техники" 
+POLITICS_NOELECTIONS:0 "Любые выборы по событию". 
+can_replace_hog:0 "Может заменить главу правительства" 
+for_cannot_be_replaced:0 "Министр иностранных дел не может быть заменен" 
+eco_cannot_be_replaced:0 "Министр экономики не может быть заменен" 
+sec_cannot_be_replaced:0 "Министр безопасности не может быть заменен" 
+ministers_cannot_be_replaced:0 "Министры не могут быть заменены" 
+
+### Factions ### 
+Central_Powers:0 "Центральные державы" 
+Entente_Cordiale:0 "Кордиальная Антанта" 
+Triple_Entente:0 "Тройственная Антанта" 
+Third_International:0 "Третий Интернационал" 
+Holy_Alliance:0 "Священный Альянс" 
+Triple_Alliance:0 "Тройственный союз" 
+BALKAN_LEAGUE:0 "Балканская лига" 
+TCS_UKRAINE_FACTION:0 "Украина" 
+
+### Tooltips ### 
+tooltip_add_idea_closed_economy:0 "Изменить закон о торговле на '§YЗакрытую Экономику§!'.\n" 
+tooltip_add_idea_command_economy:0 "Изменить закон о торговле на "§YЗакрытую Экономику§!".\n" 
+ GENERIC_press_laws_tt:0 "Изменит наш §YЗакон о прессе§!, когда он будет реализован." 
+voting_law_tt:0 "Наше §YИзбирательное право§! может быть изменено только через §ҮСобытия§! и §ҮНациональные Фокусы§!". 
+ TCS_historical_peacedeal_tt:0 "Запускает §YИсторическую мирную сделку§!". 
+ TCS_increased_ace_chance_10:0 "Увеличивает шанс получить §YАса§! на §Y10%§!". 
+TCS_unfinished_content_tt:0 "§RЭтот контент не закончен и, скорее всего, ничего не даст!§!". 
+
+### World Tension ### 
+
+
+### Name and Description ### 
+
+
+### Skill Level ### 
+unskilled:0 "" #(unskilled) 
+regular:0 "" #(regular) 
+expert:0 "" #(expert) 
+blank:0 "" #\n 
+
+### Ministers ### 
+head_of_government:0 "Глава правительства" 
+foreign_minister:0 "Министр иностранных дел" 
+economy_minister:0 "Министр экономики" 
+interior_minister:0 "Министр внутренних дел" 
+high_command:0 "Верховное командование" 
+
+head_of_government_trait:0 "Глава правительства" 
+foreign_minister_trait:0 "Министр иностранных дел" 
+economy_minister_trait:0 "Министр экономики" 
+interior_minister_trait:0 "Министр внутренних дел" 
+
+### Company Traits ### 
+
+### Tank ### 
+small_tank_producer_offense_0:0 "Производитель легких танков" 
+small_tank_producer_offense_1:0 "Производитель легких танков" 
+small_tank_producer_offense_2:0 "Производитель легких танков" 
+small_tank_producer_defense_0:0 "Производитель легких танков" 
+small_tank_producer_defense_1:0 "Производитель легких танков" 
+small_tank_producer_defense_2:0 "Производитель легких танков" 
+small_tank_producer_mass_0:0 "Производитель легких танков" 
+small_tank_producer_mass_1:0 "Производитель легких танков" 
+small_tank_producer_mass_2:0 "Производитель легких танков" 
+medium_tank_producer_offense_0:0 "Производитель средних танков" 
+medium_tank_producer_offense_1:0 "Производитель средних танков" 
+medium_tank_producer_offense_2:0 "Производитель средних танков" 
+medium_tank_producer_defense_0:0 "Производитель средних танков" 
+medium_tank_producer_defense_1:0 "Производитель средних танков" 
+medium_tank_producer_defense_2:0 "Производитель средних танков" 
+medium_tank_producer_mass_0:0 "Производитель средних танков" 
+medium_tank_producer_mass_1:0 "Производитель средних танков" 
+medium_tank_producer_mass_2:0 "Производитель средних танков" 
+heavy_tank_producer_offense_0:0 "Производитель тяжелых танков" 
+heavy_tank_producer_offense_1:0 "Производитель тяжелых танков" 
+heavy_tank_producer_offense_2:0 "Производитель тяжелых танков" 
+heavy_tank_producer_defense_0:0 "Производитель тяжелых танков" 
+heavy_tank_producer_defense_1:0 "Производитель тяжелых танков" 
+heavy_tank_producer_defense_2:0 "Производитель тяжелых танков" 
+heavy_tank_producer_mass_0:0 "Производитель тяжелых танков" 
+heavy_tank_producer_mass_1:0 "Производитель тяжелых танков" 
+heavy_tank_producer_mass_2:0 "Производитель тяжелых танков" 
+
+### Air ### 
+fighter_producer_offense_0:0 "Производитель истребителей" 
+fighter_producer_offense_1:0 "Производитель истребителей" 
+fighter_producer_offense_2:0 "Производитель истребителей" 
+fighter_producer_defense_0:0 "Производитель истребителей" 
+fighter_producer_defense_1:0 "Производитель истребителей" 
+fighter_producer_defense_2:0 "Производитель истребителей" 
+fighter_producer_mass_0:0 "Производитель истребителей" 
+fighter_producer_mass_1:0 "Производитель истребителей" 
+fighter_producer_mass_2:0 "Производитель истребителей" 
+bomber_producer_offense_0:0 "Производитель тяжелых бомбардировщиков" 
+bomber_producer_offense_1:0 "Производитель тяжелых бомбардировщиков" 
+bomber_producer_offense_2:0 "Производитель тяжелых бомбардировщиков" 
+bomber_producer_defense_0:0 "Производитель тяжелых бомбардировщиков" 
+bomber_producer_defense_1:0 "Производитель тяжелых бомбардировщиков" 
+bomber_producer_defense_2:0 "Производитель тяжелых бомбардировщиков" 
+bomber_producer_mass_0:0 "Производитель тяжелых бомбардировщиков" 
+bomber_producer_mass_1:0 "Производитель тяжелых бомбардировщиков" 
+bomber_producer_mass_2:0 "Производитель тяжелых бомбардировщиков" 
+nav_cas_producer_offense_0:0 "Производитель легких бомбардировщиков" 
+nav_cas_producer_offense_1:0 "Производитель легких бомбардировщиков" 
+nav_cas_producer_offense_2:0 "Производитель легких бомбардировщиков" 
+nav_cas_producer_defense_0:0 "Производитель легких бомбардировщиков" 
+nav_cas_producer_defense_1:0 "Производитель легких бомбардировщиков" 
+nav_cas_producer_defense_2:0 "Производитель легких бомбардировщиков" 
+nav_cas_producer_mass_0:0 "Производитель легких бомбардировщиков" 
+nav_cas_producer_mass_1:0 "Производитель легких бомбардировщиков" 
+nav_cas_producer_mass_2:0 "Производитель легких бомбардировщиков" 
+
+### Arms ### 
+motorised_equipment_producer_offense_0:0 "Производитель моторизованного оборудования" 
+motorised_equipment_producer_offense_1:0 "Производитель моторизованного оборудования" 
+motorised_equipment_producer_offense_2:0 "Производитель моторизованного оборудования" 
+motorised_equipment_producer_defense_0:0 "Производитель моторизованного оборудования" 
+motorised_equipment_producer_defense_1:0 "Производитель моторизованного оборудования" 
+motorised_equipment_producer_defense_2:0 "Производитель моторизованного оборудования" 
+motorised_equipment_producer_mass_0:0 "Производитель моторизованного оборудования" 
+motorised_equipment_producer_mass_1:0 "Производитель моторизованного оборудования" 
+motorised_equipment_producer_mass_2:0 "Производитель моторизованного оборудования" 
+infantry_equipment_producer_offense_0:0 "Производитель пехотного оборудования" 
+infantry_equipment_producer_offense_1:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_offense_2:0 "Производитель пехотного оборудования" 
+infantry_equipment_producer_defense_0:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_defense_1:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_defense_2:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_assualt_0:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_assualt_1:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_assualt_2:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_allround_0:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_allround_1:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_allround_2:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_mass_0:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_mass_1:0 "Производитель пехотного снаряжения" 
+infantry_equipment_producer_mass_2:0 "Производитель пехотного снаряжения" 
+artillery_producer_offense_0:0 "Производитель артиллерии" 
+artillery_producer_offense_1:0 "Производитель артиллерии" 
+artillery_producer_offense_2:0 "Производитель артиллерии" 
+artillery_producer_defense_0:0 "Производитель артиллерии" 
+artillery_producer_defense_1:0 "Производитель артиллерии" 
+artillery_producer_defense_2:0 "Производитель артиллерии" 
+artillery_producer_mass_0:0 "Производитель артиллерии" 
+artillery_producer_mass_1:0 "Производитель артиллерии" 
+artillery_producer_mass_2:0 "Производитель артиллерии" 
+
+### Naval ### 
+capital_ship_producer_offense_0:0 "Производитель Капитальных Кораблей" 
+capital_ship_producer_offense_1:0 "Производитель Капитальных Кораблей" 
+capital_ship_producer_offense_2:0 "Производитель Капитальных Кораблей" 
+capital_ship_producer_defense_0:0 "Производитель Капитальных Кораблей" 
+capital_ship_producer_defense_1:0 "Производитель Капитальных Кораблей" 
+capital_ship_producer_defense_2:0 "Производитель Капитальных Кораблей" 
+capital_ship_producer_mass_0:0 "Производитель Капитальных Кораблей" 
+capital_ship_producer_mass_1:0 "Производитель Капитальных Кораблей" 
+capital_ship_producer_mass_2:0 "Производитель Капитальных Кораблей" 
+cruiser_producer_offense_0:0 "Производитель крейсеров" 
+cruiser_producer_offense_1:0 "Производитель крейсера" 
+cruiser_producer_offense_2:0 "Производитель крейсера" 
+cruiser_producer_defense_0:0 "Производитель крейсеров" 
+cruiser_producer_defense_1:0 "Производитель крейсеров" 
+cruiser_producer_defense_2:0 "Производитель крейсеров" 
+cruiser_producer_mass_0:0 "Производитель крейсеров" 
+cruiser_producer_mass_1:0 "Производитель крейсеров" 
+cruiser_producer_mass_2:0 "Производитель крейсеров" 
+small_ship_producer_offense_0:0 "Производитель малых кораблей" 
+small_ship_producer_offense_1:0 "Производитель малых кораблей" 
+small_ship_producer_offense_2:0 "Производитель малых кораблей" 
+small_ship_producer_defense_0:0 "Производитель малых кораблей" 
+small_ship_producer_defense_1:0 "Производитель малых кораблей" 
+small_ship_producer_defense_2:0 "Производитель малых кораблей" 
+small_ship_producer_mass_0:0 "Производитель малых кораблей" 
+small_ship_producer_mass_1:0 "Производитель малых кораблей" 
+small_ship_producer_mass_2:0 "Производитель малых кораблей" 
+
+### General Industry ### 
+chemical_producer:0 "Химическая компания" 
+industrial_manufacturer:0 "Промышленная компания" 
+electronics_manufacturer:0 "Производитель электроники" 
+
+### Theorists ### 
+
+### Different stuff ### 
+industry_theorist:0 "Теоретик промышленности" 
+nuclear_theorist:0 "Ядерный теоретик" 
+rocket_theorist:0 "Теоретик ракет" 
+electronic_theorist:0 "Электронный теоретик" 
+
+### Doctrines ### 
+
+### General ### 
+air_doctrine_theorist:0 "Теоретик воздушной доктрины" 
+naval_doctrine_theorist:0 "Теоретик военно-морской доктрины" 
+land_doctrine_theorist:0 "Теоретик сухопутной доктрины" 
+
+### Land ### 
+supperior_firepower_theorist:0 "Теоретик превосходной огневой мощи" 
+mobile_warfare_theorist:0 "Теоретик мобильной войны" 
+trench_warfare_theorist:0 "Теоретик окопной войны" 
+mass_assault_theorist:0 "Теоретик массового нападения" 
+
+### Air ### 
+strategic_destruction_theorist:0 "Теоретик стратегического разрушения" 
+battlefield_support_theorist:0 "Теоретик поддержки поля боя" 
+operational_integrity_theorist:0 "Теоретик оперативной целостности" 
+
+### Naval ### 
+fleet_in_being_theorist_theorist:0 "Теоретик флота в бытии" 
+trade_interdiction_theorist:0 "Теоретик торгового перехвата" 
+base_strike_theorist:0 "Теоретик базового удара" 
+
+### Unit Type Theorists ### 
+
+### Air ### 
+aircraft_theorist:0 "Теоретик производства самолетов" 
+fighter_theorist:0 "Теоретик истребителей" 
+heavy_fighter_theorist:0 "Теоретик тяжелых истребителей" 
+cas_theorist:0 "Теоретик БАП" 
+tac_theorist:0 "Теоретик тактических бомбардировщиков" 
+strat_theorist:0 "Теоретик стратегических бомбардировщиков" 
+nav_theorist:0 "Теоретик военно-морских бомбардировщиков" 
+
+### Танки ### 
+tank_theorist:0 "Теоретик производства танков" 
+small_tank_theorist:0 "Теоретик малых танков" 
+medium_tank_theorist:0 "Теоретик среднего танка" 
+heavy_tank_theorist:0 "Теоретик тяжелых танков" 
+
+### Общее вооружение ### 
+arms_theorist:0 "Теоретик производства вооружений" 
+infantry_equipment_theorist:0 "Теоретик пехотного снаряжения" 
+support_equipment_theorist:0 "Теоретик вспомогательного оборудования" 
+art_theorist:0 "Теоретик артиллерии" 
+motorized_theorist:0 "Теоретик моторизованной техники" 
+marine_theorist:0 "Теоретик морской техники" 
+
+### General ### 
+fighter_techs:0 "Техник истребителей" 
+fighter_techs_research:0 "Время исследования техники истребителя" 
+support_tech:0 "Техники поддержки" 
+support_tech_research:0 "Время исследования техники поддержки" 
+cat_strategic_destruction:0 "Технологии стратегического уничтожения" 
+marine_tech_research:0 "Время исследования техники морской пехоты" 
+
+### Черты командования армии ### 
+
+### Земля ### 
+land_defense_1:0 "Оборонительная доктрина" 
+land_defense_2:0 "Оборонительная доктрина" 
+land_defense_3:0 "Оборонительная доктрина" 
+
+land_offensive_1:0 "Наступательная доктрина" 
+land_offensive_2:0 "Наступательная доктрина" 
+land_offensive_3:0 "Наступательная доктрина" 
+
+mobile_warfare_1:0 "Мобильная война" 
+mobile_warfare_2:0 "Мобильная война" 
+mobile_warfare_3:0 "Мобильная война" 
+
+entrenchment_1:0 "Weltkrieg Doctrine" 
+entrenchment_2:0 "Weltkrieg Doctrine" 
+entrenchment_3:0 "Weltkrieg Doctrine" 
+
+morale_1:0 "Вдохновляющий лидер" 
+morale_2:0 "Вдохновляющий лидер" 
+morale_3:0 "Вдохновляющий лидер" 
+
+organization_1:0 "Стратегический планировщик" 
+organization_2:0 "Стратегический планировщик" 
+organization_3:0 "Специалист по стратегическому планированию" 
+
+attrition_1:0 "Внимательный планировщик" 
+attrition_2:0 "Аккуратный планировщик" 
+attrition_3:0 "Аккуратный плановик" 
+
+supply_use_1:0 "Планировщик логистики" 
+supply_use_2:0 "Планировщик логистики" 
+supply_use_3:0 "Logistical Planner" 
+
+### Артиллерия ### 
+artillery_offense_1:0 "Наступательный барраж" 
+artillery_offense_2:0 "Наступательный барраж" 
+artillery_offense_3:0 "Наступательный барраж" 
+
+artillery_defense_1:0 "Оборонительный барраж" 
+artillery_defense_2:0 "Оборонительный барраж" 
+artillery_defense_3:0 "Оборонительный барраж" 
+
+### Пехота ### 
+infantry_offense_1:0 "Заряд пехоты" 
+infantry_offense_2:0 "Заряд пехоты" 
+infantry_offense_3:0 "Заряд пехоты" 
+
+infantry_defense_1:0 "Защита пехоты" 
+infantry_defense_2:0 "Защита пехоты" 
+infantry_defense_3:0 "Защита пехоты" 
+
+### Танки ### 
+armored_offense_1:0 "Заряд панцера" 
+armored_offense_2:0 "Заряд панцера"
+armored_offense_3:0 "Заряд панцера" 
+
+armored_defense_1:0 "Оборона панцера" 
+armored_defense_2:0 "Оборона панцера" 
+armored_defense_3:0 "Оборона панцера" 
+
+### Кавалерия ### 
+cavalry_offense_1:0 "Заряд кавалерии" 
+cavalry_offense_2:0 "Заряд кавалерии" 
+cavalry_offense_3:0 "Заряд кавалерии" 
+
+cavalry_defense_1:0 "Кавалерийская оборона" 
+cavalry_defense_2:0 "Кавалерийская оборона" 
+cavalry_defense_3:0 "Кавалерийская оборона" 
+
+### Коммандос ### 
+commando_offense_1:0 "Заряд Коммандос" 
+commando_offense_2:0 "Заряд Коммандос"
+commando_offense_3:0 "Заряд Коммандос"
+
+commando_defense_1:0 "Оборона Коммандос" 
+commando_defense_2:0 "Оборона Коммандос" 
+commando_defense_3:0 "Оборона Коммандос" 
+
+### XP ### 
+army_reform_1:0 "Реформа армии" 
+army_reform_2:0 "Реформа армии" 
+army_reform_3:0 "Реформа армии" 
+
+### Воздух ### 
+concealment_1:0 "Сокрытие" 
+concealment_2:0 "Сокрытие" 
+concealment_3:0 "Сокрытие" 
+
+air_reform_1:0 "Реформа воздуха" 
+air_reform_2:0 "Реформа воздуха" 
+air_reform_3:0 "Реформа воздуха" 
+
+air_safety_1:0 "Безопасность воздуха" 
+air_safety_2:0 "Безопасность воздуха" 
+air_safety_3:0 "Безопасность воздуха" 
+
+air_night_operations_1:0 "Ночные операции" 
+air_night_operations_2:0 "Ночные операции" 
+air_night_operations_3:0 "Ночные операции" 
+
+air_ground_suppression_1:0 "Наземное подавление" 
+air_ground_suppression_2:0 "Наземное подавление" 
+air_ground_suppression_3:0 "Наземное подавление" 
+
+air_weather_1:0 "Всепогодный" 
+air_weather_2:0 "Всепогодный" 
+air_weather_3:0 "Всепогодный" 
+
+air_ace_promoter_1:0 "Положительный героизм" 
+air_ace_promoter_2:0 "Положительный героизм" 
+air_ace_promoter_3:0 "Положительный героизм" 
+
+# air_naval_strike_1:0 "Морской удар" 
+# air_naval_strike_2:0 "Морской удар" 
+# air_naval_strike_3:0 "Морской удар" 
+
+air_bomber_interception_1:0 "Перехват бомбардировщика" 
+air_bomber_interception_2:0 "Перехват бомбардировщика" 
+air_bomber_interception_3:0 "Перехват бомбардировщика" 
+
+# air_air_superiority_1:0 "Превосходство в воздухе" 
+# air_air_superiority_2:0 "Превосходство в воздухе" 
+# air_air_superiority_3:0 "Воздушное превосходство" 
+
+# air_close_air_support_1:0 "Ближняя воздушная поддержка" 
+# air_close_air_support_2:0 "Ближняя воздушная поддержка" 
+# air_close_air_support_3:0 "Ближняя воздушная поддержка" 
+
+air_strategic_bombing_1:0 "Стратегическое бомбометание" 
+air_strategic_bombing_2:0 "Стратегическое бомбометание" 
+air_strategic_bombing_3:0 "Стратегическое бомбометание" 
+
+air_tactical_bombing_1:0 "Тактическое бомбометание" 
+air_tactical_bombing_2:0 "Тактическое бомбометание" 
+air_tactical_bombing_3:0 "Тактическое бомбометание" 
+
+air_airborne_1:0 "Воздушный десант" 
+air_airborne_2:0 "Воздушный десант" 
+air_airborne_3:0 "Воздушный десант" 
+
+### Военно-морской ### 
+navy_chief_naval_aviation_1:0 "Военно-морская авиация" 
+navy_chief_naval_aviation_2:0 "Военно-морская авиация" 
+navy_chief_naval_aviation_3:0 "Военно-морская авиация" 
+
+navy_chief_decisive_battle_1:0 "Доктрина решающего сражения" 
+navy_chief_decisive_battle_2:0 "Доктрина решающего сражения" 
+navy_chief_decisive_battle_3:0 "Доктрина решающего сражения" 
+
+# navy_chief_commerce_raiding_1:0 "Доктрина торгового рейдерства" 
+# navy_chief_commerce_raiding_2:0 "Доктрина торгового рейдерства" 
+# navy_chief_commerce_raiding_3:0 "Доктрина торгового рейдерства" 
+
+navy_chief_reform_1:0 "Реформа флота" 
+navy_chief_reform_2:0 "Реформа флота" 
+navy_chief_reform_3:0 "Реформа флота" 
+
+navy_chief_maneuver_1:0 "Военно-морской маневр" 
+navy_chief_maneuver_2:0 "Военно-морской маневр" 
+navy_chief_maneuver_3:0 "Военно-морской маневр" 
+
+# navy_anti_submarine_1:0 "Противолодочный маневр" 
+# navy_anti_submarine_2:0 "Противолодочный корабль" 
+# navy_anti_submarine_3:0 "Противолодочный корабль" 
+
+navy_naval_air_defense_1:0 "Военно-морская противовоздушная оборона" 
+navy_naval_air_defense_2:0 "Военно-морская противовоздушная оборона" 
+navy_naval_air_defense_3:0 "Военно-морская противовоздушная оборона" 
+
+navy_fleet_logistics_1:0 "Логистика флота" 
+navy_fleet_logistics_2:0 "Логистика флота" 
+navy_fleet_logistics_3:0 "Логистика флота" 
+
+navy_amphibious_assault_1:0 "Амфибийный десант" 
+navy_amphibious_assault_2:0 "Амфибийный десант" 
+navy_amphibious_assault_3:0 "Амфибийный десант" 
+
+# navy_submarine_1:0 "Доктрина подводной войны" 
+# navy_submarine_2:0 "Доктрина подводной войны" 
+# navy_submarine_3:0 "Доктрина подводной войны" 
+
+navy_capital_ship_1:0 "Доктрина капитального флота" 
+navy_capital_ship_2:0 "Доктрина капитального флота" 
+navy_capital_ship_3:0 "Доктрина капитального флота" 
+
+navy_screen_1:0 "Доктрина передового эскорта" 
+navy_screen_2:0 "Доктрина передового эскорта" 
+navy_screen_3:0 "Доктрина передового эскорта" 
+
+navy_carrier_1:0 "Доктрина авианосного удара" 
+navy_carrier_2:0 "Доктрина авианосного удара" 
+navy_carrier_3:0 "Доктрина авианосного удара" 
+
+black_monday:0 "Черный понедельник" 
+
+jet_aircraft_manufacturer:0 "Производитель реактивных самолетов" 
+
+independent_war:0 "Независимая война" 
+independent_war_desc:0 "Эта страна в настоящее время находится в независимой войне. Она не хочет, чтобы другие страны принимали непосредственное участие в войне." 
+
+### Generic Focuses ### 
+ COOP_LINK:0 "Нажмите здесь, чтобы присоединиться к  нашему Дискорду!" 
+ AoM_LINK:0 "Нажмите здесь, чтобы присоединиться к Ассоциации моддеров в Дискорде!" 
+ DISCORD_LINK:0 "Нажмите здесь, чтобы присоединиться к The Coming Storm в Дискорде!" 
+
+## Общие идеи ## 
+ generic_liberty_ethos_focus:0 "Демократический этос" 
+ generic_militarism_focus:0 "Милитаризм" 
+ generic_military_youth_focus:0 "Военная молодежь" 
+ generic_liberty_research_idea:0 "Прогрессивные исследования" 
+ generic_ideological_fanaticism_focus:0 "Идеологический фанатизм" 
+ generic_authoritarian_ethos_focus:0 "Авторитарный этос" 
+ generic_socialist_ethos_focus:0 "Социалистический этос" 
+ generic_classless_society_idea:0 "Бесклассовое общество" 
+ generic_control_production_idea:0 "Контроль над производством" 
+
+### Решения ### 
+## Решения Версальского договора ## 
+ TCS_treaty_of_versailles_state_revindication_decisions:0 "Реиндикации Версальского договора" 
+ TCS_plebiscite_area_decisions:0 "Версальские плебисциты" 
+
+ POL_Incorporation_of_Pomerania:0 "Инкорпорация Померании" 
+ CZE_Incorporation_of_Hultschin:0 "Инкорпорация Хультшин" 
+ GER_Detachment_of_Memel:0 "Отделение Мемеля" 
+ GER_Detachment_of_Danzig:0 "Отделение Данцига" 
+
+ POL_plebiscite_area_Katowice:0 "Плебисцит Верхней Силезии" 
+ POL_plebiscite_area_Upper_Silesia:0 "Плебисцит Верхней Силезии" 
+ POL_plebiscite_area_Warmia_Mazuria:0 "Восточно-прусское плебисцит" 
+ DEN_plebiscite_area_North_Schleswig:0 "Шлезвигское плебисцит" 
+ DEN_plebiscite_area_Flensburg:0 "Шлезвигское плебисцит" 
+## Решения по рейдам ## 
+ #TCS_raid_target_tt:0 "[?TCS_selected_raid_base_state.GetName] | [FROM.GetName] | [ROOT.GetName] | [THIS.GetName] | [PREV.GetName] | [FROM.Owner.GetName]" 
+
+ TCS_raiding_decisions_category:0 "Набеги на наших соседей" 
+ TCS_raiding_decisions_category_desc:0 "Сколько мы себя помним, наши народы всегда совершали набеги на соседей, будь то спорт, потребность в ресурсах или множество других причин. Но очевидно, что набеги - это большая часть нашего общества, и без них мы бы быстро деградировали как народ.\n\n\nМы можем начать набег, выбрав §YРейдерскую Базу§§§, затем мы можем выбрать §ҮРейдерскую Цель§! для нападения. Это начнет небольшую пограничную войну, и если нам удастся ее выиграть, мы получим небольшую добычу." 
+ TCS_raiding:0 "Совершить рейд на территорию §Y[FROM.Owner.GetFlag][FROM.Owner.GetAdjectiveCap]§! территории §Y[FROM.GetName]§!". 
+ #Raid §Y[FROM.Owner.GetAdjectiveCap.GetFlag][FROM.GetName]§! | Выберите £territory_icon §Y[FROM.GetName]§! в качестве нашей §YРейдерской Цели§! 
+ TCS_raiding_base:0 "Выберите §Y[FROM.GetName]§! в качестве нашей §YРейдерской Базы§!". 
+ TCS_raiding_new_base:0 "Выберите новую §YРейдерскую Базы§!". 
+
+ TCS_has_selected_raid_base_tt:0 "Выбрана §YРейдерская База§!". 
+ TCS_not_recently_raided_tt:0 "Недавно не был §YЗарейжен§!". 
+ TCS_not_currently_raiding_tt:0 "§Y[ROOT.GetName]§! в настоящее время не рейдирует и не подвергается рейду!" 
+
+ TCS_cost_CP_15:0 "£command_power §Y15§!" 
+ TCS_cost_CP_15_blocked:0 "£command_power §R15§!" 
+ TCS_cost_CP_15_tooltip:0 "Принятие решения стоит £command_power §Y15§!" 
+
+### События ### 
+ TCS_RAIDING.1.title:0 "Успешный рейд" 
+ TCS_RAIDING.1.desc:0 "Наши рейдеры вернулись с добычей, после тяжелой битвы с врагами нам удалось разграбить часть их запасов и получить боевой опыт." 
+ TCS_RAIDING.1.a:0 "Вперед!". 
+ TCS_RAIDING.2.title:0 "Неудачный рейд" 
+ TCS_RAIDING.2.desc:0 "К сожалению, наши рейдеры не добились успеха, видя различные проигранные сражения и истощение припасов, мы вынуждены отступить обратно в свои земли." 
+ TCS_RAIDING.2.a:0 "Позор". 
+ TCS_RAIDING.3.title:0 "Нерешительный рейд" 
+ TCS_RAIDING.3.desc:0 "После бесчисленных упорных сражений с обеих сторон, похоже, победителя нет. Мы должны вернуться в свои земли, чтобы перегруппироваться и повторить набег позже!" 
+ TCS_RAIDING.3.a:0 "Мы должны попытаться снова!" 
+
+### Земельные единицы ### 
+ TCS_militia:0 "Ополчение" 
+ TCS_armored_car:0 "Броневик" 
+ TCS_light_tank:0 "Легкий танк" 
+ TCS_medium_tank:0 "Средний танк" 
+ TCS_heavy_tank:0 "Тяжелый танк" 
+
+### Сценарий GUI / приветственный всплеск ### 
+ TCS_version:0 "v0.3c "Týr"" 
+ TCS_credits:0 "Благодарность Brammeke и другим разработчикам, которые продолжают ломать git.\n\nТакже огромная благодарность всем нашим нынешним Патронам.\n§Y£TCS_person Филип Галис - £TCS_discord Meowcelott#7971§!" 
+ TCS_information:0 "Добро пожаловать в §YThe Coming Storm!§!\n\n§YThe Coming Storm§! это мод, начинающийся в 1905 году и направленный на эмуляцию нашей истории с этой начальной даты до 1923 года. В настоящее время мод находится на стадии §Rранней Альфы§!, поэтому ожидайте множество ошибок и незаконченного контента! Наша команда постоянно пытается улучшить и расширить мод, если вы хотите помочь нам в этом и быть в курсе новых обновлений, мы рекомендуем присоединиться к нашему §GДискорду!§!\n\n§YThe Coming Storm§! означает, что не все очаги, которые есть у страны, будут проявляться одновременно, поэтому мы рекомендуем поиграть в страну, прежде чем судить о ее содержании или его отсутствии.\n\n\nСпасибо за игру и надеемся, что вам понравится наш мод.\n\n-Команда TCS". 
+
+ TCS_credits_button:0 "Благодарности" 
+ TCS_information_button:0 "Вернуться к информации" 
+
+### Ограничитель единиц ### 
+ TCS_above_unit_limit_penalty_modifier:0 "Выше лимита подразделения" 
+
+ TCS_unit_limit_count:0 "[TCS_unit_limit_count_loc]/[?max_divisions|H0]" #[TCS_unit_limit_count_loc] 
+
+ TCS_unit_limit_count_red:0 "[?num_actual_divisions|R0]" 
+ TCS_unit_limit_count_yellow:0 "[?num_actual_divisions|H0]" 
+ TCS_unit_limit_count_green:0 "[?num_actual_divisions|G0]" 
+
+ unit_limit_label:0 "§YОграничение силы§!\n\nПолевые деления: [?max_divisions|H0]\n\n - Модификатор от общей численности населения: [?base_population|G0][unit_limit_noncore_population]\n - Модификатор от регионов: [?base_states|G0]\n - Общий Модификатор: [?base_units|G0]\n\n - Модификатор индустриализации: [?industry_factor|H%]\n (Макс. модификатор: §H80%§!)\n\n - По умолчанию: [?5|G=0][TCS_limit_modified_by][TCS_unit_limit_bonus_used][TCS_unit_limit_economy_law]". 
+ unit_limit_desc:0 "Любая страна может позволить себе содержать только определенное количество военных подразделений, прежде чем ее экономика и инфраструктура не смогут их содержать.\n\nМаксимальное количество подразделений, которое страна может выставить на поле боя, основано на ее общем населении, владении штатами, а затем умножается на модификатор индустриализации страны.[TCS_above_unit_limit]". 
+
+ TCS_above_unit_limit_desc:0 "\n--------------\n§RВ настоящее время мы работаем за пределами наших возможностей, и удаление некоторых наших дивизий будет единственным способом уменьшить нагрузку на нашу нацию.§!\n\n$MODIFIER_ARMY_ORG_FACTOR$: [?mobilisation_penalty_var|+=%1]\n$MODIFIER_CONSUMER_GOODS_FACTOR$: [? mobilisation_penalty_var_positive|=%H1]\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?mobilisation_penalty_var|+=%]\n$MODIFIER_TRAINING_TIME_ARMY_FACTOR$: [?mobilisation_penalty_var_positive|-=%]\n$MODIFIER_LAND_REINFORCE_RATE$: [?mobilisation_penalty_var|+=%1]" 
+
+ unit_limit_noncore_population_desc:0 "\n (§H10%§! из не национальных регионов: [?non_core_base|H1])" 
+
+ TCS_limit_modified_by_desc: "\n\nИзменён:". 
+ TCS_unit_limit_bonus_used_desc: "\n - £pol_idea Законы и идеи: [?modifier@unit_limit_bonus|=+0]". 
+ TCS_unit_limit_low_economic_mobilisation: "\n - §H$low_economic_mobilisation$§! [?modifier@unit_limit_factory_bonus|+=%0]". 
+ TCS_unit_limit_partial_economic_mobilisation: "\n - §Н$частичная_экономическая_мобилизация$§! [?modifier@unit_limit_factory_bonus|+=%0]". 
+ TCS_unit_limit_war_economy: "\n - §H$war_economy$§! [?modifier@unit_limit_factory_bonus|+=%0]". 
+ TCS_unit_limit_tot_economic_mobilisation: "\n - §H$tot_economic_mobilisation$§! [?modifier@unit_limit_factory_bonus|+=%0]" 
+
+## [unit_limit_modifier_was_capped][unit_limit_extra_modifier_line_break][unit_limit_faction_leader][unit_limit_economy_law][unit_limit_was_capped][unit_limit_lower_limit_used][unit_limit_upper_limit_used][unit_limit_bonus_used] 
+
+### Динамические модификаторы ### 
+ TCS_treaty_of_versailles_state_revindication:0 "Отзыв Версальского договора" 
+ TCS_plebiscite_area:0 "Зона плебисцита" 
+
+ TCS_status_of_nation_war:0 "Статус нации" 
+ TCS_status_of_nation_war_desc:0 "Наша нация втянута в Великую войну, и поскольку это так, мы должны управлять нашей нацией еще более тщательно, чем раньше, поскольку любая небольшая помеха или изменение статус-кво может нарушить военные усилия в пользу нашего врага." 
+ TCS_status_of_nation_war_desc1:0 "" 
+
+ #GER_monarchist_control:0 "Контролируется монархистами" 
+
+### Здания ### 
+ trench:0 "Траншея" 
+ trench_desc:0 "" 
+
+### Test Bookmark Descs ### 
+ POL_THE_SETTLING_STORM_DESC:0 "Польша 1918" 
+ LIV_THE_SETTLING_STORM_DESC:0 "Объединенное Балтийское Герцогство с 1918 года" 
+
+### Идеи ### 
+ increased_ace_chance_10:0 "10% Увеличение шансов на получение Аса" 
+ RUS_JAP_war_better_supply:0 "Русско-японская война" 
+
+### Фильтры фокуса ### 
+ FOCUS_FILTER_DIPLOMACY:0 "Дипломатия" 
+ FOCUS_FILTER_WAR:0 "Конфликты и войны" 

@@ -1,0 +1,95 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ SWI_leninism_party:0 "ШФП" 
+ SWI_leninism_party_long:0 "Швейцарская федерация профсоюзов" 
+ SWI_marxism_party:0 "ШФП" 
+ SWI_marxism_party_long:0 "Швейцарская федерация профсоюзов" 
+ SWI_rev_socialism_party:0 "ШФП" 
+ SWI_rev_socialism_party_long:0 "Швейцарская федерация профсоюзов" 
+ SWI_soc_democracy_party:0 "СДПШ" 
+ SWI_soc_democracy_party_long:0 "Социал-демократическая партия Швейцарии" 
+ SWI_soc_liberal_party:0 "СДП" 
+ SWI_soc_liberal_party_long:0 "Свободная демократическая партия" 
+ SWI_lib_conservatism_party:0 "ЛД" 
+ SWI_lib_conservatism_party_long:0 "Левые демократы" 
+ SWI_soc_conservatism_party:0 "ХДНПШ" 
+ SWI_soc_conservatism_party_long:0 "Христианско-демократическая народная партия Швейцарии" 
+ SWI_auth_democrat_party:0 "НПБ" 
+ SWI_auth_democrat_party_long:0 "Народная партия Берна" 
+ SWI_pat_autocrat_party:0 "" 
+ SWI_pat_autocrat_party_long:0 "" 
+ SWI_fascism_party:0 "" 
+ SWI_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ SWI_leninism:0 "Швейцарская Конфедерация" 
+ SWI_leninism_DEF:0 "Швейцарская Конфедерация" 
+ SWI_leninism_ADJ:0 "Швейцарск." 
+ SWI_marxism:0 "Швейцарская Конфедерация" 
+ SWI_marxism_DEF:0 "Швейцарская Конфедерация" 
+ SWI_marxism_ADJ:0 "Швейцарск." 
+ SWI_rev_socialism:0 "Швейцарская Конфедерация" 
+ SWI_rev_socialism_DEF:0 "Швейцарская Конфедерация" 
+ SWI_rev_socialism_ADJ:0 "Швейцарск." 
+ SWI_soc_democracy:0 "Швейцарская Конфедерация" 
+ SWI_soc_democracy_DEF:0 "Швейцарская Конфедерация" 
+ SWI_soc_democracy_ADJ:0 "Швейцарск." 
+ SWI_soc_liberal:0 "Швейцарская Конфедерация" 
+ SWI_soc_liberal_DEF:0 "Швейцарская Конфедерация" 
+ SWI_soc_liberal_ADJ:0 "Швейцарск." 
+ SWI_lib_conservatism:0 "Швейцарская Конфедерация" 
+ SWI_lib_conservatism_DEF:0 "Швейцарская Конфедерация" 
+ SWI_lib_conservatism_ADJ:0 "Швейцарск." 
+ SWI_soc_conservatism:0 "Швейцарская Конфедерация" 
+ SWI_soc_conservatism_DEF:0 "Швейцарская Конфедерация" 
+ SWI_soc_conservatism_ADJ:0 "Швейцарск." 
+ SWI_auth_democrat:0 "Швейцарская Конфедерация" 
+ SWI_auth_democrat_DEF:0 "Швейцарская Конфедерация" 
+ SWI_auth_democrat_ADJ:0 "Швейцарск." 
+ SWI_pat_autocrat:0 "Швейцарская Конфедерация" 
+ SWI_pat_autocrat_DEF:0 "Швейцарская Конфедерация" 
+ SWI_pat_autocrat_ADJ:0 "Швейцарск." 
+ SWI_fascism:0 "Швейцарская Конфедерация" 
+ SWI_fascism_DEF:0 "Швейцарская Конфедерация" 
+ SWI_fascism_ADJ:0 "Швейцарск." 
+
+### Focuses ### 
+
+ SWI_Focus_ID:0 "" 
+ SWI_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+SWI_armed_neutrality:0 "Вооруженный нейтралитет" 
+SWI_armed_neutrality_desc:0 "С момента завершения Зондербундскрига и образования Швейцарской Конфедерации в 1848 году государство придерживается официальной позиции вооруженного нейтралитета в соответствии с Венским конгрессом 1815 года. Этот нейтралитет был согласован со всеми крупными европейскими державами и является основным сдерживающим фактором для вторжения.\n\nГеографическое положение страны также служит естественным барьером для вторжения, так как альпийская местность создает сильную оборонительную позицию. Несмотря на это, швейцарцы держат под рукой значительные вооруженные силы: нынешняя военная структура способна содержать более 200 000 хорошо обученных солдат, что является еще одним серьезным сдерживающим фактором для любого предприимчивого потенциального захватчика.\n\n\n В этой роли бастиона мира швейцарские кантоны пришли к выводу, что неучастие в конфликтах отвечает их интересам. В результате государство фактически лишено возможности вести наступательные войны, хотя другие страны продолжают уважать военный потенциал Швейцарии." 
+SWI_bank_of_europe:0 "Банк Европы" 
+SWI_bank_of_europe_desc:0 "Начиная с основания Банка в Винтертуре в 1862 году, швейцарская банковская индустрия приобрела особое значение для государства, проложив путь к образованию многочисленных частных банковских фирм в последующие годы. Кульминацией стало создание Швейцарского банка (Schweizerischer Bankverein), или Швейцарского банка, из нескольких входящих в него банков в 1896 году. В результате бурного развития швейцарской банковской индустрии в страну хлынули потоки богатства от инвесторов всех национальностей и происхождения. Учитывая текущий политический климат в Европе, маловероятно, что этот рост замедлится в ближайшее время". 
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+Hammerli:0 "Хаммерли" 
+waffenfrabrik_bern:0 "Оружейная фабрика Берна" 
+Eidgenoessische_Konstruktionswerkstaette:0 "Eidgenoessische Konstruktionswerkstaette" 
+Saurer:0 "Saurer" 
+### Министры ### 
+SWI_Gottlieb_Ringier_hog:0 "Готлиб Рингиер" 
+SWI_Marc_Ruchet_for:0 "Марш Руше" 
+SWI_Adolf_Deucher_eco:0 "Адольф Дойхер" 
+SWI_Ludwig_Forrer_sec:0 "Людвиг Форрер" 
+
+
+### Leaders ### 
+
+### Tech? ### 
+

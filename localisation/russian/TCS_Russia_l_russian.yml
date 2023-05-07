@@ -1,0 +1,1323 @@
+﻿l_russian:
+ ### Bookmark & Leader Desc ###
+ RUS_THE_BREEZE_OF_PEACE_DESC:0 "Россия на заре 20-го века находится между двумя насущными проблемами: сопротивлением ее восточноазиатской экспансии за рубежом и растущим революционным пылом внутри страны. Русско-японская война, начавшаяся в 1904 году, обернулась для царского правительства политическим и военным крахом, и народ начал агитировать за реформы. Пока разлагающееся самодержавие борется за сохранение контроля, достаточно одного неправильного инцидента, чтобы империю охватили политические потрясения."
+ POLITICS_Nicholas_II_desc:0 "Император и самодержец всея Руси, царь Николай II, является олицетворением проблем, с которыми столкнулась аристократия империи в начале 20 века. Николай родился в 1868 году, внук царствующего царя Александра II, как ожидаемый наследник дома Романовых, правившего Россией с 1613 года. Его отец, будущий царь Александр III, был ворчливым, суровым и требовательным, и хотя Николай любил его, он предпочитал компанию своего дяди, принца Уэльского. После убийства его деда социалистической революционной ячейкой "Народная воля" и восшествия на престол его отца Александра III в 1881 году Николай стал законным наследником. Его отец рассчитывал царствовать в течение многих десятилетий и поэтому не готовил Николая к политике. Когда он неожиданно заболел в 1890-х годах, он призвал Николая прислушаться к советам своих советников. Николай был коронован как царь в возрасте 28 лет после смерти своего отца в 1894 году и вскоре после этого женился на Аликс Гессенской, немецкой принцессе и общей кузине кайзера Вильгельма II. У пары родилось пятеро детей, но единственный сын царя, Алексей, находится в нездоровом состоянии и страдает от гемофилии. Николая часто критиковали как его подданные, так и министры за медлительность и слабость характера, у него есть привычка бездумно избегать принятия решений до тех пор, пока из стоящего перед ним вопроса не возникнут политические проблемы. Один из его главных советников, Сергей Витте, даже назвал его "благонамеренным ребенком", а его изоляция от повседневной жизни российского общества затрудняет понимание царем собственного народа. Его личная политика - реакционная, традиционалистская и самодержавная. Он ненавидит предлагаемые демократические реформы, которые становятся все более популярными среди его подданных, часто заявляя, что правление Россией принадлежит только ему по праву рождения, что способствовало резкому обострению конфликта между революционерами и монархией."
+
+### Opinions ###
+
+### Parties ### 
+
+ RUS_leninism_party:0 "Чёрное Знамя" 
+ RUS_leninism_party_long:0 "Чёрное Знамя" 
+ RUS_marxism_party:0 "РСДРП (Б)" 
+ RUS_marxism_party_long:0 "Российская социал-демократическая рабочая партия (Большевиков)" 
+ RUS_rev_socialism_party:0 "ПСР" 
+ RUS_rev_socialism_party_long:0 "Партия социалистов-революционеров" 
+ RUS_soc_democracy_party:0 "РСДРП (М)" 
+ RUS_soc_democracy_party_long:0 "Российская социал-демократическая рабочая партия (Меньшевиков)" 
+ RUS_soc_liberal_party:0 "ПСР" 
+ RUS_soc_liberal_party_long:0 "Партия социалистов-революционеров" 
+ RUS_lib_conservatism_party:0 "К-Д" 
+ RUS_lib_conservatism_party_long:0 "Конституционно-демократическая партия" 
+ RUS_soc_conservatism_party:0 "-" 
+ RUS_soc_conservatism_party_long:0 "-" 
+ RUS_auth_democrat_party:0 "-" 
+ RUS_auth_democrat_party_long:0 "-" 
+ RUS_pat_autocrat_party:0 "Дом Романовых" 
+ RUS_pat_autocrat_party_long:0 "Дом Романовых" 
+ RUS_fascism_party:0 "ЧС" 
+ RUS_fascism_party_long:0 "Черносотенцы" 
+
+ ## Революция 1905 года / New Parties
+ RUS_1905_soc_liberal_party:0 "Трудовики"
+ RUS_1905_soc_liberal_party_long:0 "Трудовая Группа"
+ RUS_1905_lib_conservatism_party:0 "С17О"
+ RUS_1905_lib_conservatism_party_long:0 "Союз 17 Октября"
+ RUS_1905_soc_conservatism_party:0 "К-Д"
+ RUS_1905_soc_conservatism_party_long:0 "Конституционно-демократическая партия"
+ RUS_1905_auth_democrat_party:0 "Дом Романовых"
+ RUS_1905_auth_democrat_party_long:0 "Дом Романовых"
+
+ ## 1908 ПП Party
+ RUS_1908_soc_liberal_party:0 "ПП"
+ RUS_1908_soc_liberal_party_long:0 "Прогрессивная партия"
+
+ ## 1918 Start Russian State
+
+ RUS_STATE_leninism_party:0 "РСДРП (Б)"
+ RUS_STATE_leninism_party_long:0 "Российская социал-демократическая рабочая партия (Большевиков)"
+ RUS_STATE_marxism_party:0 "РСДРП (М)"
+ RUS_STATE_marxism_party_long:0 "Российская социал-демократическая рабочая партия (Меньшевиков)"
+ RUS_STATE_rev_socialism_party:0 "ПЛСР"
+ RUS_STATE_rev_socialism_party_long:0 "Партия левых социалистов-революционеров"
+ RUS_STATE_soc_democracy_party:0 "ПСР"
+ RUS_STATE_soc_democracy_party_long:0 "Партия социалистов-революционеров"
+ RUS_STATE_soc_liberal_party:0 "ПП"
+ RUS_STATE_soc_liberal_party_long:0 "Прогрессивная партия"
+ RUS_STATE_lib_conservatism_party:0 "С17О"
+ RUS_STATE_lib_conservatism_party_long:0 "Союз 17 Октября"
+ RUS_STATE_soc_conservatism_party:0 "К-Д"
+ RUS_STATE_soc_conservatism_party_long:0 "Конституционно-демократическая партия"
+ RUS_STATE_auth_democrat_party:0 "ВВП"
+ RUS_STATE_auth_democrat_party_long:0 "Временное Всероссийское Правительство"
+ RUS_STATE_pat_autocrat_party:0 "ВВП"
+ RUS_STATE_pat_autocrat_party_long:0 "Временное Всероссийское Правительство"
+ RUS_STATE_fascism_party:0 "СРН"
+ RUS_STATE_fascism_party_long:0 "Союз Русского Народа"
+
+### Country Name ###
+ 
+ RUS_leninism:0 "Российская Советская Федеративная Социалистическая Республика"
+ RUS_leninism_DEF:0 "Российская Советская Федеративная Социалистическая Республика"
+ RUS_leninism_ADJ:0 "Советск."
+ 
+ RUS_marxism:0 "-"
+ RUS_marxism_DEF:0 "-"
+ RUS_marxism_ADJ:0 "-"
+ 
+ RUS_rev_socialism:0 "-"
+ RUS_rev_socialism_DEF:0 "-"
+ RUS_rev_socialism_ADJ:0 "-"
+ 
+ RUS_soc_democracy:0 "Российская Республика"
+ RUS_soc_democracy_DEF:0 "Российская Республика"
+ RUS_soc_democracy_ADJ:0 "Русск."
+ 
+ RUS_soc_liberal:0 "-"
+ RUS_soc_liberal_DEF:0 "-"
+ RUS_soc_liberal_ADJ:0 "-"
+ 
+ RUS_lib_conservatism:0 "Российская империя"
+ RUS_lib_conservatism_DEF:0 "Российская империя"
+ RUS_lib_conservatism_ADJ:0 "Русск."
+ 
+ RUS_soc_conservatism:0 "-"
+ RUS_soc_conservatism_DEF:0 "-"
+ RUS_soc_conservatism_ADJ:0 "-"
+ 
+ RUS_auth_democrat:0 "Российская империя"
+ RUS_auth_democrat_DEF:0 "Российская империя"
+ RUS_auth_democrat_ADJ:0 "Русск."
+ 
+ RUS_pat_autocrat:0 "Российская империя"
+ RUS_pat_autocrat_DEF:0 "Российская империя"
+ RUS_pat_autocrat_ADJ:0 "Русск."
+ 
+ RUS_fascism:0 "Российская империя"
+ RUS_fascism_DEF:0 "Российская империя"
+ RUS_fascism_ADJ:0 "Русск."
+
+ ## 1918 Start Russian State
+
+ RUS_STATE_leninism:0 "Российская Советская Федеративная Социалистическая Республика"
+ RUS_STATE_leninism_DEF:0 "Российская Советская Федеративная Социалистическая Республика"
+ RUS_STATE_leninism_ADJ:0 "Советск."
+ 
+ RUS_STATE_marxism:0 "-"
+ RUS_STATE_marxism_DEF:0 "-"
+ RUS_STATE_marxism_ADJ:0 "-"
+ 
+ RUS_STATE_rev_socialism:0 "-"
+ RUS_STATE_rev_socialism_DEF:0 "-"
+ RUS_STATE_rev_socialism_ADJ:0 "-"
+ 
+ RUS_STATE_soc_democracy:0 "Российская Республика"
+ RUS_STATE_soc_democracy_DEF:0 "Российская Республика"
+ RUS_STATE_soc_democracy_ADJ:0 "Русск."
+ 
+ RUS_STATE_soc_liberal:0 "-"
+ RUS_STATE_soc_liberal_DEF:0 "-"
+ RUS_STATE_soc_liberal_ADJ:0 "-"
+ 
+ RUS_STATE_lib_conservatism:0 "Российская империя"
+ RUS_STATE_lib_conservatism_DEF:0 "Российская империя"
+ RUS_STATE_lib_conservatism_ADJ:0 "Русск."
+ 
+ RUS_STATE_soc_conservatism:0 "-"
+ RUS_STATE_soc_conservatism_DEF:0 "-"
+ RUS_STATE_soc_conservatism_ADJ:0 "-"
+ 
+ RUS_STATE_auth_democrat:0 "Российское государство"
+ RUS_STATE_auth_democrat_DEF:0 "Российское государство"
+ RUS_STATE_auth_democrat_ADJ:0 "Русск."
+ 
+ RUS_STATE_pat_autocrat:0 "Российская империя"
+ RUS_STATE_pat_autocrat_DEF:0 "Российская империя"
+ RUS_STATE_pat_autocrat_ADJ:0 "Русск."
+ 
+ RUS_STATE_fascism:0 "Российская империя"
+ RUS_STATE_fascism_DEF:0 "Российская империя"
+ RUS_STATE_fascism_ADJ:0 "Русск."
+
+ ## Provisional Government
+
+ RUS_PROV_GOVERNMENT_leninism:0 "Российская Советская Федеративная Социалистическая Республика"
+ RUS_PROV_GOVERNMENT_leninism_DEF:0 "Российская Советская Федеративная Социалистическая Республика"
+ RUS_PROV_GOVERNMENT_leninism_ADJ:0 "Советск."
+ 
+ RUS_PROV_GOVERNMENT_marxism:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_marxism_DEF:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_marxism_ADJ:0 "Русск."
+ 
+ RUS_PROV_GOVERNMENT_rev_socialism:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_rev_socialism_DEF:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_rev_socialism_ADJ:0 "Русск."
+ 
+ RUS_PROV_GOVERNMENT_soc_democracy:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_soc_democracy_DEF:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_soc_democracy_ADJ:0 "Русск."
+ 
+ RUS_PROV_GOVERNMENT_soc_liberal:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_soc_liberal_DEF:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_soc_liberal_ADJ:0 "Русск."
+ 
+ RUS_PROV_GOVERNMENT_lib_conservatism:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_lib_conservatism_DEF:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_lib_conservatism_ADJ:0 "Русск."
+ 
+ RUS_PROV_GOVERNMENT_soc_conservatism:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_soc_conservatism_DEF:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_soc_conservatism_ADJ:0 "Русск."
+ 
+ RUS_PROV_GOVERNMENT_auth_democrat:0 "Российское государство"
+ RUS_PROV_GOVERNMENT_auth_democrat_DEF:0 "Российское государство"
+ RUS_PROV_GOVERNMENT_auth_democrat_ADJ:0 "Русск."
+ 
+ RUS_PROV_GOVERNMENT_pat_autocrat:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_pat_autocrat_DEF:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_pat_autocrat_ADJ:0 "Русск."
+ 
+ RUS_PROV_GOVERNMENT_fascism:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_fascism_DEF:0 "Временное российское правительство"
+ RUS_PROV_GOVERNMENT_fascism_ADJ:0 "Русск."
+
+ ## Republic
+
+ RUS_REPUBLIC_leninism:0 "Российская Советская Федеративная Социалистическая Республика"
+ RUS_REPUBLIC_leninism_DEF:0 "Российская Советская Федеративная Социалистическая Республика"
+ RUS_REPUBLIC_leninism_ADJ:0 "Советск."
+ 
+ RUS_REPUBLIC_marxism:0 "Российская Республика"
+ RUS_REPUBLIC_marxism_DEF:0 "Российская Республика"
+ RUS_REPUBLIC_marxism_ADJ:0 "Русск."
+ 
+ RUS_REPUBLIC_rev_socialism:0 "Российская Республика"
+ RUS_REPUBLIC_rev_socialism_DEF:0 "Российская Республика"
+ RUS_REPUBLIC_rev_socialism_ADJ:0 "Русск."
+ 
+ RUS_REPUBLIC_soc_democracy:0 "Российская Республика"
+ RUS_REPUBLIC_soc_democracy_DEF:0 "Российская Республика"
+ RUS_REPUBLIC_soc_democracy_ADJ:0 "Русск."
+ 
+ RUS_REPUBLIC_soc_liberal:0 "Российская Республика"
+ RUS_REPUBLIC_soc_liberal_DEF:0 "Российская Республика"
+ RUS_REPUBLIC_soc_liberal_ADJ:0 "Русск."
+ 
+ RUS_REPUBLIC_lib_conservatism:0 "Российская Республика"
+ RUS_REPUBLIC_lib_conservatism_DEF:0 "Российская Республика"
+ RUS_REPUBLIC_lib_conservatism_ADJ:0 "Русск."
+ 
+ RUS_REPUBLIC_soc_conservatism:0 "Российская Республика"
+ RUS_REPUBLIC_soc_conservatism_DEF:0 "Российская Республика"
+ RUS_REPUBLIC_soc_conservatism_ADJ:0 "Русск."
+ 
+ RUS_REPUBLIC_auth_democrat:0 "Российское государство"
+ RUS_REPUBLIC_auth_democrat_DEF:0 "Российское государство"
+ RUS_REPUBLIC_auth_democrat_ADJ:0 "Русск."
+ 
+ RUS_REPUBLIC_pat_autocrat:0 "Российская Республика"
+ RUS_REPUBLIC_pat_autocrat_DEF:0 "Российская Республика"
+ RUS_REPUBLIC_pat_autocrat_ADJ:0 "Русск."
+ 
+ RUS_REPUBLIC_fascism:0 "Российская Республика"
+ RUS_REPUBLIC_fascism_DEF:0 "Российская Республика"
+ RUS_REPUBLIC_fascism_ADJ:0 "Русск."
+
+## Soviet Russia
+
+ RUS_SOVIET_leninism:0 "Советская Россия"
+ RUS_SOVIET_leninism_DEF:0 "Советская Россия"
+ RUS_SOVIET_leninism_ADJ:0 "Советск."
+ 
+ RUS_SOVIET_marxism:0 "Советская Россия"
+ RUS_SOVIET_marxism_DEF:0 "Советская Россия"
+ RUS_SOVIET_marxism_ADJ:0 "Советск."
+ 
+ RUS_SOVIET_rev_socialism:0 "Советская Россия"
+ RUS_SOVIET_rev_socialism_DEF:0 "Советская Россия"
+ RUS_SOVIET_rev_socialism_ADJ:0 "Советск."
+ 
+ RUS_SOVIET_soc_democracy:0 "Советская Россия"
+ RUS_SOVIET_soc_democracy_DEF:0 "Советская Россия"
+ RUS_SOVIET_soc_democracy_ADJ:0 "Советск."
+ 
+ RUS_SOVIET_soc_liberal:0 "Советская Россия"
+ RUS_SOVIET_soc_liberal_DEF:0 "Советская Россия"
+ RUS_SOVIET_soc_liberal_ADJ:0 "Советск."
+ 
+ RUS_SOVIET_lib_conservatism:0 "Советская Россия"
+ RUS_SOVIET_lib_conservatism_DEF:0 "Советская Россия"
+ RUS_SOVIET_lib_conservatism_ADJ:0 "Советск."
+ 
+ RUS_SOVIET_soc_conservatism:0 "Советская Россия"
+ RUS_SOVIET_soc_conservatism_DEF:0 "Советская Россия"
+ RUS_SOVIET_soc_conservatism_ADJ:0 "Советск."
+ 
+ RUS_SOVIET_auth_democrat:0 "Российское государство"
+ RUS_SOVIET_auth_democrat_DEF:0 "Российское государство"
+ RUS_SOVIET_auth_democrat_ADJ:0 "Советск."
+ 
+ RUS_SOVIET_pat_autocrat:0 "Советская Россия"
+ RUS_SOVIET_pat_autocrat_DEF:0 "Советская Россия"
+ RUS_SOVIET_pat_autocrat_ADJ:0 "Советск."
+ 
+ RUS_SOVIET_fascism:0 "Советская Россия"
+ RUS_SOVIET_fascism_DEF:0 "Советская Россия"
+ RUS_SOVIET_fascism_ADJ:0 "Советск."
+
+### Volunteer Army 1918 ###
+
+ VOA_leninism:0 "Добровольческая армия"
+ VOA_leninism_DEF:0 "Добровольческая армия"
+ VOA_leninism_ADJ:0 "Русск."
+ VOA_marxism:0 "Добровольческая армия"
+ VOA_marxism_DEF:0 "Добровольческая армия"
+ VOA_marxism_ADJ:0 "Русск."
+ VOA_rev_socialism:0 "Добровольческая армия"
+ VOA_rev_socialism_DEF:0 "Добровольческая армия"
+ VOA_rev_socialism_ADJ:0 "Русск."
+ VOA_soc_democracy:0 "Добровольческая армия"
+ VOA_soc_democracy_DEF:0 "Добровольческая армия"
+ VOA_soc_democracy_ADJ:0 "Русск."
+ VOA_soc_liberal:0 "Добровольческая армия"
+ VOA_soc_liberal_DEF:0 "Добровольческая армия"
+ VOA_soc_liberal_ADJ:0 "Русск."
+ VOA_lib_conservatism:0 "Добровольческая армия"
+ VOA_lib_conservatism_DEF:0 "Добровольческая армия"
+ VOA_lib_conservatism_ADJ:0 "Русск."
+ VOA_soc_conservatism:0 "Добровольческая армия"
+ VOA_soc_conservatism_DEF:0 "Добровольческая армия"
+ VOA_soc_conservatism_ADJ:0 "Русск."
+ VOA_auth_democrat:0 "Добровольческая армия"
+ VOA_auth_democrat_DEF:0 "Добровольческая армия"
+ VOA_auth_democrat_ADJ:0 "Русск."
+ VOA_pat_autocrat:0 "Добровольческая армия"
+ VOA_pat_autocrat_DEF:0 "Добровольческая армия"
+ VOA_pat_autocrat_ADJ:0 "Русск."
+ VOA_fascism:0 "Добровольческая армия"
+ VOA_fascism_DEF:0 "Добровольческая армия"
+ VOA_fascism_ADJ:0 "Русск."
+
+ VOA_leninism_party:0 "РСДРП (Б)"
+ VOA_leninism_party_long:0 "Российская социал-демократическая рабочая партия (Большевиков)"
+ VOA_marxism_party:0 "РСДРП (М)"
+ VOA_marxism_party_long:0 "Российская социал-демократическая рабочая партия (Меньшевиков)"
+ VOA_rev_socialism_party:0 "ПЛСР"
+ VOA_rev_socialism_party_long:0 "Партия левых социалистов-революционеров"
+ VOA_soc_democracy_party:0 "ПСР"
+ VOA_soc_democracy_party_long:0 "Партия социалистов-революционеров"
+ VOA_soc_liberal_party:0 "ПП"
+ VOA_soc_liberal_party_long:0 "Прогрессивная партия"
+ VOA_lib_conservatism_party:0 "С17О"
+ VOA_lib_conservatism_party_long:0 "Союз 17 Октября"
+ VOA_soc_conservatism_party:0 "К-Д"
+ VOA_soc_conservatism_party_long:0 "Конституционно-демократическая партия"
+ VOA_auth_democrat_party:0 "ВСЮР"
+ VOA_auth_democrat_party_long:0 "Вооруженные силы Юга России"
+ VOA_pat_autocrat_party:0 "ВСЮР"
+ VOA_pat_autocrat_party_long:0 "Вооруженные силы Юга России"
+ VOA_fascism_party:0 "СРН"
+ VOA_fascism_party_long:0 "Союз Русского Народа"
+
+### Focuses ###
+
+## Military Foci ##
+ RUS_reassessing_our_military:0 "Переоценка нашей армии"
+ RUS_reassessing_our_military_desc:0 ""
+ RUS_department_of_public_security:0 "Расширить департамент общественной безопасности"
+ RUS_department_of_public_security_desc:0 "Чтобы противостоять растущему уровню революционной активности в нашей стране, мы должны продолжать инвестировать в департамент общественной безопасности, чтобы предотвратить дальнейший рост такой активности."
+ RUS_gendarmes_expansion:0 "Расширить Специальный корпус жандармов".
+ RUS_gendarmes_expansion_desc:0 "В отличие от Охраны, Жандармы просят дальнейшего расширения, чтобы помочь местной полиции в роли судьи, присяжных и палача."
+ RUS_okhrana_budget:0 "Увеличить бюджет Охраны"
+ RUS_okhrana_budget_desc:0 "Охрана добилась больших успехов в уничтожении ряда революционных групп и вытеснении остальных в подполье, однако тот факт, что они все еще остаются, представляет серьезную угрозу для империи и царя, поэтому Охрана просит увеличить бюджет, чтобы устранить эту угрозу."
+ RUS_gov_tradeunions:0 "Открытые проправительственные профсоюзы"
+ RUS_gov_tradeunions_desc:0 "Чтобы отбить городских рабочих у радикалов и революционеров, которые создали свои профсоюзы, нам нужно противопоставить этому наши собственные профсоюзы, финансируемые и регулируемые правительством, где наши рабочие будут защищены от тирании революционеров."
+ RUS_expand_the_camps:0 "Расширить сибирские лагеря"
+ RUS_expand_the_camps_desc:0 "Большая часть нашей работы в Сибири зависит от работы политических и уголовных ссыльных, и с ростом уровня революционной активности имеет смысл расширить лагеря, чтобы вместить больше ссыльных."
+ RUS_close_the_camps:0 "Закрыть сибирские лагеря"
+ RUS_close_the_camps_desc:0 "Изменение политического курса в сердце России привело к тому, что видные либеральные и социалистические политические лидеры призвали к закрытию многих сотен каторжных трудовых лагерей, хотя во многих из них содержатся опасные революционные личности, общее мнение таково, что эти мужчины и женщины должны быть освобождены для общего обогащения российской нации."
+ RUS_send_the_people:0 "Отправить политических заключенных"
+ RUS_send_the_people_desc:0 "Было принято решение отправить всех политических заключенных в самые отдаленные уголки империи, в настолько изолированное место, что они замерзнут, прежде чем их революционные идеи смогут распространиться."
+ RUS_free_the_people:0 "Освободить политических заключенных"
+ RUS_free_the_people_desc:0 "К лучшему или худшему, было принято решение выпустить сотни тысяч потенциально революционных политических заключенных обратно в центры цивилизации, результат которого еще предстоит увидеть, однако критики считают это провалом царского режима."
+ RUS_dealing_with_socialist_terrorists:0 "Борьба с социалистическими террористами"
+ RUS_dealing_with_socialist_terrorists_desc:0 "Бушующий революционный кризис, постигший нашу страну, привел к бесчисленному количеству восстаний и нападений на государство, но теперь, благодаря неустанной работе государственной полиции, сотни революционных лидеров находятся под стражей и ждут своей участи."
+ RUS_internal_exile:0 "Внутреннее изгнание"
+ RUS_internal_exile_desc:0 ""
+ RUS_foreign_exile:0 "Зарубежное изгнание"
+ RUS_foreign_exile_desc:0 ""
+ RUS_network_of_agent_provocateurs:0 "Сеть агентов-провокаторов"
+ RUS_network_of_agent_provocateurs_desc:0 ""
+ RUS_a_national_network:0 "Национальная сеть"
+ RUS_a_national_network_desc:0 ""
+ RUS_petersburg_telegraph_agency:0 "Санкт-Петербургское телеграфное агентство"
+ RUS_petersburg_telegraph_agency_desc:0 ""
+ RUS_anti_revolutionary_force:0 "Антиреволюционная сила"
+ RUS_anti_revolutionary_force_desc:0 ""
+ RUS_counter_intelligence_force:0 "Силы контрразведки"
+ RUS_counter_intelligence_force_desc:0 ""
+ RUS_expand_the_police_force:0 "Расширение полицейских сил"
+ RUS_expand_the_police_force_desc:0 ""
+ RUS_establish_foreign_networks:0 "Создать иностранные сети"
+ RUS_establish_foreign_networks_desc:0 ""
+ RUS_the_7th_department:0 "Седьмой департамент"
+ RUS_the_7th_department_desc:0 "Седьмой отдел, хотя и не так активно работает в полиции, как специальный отдел, все же невероятно ценен в проведении расследований, проводимых всеми другими отделами, а также в сотрудничестве с отдельным тюремным отделом. Без него полиция, безусловно, была бы инертна в своей способности проводить аресты. Поэтому расширение 7-го отдела должно происходить параллельно с расширением полиции".
+ RUS_the_8th_department:0 "8-й департамент"
+ RUS_the_8th_department_desc:0 "8-й департамент, хотя и новый и относительно недофинансированный, может проложить путь в уголовном расследовании и детективной работе в империи, официально структурировав и организовав детективные подразделения, мы сможем лучше бороться с преступностью по всей стране, кроме того, расширение департамента должно увеличить шансы справиться с крупными преступными синдикатами и преступлениями против собственности."
+
+ # Army #
+
+ RUS_increase_mil_expenditure:0 "Увеличить военный бюджет"
+ RUS_increase_mil_expenditure_desc:0 "Если наши вооруженные силы будут в состоянии справиться с растущими угрозами на всех фронтах, то необходимо общее увеличение расходов по всем направлениям. К черту расходы!"
+ RUS_general_directorate_of_the_general_staff:0 "Главное управление Генерального штаба"
+ RUS_general_directorate_of_the_general_staff_desc:0 "Плохая организация наших вооруженных сил с ног до головы изнурительна, однако создание нового управления Генерального штаба должно начать облегчать проблему сверху донизу."
+ RUS_reduce_active_service_time_foci:0 "Сократить время активной службы".
+ RUS_reduce_active_service_time_foci_desc:0 "Костяк наших вооруженных сил - это призывники, которые были бесценны во времена великого кризиса, однако сейчас, в тумане революции, бедные призывники становятся жертвами зла, сократив призыв, мы повысим общий профессионализм наших вооруженных сил."
+ RUS_increase_reserve_training:0 "Подготовка резервных подразделений"
+ RUS_increase_reserve_training_desc:0 "Train Hard, Fight Easy\nПосле сокращения срока активной воинской повинности, вполне естественно, что эти сотни тысяч могут быть призваны в любое время как часть наших резервов, однако для этого резервисты должны проходить двухгодичную подготовку, чтобы быть достаточно компетентными для службы во время войны."
+
+ RUS_create_mil_inspection_service:0 "Создать подразделение военной инспекции"
+ RUS_create_mil_inspection_service_desc:0 ""
+
+ RUS_expand_arsenals:0 "Расширить арсеналы"
+ RUS_expand_arsenals_desc:0 "Государственными арсеналами долгое время пренебрегали в пользу других капиталистических заводов, хотя они вряд ли смогут сравниться по производительности с этими хорошо зарекомендовавшими себя заводами, они гарантированно будут более надежными во время войны."
+
+ RUS_integrate_military_intelligence:0 "Интегрировать военную разведку"
+ RUS_integrate_military_intelligence_desc:0 ""
+
+ RUS_the_common_soldier:0 "Понимание общего рядового"
+ RUS_the_common_soldier_desc:0 "Последние события показали нам, что мы потеряли связь со многими из тех, кто составляет наши великие вооруженные силы. Чтобы предотвратить повторение подобных актов, мы должны дать мужчинам повод для борьбы".
+ RUS_modernise_russian_fortress:0 "Модернизировать крепость Россия"
+ RUS_modernise_russian_fortress_desc:0 "Хотя нет сомнений в том, что наши славные вооруженные силы сокрушат любую оппозицию на западном фронте, все же стоит инвестировать в крепости вдоль нашего западного фронта, чтобы задержать вражеские силы, пока наши войска мобилизуются."
+ RUS_future_generals_foci:0 "Будущие генералы"
+ RUS_future_generals_foci_desc:0 "У большинства наших высших командиров подходит к концу срок службы, и на их место должны прийти новые звезды."
+ RUS_the_cossacks:0 "Казаки"
+ RUS_the_cossacks_desc:0 "Казаки служат жизненно важной частью наших вооруженных сил, охраняя наши границы, борясь с бандитами, разбойниками и революционерами, однако их место в современной армии ставится под сомнение рядом наших генеральных штабов."
+ RUS_accelerate_mil_rail_construction:0 "Ускорить строительство военных железных дорог"
+ RUS_accelerate_mil_rail_construction_desc:0 "Без строительства железных дорог Россия, великая и могучая, не сможет функционировать, и это ложится тяжелым бременем на вооруженные силы, так как без функциональной логистики и мобильности мы не сможем сосредоточить нашу мощь там, где это необходимо, что приводит нас к выводу, что железнодорожное строительство должно быть сосредоточено в первую очередь для военных целей."
+ RUS_cossack_intergration:0 "Казачья интеграция"
+ RUS_cossack_intergration_desc:0 "Одно из предложений - сблизить казаков с остальной нашей кавалерией и использовать их в качестве вспомогательных сил для разведки перед основными силами."
+ RUS_cossack_seperation:0 "Казачья сепарация"
+ RUS_cossack_seperation_desc:0 "Другое предложение - держать казаков в резерве, готовых к мобилизации в случае войны, в которой отдельные хозяева предоставят казачьи дивизии для военного использования."
+ RUS_seperate_railway_troop:0 "Отдельные железнодорожные войска"
+ RUS_seperate_railway_troop_desc:0 "Основанные в 1851 году, хотя и немногочисленные, Железнодорожные войска Вооруженных сил России оказывают неизмеримую услугу по защите и поддержанию железнодорожных линий в зонах конфликта и как таковые важны для России и ее армий в обеспечении того, чтобы войска и припасы доставлялись туда, где они необходимы, невредимыми и вовремя."
+
+ RUS_modern_cavalry:0 "Современная кавалерия"
+ RUS_modern_cavalry_desc:0 ""
+ RUS_invest_in_the_maxim:0 "Инвестиции в Максим"
+ RUS_invest_in_the_maxim_desc:0 ""
+
+ RUS_halftrack_experiment:0 "Эксперимент с полутреками"
+ RUS_halftrack_experiment_desc:0 "Несмотря на относительную неизвестность, "Руссо-Балт" С24-30 с гусеницами Kegresse может стать ответом на вопрос моторизации российской армии. Из-за сурового российского рельефа многие колесные транспорты увязают в летних болотах и замерзают в зимних снегах. Полугусеничный транспорт может дать ответ на все наши вопросы".
+
+ RUS_plan_19_a:0 "План 19 (А)"
+ RUS_plan_19_a_desc:0 ""
+ RUS_plan_19_g:0 "План 19 (Г)"
+ RUS_plan_19_g_desc:0 ""
+ RUS_mobilization_schedule_20:0 "График мобилизации 20"
+ RUS_mobilization_schedule_20_desc:0 ""
+
+ # Air Force #
+
+ RUS_imperial_russian_air_force:0 "Императорские Российские ВВС"
+ RUS_imperial_russian_air_force_desc:0 "Растущей тенденцией в западных вооруженных силах является внедрение авиационных формирований, эффективность которых уже была замечена, хотя и в ограниченном количестве, в последних конфликтах. Поэтому формирование независимой воздушной службы станет дополнительным преимуществом для вооруженных сил."
+
+ RUS_develop_gatchina_aerodrome:0 "Развивать Гатчинский аэродром"
+ RUS_develop_gatchina_aerodrome_desc:0 ""
+ RUS_accelerate_airship_development:0 "Ускорить развитие дирижаблей"
+ RUS_accelerate_airship_development_desc:0 ""
+ RUS_purchase_farman_planes:0 "Приобрести самолеты Фарман"
+ RUS_purchase_farman_planes_desc:0 ""
+ RUS_purchase_wright_planes:0 "Приобрести самолеты Райт"
+ RUS_purchase_wright_planes_desc:0 ""
+ RUS_learn_from_foreign_powers:0 "Учиться у иностранных держав"
+ RUS_learn_from_foreign_powers_desc:0 ""
+ RUS_open_ovsh_flight_school:0 "Открыть летную школу ОВШ"
+ RUS_open_ovsh_flight_school_desc:0 ""
+ RUS_open_sevastapol_flight_school:0 "Открыть Севастапольскую летную школу"
+ RUS_open_sevastapol_flight_school_desc:0 ""
+ RUS_experiment_with_aerial_photography:0 "Развивать аэрофотосъемку"
+ RUS_experiment_with_aerial_photography_desc:0 ""
+ RUS_experiment_with_armed_aircraft:0 "Экспериментировать с вооруженными самолетами"
+ RUS_experiment_with_armed_aircraft_desc:0 ""
+
+ # Navy #
+
+ RUS_navy_changing_course:0 "Изменение курса"
+ RUS_navy_changing_course_desc:0 ""
+ RUS_improve_naval_bases:0 "Улучшение прибрежных военно-морских баз"
+ RUS_improve_naval_bases_desc:0 ""
+ RUS_establish_the_MGSH:0 "Создать МГШ"
+ RUS_establish_the_MGSH_desc:0 "Война на востоке вызвала резкое изменение в дебатах в военно-морском министерстве. Вопросы теперь вращаются вокруг того, как Россия будет вести следующую войну на море."
+
+ RUS_a_new_type_of_warship:0 "Новый тип военного корабля"
+ RUS_a_new_type_of_warship_desc:0 "До сих пор подводные лодки рассматривались и использовались военно-морским персоналом как тип эсминца, однако с ростом подводной войны было бы правильно начать разрабатывать новую тактику в соответствии с этим."
+
+ RUS_reinforce_kronstadt:0 "Усилить Кронштадтский гарнизон"
+ RUS_reinforce_kronstadt_desc:0 ""
+ RUS_battleship_development:0 "Развитие линкора"
+ RUS_battleship_development_desc:0 ""
+ RUS_new_submarine_tactics:0 "Разработка новой тактики подводных лодок"
+ RUS_new_submarine_tactics_desc:0 ""
+ RUS_reinforce_sveaborg:0 "Усилить гарнизон Свеаборга"
+ RUS_reinforce_sveaborg_desc:0 ""
+ RUS_small_shipbuilding_program:0 "Начать программу строительства малых кораблей"
+ RUS_small_shipbuilding_program_desc:0 ""
+ RUS_bubnov_and_shark:0 "Бубнов и акула"
+ RUS_bubnov_and_shark_desc:0 ""
+ RUS_expand_naval_cadet_corp:0 "Расширение Военно-морского кадетского корпуса"
+ RUS_expand_naval_cadet_corp_desc:0 ""
+ RUS_invest_in_modern_rangefinders:0 "Инвестировать в современные дальномеры"
+ RUS_invest_in_modern_rangefinders_desc:0 ""
+ RUS_destroyer_development:0 "Развитие разрушителей"
+ RUS_destroyer_development_desc:0 ""
+ RUS_an_improved_torpedo:0 "Улучшенная торпеда"
+ RUS_an_improved_torpedo_desc:0 ""
+ RUS_admiralty_shipyards:0 "Расширить Адмиралтейские верфи"
+ RUS_admiralty_shipyards_desc:0 ""
+ RUS_nikolaev_shipbuilding:0 "Расширить Николаевские верфи"
+ RUS_nikolaev_shipbuilding_desc:0 ""
+ RUS_submarine_minelaying:0 "Минирование подводных лодок"
+ RUS_submarine_minelaying_desc:0 ""
+ RUS_build_coastal_radio_stations:0 "Строительство прибрежных радиостанций"
+ RUS_build_coastal_radio_stations_desc:0 ""
+ RUS_expand_the_main_hydrographic_office:0 "Расширить главное гидрографическое управление"
+ RUS_expand_the_main_hydrographic_office_desc:0 ""
+ RUS_russian_naval_infantry:0 "Российская морская пехота"
+ RUS_russian_naval_infantry_desc:0 ""
+ RUS_begin_large_shipbuilding_program:0 "Начать программу большого судостроения"
+ RUS_begin_large_shipbuilding_program_desc:0 ""
+
+ ## Economic ##
+
+ RUS_state_of_the_economy:0 "Государство Экономики"
+ RUS_state_of_the_economy_desc:0 ""
+
+ # Stolypin Agarian Reforms #
+
+
+ RUS_zemstva_reorg:0 "Отделяя пшеницу от плевел"
+ RUS_zemstva_reorg_desc:0 "Земства наших многочисленных губерний открыто либеральны, принимая радикальные идеи от интеллигенции, чтобы остановить эту угрозу, мы должны отсеять некоторых либералов."
+
+ RUS_zemstva_budget_increase:0 "Увеличение бюджета земства"
+ RUS_zemstva_budget_increase_desc:0 ""
+ RUS_zemstva_budget_decrease:0 "Уменьшение земского бюджета"
+ RUS_zemstva_budget_decrease_desc:0 ""
+
+ RUS_stolypin_reforms_focus:0 "Столыпинские реформы"
+ RUS_stolypin_reforms_focus_desc:0 "Издавна Россия была аграрным обществом, в котором доминировали крепостные, крестьяне и помещики, однако со времени реформы освобождения 1861 года мало что изменилось, о чем свидетельствуют недавние крестьянские волнения и желание реформ. К счастью, премьер-министр Петр Столыпин предложил ряд аграрных реформ".
+ RUS_peasant_land_bank:0 "Крестьянский поземельный банк"
+ RUS_peasant_land_bank_desc:0 "Для успеха этих так называемых столыпинских реформ нам необходимо финансировать крестьянство и помочь им в приобретении собственной земли. Теоретически это должно разбить отдельные полосы земли на крупные фермы, принадлежащие одному крестьянину, что повысит их эффективность."
+ RUS_stolypin_encourage_colonisation:0 "Поощрять колонизацию Сибири"
+ RUS_stolypin_encourage_colonisation_desc:0 "По сравнению с неравенством западных провинций, просторы Сибири богаты для захвата, однако крестьяне не всегда видят это и нуждаются в поощрении, чтобы оторвать их от деревенской общины и увлечь в неприкосновенный запас Сибири."
+ RUS_siberian_industry:0 "Сибирская промышленность"
+ RUS_siberian_industry_desc:0 "Многие города и поселки Западно-Сибирской равнины стали быстро развиваться после появления Транссибирской магистрали в конце 19 века, и с оживлением интереса к этому региону стали развиваться коммерческие заводы."
+ RUS_fund_peasant_pack_animals:0 "Финансировать приобретение вьючных животных"
+ RUS_fund_peasant_pack_animals_desc:0 "Нехватка тягловых животных в аграрном секторе России сильно ограничивает способность России оставаться конкурентоспособной по сравнению с доминирующими странами Европы. Вполне вероятно, что без государственного финансирования российское сельское хозяйство будет все больше и больше отставать от стандартов."
+ RUS_expand_land_managment_committee:0 "Расширить комитет по землеустройству"
+ RUS_expand_land_managment_committee_desc:0 "С момента проведения этих сельскохозяйственных реформ наши землеустроители были завалены огромным количеством крестьян и помещиков, пытающихся воспользоваться предлагаемой землей. Чтобы решить эту проблему, мы должны нанять больше землемеров".
+ RUS_expand_zemstvo_western:0 "В западные провинции"
+ RUS_expand_zemstvo_western_desc:0 "Для полного выполнения так называемых столыпинских реформ сельского хозяйства нам необходимо расширить земства за пределы их нынешних границ до прибалтийских и польских земель. Нет сомнения, что некоторые землевладельцы будут пытаться блокировать реформу, но в интересах России это должно произойти. "
+ 
+ RUS_centralise_zemstvo_schools:0 "Централизовать земские школы"
+ RUS_centralise_zemstvo_schools_desc:0 ""
+ RUS_setting_zemstvo_taxation:0 "Замораживание земств"
+ RUS_setting_zemstvo_taxation_desc:0 ""
+
+ # Industry #
+
+ RUS_reassess_transsiberian_railway:0 "Переоценка Транссибирской магистрали"
+ RUS_reassess_transsiberian_railway_desc:0 "Несмотря на близкое завершение Транссибирской магистрали, изменение политической ситуации в Восточной Азии, преимущественно растущая угроза со стороны Японии, заставила инженеров и проектировщиков рассмотреть более длинный маршрут вокруг Маньчжурии и мимо озера Байкал, если это должно быть реализовано, необходимо начать работу в срочном порядке."
+
+ RUS_develop_industrial_railways:0 "Развивать промышленные и коммерческие железные дороги"
+ RUS_develop_industrial_railways_desc:0 ""
+ RUS_expand_baku_oilfields:0 "Расширить Бакинское нефтяное месторождение"
+ RUS_expand_baku_oilfields_desc:0 ""
+ RUS_siberian_mining_expansion:0 "Увеличить добычу полезных ископаемых в Сибири"
+ RUS_siberian_mining_expansion_desc:0 ""
+
+ RUS_encorage_urbanisation:0 "Поощрять урбанизацию"
+ RUS_encorage_urbanisation_desc:0 "Для продолжения темпов быстрой индустриализации необходима быстрая урбанизация крестьянских классов, чтобы вместить увеличенную городскую рабочую силу для обслуживания наших крупных заводов."
+ RUS_industrial_hubs:0 "Расширять промышленные центры"
+ RUS_industrial_hubs_desc:0 "Большая часть территории России представляет собой сельскохозяйственные угодья, используемые для сельскохозяйственного производства, и лишь несколько промышленных центров построены вокруг таких городов и поселков, как Санкт-Петербург, Москва, Тула и Варшава."
+ RUS_support_lebedevs_research:0 "Поддержите исследования Лебедева"
+ RUS_support_lebedevs_research_desc:0 "Сергей Лебедев, студент Алексея Фаворского, показал большие перспективы в своей работе в области полимеров и синтетических материалов. При небольших инвестициях и поддержке он может принести большую пользу государству."
+ RUS_establish_local_smelteries:0 "Создание местных металлургических заводов"
+ RUS_establish_local_smelteries_desc:0 "Многие ресурсы России добываются на Урале, но большие плавильные заводы, которые перерабатывают это сырье, расположены за много миль в таких городах, как Тула и Магнитогорск, для повышения эффективности мы должны инвестировать в местные плавильные заводы, расположенные ближе к шахтам."
+
+ RUS_fund_HEP_experiments:0 "Финансировать эксперименты в области HEP"
+ RUS_fund_HEP_experiments_desc:0 ""
+ RUS_fund_mariinsky_water_system:0 "Финансирование Мариинской водной системы"
+ RUS_fund_mariinsky_water_system_desc:0 ""
+ RUS_lift_chelyabinsk_tariff_break:0 "Отмена Челябинского тарифного послабления"
+ RUS_lift_chelyabinsk_tariff_break_desc:0 ""
+
+ RUS_switch_from_coal_to_oil:0 "Переход с угля на нефть"
+ RUS_switch_from_coal_to_oil_desc:0 "Наше внутреннее производство электроэнергии устарело и нерегулярно по всей империи, но если мы сможем перейти с угля на нефть в нескольких крупных центрах, мы сможем повысить эффективность по всей западной провинции."
+
+ RUS_seek_foreign_investment:0 "Искать иностранные инвестиции"
+ RUS_seek_foreign_investment_desc:0 ""
+
+ RUS_german_foreign_investment:0 "Немецкие инвестиции"
+ RUS_german_foreign_investment_desc:0 "Учитывая недавнюю быструю индустриализацию Германии, возможно, стоит поискать потенциальных инвесторов, однако с политикой Германии, ставящей во главу угла свою монополию на рынке, маловероятно, что они будут инвестировать в потенциального экономического конкурента."
+ RUS_french_foreign_investment:0 "Французские инвестиции"
+ RUS_french_foreign_investment_desc:0 "Франция, как и Германия, переживает бурный экономический рост, однако, в отличие от Германии, вполне вероятно, что любая попытка найти инвесторов будет встречена с распростертыми руками."
+ RUS_fund_RBVZ_vehicle:0 "Фонд RBVZ Baltic Expansion"
+ RUS_fund_RBVZ_vehicle_desc:0 ""
+ RUS_british_foreign_investment:0 "Британские инвестиции"
+ RUS_british_foreign_investment_desc:0 "Учитывая экономическое и финансовое доминирование Великобритании и ее политику в отношении иностранных инвестиций, было бы целесообразно искать потенциальных инвесторов."
+ RUS_usa_foreign_investment:0 "Инвестиции США"
+ RUS_usa_foreign_investment_desc:0 "США, несмотря на то, что скрываются за пеленой изоляции, имеют несколько потенциально выгодных инвесторов, готовых вложить средства в страну."
+
+ RUS_krupp_joint_company:0 "Компания Крупп-Джойнт"
+ RUS_krupp_joint_company_desc:0 ""
+ RUS_joint_armoured_car_development:0 "Совместная разработка бронеавтомобилей"
+ RUS_joint_armoured_car_development_desc:0 ""
+ RUS_ford_motor_car_factory:0 "Завод Ford Motor"
+ RUS_ford_motor_car_factory_desc:0 ""
+ RUS_support_royal_dutch_shell:0 "Поддержка Royal Dutch Shell"
+ RUS_support_royal_dutch_shell_desc:0 ""
+ RUS_support_nobel_company_oil:0 "Поддержите компанию Nobel"
+ RUS_support_nobel_company_oil_desc:0 ""
+ RUS_support_russia_general_oil:0 "Поддержите Российскую генеральную нефтяную компанию"
+ RUS_support_russia_general_oil_desc:0 ""
+ RUS_obukhov_state_plant:0 "Обуховский государственный завод"
+ RUS_obukhov_state_plant_desc:0 ""
+ RUS_expand_bryansk_locomotive_plant:0 "Расширение Брянского локомотивного завода"
+ RUS_expand_bryansk_locomotive_plant_desc:0 ""
+ RUS_state_vodka_monopoly:0 "Государственная водочная монополия"
+ RUS_state_vodka_monopoly_desc:0 ""
+ RUS_expand_general_electric_company:0 "Расширить Генеральную электрическую компанию"
+ RUS_expand_general_electric_company_desc:0 ""
+ RUS_expand_kharkov_locomotive_plant:0 "Расширение Харьковского локомотивного завода"
+ RUS_expand_kharkov_locomotive_plant_desc:0 ""
+ RUS_baikal_gold_mines:0 "Золотые рудники Забайкалья"
+ RUS_baikal_gold_mines_desc:0 ""
+
+ RUS_support_cotton_plantations:0 "Поддержка хлопковых плантаций"
+ RUS_support_cotton_plantations_desc:0 "Туркестанский край уже некоторое время играет важную роль в поставках хлопка для нашей текстильной промышленности, если мы хотим постоянно расширять нашу текстильную промышленность, необходимо предоставить условия русским фермерам, живущим в Туркестанском крае."
+
+ RUS_tula_industrial_hub:0 "Тульский промышленный узел"
+ RUS_tula_industrial_hub_desc:0 ""
+ RUS_ural_mining_hub:0 "Уральский горнодобывающий узел"
+ RUS_ural_mining_hub_desc:0 ""
+ RUS_petersburg_polytechnic:0 "Санкт-Петербургский политехнический институт"
+ RUS_petersburg_polytechnic_desc:0 ""
+ RUS_expand_kreenholm_manufactory:0 "Расширение Кренгольмской мануфактуры"
+ RUS_expand_kreenholm_manufactory_desc:0 ""
+
+ ## Political ##
+
+ # Normal Politics #
+
+ RUS_first_duma_focus:0 "Первая российская Дума"
+ RUS_first_duma_focus_desc:0 "Благодаря настойчивости интеллигенции демократия наконец-то пришла в Россию, по крайней мере, частично.\n Благодаря этой новой Государственной Думе можно надеяться на проведение многих великих реформ."
+ RUS_political_prisoners_amnesty:0 "Амнистия для политических заключенных?"
+ RUS_political_prisoners_amnesty_desc:0 "В Думе возникла дискуссия о статусе сотен недавних политических заключенных. Одни выступают за прощение, другие считают их арест правосудием".
+ RUS_abolish_the_death_penalty:0 "Отменить смертную казнь?".
+ RUS_abolish_the_death_penalty_desc:0 "В Думе возникла дискуссия о статусе смертной казни в системе правосудия. Правые считают ее средством сдерживания, особенно в эти трудные времена, а оппозиция видит в ней ненужную меру."
+ RUS_provide_land_for_peasants:0 "Предоставить землю крестьянам?"
+ RUS_provide_land_for_peasants_desc:0 "Крестьяне всегда были революционным аспектом в нашей нации, однако после неудавшейся революции и создания Думы несколько фракций, похоже, приняли их участь. Трудовики, например, поддерживают предоставление земли безземельным и бедным крестьянам. "
+
+ RUS_the_benifit_of_russia:0 "На благо России"
+ RUS_the_benifit_of_russia_desc:0 ""
+ RUS_fine_line_between_evils:0 "Тонкая грань между злом"
+ RUS_fine_line_between_evils_desc:0 ""
+ RUS_the_benifit_of_the_people:0 "На благо народа"
+ RUS_the_benifit_of_the_people_desc:0 ""
+ RUS_seperate_tsar_and_church:0 "Отделить царя от церкви"
+ RUS_seperate_tsar_and_church_desc:0 ""
+
+ RUS_police_the_universities:0 "Полиция университетов"
+ RUS_police_the_universities_desc:0 "Университеты давно стали плавильным котлом революционных идей и людей, и сейчас, когда страна находится на пороге революции, было бы здравой идеей, если бы университеты были полицейскими, и этот революционный идеализм был бы подавлен, чтобы защитить будущие поколения страны."
+ RUS_provide_for_peasants_in_crisis:0 "Обеспечить крестьян в условиях кризиса"
+ RUS_provide_for_peasants_in_crisis_desc:0 "По всей России крестьяне страдают больше всего, будь то засуха, голод, морок или неурожай - крестьяне всегда будут страдать. Даже при наличии благотворительных пожертвований, через думу прошел законопроект о создании более постоянной организации, которая могла бы помогать крестьянам независимо от того, что их беспокоит."
+
+ RUS_abolish_military_courts:0 "Отменить военные суды"
+ RUS_abolish_military_courts_desc:0 ""
+ RUS_alliance_steel_and_rye:0 "Альянс стали и ржи"
+ RUS_alliance_steel_and_rye_desc:0 ""
+ RUS_political_autonomy_for_all:0 "Политическая автономия для всех"
+ RUS_political_autonomy_for_all_desc:0 ""
+ RUS_reform_the_gymnasium:0 "Реформа гимназии"
+ RUS_reform_the_gymnasium_desc:0 ""
+ RUS_the_church_in_politics:0 "Церковь в политике"
+ RUS_the_church_in_politics_desc:0 ""
+ RUS_workers_illness_payments:0 "Обеспечить выплаты заболевшим работникам"
+ RUS_workers_illness_payments_desc:0 ""
+ RUS_peasants_in_the_upper_house:0 "Крестьяне в верхней палате"
+ RUS_peasants_in_the_upper_house_desc:0 ""
+ RUS_state_funded_primary_education:0 "Начальное образование, финансируемое государством"
+ RUS_state_funded_primary_education_desc:0 ""
+ RUS_fund_state_tax_collectors:0 "Финансирование государственных сборщиков налогов"
+ RUS_fund_state_tax_collectors_desc:0 ""
+ RUS_full_religious_liberties:0 "Полные религиозные свободы?"
+ RUS_full_religious_liberties_desc:0 ""
+
+ # Autocratic Politics # 
+
+ RUS_tsar_supreme:0 "Царь Верховный"
+ RUS_tsar_supreme_desc:0 ""
+ RUS_the_autocrats_will:0 "Подтвердить волю самодержцев"
+ RUS_the_autocrats_will_desc:0 "Воля самодержца - это простой принцип, если царь назначает кого-то и этот человек не справляется со своей работой, то по воле царя этот человек должен быть смещен и заменен по просьбе царя."
+ RUS_purge_the_lower_house:0 "Очистить нижнюю палату".
+ RUS_purge_the_lower_house_desc:0 ""
+ RUS_authoritarian_police_the_universities:0 "Полиция университетов"
+ RUS_authoritarian_police_the_universities_desc:0 "Университеты давно стали плавильным котлом революционных идей и людей, и в условиях, когда страна находится на пороге революции, было бы здравой идеей, если бы университеты были полицейскими, и этот революционный идеализм был бы подавлен, чтобы защитить будущие поколения страны."
+ RUS_permanent_military_courts:0 "Постоянные военные суды"
+ RUS_permanent_military_courts_desc:0 ""
+ RUS_the_church_and_the_tsar:0 "Церковь и царь"
+ RUS_the_church_and_the_tsar_desc:0 ""
+ RUS_authoritarian_fund_gymnasium:0 "Финансировать гимназию"
+ RUS_authoritarian_fund_gymnasium_desc:0 ""
+ RUS_token_reforms:0 "Реформы токенов"
+ RUS_token_reforms_desc:0 ""
+ RUS_power_of_the_hundredists:0 "Сила черносотенцев"
+ RUS_power_of_the_hundredists_desc:0 ""
+ RUS_ending_street_violence:0 "Прекращение уличного насилия"
+ RUS_ending_street_violence_desc:0 ""
+ RUS_auth_amnesty_for_political_prisoners:0 "Амнистия для политических заключенных?"
+ RUS_auth_amnesty_for_political_prisoners_desc:0 ""
+ RUS_auth_abolish_death_penalty:0 "Отменить смертную казнь?"
+ RUS_auth_abolish_death_penalty_desc:0 ""
+ RUS_auth_reward_loyalist_landowners:0 "Наградить землевладельцев-лоялистов"
+ RUS_auth_reward_loyalist_landowners_desc:0 ""
+
+
+ ### Ideas ###
+
+ ## Normal Ideas ##
+
+ RUS_agrarian_economy_a:0 "Аграрная экономика"
+ RUS_agrarian_economy_a_desc:0 "Россия имеет принципиально отсталую экономику, несмотря на большое население и огромные запасы природных ресурсов, страна отставала от других европейских государств как в промышленном производстве, так и в урбанизации. К началу 20-го века сельское хозяйство составляло единственный крупнейший сектор российской экономики, производя примерно половину национального дохода и обеспечивая работой две трети населения России. Российское крестьянство, несмотря на отмену крепостного права в 1864 году, остается необразованным и привязанным к земле лишь по названию. Политическое наследие этой устаревшей системы заключается в сохранении пережитков феодального прошлого: местный помещик и "кулак" остаются наиболее важными экономическими субъектами российского общества. В аграрной российской глубинке отсутствует почти вся механизация, а в обработке земли до сих пор используются средневековые методы. Голод и дефицит остаются обычным явлением, что приводит к регулярным волнениям в сельской местности, которые еще больше тормозят развитие России. Однако приток инвестиционного капитала из Западной Европы в 1890-х годах привел к созданию ряда новых производственных центров в крупных российских городах. С тех пор доля россиян, работающих на заводах, всего за несколько лет выросла с нуля до почти 30%. Эта фрагментарная попытка модернизации принесла свои проблемы: плохие условия труда и неэффективные стратегии развития постоянно преследуют ту небольшую промышленность, которая существует."
+ RUS_agrarian_economy_b:0 "Аграрная экономика"
+ RUS_agrarian_economy_b_desc:0 "Россия имеет принципиально отсталую экономику, несмотря на большое население и огромные запасы природных ресурсов, страна отставала от других европейских государств как в промышленном производстве, так и в урбанизации. К началу 20-го века сельское хозяйство составляло единственный крупнейший сектор российской экономики, производя примерно половину национального дохода и обеспечивая работой две трети населения России. Российское крестьянство, несмотря на отмену крепостного права в 1864 году, остается необразованным и привязанным к земле лишь по названию. Политическим наследием этой устаревшей системы является сохранение пережитков феодального прошлого: местный помещик и "кулак" остаются наиболее важными экономическими субъектами российского общества. В аграрной российской глубинке отсутствует почти вся механизация, а в обработке земли до сих пор используются средневековые методы. Голод и дефицит остаются обычным явлением, что приводит к регулярным волнениям в сельской местности, которые еще больше тормозят развитие России. Однако приток инвестиционного капитала из Западной Европы в 1890-х годах привел к созданию ряда новых производственных центров в крупных российских городах. С тех пор доля россиян, работающих на заводах, всего за несколько лет выросла с нуля до почти 30%. Эти фрагментарные усилия по модернизации принесли свои проблемы: плохие условия труда и неэффективные стратегии развития постоянно преследуют ту небольшую промышленность, которая существует."
+ RUS_railway_troop_idea_a:0 "Ускоренное железнодорожное строительство"
+ RUS_railway_troop_idea_a_desc:0 "Для того, чтобы должным образом снабжать и командовать нашими армиями на западе, нам понадобится надлежащая система распределения железных дорог."
+ RUS_railway_troop_idea_b:0 "Российские железнодорожные войска"
+ RUS_railway_troop_idea_b_desc:0 "Основанные в 1851 году, Железнодорожные войска Вооруженных сил России, хотя и немногочисленные, оказывают неизмеримую услугу по охране и поддержанию железнодорожных линий в зонах конфликтов и, как таковые, важны для России и ее армий, обеспечивая доставку войск и грузов туда, где они необходимы, невредимыми и вовремя."
+ RUS_pro_gov_tradeunions_idea:0 "Проправительственный профсоюз"
+ RUS_pro_gov_tradeunions_idea_desc:0 ""
+ RUS_siberian_migration_idea:0 "Сибирская миграция"
+ RUS_siberian_migration_idea_desc:0 ""
+ RUS_switch_from_coal_to_oil_idea:0 "Переход с угля на нефть"
+
+ RUS_industrial_strikes_a:0 "Промышленные забастовки: Незначительные"
+ RUS_industrial_strikes_b:0 "Промышленные забастовки: Крупные"
+ RUS_industrial_strikes_c:0 "Промышленные удары: Калечащие"
+
+ RUS_peasant_land_bank_a:0 "Крестьянский земельный банк"
+ RUS_peasant_land_bank_a_desc:0 ""
+ RUS_peasant_land_bank_b:0 "Гороховый земельный банк"
+ RUS_peasant_land_bank_b_desc:0 ""
+
+ RUS_Peasant_Land_Claims_a:0 "Крестьянские земельные претензии: Сдержанные"
+ RUS_Peasant_Land_Claims_a_desc:0 ""
+ RUS_Peasant_Land_Claims_b:0 "Крестьянские земельные претензии: Навязчивые"
+ RUS_Peasant_Land_Claims_b_desc:0 ""
+
+ RUS_cossacks_idea:0 "Казаки"
+ RUS_cossacks_idea_desc:0 ""
+
+ RUS_purchase_farming_tools_idea:0 "Покупка сельскохозяйственных инструментов"
+ RUS_purchase_farming_tools_idea_desc:0 ""
+
+ RUS_policed_universities:0 "Полицейские университеты"
+ RUS_policed_universities_desc:0 ""
+
+ RUS_okhrana_agent_network_idea_a:0 "Сеть агентов"
+ RUS_okhrana_agent_network_idea_a_desc:0 ""
+
+ RUS_expanded_tax_colletions:0 "Расширенный сбор налогов"
+ RUS_expanded_tax_colletions_desc:0 ""
+
+ RUS_worker_illness_payments_idea:0 "Выплаты по болезни работников"
+ RUS_worker_illness_payments_idea_desc:0 ""
+
+ RUS_expanded_gold_mines_idea:0 "Расширенные золотые рудники"
+ RUS_expanded_gold_mines_idea_desc:0 ""
+
+ RUS_siberian_grain_shipments_idea:0 "Сибирские зерновые поставки"
+ RUS_siberian_grain_shipments_idea_desc:0 "С отменой Челябинского тарифа более дешевое зерно наводняет западные губернии из Сибири, хотя землевладельцы демонстрируют страдания от потери прибыли, крестьяне радуются приходу более дешевого зерна."
+
+ RUS_foreign_ind_investment_idea:0 "Российские инвестиции"
+ RUS_foreign_ind_investment_idea_idea_desc:0 ""
+ 
+ ## Other Ideas ##
+
+ RUS_revolutionary_agitation_a:0 "Революционная агитация: Очень Высокая"
+ RUS_revolutionary_agitation_a_desc:0 "С тех пор как в 1825 году царские войска жестоко подавили восстание декабристов, Россия стала очагом революционной активности как в городских центрах, так и в сельской местности. Нежелание монархии отказаться от самодержавной власти, упорный отказ местной аристократии от своих традиционных феодальных привилегий, постоянно растущая пропасть между богатыми и бедными, бесконтрольное засилье нарождающейся буржуазии - все это способствовало росту радикализма и распространению подпольных революционных социалистических организаций. На протяжении конца XIX века эти организации предпринимали более экстремальные действия в ответ на реакционную политику царского государства: в 1881 году царь Александр II был убит анархистом, принадлежавшим к ячейке "Народной воли", а в 1895 году ряд рабочих и студенческих забастовок потряс Санкт-Петербург. Политика быстрой индустриализации России ничего не дала для улучшения ситуации. Впервые тысячи рабочих теснились на фабриках, работая в нищенских условиях, и оппозиция превратилась из небольшой группы активистов и интеллектуалов среднего класса в массовое движение рабочего класса с базой поддержки в ключевых городах империи. Широкие слои населения России стали рассматривать социалистов-революционеров как единственную группу, способную противостоять коррумпированному самодержавию."
+ RUS_revolutionary_agitation_b:0 "Революционная агитация: Высокая"
+ RUS_revolutionary_agitation_b_desc:0 "С тех пор как в 1825 году царские войска жестоко подавили восстание декабристов, Россия стала очагом революционной активности как в городских центрах, так и в сельской местности. Нежелание монархии отказаться от самодержавной власти, упорный отказ местной аристократии от своих традиционных феодальных привилегий, постоянно растущая пропасть между богатыми и бедными, бесконтрольное засилье нарождающейся буржуазии - все это способствовало росту радикализма и распространению подпольных революционных социалистических организаций. На протяжении конца XIX века эти организации предпринимали более экстремальные действия в ответ на реакционную политику царского государства: в 1881 году царь Александр II был убит анархистом, принадлежавшим к ячейке "Народной воли", а в 1895 году ряд рабочих и студенческих забастовок потряс Санкт-Петербург. Политика быстрой индустриализации России ничего не дала для улучшения ситуации. Впервые тысячи рабочих теснились на фабриках, работая в нищенских условиях, и оппозиция превратилась из небольшой группы активистов и интеллектуалов среднего класса в массовое движение рабочего класса с базой поддержки в ключевых городах империи. Широкие слои населения России стали рассматривать социалистов-революционеров как единственную группу, способную противостоять коррумпированному самодержавию."
+ RUS_revolutionary_agitation_c:0 "Революционная агитация: Средняя"
+ RUS_revolutionary_agitation_c_desc:0 "С тех пор как в 1825 году царские войска жестоко подавили восстание декабристов, Россия стала очагом революционной активности как в городских центрах, так и в сельской местности. Нежелание монархии отказаться от самодержавной власти, упорный отказ местной аристократии от своих традиционных феодальных привилегий, постоянно растущая пропасть между богатыми и бедными, бесконтрольное засилье нарождающейся буржуазии - все это способствовало росту радикализма и распространению подпольных революционных социалистических организаций. На протяжении конца XIX века эти организации предпринимали более экстремальные действия в ответ на реакционную политику царского государства: в 1881 году царь Александр II был убит анархистом, принадлежавшим к ячейке "Народной воли", а в 1895 году ряд рабочих и студенческих забастовок потряс Санкт-Петербург. Политика быстрой индустриализации России ничего не дала для улучшения ситуации. Впервые тысячи рабочих теснились на фабриках, работая в нищенских условиях, и оппозиция превратилась из небольшой группы активистов и интеллектуалов среднего класса в массовое движение рабочего класса с базой поддержки в ключевых городах империи. Широкие слои населения России стали рассматривать социалистов-революционеров как единственную группу, способную противостоять коррумпированному самодержавию."
+ RUS_revolutionary_agitation_d:0 "Революционная агитация: Низкая"
+ RUS_revolutionary_agitation_d_desc:0 "С тех пор как в 1825 году царские войска жестоко подавили восстание декабристов, Россия стала очагом революционной активности как в городских центрах, так и в сельской местности. Нежелание монархии отказаться от самодержавной власти, упорный отказ местной аристократии от своих традиционных феодальных привилегий, постоянно растущая пропасть между богатыми и бедными, бесконтрольное засилье нарождающейся буржуазии - все это способствовало росту радикализма и распространению подпольных революционных социалистических организаций. На протяжении конца XIX века эти организации предпринимали более экстремальные действия в ответ на реакционную политику царского государства: в 1881 году царь Александр II был убит анархистом, принадлежавшим к ячейке "Народной воли", а в 1895 году ряд рабочих и студенческих забастовок потряс Санкт-Петербург. Политика быстрой индустриализации России ничего не дала для улучшения ситуации. Впервые тысячи рабочих теснились на фабриках, работая в нищенских условиях, и оппозиция превратилась из небольшой группы активистов и интеллектуалов среднего класса в массовое движение рабочего класса с базой поддержки в ключевых городах империи. Широкие слои населения России стали рассматривать социалистов-революционеров как единственную группу, способную противостоять коррумпированному самодержавию."
+ RUS_revolutionary_agitation_e:0 "Революционная агитация: Очень Низка"
+ RUS_revolutionary_agitation_e_desc:0 "С тех пор как в 1825 году царские войска жестоко подавили восстание декабристов, Россия стала очагом революционной активности как в городских центрах, так и в сельской местности. Нежелание монархии отказаться от самодержавной власти, упорный отказ местной аристократии от своих традиционных феодальных привилегий, постоянно растущая пропасть между богатыми и бедными, бесконтрольное засилье нарождающейся буржуазии - все это способствовало росту радикализма и распространению подпольных революционных социалистических организаций. На протяжении конца XIX века эти организации предпринимали более экстремальные действия в ответ на реакционную политику царского государства: в 1881 году царь Александр II был убит анархистом, принадлежавшим к ячейке "Народной воли", а в 1895 году ряд рабочих и студенческих забастовок потряс Санкт-Петербург. Политика быстрой индустриализации России ничего не дала для улучшения ситуации. Впервые тысячи рабочих теснились на фабриках, работая в нищенских условиях, и оппозиция превратилась из небольшой группы активистов и интеллектуалов среднего класса в массовое движение рабочего класса с базой поддержки в ключевых городах империи. Широкие слои населения России стали рассматривать социалистов-революционеров как единственную группу, способную противостоять коррумпированному самодержавию."
+ 
+ RUS_military_mutinies_a:0 "Военные мятежи: Очень Высокие"
+ RUS_military_mutinies_a_desc:0 "Плохие условия жизни, ужасающие потери в войне с Японией и рост антиправительственных настроений внутри страны вылились в массовые волнения и несколько громких мятежей в рядах российских вооруженных сил. Недовольство в армии нарастало в течение нескольких лет; жесткая дисциплина, непопулярная массовая воинская повинность, пополняющая ряды армии империи за счет обязательной службы крестьян, некомпетентный офицерский корпус, не заботящийся о людях, а также нерациональное снабжение и рационы питания привели к тому, что военная иерархия никогда не пользовалась популярностью у рядового российского солдата. Русско-японская война усугубила все эти проблемы, и солдаты и матросы начали предпринимать ответные действия. Многие организовали "солдатские комитеты", которые требовали прекращения войны и реформирования вооруженных сил. Подразделения теперь отказываются выдвигаться по приказу, занимают командные пункты, а некоторые даже стреляют в своих офицеров, когда кажется, что они отдадут приказ о репрессиях против солдат. Командиры с трудом сдерживают это бунтарское поведение; во многих случаях уступки требованиям комитетов только подстегивают солдат-срочников к новым ультиматумам. Моряки, особенно на Черноморском флоте, более открыто проявляют свою политическую активность, и считается, что целые эскадры теперь содержат хорошо организованные революционные ячейки. Если правительство не сможет восстановить порядок в армии, ситуация будет только ухудшаться."
+ RUS_military_mutinies_b:0 "Военные мятежи: Высокие"
+ RUS_military_mutinies_b_desc:0 "Плохие условия жизни, ужасающие потери в войне с Японией и рост антиправительственных настроений внутри страны вылились в массовые волнения и несколько громких мятежей в рядах российских вооруженных сил. Недовольство в армии нарастало в течение нескольких лет; жесткая дисциплина, непопулярная массовая воинская повинность, пополняющая ряды армии империи за счет обязательной службы крестьян, некомпетентный офицерский корпус, не заботящийся о людях, а также нерациональное снабжение и рационы питания привели к тому, что военная иерархия никогда не пользовалась популярностью у рядового российского солдата. Русско-японская война усугубила все эти проблемы, и солдаты и матросы начали предпринимать ответные действия. Многие организовали "солдатские комитеты", которые требовали прекращения войны и реформирования вооруженных сил. Подразделения теперь отказываются выдвигаться по приказу, занимают командные пункты, а некоторые даже стреляют в своих офицеров, когда кажется, что они отдадут приказ о репрессиях против солдат. Командиры с трудом сдерживают это бунтарское поведение; во многих случаях уступки требованиям комитетов только подстегивают солдат-срочников к новым ультиматумам. Моряки, особенно на Черноморском флоте, более открыто проявляют свою политическую активность, и считается, что целые эскадры теперь содержат хорошо организованные революционные ячейки. Если правительство не сможет восстановить порядок в армии, ситуация будет только ухудшаться."
+ RUS_military_mutinies_c:0 "Военные мятежи: Средние"
+ RUS_military_mutinies_c_desc:0 "Плохие условия жизни, ужасающие потери в войне с Японией и рост антиправительственных настроений внутри страны вылились в массовые волнения и несколько громких мятежей в рядах российских вооруженных сил. Недовольство в армии нарастало в течение нескольких лет; жесткая дисциплина, непопулярная массовая воинская повинность, пополняющая ряды армии империи за счет обязательной службы крестьян, некомпетентный офицерский корпус, не заботящийся о людях, а также нерациональное снабжение и рационы питания привели к тому, что военная иерархия никогда не пользовалась популярностью у рядового российского солдата. Русско-японская война усугубила все эти проблемы, и солдаты и матросы начали предпринимать ответные действия. Многие организовали "солдатские комитеты", которые требовали прекращения войны и реформирования вооруженных сил. Подразделения теперь отказываются выдвигаться по приказу, занимают командные пункты, а некоторые даже стреляют в своих офицеров, когда кажется, что они отдадут приказ о репрессиях против солдат. Командиры с трудом сдерживают это бунтарское поведение; во многих случаях уступки требованиям комитетов только подстегивают солдат-срочников к новым ультиматумам. Моряки, особенно на Черноморском флоте, более открыто проявляют свою политическую активность, и считается, что целые эскадры теперь содержат хорошо организованные революционные ячейки. Если правительство не сможет восстановить порядок в армии, ситуация будет только ухудшаться."
+ RUS_military_mutinies_d:0 "Военные мятежи: Незначительные"
+ RUS_military_mutinies_d_desc:0 "Плохие условия жизни, ужасающие потери в войне с Японией и рост антиправительственных настроений внутри страны вылились в массовые волнения и несколько громких мятежей в рядах российских вооруженных сил. Недовольство в армии нарастало в течение нескольких лет; жесткая дисциплина, непопулярная массовая воинская повинность, пополняющая ряды армии империи за счет обязательной службы крестьян, некомпетентный офицерский корпус, не заботящийся о людях, а также нерациональное снабжение и рационы питания привели к тому, что военная иерархия никогда не пользовалась популярностью у рядового российского солдата. Русско-японская война усугубила все эти проблемы, и солдаты и матросы начали предпринимать ответные действия. Многие организовали "солдатские комитеты", которые требовали прекращения войны и реформирования вооруженных сил. Подразделения теперь отказываются выдвигаться по приказу, занимают командные пункты, а некоторые даже стреляют в своих офицеров, когда кажется, что они отдадут приказ о репрессиях против солдат. Командиры с трудом сдерживают это бунтарское поведение; во многих случаях уступки требованиям комитетов только подстегивают солдат-срочников к новым ультиматумам. Моряки, особенно на Черноморском флоте, более открыто проявляют свою политическую активность, и считается, что целые эскадры теперь содержат хорошо организованные революционные ячейки. Если правительство не сможет восстановить порядок в армии, ситуация будет только ухудшаться."
+
+ RUS_incompetent_admiralty_a:0 "Некомпетентное Адмиралтейство"
+ RUS_incompetent_admiralty_a_desc:0 ""Есть старая русская поговорка: "рыба гниет с головы". Хотя в середине XIX века Российская империя считалась первоклассной военно-морской державой, она отстала от своих соперников как в технологическом, так и в институциональном плане. Чрезмерная бюрократизация, карьеризм, офицерский корпус, больше сосредоточенный на показухе, чем на поддержании боеспособности российского флота, и вмешательство аристократов в форме - все это способствовало долгосрочному упадку Российского Императорского флота. Из-за специальной организации адмиралтейства Россия не имела определенной тактической военно-морской доктрины, а стратегическое планирование часто оставалось в руках неподготовленных командующих флотами. Высшие эшелоны российского флота прогнили от непотизма, способных кандидатов часто обходят стороной в пользу детей видных дворянских семей и офицеров с влиятельными политическими связями. Даже высокопоставленные члены адмиралтейства, проявившие инициативу, больше зациклены на внешнем виде и поверхностных успехах, чем на подлинной военной готовности. Хотя попытки реформ предпринимались и раньше, например, Устав о военно-морских квалификациях 1885 года, эти требования в целом оказали негативное влияние и дали старой гвардии еще один инструмент для подавления реформ снизу. Чтобы Императорский флот смог преодолеть эту трясину бездарных, бескорыстных офицеров, приходских интересов и коррупции, необходимо провести капитальный ремонт флота." !"
+ RUS_incompetent_admiralty_b:0 "Генеральный штаб морской пехоты"
+ RUS_incompetent_admiralty_b_desc:0 ""Есть старая русская поговорка: "рыба гниет с головы". Хотя в середине XIX века Российская империя считалась первоклассной военно-морской державой, она отстала от своих соперников как в технологическом, так и в институциональном плане. Чрезмерная бюрократизация, карьеризм, офицерский корпус, больше сосредоточенный на показухе, чем на поддержании боеспособности российского флота, и вмешательство аристократов в форме - все это способствовало долгосрочному упадку Российского Императорского флота. Из-за специальной организации адмиралтейства Россия не имела определенной тактической военно-морской доктрины, а стратегическое планирование часто оставалось в руках неподготовленных командующих флотами. Высшие эшелоны российского флота прогнили от непотизма, способных кандидатов часто обходят стороной в пользу детей видных дворянских семей и офицеров с влиятельными политическими связями. Даже высокопоставленные члены адмиралтейства, проявившие инициативу, больше зациклены на внешнем виде и поверхностных успехах, чем на подлинной военной готовности. Хотя попытки реформ предпринимались и раньше, например, Устав о военно-морских квалификациях 1885 года, эти требования в целом оказали негативное влияние и дали старой гвардии еще один инструмент для подавления реформ снизу. Чтобы Императорский флот смог преодолеть эту трясину бездарных, бескорыстных офицеров, приходских интересов и коррупции, необходимо провести капитальный ремонт флота." !"
+ RUS_incompetent_admiralty_c:0 "Генеральный штаб морской пехоты"
+ RUS_incompetent_admiralty_c_desc:0 ""Есть старая русская поговорка: "рыба гниет с головы". Хотя в середине XIX века Российская империя считалась первоклассной военно-морской державой, она отстала от своих соперников как в технологическом, так и в институциональном плане. Чрезмерная бюрократизация, карьеризм, офицерский корпус, больше сосредоточенный на показухе, чем на поддержании боеспособности российского флота, и вмешательство аристократов в форме - все это способствовало долгосрочному упадку Российского Императорского флота. Из-за специальной организации адмиралтейства Россия не имела определенной тактической военно-морской доктрины, а стратегическое планирование часто оставалось в руках неподготовленных командующих флотами. Высшие эшелоны российского флота прогнили от непотизма, способных кандидатов часто обходят стороной в пользу детей видных дворянских семей и офицеров с влиятельными политическими связями. Даже высокопоставленные члены адмиралтейства, проявившие инициативу, больше зациклены на внешнем виде и поверхностных успехах, чем на подлинной военной готовности. Хотя попытки реформ предпринимались и раньше, например, Устав о военно-морских квалификациях 1885 года, эти требования в целом оказали негативное влияние и дали старой гвардии еще один инструмент для подавления реформ снизу. Чтобы Императорский флот смог преодолеть эту трясину бездарных, бескорыстных офицеров, приходских интересов и коррупции, необходимо провести капитальный ремонт флота." !"
+
+
+ RUS_incompetent_general_staff_a:0 "Некомпетентный Генеральный штаб"
+ RUS_incompetent_general_staff_a_desc:0 "Императорской российской армии мешают несколько проблем: устаревшее оборудование, бессистемные тактические доктрины, закостеневшая командная структура, плохое материально-техническое обеспечение, но больше всего - некомпетентное руководство и отсталый Генеральный штаб, неспособный понять недавние драматические изменения в войне. Офицеры, особенно из числа русской аристократии, изучают военное дело практически так же, как оно велось в середине 19 века, когда армии действовали в значительной степени независимо друг от друга, под командованием руководства, состоящего в основном из бескорыстных дворян, которые в основном оставляли управление своими частями подчиненным-самоучкам. Отсутствие модернизированной системы управления и связи привело к небрежному режиму обучения, слабым военным стандартам и верховному командованию, находящемуся под контролем неквалифицированных назначенцев, которые пришли в армию как способ продвижения интересов своих семей в салонах и гостиных правящей элиты России. Мелкая, неорганизованная и корыстная обстановка в Генеральном штабе просочилась на нижние ступени иерархии императорской армии; военный бюджет пронизан коррупцией и казнокрадством, до 15% военного бюджета России уходит в карман офицеров, а лучшее оборудование продается подрядчикам. Если страна не возьмет на себя обязательства по серьезному реформированию армии, она может быть побита, причем основательно, следующей крупной державой, с которой она будет сражаться."
+ RUS_incompetent_general_staff_b:0 "Главное управление Генерального штаба"
+ RUS_incompetent_general_staff_b_desc:0 ""
+ RUS_incompetent_general_staff_c:0 "Главное управление Генерального штаба"
+ RUS_incompetent_general_staff_c_desc:0 ""
+ RUS_incompetent_general_staff_d:0 "Главное управление Генерального штаба"
+ RUS_incompetent_general_staff_d_desc:0 ""
+ RUS_incompetent_general_staff_e:0 "Главное управление Генерального штаба"
+ RUS_incompetent_general_staff_e_desc:0 ""
+
+ RUS_1905_Revolution_0:0 "Революция 1905 года"
+ RUS_1905_Revolution_0_desc:0 ""
+ RUS_1905_Revolution_1:0 "Пепел Революции 1905 года"
+ RUS_1905_Revolution_1_desc:0 ""
+ RUS_1905_Revolution_2:0 "Наследие Революции 1905 года"
+ RUS_1905_Revolution_2_desc:0 ""
+ RUS_1905_Revolution_3:0 "Расширенная Революция 1905 года"
+ RUS_1905_Revolution_3_desc:0 ""
+
+### Decisions ###
+
+ #RUS_synthetic_oil_experiments:0 "Conduct Synthetic Oil Experiments"
+
+
+ RUS_improve_military:0 "Совершенствование нашей армии"
+ RUS_improve_military_desc:0 "Вооруженные силы находятся в состоянии кризиса, годы без реформ привели к тому, что военные процессы стали отсталыми и устаревшими, кроме того, политические изменения и революционеры сделали многие подразделения неподчиняющимися командованию, а иногда и прямо мятежными".
+ RUS_increase_soldier_salary:0 "Повысить зарплату солдатам".
+ RUS_decrease_soldier_salary:0 "Уменьшить зарплату солдатам"
+ RUS_improve_military_living_conditions:0 "Улучшить условия в казарме"
+ RUS_educate_the_conscripted_men:0 "Образование призывников"
+ RUS_promote_illarion_vorontsov_dashkov_FM:0 "Продвигать Иллариона Воронцова-Дашкова"
+ RUS_promote_vladimir_sakharov_CC:0 "Продвигать Владимира Сахарова"
+ RUS_promote_pavel_pleve_CC:0 "Продвигать Павла Плеве"
+
+ RUS_rebuild_russian_fortresses_deci:0 "Восстановление крепости Россия"
+ RUS_rebuild_russian_fortresses_deci_desc:0 "Крепости в западном приграничном регионе устарели, обветшали и остро нуждаются в модернизации. Несмотря на дебаты вокруг необходимости таких крепостей, некоторые, такие как генерал Сухомлинов, считают их устаревшими из-за дальнобойности и разрушительной силы современной артиллерии, другие видят в них необходимость для защиты внутренних территорий России."
+ RUS_raise_fortress_garrisons:0 "Поднять гарнизоны крепостей"
+ RUS_rebuild_brest_fortress:0 "Восстановление Брестской крепости"
+ RUS_rebuild_warsaw_fortress:0 "Восстановление Варшавской крепости"
+ RUS_rebuild_ivangorod_fortress:0 "Восстановление Ивангородской крепости"
+ RUS_rebuild_novogeorgievsk_fortress:0 "Восстановление Новогеоргиевской крепости"
+ RUS_rebuild_osowiec_fortress:0 "Восстановление крепости Осовец"
+ RUS_rebuild_dinaburg_fortress:0 "Восстановление Динабургской крепости"
+ RUS_rebuild_kaunas_fortress:0 "Восстановление Каунасской крепости"
+ RUS_rebuild_libava_fortress:0 "Восстановление Либавской крепости"
+ RUS_rebuild_dynemunt_fortress:0 "Восстановление крепости Динемунт"
+ RUS_rebuild_kars_fortress:0 "Восстановление крепости Карс"
+
+
+ RUS_infrastructure_decisions_cat:0 "Решения по инфраструктуре"
+ RUS_infrastructure_decisions_cat_desc:0 "Россия огромна, и в наш век так называемой второй промышленной революции есть много возможностей для расширения и развития ресурсов."
+
+ RUS_repair_baku_oil_fields:0 "Ремонт Бакинских нефтяных месторождений"
+ RUS_finalise_circum_baikal_railway_dec:0 "Завершить строительство Кругобайкальского железнодорожного перегона"
+ RUS_expand_circum_baikal_railway_dec:0 "Расширить Кругобайкальскую железную дорогу"
+ RUS_petersburg_vologda_railway_dec:0 "Железная дорога от Санкт-Петербурга до Вологды"
+ RUS_samara_tashkent_railway_dec:0 "Железная дорога Оренбург - Ташкент"
+ RUS_moscow_district_rail_dec:0 "Московская окружная железная дорога"
+ RUS_begin_south_turkestan_siber_rail_dec:0 "Южный Туркестан - Сибирская железная дорога"
+
+ RUS_fund_amur_railway_dec:0 "Финансирование строительства Амурской железной дороги"
+ RUS_chita_to_amur_rail_dec:0 "Прокладка рельсов от Читы до Амура"
+ RUS_khingan_railway_tunnels_dec:0 "Копаем Хинганские железнодорожные тоннели"
+ RUS_amur_to_birobidzhan_rail_dec:0 "Прокладка железной дороги от Амура до Биробиджана"
+ RUS_khabarovsk_railway_bridging_dec:0 "Хабаровский железнодорожный мост"
+ RUS_open_amur_rail_dec:0 "Открыть Амурскую железную дорогу"
+
+ RUS_siberian_mining:0 "Расширение добычи полезных ископаемых в Сибири"
+ RUS_siberian_mining_desc:0 "Под поверхностью бескрайних просторов Сибири скрыты залежи ценных ресурсов, которые невероятно полезны в нашей быстро развивающейся промышленной империи."
+ RUS_emba_resource_extraction:0 "Добыча ресурсов возле Эмбы"
+ RUS_grozny_resource_extraction:0 "Добыча ресурсов возле Грозного"
+ RUS_kuban_resource_extraction:0 "Добыча ресурсов на Кубани"
+ RUS_perm_resource_extraction:0 "Добыча ресурсов под Пермью"
+ RUS_zlatoust_resource_extraction:0 "Добыча ресурсов под Златоустом"
+ RUS_sakhalin_resource_extraction:0 "Добыча ресурсов на Сахалине"
+
+ RUS_stolypin_reforms_deci_cat:0 "Столыпинские реформы"
+ RUS_stolypin_reforms_deci_cat_desc:0 ""
+ RUS_purchase_farming_equipment_reform:0 "Покупка сельскохозяйственной техники"
+ RUS_northern_peasant_migration:0 "Северная земская крестьянская миграция"
+ RUS_northern_peasant_migration_desc:0 ""
+ RUS_central_peasant_migration:0 "Центральная земская крестьянская миграция"
+ RUS_central_peasant_migration_desc:0 ""
+ RUS_southern_peasant_migration:0 "Южная земская крестьянская миграция"
+ RUS_southern_peasant_migration_desc:0 ""
+
+
+ RUS_bessarabia_zemstva_reform:0 "Реформа бессарабского земства"
+
+ RUS_mogilev_zemstva_reform:0 "Создать Могилевское земство"
+ RUS_kovno_zemstva_reform:0 "Создать Ковенское земство"
+ RUS_vilna_zemstva_reform:0 "Создать Виленское земство"
+ RUS_grodno_zemstva_reform:0 "Создать Гродненское земство"
+ RUS_minsk_zemstva_reform:0 "Создать Минское земство"
+ RUS_volhynia_zemstva_reform:0 "Создать Волынское земство"
+ RUS_podolia_zemstva_reform:0 "Создать Подольское земство"
+ RUS_kiev_zemstva_reform:0 "Создать Киевское земство"
+
+
+ ### Events ###
+
+ russia.1.title:0 "Резня в Санкт-Петербурге"
+ russia.1.desc:0 "Бедствие обрушилось на столицу сегодня, когда многотысячная демонстрация рабочих и крестьян закончилась кровопролитием, когда императорская гвардия открыла огонь прямо по толпе, приближавшейся к Зимнему дворцу. Марш был организован мирной и в основном консервативной группой защиты рабочих "Собрание русских фабрично-заводских рабочих". Демонстрацию, насчитывавшую более 20 000 человек, возглавил отец Георгий Гапон, известный и любимый среди петербургской бедноты человек. Протест был организован с целью призвать к улучшению условий труда, справедливой заработной плате и сокращению рабочего дня до восьми часов. Другие требования включали прекращение пока еще катастрофической русско-японской войны, введение всеобщего избирательного права и выборного законодательного органа, который бы представлял интересы бедных и бесправных.\n\nДемонстрация началась на промышленной окраине города, где расположены трущобы для городских рабочих. Целью шествия было добраться до дворца и передать петицию о реформах царю Николаю. Рабочие, взявшись за руки, пели "Боже, царя храни!" и держали в руках религиозные иконы, многие выражали веру в то, что если бы царь только знал об их страданиях, он бы исполнил их просьбу. Когда колонны начали собираться в правительственном районе, казаки проскакали по фронту шествия, а императорская гвардия открыла огонь: Число погибших превысило 200 человек, еще сотни были ранены.\n\nРеакцией общественности были шок и возмущение. В ответ на массовое убийство в Санкт-Петербурге немедленно начались беспорядки. Забастовки и протесты организуются в Варшаве, Вильно, Москве, Риге и Баку. Социалистические агитаторы воспользовались катастрофой для организации партийных кадров и радикализации доселе умеренного профсоюзного движения. Многие россияне, некогда почитавшие монархию, теперь чувствуют, что у них "больше нет царя". Хотя политическое недовольство росло уже несколько месяцев, эти убийства значительно ухудшили ситуацию."
+ russia.1.a:0 "Проклятие"
+ russia_news.1.title:0 "Кровавое воскресенье"
+ russia_news.1.desc:0 "Мирное шествие тысяч русских рабочих и крестьян в Санкт-Петербурге закончилось кровопролитием, после того как царские солдаты открыли огонь по толпе, приближавшейся к Зимнему дворцу. 22 января 1905 года правозащитная группа "Собрание русских фабрично-заводских рабочих" организовала шествие, которое возглавил православный священник, отец Георгий Гапон. Они требовали улучшения условий труда, более справедливой заработной платы и сокращения рабочего дня до восьми часов. Среди других требований - прекращение катастрофической русско-японской войны и введение всеобщего избирательного права. В соответствии с проверенным временем обычаем обращения к монарху 20 000 участников шествия пели "Боже, царя храни" и держали в руках религиозные иконы. Когда они приблизились к дворцу, императорская гвардия открыла огонь, убив более 200 человек. Русский народ возмущен, в ответ уже организована общенациональная забастовка."
+ russia_news.1.a:0 "Какое варварство!".
+ russia.2.title:0 "Убийство великого князя Сергея Александровича"
+ russia.2.desc:0 "17 февраля 1905 года великий князь Сергей Александрович, дядя Николая II и бывший генерал-губернатор Москвы, был убит членом партии социалистов-революционеров. Убийство произошло у самых ворот Кремля, когда Иван Каляев, член боевой организации эсеров, целью которой было продвижение дела революции с помощью терроризма и задабривания императорских чиновников, бросил самодельную нитроглицериновую бомбу в карету великого князя. Бомба взорвалась, и член императорской семьи был убит мгновенно. Каляев был арестован сразу же на месте преступления сотрудниками охраны и в настоящее время ожидает суда, хотя ожидается, что ему будет вынесен смертный приговор.\n\n\nВеликий князь сам был неоднозначной фигурой. Во время своего пребывания на посту генерал-губернатора он отвечал за безопасность во время коронации своего племянника, и общественность считала его ответственным за трагедию на Ходынке, где более 1300 человек, в основном женщины и дети, были затоптаны насмерть из-за слабой охраны и контроля толпы на мероприятии. Он также намеренно создал себе репутацию убежденного реакционера и во время своего пребывания у власти использовал жестокие методы против нескольких мирных протестов. Всего месяц назад великий князь покинул свой пост в знак протеста против "слишком мягкого" обращения с текущим политическим кризисом.\n\nРеакция общественности была относительно сдержанной, были даже сообщения об импровизированных празднованиях в рабочих районах Москвы. Великий князь был ненавистен большей части населения империи, и социалисты-революционеры позаботились о том, чтобы его жена и дети не присутствовали при нападении, чтобы не вызвать симпатий к монархии. Хотя до сих пор был произведен только один арест, Охрана удвоила свои усилия по розыску других членов Боевой организации СР и ее предполагаемого лидера, социалистического террориста Бориса Савинкова."
+ russia.2.a:0 "Эти террористы должны быть наказаны!".
+ russia.3.title:0 "Договор Бьорко"
+ russia.3.desc:0 "Личное предложение царю было доставлено кайзером Германии Вильгельмом II, который на своей яхте SMY Hohenzollern II отправился на острова Бьорко у побережья Санкт-Петербурга. Предложение представляет собой договор об оборонительном союзе и гарантирует, что Россия и Германия будут защищать друг друга в случае нападения со стороны другой державы. В договоре также говорится, что мы должны привлечь Францию к этому договору в качестве союзника, чтобы он не противоречил ранее созданному франко-русскому союзу. В то время как кайзер и царь одобрили договор, правительство не было проконсультировано по поводу его ратификации. Премьер-министр Сергей Витте и министр иностранных дел Владимир Ламздорф настаивают на том, что Франция должна подписать и ратифицировать договор, чтобы он вступил в силу, а это требование невозможно выполнить из-за противоположных интересов Франции и Германии. Без поддержки правительства договор не сможет быть ратифицирован, оставив нас с нашим ранее существовавшим союзом, однако и царь, и остальные члены правительства стоят в тупике, каждый из них оказывает давление друг на друга, вопрос в том, кто сдастся первым."
+ russia.3.a:0 "Царь уступает правительству".
+ russia.3.b:0 "Правительство соглашается на договор".
+ russia.4.title:0 "Летом 1905 года неурожай"
+ russia.4.desc:0 "Лето 1905 года было особенно суровым для сельского хозяйства, по крайней мере 43% всех пахотных земель демонстрируют признаки серьезного неурожая. Однако, благодаря урожаю выше среднего в Екатеринославе, Оренбурге, Перми и Уфе, прогнозируемые последствия оказались не столь суровыми, но нет сомнений, что крестьяне были бы очень признательны за милостыню, чтобы подготовиться к следующему году."
+ russia.4.a:0 "Провизия должна быть обеспечена".
+ russia.4.b:0 "Мы не можем ничего выделить".
+ russia.10.title:0 "Статус ПОФ и СФ"
+ russia.10.desc:0 ""
+ russia.10.a:0 "Лучше ничего, чем ничего".
+ russia.5.title:0 "День подводника"
+ russia.5.desc:0 "В связи с новым указом царя Николая 19 марта объявлено днем празднования и поминовения всех, кто служит и служил на вновь созданных подводных лодках российского флота."
+ russia.5.a:0 "Для всех, кто служит под синим небом".
+ russia.11.title:0 "Возвращение Балтийского флота"
+ russia.11.desc:0 "Возвращение потрепанного Балтийского флота было омрачено огромными политическими распрями, угрожающими самим основам Российской империи. Хотя война на востоке закончилась и уже забыта населением западной части России, в военно-морском министерстве идут бурные дебаты между морскими офицерами. Ясно одно - Балтийский флот должен быть восстановлен".
+ russia.11.a:0 "Интересно".
+ russia_pol.1.title:0 "Октябрьский манифест"
+ russia_pol.1.desc:0 "Последствия разгрома "кровавого воскресенья" полностью парализовали страну. Забастовки разрушают даже самые основные экономические и бюрократические учреждения, а военные ведут бои с бунтовщиками и повстанческими группами по всей стране. Еще в прошлом месяце число бастующих достигло сотен тысяч, а жизнь в Москве и Санкт-Петербурге зашла в тупик: трамваи не ходят, банки закрыты, школы пустуют, и даже городская вода в столице больше не подается. Баррикады перекрывают главные проспекты, и ходят слухи, что профсоюзы запасаются оружием и организуют новые отряды.\n\n\nВ ответ на продолжающийся кризис советник царя, граф Сергей Юльевич Витте, с немалой долей оговорки предложил Его Величеству подписать краткий манифест, чтобы подавить народное недовольство. Так называемый "Октябрьский манифест" обещал гарантировать гражданские свободы, такие как свобода печати и свобода слова. Он также предусматривает создание парламентского органа, Думы, и наделяет широкие слои населения избирательными правами. Согласно манифесту, ни один закон не будет принят без согласия Думы, хотя царь сохранит право наложить вето на любой закон, принятый Думой. Манифест также обещает провести выборы, как только будут согласованы детали.\n\nЭто открывает дверь для создания конституции и введения партийной политики в доселе самодержавной России. Граф Витте утверждает, что этого будет достаточно, чтобы успокоить умеренных и конституционалистски настроенных демонстрантов, изолировав при этом более радикальные и социалистические элементы бунтовщиков. Сам царь разрывается, по сообщениям, он сказал своим советникам, что это противоречит давним принципам монархии: "Я не могу растратить наследие, которое не мне принадлежит". Хотя лично царь глубоко реакционен, темп событий, похоже, заставил его открыть глаза на возможность пойти на некоторые уступки." !
+ russia_pol.1.a:0 "Принять"
+ russia_pol.1.b:0 "Отказаться"
+ russia.13.title:0 "Окончание русско-японской войны"
+ russia.13.desc:0 "С окончанием военных действий на востоке сотни людей и оборудование должны быть демобилизованы и перевезены домой. Нелегкая задача, учитывая внутреннюю ситуацию, распространяющуюся по всей империи."
+ russia.13.a:0 "Наконец-то".
+
+
+ russia_pol.2.title:0 "Законодательные выборы 1906 года"
+ russia_pol.2.desc:0 ""
+ russia_pol.2.a:0 "Интересно".
+ russia_pol.3.title:0 "Основные законы Российской империи"
+ russia_pol.3.desc:0 "Впервые в истории России царь разделит свою абсолютную власть с парламентом. Однако вряд ли это радостное событие со стороны императорского режима, поскольку принятие первой российской конституции и создание парламента стали частью отчаянного компромисса, на который пошло правительство, чтобы сохранить свое существование во время революции 1905 года. Тем не менее, это действительно исторический момент для России, поскольку он ознаменовал переход от многовековой абсолютной монархии к парламентской системе. Новые Основные законы Российской империи заменяли Свод законов 1832 года, составленный Михаилом Сперанским, и учреждали двухпалатный императорский парламент, состоящий из верхней палаты, Государственного совета, и нижней палаты, Государственной думы. Половина мест в Государственном совете будет назначаться царем, а другая половина и весь состав Государственной думы будут заполняться представителями, выбранными в результате сложной серии непрямых выборов, которые в конечном итоге благоприятствуют классу землевладельцев.\n\nНо многие не впечатлены новой парламентской системой, поскольку она по-прежнему сохраняет большую степень политической власти за царем, который всегда ненавидел любые ограничения своего самодержавного правления. Дума не имеет права назначать правительство, не может вносить поправки в Конституцию без одобрения царя, а царь имеет право вето на все законы, принятые Думой, и может в любой момент по любой причине распустить парламент. По сути, не существует ответственного правительства, и многие критики отмечают, что Россия по-прежнему остается абсолютной монархией во всех практических отношениях. Тем не менее, открытие первой Думы в Таврическом дворце в Санкт-Петербурге запланировано на ближайшее время. Вся Россия наблюдает за этим".
+ russia_pol.3.a:0 "Посмотрим, как все пройдет".
+
+ russia_pol.4.title:0 "Неприятности в первой Думе"
+ russia_pol.4.desc:0 ""
+ russia_pol.4.a:0 "Поддерживать попытки либеральных реформ"
+ russia_pol.4.b:0 "Сдерживать попытки либеральных реформ"
+
+ russia_pol.5.title:0 "Отставка Витте"
+ russia_pol.5.desc:0 "Сергей Витте сегодня объявил о своей отставке из совета министров Наблюдатели, однако, не удивлены этим, поскольку у г-на Витте было много недоброжелателей после его предыдущего пребывания на посту министра финансов Многие рассматривают это как потерю для либералов в думе, но другие более чем рады видеть возвращение человека, которого консерваторы считают ответственным за экономический кризис в начале десятилетия."
+ russia_pol.5.a:0 "Доброе избавление"
+
+ russia_pol.6.title:0 "Провал Горемыкина"
+ russia_pol.6.desc:0 ""
+ russia_pol.6.a:0 "Интересно".
+
+
+ russia_aut.1.title:0 "Массовые протесты"
+ russia_aut.1.desc:0 "Царь, игнорируя все советы своего правительства и Комитета министров, отменил идеи октябрьского манифеста и осудил все попытки реформ.\n\n\nЭто, по понятным причинам, вызвало массовые волнения в невиданных ранее масштабах, превосходящих уровень начала 1905 года."
+ russia_aut.1.a:0 "Военное положение - единственный вариант"
+ russia_aut.2.title:0 "Военное положение"
+ russia_aut.2.desc:0 ""
+ russia_aut.2.a:0 "Применить военную силу"
+ russia_aut.2.b:0 "Возвысить черносотенцев"
+ russia_aut.3.title:0 "Насилие на улицах".
+ russia_aut.3.desc:0 ""
+ russia_aut.3.a:0 "Это катастрофа".
+ russia_aut.4.title:0 "Парализованные вооруженные силы"
+ russia_aut.4.desc:0 ""
+ russia_aut.4.a:0 "Это катастрофа".
+
+
+ russia_rep.1.title:0 "Либералы настаивают на быстрой реформе"
+ russia_rep.1.desc:0 ""
+ russia_rep.1.a:0 "Этого следовало ожидать".
+ russia_rep.2.title:0 "Консерваторы сопротивляются реформам"
+ russia_rep.2.desc:0 ""
+ russia_rep.2.a:0 "Попытка компромисса"
+ russia_rep.2.b:0 "Поддерживают либеральные реформы"
+ russia_rep.3.title:0 "Изгнанная буржуазия"
+ russia_rep.3.desc:0 ""
+ russia_rep.3.a:0 "Следует ожидать".
+
+ russia_con.1.title:0 "Требования консерваторов"
+ russia_con.1.desc:0 "В то время как либералы укоренились в Государственной Думе и встали на путь абсолютной реформы, консерваторы, все еще обладающие значительной политической властью в Думе и вне ее, обратились к либеральной коалиции, возглавляемой Трудовиком, с набором кажущихся жесткими требований, и неизвестно, будут ли эти требования приняты. Однако многие наблюдатели считают, что они положат конец доминирующей либеральной Думе".
+ russia_con.1.a:0 "Согласен"
+ russia_con.1.b:0 "Отклонить"
+ russia_con.2.title:0 "Наделенные властью землевладельцы"
+ russia_con.2.desc:0 ""
+ russia_con.2.a:0 "А чего вы ожидали?"
+
+ russia_otl.1.title:0 "Первая Дума распущена"
+ russia_otl.1.desc:0 "После чуть более двух месяцев весьма напряженных, но в основном бесплодных заседаний, первая в истории Государственная Дума бесцеремонно завершилась сегодня роспуском по имперскому указу царя. Хотя наиболее радикальные левые группы, такие как Социалистическая революционная партия и большевики, бойкотировали выборы и, таким образом, были исключены из Первой Думы, собрание все равно оказалось слишком большим на самодержавный вкус царя. В Думе, созванной 27 апреля, доминировали либеральная Конституционно-демократическая партия (Кадеты), членами которой были в основном городские интеллектуалы и профессионалы, и умеренно-социалистическая Трудовая группа (Трудовики), происходившая из сельских крестьян; вслед за ними по числу депутатов шли умеренная Прогрессивная партия и независимые, в основном представители различных крестьянских групп. С самого начала политическая позиция Первой Думы была решительно реформистской. С профессором Сергеем Муромцевым, относительно умеренным лидером Кадета, исполнявшим обязанности председателя, Дума призвала к проведению ряда либеральных реформ, требуя земельной реформы, амнистии для политических заключенных, а также свободы и равенства на выборах - почти все они были отвергнуты царем и его верным премьер-министром Иваном Горемыкиным. В свою очередь, Дума приняла резолюцию недоверия и потребовала отставки Горемыкина. Опасаясь, что растущий либерализм может серьезно подорвать его абсолютное лидерство, царь окончательно распустил собрание 21 июля, по слухам, сказав: "Будь проклята Дума. Это все дело рук Витте". Из почти 400 предложений Первой Думы только два были приняты в качестве закона: запрет на смертную казнь и меры по оказанию помощи губерниям, пострадавшим от голода. Первый в России парламентский эксперимент, на который многие изначально возлагали большие надежды, теперь, похоже, ни к чему не привел." !
+ russia_otl.1.a:0 "Бесполезно"
+ russia_otl.2.title:0 "Выборгский манифест"
+ russia_otl.2.desc:0 "После роспуска Первой Думы ряд видных лидеров кадетов и других либеральных депутатов в знак протеста отправился в Выборг в автономном Великом княжестве Финляндском. Возмущенные "вопиющей атакой на парламентские принципы", они призвали к открытому сопротивлению имперскому правительству путем гражданского неповиновения в прокламации, известной как "Выборгский манифест". Составленный Павлом Милюковым из кадетов и поддержанный такими деятелями, как князь Георгий Львов, Манифест был впоследствии подписан более чем двумястами депутатами бывшей Государственной Думы. Эти депутаты были в основном кадеты и трудовики, а также социал-демократы и социалисты-революционеры.\n\n\nНесмотря на праведное негодование депутатов, их высокоумное заявление было встречено всеобщим безразличием со стороны десенсибилизированного населения. Правительство, новым премьер-министром которого стал Петр Столыпин, быстро приняло меры, чтобы заставить замолчать смелых, но наивных либеральных лидеров. С тех пор более ста видных кадетов были арестованы и преданы суду. Все они, за исключением двух, были приговорены к трем месяцам тюрьмы и навсегда отстранены от участия в работе любой будущей Думы. Это, несомненно, стало серьезным ударом для кадетов, которые, по сути, потеряли большую часть своих наиболее радикальных и талантливых политиков. Столыпин, однако, кажется, не удовлетворен и решил еще больше ограничить их участие в предстоящих выборах во Вторую Думу. Премьер-министр, вероятно, с молчаливого одобрения самого царя, намерен добиться того, чтобы Дума была послушной. Дух буржуазного либерализма, столь высокий и живой со времен революции 1905 года, теперь померк. "
+ russia_otl.2.a:0 "Русскому народу не нужен либерализм".
+
+ russia_otl.3.title:0 "Законодательные выборы 1907 года"
+ russia_otl.3.desc:0 ""
+ russia_otl.3.a:0 "Интересно".
+
+ russia_otl.4.title:0 "Созвана вторая Дума"
+ russia_otl.4.desc:0 "После позорного роспуска Первой Думы несколько месяцев назад, теперь созвана Вторая Дума, с Федором Головиным от Кадетов в качестве президента. Новый премьер-министр Петр Столыпин, очевидно, надеялся на более покладистую Государственную Думу и поэтому сделал все возможное, чтобы повлиять на выборы в законодательное собрание - от установления неудобного времени голосования до ареста видных лидеров оппозиции. Новые выборы действительно привели к изменению состава Первой Думы, поскольку только 26 депутатов прошлого года сохранили свои места. Однако это не обязательно то, чего хотел Столыпин. Самым важным изменением стало включение радикальных левых из партии социалистов-революционеров, а также большевиков и меньшевиков из Российской социал-демократической рабочей партии, которые ранее бойкотировали Думу. С появлением на сцене своих радикальных соотечественников Конституционно-демократическая партия (Кадеты) стала самой умеренной фракцией. Однако после выборгского дела и благодаря обвинению Стоюльпина большинство ведущих кадетов были отстранены от участия в выборах в Думу. Оставшиеся кадеты с тех пор утратили свою конкурентоспособность и оказались в меньшинстве. Теперь Трудовики с крестьянскими корнями стали крупнейшим блоком. Наблюдатели отмечают, что вторая Дума явно более радикально левая, чем первая.\n\nНо, с другой стороны, правые также получили значительно больше мест. Известный монархист и антикоммунист Владимир Пуришкевич также избран депутатом. Поляризация российской политики очевидна. Как именно расстроенный Столыпин будет разбираться со Второй Думой, еще предстоит выяснить".
+ russia_otl.4.a:0 "Посмотрим, как все пройдет".
+
+ russia.6.title:0 "Суровая зима 1906 года"
+ russia.6.desc:0 "Как известно, экономика России в значительной степени зависит от сельскохозяйственного сектора, и это, к сожалению, в летние и зимние месяцы отдает нашу экономику в руки матери-природы. Засухи и суровые зимы - обычное явление, такое событие, к сожалению, постигло нас, и мы получили сообщения о неудовлетворительных урожаях в 19 губерниях. Поэтому ясно, что крестьяне, наиболее остро нуждающиеся в милостыне, обеспечены".
+ russia.6.a:0 "Мы обеспечим наиболее нуждающихся".
+ russia_pol.7.title:0 "Предложение Столыпина"
+ russia_pol.7.desc:0 "Возможно, в ответ на призывы Думы к земельной реформе, новый премьер-министр Петр Столыпин представил свое предложение по серии аграрных реформ, направленных на улучшение условий жизни российских крестьян, большинство из которых по-прежнему страдают от экономических трудностей, несмотря на освобождение почти полвека назад. В центре реформ - постепенный демонтаж "общинной" системы сельских коммун, которая доминирует в российском сельском хозяйстве, и замена ее рыночной системой частных крестьянских хозяйств. Реформы также включают поощрение переселения в Сибирь и создание сельскохозяйственных кооперативов. Во многих отношениях столыпинские реформы можно рассматривать как продолжение предыдущих программ Сергея Витте, опираясь на государственно-капиталистическую модель модернизации последнего. Однако в реформах присутствуют и политические мотивы. Будучи убежденным консерватором, Столыпин надеялся, что частная собственность сдержит распространение социалистического радикализма среди сельского крестьянства и в конечном итоге поможет вырастить зажиточный класс политически консервативных фермеров, как в Западной Европе. Судя по всему, правительство серьезно относится к реформам Столыпина и оказывает им полную поддержку. Уже принят императорский указ, вводящий безусловное право индивидуального землевладения. "
+ russia_pol.7.a:0 "Аграрная реформа крайне необходима".
+ russia_pol.7.b:0 "Русскому народу реформы не нужны!".
+ russia_pol.8.title:0 "Восстановить военно-полевые суды"
+ russia_pol.8.desc:0 "В связи с чрезвычайной революционной активностью как в городах, так и в сельской местности применяются карательные меры. Одна из таких мер предусматривает создание бродячих военных судов для отправления правосудия там, где гражданская администрация парализована революционной анархией, наблюдатели опасаются, что эта мера слишком экстремальна даже в такие тяжелые времена."
+ russia_pol.8.a:0 "Необходимая мера для стабильности".
+ russia_pol.9.title:0 "Уменьшение крестьянской агитации"
+ russia_pol.9.desc:0 "Благодаря карательным мерам, принятым после Революции 1905 года, сельская местность постепенно вернулась к своему спокойному состоянию. Больше нет бродячих банд революционных крестьян, отправившихся на поиски причин разрушений и нестабильности. Настало время вспахать поля и залечить шрамы, покрывающие землю".
+ russia_pol.9.a:0 "Стабильная деревня".
+
+ russia_pol.13.title:0 "Рухнувший корпус Государственной Думы"
+ russia_pol.13.desc:0 ""
+ russia_pol.13.a:0 "Только усугубляя политический ад".
+ russia_pol.14.title:0 "Формирование Прогрессивной партии"
+ russia_pol.14.desc:0 ""
+ russia_pol.14.a:0 "Интересно"
+
+ ## Russian Revolution (1905) Events ##
+
+ russia_rev.1.title:0 "Гороховые волнения"
+ russia_rev.1.desc:0 "Импровизированные красные знамена развеваются на ветру, факелы, сельскохозяйственные орудия, охотничьи ножи и старые винтовки подняты к небу в знак протеста, и скандирование "Свобода и хлеб! Смерть помещикам!" эхом разносятся по некогда спокойной пасторальной общине. Колонна - это не сборище звездноглазых идеалистов и студентов, это старики, которые видели слишком много зим, и молодые парни, которые видели слишком мало. Ночное небо освещают горящие номера усадеб, а имущество местной знати, давно покинувшей деревню, разбирается и перераспределяется среди нуждающихся. Оставшиеся в провинции посредники и администраторы были преданы суду как "кровопийцы". Терпение многострадального крестьянства в этом регионе подошло к концу, еще одна община взялась за оружие против государства.\n\nРеволюционное несогласие, охватившее нацию, первоначально ограниченное городскими центрами империи, продолжает распространяться на сельскую местность, и некоторые крестьяне взялись за оружие, требуя радикальных реформ. Неспособность монархии подавить забастовщиков в городах и продолжающиеся сепаратистские волнения в провинциях способствовали распространению революционных настроений. Давние недовольства крестьян, такие как непосильные долги, отсутствие экономических возможностей и наличие крепостного права в полном смысле слова, вырвались наружу после десятилетий невысказанного недовольства.\n\n\nМестные военные и полицейские подразделения, отправленные на подавление ранних стадий восстания, отказались вступать в бой с крестьянскими толпами, поскольку многие из них были родом из этих же деревень и не стали бы направлять оружие против соседей, которых они знали с детства. Они не оказали сопротивления повстанческим силам, что позволило местным волнениям перерасти в массовое восстание. Хотя масштабы беспорядков меркнут по сравнению с волнениями, охватившими крупнейшие города России, дворяне призывают к немедленным действиям, чтобы не допустить дальнейшего распространения бунтарских настроений среди сельского населения."
+ russia_rev.1.a:0 "Черт бы побрал этих крестьян!"
+ russia_rev.2.title:0 "Крестьянское восстание на Украине"
+ russia_rev.2.desc:0 "После нашей ужасной попытки подавить демонстрации, которые уже несколько месяцев мучают наш народ, страна созрела для революции. Рабочие по всей империи отказываются работать на наших заводах, ввергая нашу экономику в пучину беспорядка. Ни в одном регионе не было такого количества бастующих рабочих, как в Украине, нашей житнице и всей Европе. Сотни тысяч рабочих Украины потеряли всякую веру и доверие к нашему режиму и начали организовывать массовые организации, такие как Рабочие Советы и Советы, чтобы противостоять так называемому "царству террора" нашего режима. Это не более чем неприемлемо, и мы не можем и не должны терпеть такие отвратительные действия против нашей славной империи. Мы должны наблюдать за ситуацией в Украине с крайним предубеждением и мобилизовать все местные правоохранительные органы в регионе, чтобы подавить эти гражданские беспорядки. Однако мы должны действовать осторожно, поскольку один неверный шаг может стать предвестником более масштабного восстания, от которого матушка Россия уже никогда не сможет оправиться...".
+ russia_rev.2.a:0 "Они всего лишь рабочие завода, не стоит беспокоиться..."
+ russia_rev.3.title:0 "Рабочая революция в Польше"
+ russia_rev.3.desc:0 "Революционеры в Польше были вдохновлены растущей нестабильностью по всей нашей империи, которая показала всему миру и нашим гражданам, что наша империя слаба и хрупка. Сейчас польские рабочие по всей своей земле объявили забастовку, вывешивая не только знамена, но и ополчение. Это происходит в самое неподходящее время, поскольку наша власть над польским регионом исторически слаба, и это наша единственная граница против наших противников на Западе, в частности, кайзера и его милитаристских амбиций. Мало того, наша экономика сейчас находится на рекордно низком уровне, и мы должны вмешаться быстро и оперативно, пока она не вышла из-под контроля. Нет, ради империи, все варианты на столе, и время не на нашей стороне...".
+ russia_rev.3.a:0 "Это всегда проклятые поляки..."
+ russia_rev.4.title:0 "Мятеж на борту "Потемкина""
+ russia_rev.4.desc:0 "После уничтожения Тихоокеанского флота России и отправки Балтийского флота в Тихий океан, большинство опытного персонала на российских кораблях, все еще остававшихся в порту, было переведено, чтобы восполнить тяжелые потери, понесенные на Тихоокеанском театре. Оставшиеся моряки, призванные укомплектовать устаревшие корабли в порту, особенно Черноморский флот, были призывниками и военнослужащими с неполным рабочим днем, которых заставили надеть форму нужды Русско-японской войны и внутренние беспорядки, охватившие Российскую империю.\n\n\nПоскольку из-за продолжающихся восстаний моральный дух был на рекордно низком уровне, у флота больше не было ресурсов для эффективного питания и размещения моряков. Гниющая провизия, которую подавали людям, насильно удерживаемым в порту, вызвала несколько бунтов, подорвала субординацию и вызвала жестокие репрессии со стороны офицеров. В ответ на это рядовой состав Черноморского флота начал создавать матросские комитеты, выступая за улучшение условий жизни и реформы суровой дисциплины российского флота. Утром 27 июня 1905 года на одном из крупнейших кораблей Черноморского флота, броненосце "Потемкин", вспыхнул мятеж, когда командир открыл огонь по матросам за отказ есть паек. Команда убила 7 офицеров и взяла под контроль корабль, подняв красный флаг вместо российского орла и триколора. Команда избрала комитет, который взял на себя командование кораблем, и решила направить мятежное судно в гавань Одессы, чтобы помочь всеобщей забастовке, проходившей в городе. Мятежники высадили на берег боеприпасы, чтобы противостоять лоялистским войскам, но имперские солдаты уже начали жестоко очищать доки. Хотя лояльные части Черноморского флота уже были отправлены, чтобы вернуть корабль, попытки мятежа и беспорядки распространились по всему флоту, так как новости о восстании корабля распространились."
+ russia_rev.4.a:0 "Необходимо, чтобы правительство вернуло этот корабль любой ценой!".
+ russia_rev.5.title:0 "Мятежный корабль "Потемкин" в Румынии"
+ russia_rev.5.desc:0 "Броненосцу "Потемкин", захваченному бунтующими моряками, удалось ускользнуть от лоялистских элементов Черноморского флота и благополучно добраться до территориальных вод Румынии, где экипаж получил политическое убежище. Когда попытка освободить бастующих в Одессе провалилась, экипаж "Потемкина" остался в гавани, пока их комитет совещался. Стоя на якоре, они захватили другой корабль, "Веха", который был отправлен в Одессу до восстания "Потемкина", чтобы доставить оружие имперским солдатам, оккупировавшим город. Простояв в гавани, мятежники устроили похороны членов своей команды, погибших во время восстания, но похороны быстро стали призывом к революционерам в городе, и в доках вспыхнули новые беспорядки. Во время этого хаоса армейские части, расквартированные в Одессе, попытались захватить судно, но были отбиты повстанцами. В отместку комитет, находившийся на борту "Потемкина", выпустил два снаряда по собранию, проходившему в местном императорском штабе.\n\n30 июня в одесскую гавань прибыла эскадра, посланная российским адмиралтейством, состоявшая из пяти линкоров. Они предъявили морякам ультиматум: немедленно сдаться или эскадра откроет огонь. Потемкин" проигнорировал предупреждения и отправился на прорыв блокады. Однако, несмотря на протесты офицеров лоялистской эскадры, ни один корабль, стоявший против "Потемкина", не открыл огонь, а члены экипажей пяти линкоров махали руками и ликовали, когда судно вышло из гавани нетронутым.\n\n\n7 июля "Потемкин" достиг румынских территориальных вод и предложил их правительству контроль над судном в обмен на убежище. Румыны согласились, желая воспользоваться беспорядками в России для изучения конструкции более совершенных линкоров. Инцидент глубоко потряс адмиралтейство, хотя многочисленные попытки подражания были пресечены, похоже, царь больше не может доверять флоту."
+ russia_rev.5.a:0 "Бегство "Потемкина" нанесло серьезный удар по нашим силам".
+ russia_news.2.title:0 "Мятеж на броненосце "Потемкин"".
+ russia_news.2.desc:0 "Революционный пыл, охвативший Россию, привел к очередной катастрофе для императорского правительства. Корабль Черноморского флота, броненосец "Потемкин", поднял мятеж. На протяжении нескольких недель в рядах российского флота росло недовольство, и на кораблях начали создаваться политические комитеты для агитации за лучшие условия. 27 июня 1905 года команда на борту "Потемкина" подняла мятеж и убила своих офицеров после того, как командиры пригрозили расстрелять людей за неповиновение. Судно подняло красный флаг и отправилось в Одессу, где матросы доставили оружие и припасы революционерам в городе. Когда прибыли остальные силы Черноморского флота, они потребовали сдачи "Потемкина", но солдаты на противостоящих линкорах из солидарности отказались стрелять по отрекшемуся судну, и 7 июля кораблю удалось благополучно войти в территориальные воды Румынии. "
+ russia_news.2.a:0 "Мятеж охватил военных; ситуация в России ухудшается."
+ russia_rev.6.title:0 "Армяно-татарская война"
+ russia_rev.6.desc:0 "По мере того, как метрополия все глубже погружалась в политические потрясения, их последствия ощущались и на внешних территориях империи. Императорская армия, и без того истощенная продолжающейся войной с Японией, была вынуждена перебросить все имеющиеся силы из глубинки в города. Пограничники и даже местная полиция исчезли со сцены практически в одночасье, а вакуум власти позволил этнической напряженности вылиться в открытое насилие, особенно в Кавказских горах.\n\n\nАрмяне и азербайджанцы, которых в России называют "татарами", имеют давнюю историю этнической и религиозной вражды, которая началась еще до поглощения региона Российской империей. Преимущественно христианские армяне и преимущественно мусульманские азербайджанцы неоднородно населяют приграничные регионы Кавказа, в Баку есть большие кварталы армянского меньшинства, а по всей "Армении" разбросаны многочисленные азербайджанские общины. Это привело к многочисленным столкновениям за последнее столетие, но нынешний политический конфликт в столице вызвал очередную вспышку убийств самосуда и репрессий толпы.\n\n\n Недавнее насилие началось в Баку, где, по словам татар, азербайджанский школьник и владелец магазина были забиты до смерти армянской толпой. Армяне утверждают, что этот инцидент был сфабрикован как предлог для разграбления принадлежащих армянам предприятий. Баку разразился мрачным циклом убийств. В течение недели большая часть города была уничтожена в результате поджогов, погибли 218 армян и 126 азербайджанцев, многие из которых женщины, дети и пожилые люди. Эти беспорядки не ограничились только Баку, по всему югу страны вооруженные группы азербайджанцев и армян координировали нападения на общественные рынки и этнические анклавы. Конфликт перекинулся даже через российскую границу, и мусульмане в Персии начали контрабандой поставлять оружие азербайджанцам. Хотя обе стороны обратились к российским властям, они по-прежнему не в состоянии остановить боевые действия."
+ russia_rev.6.a:0 "Это должно прекратиться прямо сейчас!"
+
+ russia_rev.7.title:0 "Московское восстание"
+ russia_rev.7.desc:0 ""
+ russia_rev.7.a:0 "Восстание подавлено"
+
+ russia_rev.8.title:0 "Забайкальская железная дорога захвачена"
+ russia_rev.8.desc:0 "По мере того как политическая ситуация выходит из-под контроля в Санкт-Петербурге и Москве, волнения распространяются и на отдаленные уголки Российской империи. На самом деле, конфликт, вероятно, более интенсивен на периферии, где власть государства более шаткая, а администраторы менее способны обратиться за помощью к центральному правительству. Забастовки и мятежи местных гарнизонов становятся обычным явлением, так как революционные настроения достигают апогея.\n\nЖелезнодорожники на недавно открытой Транссибирской магистрали уже некоторое время недовольны плохими условиями труда и неблагоприятным климатом. Особенно ожесточенные споры идут на участке Забайкальской железной дороги от Мысовска на восточном берегу озера Байкал до китайской границы, в основном из-за серьезной инфляции и военной мобилизации. Социал-демократические и марксистские агитаторы также активно координируют действия часто воинствующих железнодорожников. Мастерские в Чите и Красноарске уже стали очагами революционной пропаганды; затем эти центры смогли соединиться с центром в Томске, образовав обширную повстанческую сеть, которую не смогла сдержать скудная местная милиция.\n\n\nНедавняя демобилизация армейских частей и гарнизонных резервов на Дальнем Востоке только усилила хаос. Слухи о мятеже распространялись как лесной пожар среди недовольных солдат, которые отчаянно хотели вернуться домой. Между бастующими рабочими и бунтующими солдатами порядок в Сибири просто распался. В нынешнем виде правительственная администрация больше не контролировала Забайкальскую железную дорогу. Вдоль железной дороги возникло несколько солдатских советов и забастовочных комитетов, требующих полной демобилизации и возвращения всех резервистов в регионе, а также обычного списка политических требований. В настоящее время правительство пытается собрать верные части для формирования "карательных экспедиций" в Сибирь".
+ russia_rev.8.a:0 "Порядок должен быть восстановлен немедленно!"
+
+ russia_rev.9.title:0 "Массовые погромы"
+ russia_rev.9.desc:0 ""
+ russia_rev.9.a:0 "К лучшему или худшему они должны закончиться!"
+
+ russia_rev.10.title:0 "Промышленные забастовки"
+ russia_rev.10.desc:0 "Поскольку беспорядки охватили королевство, многие из наших городских рабочих поддаются лжи и пропаганде революционеров, требуя реформ и множества других улучшений, однако из-за революционной природы, на которой основаны эти забастовки, нет другого выбора, кроме как ждать, и когда придет время, мы начнем необходимые реформы."
+ russia_rev.10.a:0 "У нас связаны руки".
+ russia_rev.11.title:0 "Кронштадтский мятеж"
+ russia_rev.11.desc:0 "Ранним утром команда из 50 человек из второй роты второго батальона пехоты Кронштадтской крепости отказалась работать вместо того, чтобы представить командиру батальона список своих требований, хотя команда в конце концов уступила давлению и вернулась к работе, другие люди из других подразделений одобрили их действия, и после ареста нарушителей вечером к ним присоединились местные рабочие и революционеры, попытавшиеся освободить заключенных, к счастью, вооруженная охрана оттеснила толпу от заключенных. Тем не менее, насилие продолжалось, и в окрестностях были зафиксированы беспорядки. В конечном итоге восстание было подавлено лоялистскими войсками без особого кровопролития".
+ russia_rev.11.a:0 "Еще более плохие новости".
+ russia_rev.12.title:0 "Севастапольское восстание"
+ russia_rev.12.desc:0 "После рабочего и матросского совета 11-го числа и объявления всеобщей забастовки 12-го числа в городе было введено военное положение, крепость была окружена и взята в осаду немногими оставшимися в районе верными частями.\n\nНа 13-е, 14-е и в ночь на 15-е число немногие оставшиеся в гавани корабли присоединились к силам повстанцев. Опасаясь дальнейшего ухудшения ситуации, лоялисты предъявили революционерам ультиматум, но после полудня 15-го числа артиллерия была вызвана и открыла огонь по кораблям в гавани, после ожесточенного двухчасового боя силы повстанцев капитулировали."
+ russia_rev.12.a:0 "Проклятие!"
+
+ russia_rev.13.title:0 "Владивостокское восстание"
+ russia_rev.13.desc:0 ""
+ russia_rev.13.a:0 "Ни одно место не защищено от революционеров".
+ russia_rev.14.title:0 "Свеаборгское восстание"
+ russia_rev.14.desc:0 ""
+ russia_rev.14.a:0 "Даже финны не уважают наше правление!"
+
+ russia_rev.15.title:0 "Конец Читинской республики"
+ russia_rev.15.desc:0 "Издавна Сибирь кипела либеральными и революционными идеями, однако, начиная с ужасных событий 22 января, насилие и революционная деятельность почти не прекращались в обширной и нетронутой пустыне Сибири. Даже несмотря на спад военных действий, на западе России в конце 1905 года революционеры в Чите захватили почти абсолютный контроль над губернией, а губернатор Холщевников остался без власти. Эта так называемая республика продолжала набирать силу, захватывая телеграфные и почтовые станции, отрезая жизненно важные коммуникации с городом. Только с наступлением нового года удача повернулась в пользу лоялистов: с запада прибыл авангард Меллера-Закомельского, а с востока - фон Ренненкампф. В городе стало тесно, и многие революционеры перешли к партизанскому сопротивлению. К 4 февраля войска фон Ремкампфа вошли в Читу и начали массовые аресты тех, кто поддерживал революционеров, и в ближайшие дни арестованные лидеры будут повешены после суда над ними в военном трибунале."
+ russia_rev.15.a:0 "Людоедская попытка революционеров".
+
+ ## Focus Events ##
+
+ russia_foci.1.title:0 "Казаки"
+ russia_foci.1.desc:0 "Казаки долгое время были уникальной и жизненно важной частью наших вооруженных сил, однако многие офицеры и сотрудники Генерального штаба считают, что с наступлением бури современной войны роль традиционных казачьих сил должна измениться, и в военном отношении казаки должны каким-то образом интегрироваться с регулярными кавалерийскими силами. \nТем не менее, многие представители старшего поколения рассматривают казаков как отличное и полезное дополнение к нашим вооруженным силам, будь то патрулирование наших границ или подавление революционных групп, казаки останутся как бы слабо связанными с нашими вооруженными силами."
+ russia_foci.1.a:0 "Интеграция"
+ russia_foci.1.b:0 "Разделение"
+ russia_foci.2.title:0 "Амнистия для политзаключенных?"
+ russia_foci.2.desc:0 "Крупные дебаты в Думе нового созыва разгорелись в основном между фракцией кадетов, поднявших вопрос об амнистии для многих сотен политических заключенных. Само собой разумеется, это вызвало большие дебаты между многочисленными фракциями в Думе. Выход из этого тупика может быть найден только сверху".
+ russia_foci.2.a:0 "Нет человека без вины виноватого, но все заслуживают прощения".
+ russia_foci.2.b:0 "Нет человека без вины, но одни хуже других".
+ russia_foci.3.title:0 "Отменить смертную казнь?"
+ russia_foci.3.desc:0 "До этой революции смертная казнь применялась редко, даже в самых тяжких преступлениях ссылка и каторжные работы были более предпочтительны. Однако с таким безудержным пренебрежением к законам этой страны у нас не было другого выбора, кроме как расширить применение смертной казни в сочетании с военным судом, сотни людей казнятся каждый месяц. Однако с угасанием революции и ростом политического либерализма многие сомневаются в необходимости таких жестких мер, даже консерваторы в думе сомневаются в необходимости проливать еще больше крови, когда уже столько потеряно. Однако, даже будучи в меньшинстве, дворяне в верхней и нижней палатах продолжают отстаивать мнение, что смертная казнь будет и дальше служить сдерживающим фактором и что законопослушным гражданам не нужно бояться."
+ russia_foci.3.a:0 "Согласен"
+ russia_foci.3.b:0 "Отклонить"
+ russia_foci.4.title:0 "Предоставить землю крестьянам?"
+ russia_foci.4.desc:0 "Крестьяне всегда были революционным аспектом в нашем народе, однако после неудавшейся революции и создания Думы несколько фракций, похоже, приняли их участь. Трудовики, например, поддерживают предоставление земли безземельным и бедным крестьянам. Кадеты также занялись проблемой крестьянства, однако они заняли более радикальную позицию, отдавая предпочтение крестьянам в ущерб церкви, государству и частным землевладельцам".
+ russia_foci.4.a:0 "Поддерживать Трудовики".
+ russia_foci.4.b:0 "Поддерживать кадетов".
+ russia_foci.4.c:0 "Крестьяне ничего не заслуживают".
+ russia_foci.5.title:0 "Полные религиозные свободы?"
+ russia_foci.5.desc:0 "Согласно октябрьскому манифесту, все граждане империи имеют право на полную религиозную свободу и могут исповедовать свою веру вдали от посторонних глаз церкви и государства, однако многое изменилось с тех нестабильных времен, когда был написан манифест, и многие в церкви и высших эшелонах нашего общества опасаются, что он ослабит нашу власть над политической ситуацией и откроет путь для более радикальных идей и реформ."
+ russia_foci.5.a:0 "Мы будем следовать манифесту".
+ russia_foci.5.b:0 "Мы не хотели бы расстраивать церковь".
+ russia_foci.6.title:0 "Амнистия для политзаключенного?"
+ russia_foci.6.desc:0 ""
+ russia_foci.6.a:0 "Да"
+ russia_foci.6.b:0 "Нет"
+ russia_foci.7.title:0 "Отменить смертную казнь?"
+ russia_foci.7.desc:0 ""
+ russia_foci.7.a:0 "Согласен"
+ russia_foci.7.b:0 "Отклонить"
+ russia_foci.8.title:0 "Борьба с социалистическими террористами".
+ russia_foci.8.desc:0 ""
+ russia_foci.8.a:0 "Мы будем держать их там, где мы можем их видеть".
+ russia_foci.8.b:0 "С глаз долой - из сердца вон".
+ russia_foci.9.title:0 "Инвестировать в Российскую империю?" # GER
+ russia_foci.9.desc:0 ""
+ russia_foci.9.a:0 "Здесь может быть только выгода!"
+ russia_foci.9.b:0 "Мы предпочли бы обеспечить свои собственные экономические интересы".
+ russia_foci.10.title:0 "Германия согласна на инвестиции".
+ russia_foci.10.desc:0 "Немецкие политические и экономические лидеры, надеющиеся на дальнейшее развитие отношений между нашими двумя странами, согласились инвестировать в несколько ключевых отраслей. Мы можем только надеяться на дальнейшую прибыль между странами."
+ russia_foci.10.a:0 "Хорошо".
+ russia_foci.11.title:0 "Германия отказывается инвестировать".
+ russia_foci.11.desc:0 "Политические и экономические лидеры Германии, ссылаясь на внутреннюю нестабильность в Российской империи, отказались рассматривать идею инвестирования в нашу страну."
+ russia_foci.11.a:0 "Какая пустая трата времени".
+ russia_foci.12.title:0 "Инвестировать в Российскую империю?" # FRA
+ russia_foci.12.desc:0 ""
+ russia_foci.12.a:0 "Здесь может быть только прибыль!"
+ russia_foci.12.b:0 "Мы предпочли бы обеспечить свои собственные экономические интересы".
+ russia_foci.13.title:0 "Франция согласна на инвестиции".
+ russia_foci.13.desc:0 "Французские политические и экономические лидеры, надеющиеся на дальнейшее развитие отношений между нашими двумя странами, согласились инвестировать в несколько ключевых отраслей. Мы можем только надеяться на дальнейшую прибыль между странами."
+ russia_foci.13.a:0 "Хорошо".
+ russia_foci.14.title:0 "Франция отказывается от инвестиций".
+ russia_foci.14.desc:0 "Французские политические и экономические лидеры, ссылаясь на внутреннюю нестабильность в Российской империи, отказались рассматривать идею инвестирования в нашу страну."
+ russia_foci.14.a:0 "Какая пустая трата времени".
+ russia_foci.15.title:0 "Инвестировать в Российскую империю?" # ENG
+ russia_foci.15.desc:0 ""
+ russia_foci.15.a:0 "Здесь может быть только прибыль!"
+ russia_foci.15.b:0 "Мы предпочли бы обеспечить свои собственные экономические интересы".
+ russia_foci.16.title:0 "Британия согласна инвестировать".
+ russia_foci.16.desc:0 "Британские политические и экономические лидеры, надеющиеся на дальнейшее развитие отношений между нашими двумя странами, согласились инвестировать в несколько ключевых отраслей. Мы можем только надеяться на дальнейшую прибыль между странами."
+ russia_foci.16.a:0 "Хорошо".
+ russia_foci.17.title:0 "Британия отказывается инвестировать".
+ russia_foci.17.desc:0 "Британские политические и экономические лидеры, ссылаясь на внутреннюю нестабильность в Российской империи, отказались рассматривать идею инвестирования в нашу страну."
+ russia_foci.17.a:0 "Какая пустая трата времени".
+ russia_foci.18.title:0 "Инвестировать в Российскую империю?" # США
+ russia_foci.18.desc:0 ""
+ russia_foci.18.a:0 "Здесь может быть только прибыль!"
+ russia_foci.18.b:0 "Мы предпочли бы обеспечить свои собственные экономические интересы".
+ russia_foci.19.title:0 "Америка согласна инвестировать".
+ russia_foci.19.desc:0 "Американские политические и экономические лидеры, надеющиеся на дальнейшее развитие отношений между нашими двумя странами, согласились инвестировать в несколько ключевых отраслей. Мы можем только надеяться на дальнейшую прибыль между странами."
+ russia_foci.19.a:0 "Хорошо".
+ russia_foci.20.title:0 "Америка отказывается инвестировать".
+ russia_foci.20.desc:0 "Американские политические и экономические лидеры, ссылаясь на внутреннюю нестабильность в Российской империи, отказываются рассматривать идею инвестирования в нашу страну."
+ russia_foci.20.a:0 "Какая пустая трата времени".
+
+
+
+ ### Flags & Tooltips ###
+
+
+ RUS_MVD_expansion_troops:0 "§GЭто будет финансировать дополнительные войска жандармов для развертывания.§!"
+ RUS_common_soldier_decisions:0 "Разблокирует £decision_icon_small §YРешения§! для улучшения наших §GВоенных§!"
+ RUS_siberian_mine_deci:0 "Разблокирует £decision_icon_small §YРешения§! для расширения нашей §GДобычи ресурсов§!"
+ RUS_stolypin_reforms_deci:0 "Разблокирует £decision_icon_small §YРешения§! для принятия §GСельскохозяйственных реформ§!".
+ RUS_rebuild_russian_fortress_tooltip:0 "Разблокирует £decision_icon_small §YРешения§! для восстановления наших §GКрепостей§!".
+RUS_russian_infrastructure_tt:0 "Разблокирует £decision_icon_small §YРешения§! для восстановления нашей §GИнфраструктуры§!".
+ RUS_recruit_generals_tt:0 "§GРазблокирует возможность вербовать новых генералов§!"
+
+ RUS_lose_50_pp_tt:0 "Даёт £pol_power §R-50§! §YПолитической власти§!".
+ RUS_lose_20_pp_tt:0 "Даёт £pol_power §R-20§! §YПолитической власти§!".
+ RUS_gain_20_pp_tt:0 "Даёт £pol_power §G20§! §YПолитической власти§!".
+
+ unlock_focuses:0 "§GЭтот фокус со временем будет автоматически пропущен и разблокирует другие фокусы§!\n"
+
+ RUS_cossack_seperation_tt:0 "§GМы сможем поднимать резервы казаков во время войны!§!"
+
+ RUS_FIRST_DUMA:0 "Первая Дума сформирована!"
+ RUS_Witte_Resignation:0 "Сергей Витте подал в отставку!".
+ RUS_Tsar_Authoritarian:0 "Царь провозгласил абсолютное правление!".
+ RUS_DUMA_SOC:0 "Социалисты взяли Думу!".
+
+ RUS_Political_Stalemate:0 "Правительство зашло в тупик!"
+
+ RUS_stolypin_reform_accepted:0 "Реформы Столыпина приняты".
+ RUS_stolypin_reform_over:0 "Реформы Столыпина закончились".
+ RUS_cossack_mil_intergration:0 "Казачья военная интерграция принята"
+ RUS_cossack_mil_seperation:0 "Казачья интерграция отклонена"
+
+ RUS_Yes_Political_Amnesty:0 "Политическая амнистия объявлена".
+ RUS_No_Political_Amnesty:0 "Политическая амнистия не объявлена".
+
+ RUS_1905_revolution_over:0 "Революция 1905 года закончилась".
+
+ RUS_1905_Internal_Exile:0 "Мы приняли решение о внутренней ссылке"
+ RUS_1905_External_Exile:0 "Мы приняли решение о внешнем изгнании"
+
+ rus_1905_rev.2.a.tooltip:0 "Украинцы не просто сопротивлялись нашему правлению, они объявили революцию на наших берегах. Пришло время, чтобы мы быстро и окончательно разобрались с этой ситуацией."
+ rus_1905_rev.3.a.tooltip:0 "Поляки восстали против нас, и мы должны действовать поспешно. Если этого не сделать, остальная часть империи может последовать нашему примеру...".
+
+ RUS_baikal_rail_p1:0 "Кругобайкальская железная дорога завершена"
+ RUS_baikal_rail_p2:0 "Кругобайкальская железная дорога расширена"
+
+ RUS_chita_amur_rail:0 "Проложена железная дорога от Читы до Амура"
+ RUS_khingan_tunnels_complete:0 "Завершено строительство Хинганских тоннелей"
+ RUS_amur_to_birobidzhan_rail_complete:0 "Проложена железная дорога от Амура до Биробиджана"
+ RUS_khabarovsk_rail_bridged:0 "Хабаровский железнодорожный мост"
+
+ RUS_is_soviet_tt:0 "§YБольшевики§ захватили власть в §YРоссии§!".
+
+ ### Companies ###
+ 
+ ## Weapons Manufacture ##
+ RUS_tula_arms_plant:0 "Тульский оружейный завод"
+ ## Tank and Artillery Manufacture ##
+ RUS_putilov_company:0 "Путиловская компания"
+ RUS_RBVZ:0 "Русско-Балтийский вагоностроительный завод"
+ RUS_schneider_creusot:0 "Шнейдер-Крезо"
+ ## Naval and Air Manufacture ##
+ RUS_RBVZ_sikorsky:0 "Русско-Балтийский Санкт-Петербургский"
+ RUS_admiralty_shipyard:0 "Адмиралтейские верфи"
+ RUS_nikolaev_shipyard:0 "Николаевский судостроительный завод"
+ 
+ ### Ministers ###
+ RUS_pyotr_sviatopolk_mirsky_im:0 "Петр Святополк-Мирский"
+ RUS_alexander_bulygin_im:0 "Александр Булыгин"
+ RUS_sergei_witte_hog:0 "Сергей Витте"
+ RUS_vladimir_lamsdorf_fm:0 "Владимир Ламздорф"
+ RUS_ivan_shipov_em:0 "Иван Шипов"
+ RUS_durnovo_petr_im:0 "Дурново Петр"
+ RUS_ivan_goremykin_hog:0 "Иван Горемыкин"
+ RUS_alexander_izvolsky_fm:0 "Александр Извольский"
+ RUS_vladimir_kokovtsov_em:0 "Владимир Коковцов"
+ RUS_pyotr_stolypin_im:0 "Петр Столыпин"
+ RUS_pyotr_stolypin_hog:0 "Петр Столыпин"
+ RUS_sergey_sazonov_fm:0 "Сергей Сазонов"
+
+
+ ### Leaders ###
+ 
+RUS_Nicholas_II:0 "Николай II" 
+RUS_Vladimir_Lenin:0 "Владимир Ленин" 
+RUS_Viktor_Chernov:0 "Виктор Чернов" 
+RUS_Julius_Martov:0 "Юлий Мартов" 
+RUS_Alexander_Dubrovin:0 "Александр Дубровин" 
+
+ ### Technology ###
+ ## Armored Cars ##
+ RUS_prototype_armored_car:0 "Накашидзе-Шаррон"
+ RUS_prototype_armored_car_short:0 "Шаррон"
+ RUS_armored_car_1_desc:0 "Накашидзе-Шаррон" - пожалуй, самая ранняя машина в российском арсенале, которую можно с полным правом назвать "бронеавтомобилем". На нем стоял один пулемет, установленный на задней поворотной башне, а экипаж состоял из четырех человек. Поскольку он, как и большинство современных автомобилей, имел низкое соотношение мощности двигателя и веса, он использовался в основном для разведки, а не для сражений; часто он парковался на вершине холма или другой легко обороняемой позиции и в случае боя выступал в качестве передвижного пулеметного поста."
+ RUS_early_armored_car:0 "Бронированный автомобиль Остин серии II"
+ RUS_early_armored_car_short:0 "Остин"
+ RUS_armored_car_2_desc:0 "Серия бронеавтомобилей Остин является результатом англо-российского сотрудничества. Он имеет улучшенную броню по сравнению со своими предшественниками и оснащен мощным 50-сильным двигателем, позволяющим вести эффективный огонь во время движения. Усиленное шасси дало пулемету более широкую дугу, а закрытая башня обеспечила исключительную защиту пулеметчика. Вес новых элементов снизил маневренность машины, поэтому в машине огневая мощь преобладает над маневренностью."
+ RUS_basic_armored_car:0 "Путилов-Гарфорд"
+ RUS_basic_armored_car_short:0 "Путилов"
+ RUS_armored_car_3_desc:0 "Путилов-Гарфорд" - бронированный грузовик, больше похожий на легкий танк, чем на автомобиль. С экипажем из 5 человек, он несет небольшую артиллерийскую установку, размещенную в бронированной поворотной башне сзади, и 3 пулемета, установленных в спонсонах на шасси. Броня толщиной 6,5 мм позволяет ему противостоять большинству видов стрелкового оружия, но вес машины не позволяет ей эффективно передвигаться по бездорожью и мягкому грунту. Конструкция пользуется заслуженной популярностью благодаря мощной огневой поддержке, обеспечиваемой многочисленными орудиями."
+ RUS_improved_armored_car:0 "Руссо-Балт Тип С"
+ RUS_improved_armored_car_short:0 "Тип С"
+ RUS_armored_car_4_desc:0 "Тип С содержит несколько усовершенствований по сравнению с более ранними бронеавтомобилями; его полностью закрытая кабина обеспечивает гораздо лучшую защиту, а круто наклоненное броневое покрытие отклоняет, а не поглощает входящий огонь стрелкового оружия. Машина вооружена 3 пулеметами Виккерса, по одному с каждой стороны и один направлен прямо вперед, что позволяет вести огонь одновременно по нескольким дугам. Он предназначен для действий в паре с пехотой и другими боевыми машинами, обеспечивая поддержку и укрытие во время наступления."
+ RUS_advanced_armored_car:0 "Остин Кегрессе/Путилов"
+ RUS_advanced_armored_car_short:0 "Кегрессе"
+ RUS_armored_car_5_desc:0 "Кегрессе - один из самых ранних известных полуторков. Адаптированный из более ранней гражданской конструкции, предназначенной для перевозки пассажиров по заснеженной местности, российский военный инженер быстро осознал возможность его военного применения. Кегрессе имел отличную тягу на мягком грунте и оснащался двумя пулеметами Максима, установленными на отдельных башнях. Кроме того, спереди и сзади у машины были роликовые опоры, которые позволяли ей преодолевать препятствия и траншеи гораздо легче, чем ее предшественникам".
+ ## Tanks ##
+ RUS_prototype_tank:0 "Лебеденко"
+ RUS_prototype_tank_short:0 "Лебеденко"
+ RUS_proto_tank_desc:0 "Царь-танк представляет собой первый русский опыт создания хорошо вооруженных и бронированных машин. Танк "Царь" действительно массивен: при высоте 18 метров и вооружении в полдюжины морских орудий, его можно смело назвать сухопутным кораблем. В отличие от других прототипов, танк "Царь" передвигается с помощью гигантских колес. Вид бронированной машины размером со здание - кошмарный, и это оказывает на них мощное психологическое воздействие. Однако они являются легкой мишенью и очень ненадежны".
+ RUS_early_light_tank:0 "Вездеход"
+ RUS_early_light_tank_short:0 "Вездеход"
+ RUS_early_light_tank_desc:0 ""
+
+
+
+ ### Equipment ###
+ ## Small Arms ##
+RUS_infantry_equipment_0:0 "M1867 Русская Крнка"
+ RUS_infantry_equipment_0_short:0 "M1867 Крнка"
+RUS_infantry_equipment_1:0 "M1868 Бердан"
+ RUS_infantry_equipment_1_short:0 "M1868 Бердан"
+ RUS_infantry_equipment_2:0 "M1870 Бердан"
+ RUS_infantry_equipment_2_short:0 "M1870 Бердан"
+RUS_infantry_equipment_3:0 "M1891 Мосин-Нагант"
+RUS_infantry_equipment_3_short:0 "M1891 Мосин"
+
+ ## Armored Car ##
+ RUS_armored_car_1:0 "Накашидзе-Шаррон"
+ RUS_armored_car_1_short:0 "Шаррон"
+RUS_armored_car_2:0 "Бронированный автомобиль Остин серии II"
+ RUS_armored_car_2_short:0 "Остин"
+ RUS_armored_car_3:0 "Путилов-Гарфорд"
+ RUS_armored_car_3_short:0 "Путилов"
+ RUS_armored_car_4:0 "Руссо-Балт тип С"
+ RUS_armored_car_4_short:0 "Тип С"
+ RUS_armored_car_5:0 "Остин Кегрессе/Путилов"
+ RUS_armored_car_5_short:0 "Кегрессе"
+
+ ## Tanks ##
+ RUS_proto_tank:0 "Лебеденко"
+ RUS_proto_tank_short:0 "Лебеденко"
+ RUS_light_tank_1:0 "Вездеход"
+ RUS_light_tank_1_short:0 "Вездеход"
+
+ ## TB Destroyers ##
+ RUS_destroyer_1:0 "Торпедный катер класса "Сокол""
+ RUS_destroyer_1_short:0 "Сокол-Класс"
+ RUS_destroyer_2:0 "Торпедный катер класса "Бойкий""
+ RUS_destroyer_2_short:0 "Бойкий-Класс"
+ RUS_destroyer_3:0 "Торпедный катер класса "Украина""
+ RUS_destroyer_3_short:0 "Украина-Класс"
+
+ ## Protected Cruisers ##
+ RUS_light_cruiser_1:0 "Крейсер класса "Паллада""
+ RUS_light_cruiser_1_short:0 "Паллада-Класс"
+ RUS_light_cruiser_2:0 "Крейсер класса "Богатырь""
+ RUS_light_cruiser_2_short:0 "Богатырь-Класс"
+
+ ## Armoured Cruisers ##
+ RUS_heavy_cruiser_1:0 "Крейсер класса "Память Азова""
+ RUS_heavy_cruiser_1_short:0 "Память Азова-Класс"
+ RUS_heavy_cruiser_2:0 "Крейсер класса "Рюрик""
+ RUS_heavy_cruiser_2_short:0 "Рюрик-Класс"
+
+ ## Pre-dreadnought Battleships ##
+ RUS_battleship_1:0 "Линкор класса "Император Александр II""
+ RUS_battleship_1_short:0 "Император Александр II-Класс"
+ RUS_battleship_2:0 "Линкор класса "Бородино""
+ RUS_battleship_2_short:0 "Бородино-Класс"
+
+ ## Sea Plane Carrier/ Converted Carriers ##
+
+ ## Submarine ##
+ RUS_submarine_1:0 "Подводная лодка класса "Сом""
+ RUS_submarine_1_short:0 "Сом-Класс"

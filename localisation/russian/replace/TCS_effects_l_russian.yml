@@ -1,0 +1,12 @@
+﻿l_russian:
+ ## Effects when Activating and Deactivating Ministers 
+ EFFECT_ASSIGN_ADVISOR:1 "$NAME|H$ нанят за £pol_power в качестве §YМинистра§!" #\n$DESC$\n 
+ EFFECT_DEACTIVATE_ADVISOR:0 "$NAME|H$ удаляется за £pol_power в качестве §YМинистра§!" #\n$DESC$\n 
+
+ EFFECT_ADD_STABILITY:0 "Даёт £stability_texticon $VAL|+=%$ §YСтабильности§!". #Ниже выглядят всплывающие подсказки 
+ EFFECT_ADD_WAR_SUPPORT:0 "Даёт £war_support_icon $VAL|+=%$ §YВоенной Поддержки§!". #Ниже выглядят всплывающие подсказки 
+ EFFECT_MANPOWER_ADD_COUNTRY:0 "Даёт £manpower_texticon $VAL|+=0$ §YЛюдских ресурсов§!". #Ниже выглядят всплывающие подсказки 
+ EFFECT_MANPOWER_ADD_STATE:0 "Даёт £manpower_texticon $VAL|+=0$ §YЛюдских ресурсов§!". #Ниболее симпатичные всплывающие подсказки 
+ POLITICS_ADD_POLITICAL_POWER:0 "Даёт £pol_power $VAL|=+0$ §YПолитической Власти§!". #Ниже выглядят всплывающие подсказки 
+ EFFECT_UNLOCK_DECISION:0 "Разблокирует решение: £decision_icon_small $NAME|H$$EFFECT$" #Никер выглядит всплывающие подсказки 
+ EFFECT_UNLOCK_DECISION_CATEGORY:0 "Разблокирует £decision_icon_small $NAME|H$ Решения." #Ниже всплывающие подсказки 

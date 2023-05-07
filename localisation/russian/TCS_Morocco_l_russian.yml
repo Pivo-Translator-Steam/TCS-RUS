@@ -1,0 +1,99 @@
+﻿l_russian:
+### Parties ### 
+
+ MOR_leninism_party:0 "" 
+ MOR_leninism_party_long:0 "" 
+ MOR_marxism_party:0 "" 
+ MOR_marxism_party_long:0 "" 
+ MOR_rev_socialism_party:0 "" 
+ MOR_rev_socialism_party_long:0 "" 
+ MOR_soc_democracy_party:0 "" 
+ MOR_soc_democracy_party_long:0 "" 
+ MOR_soc_liberal_party:0 "" 
+ MOR_soc_liberal_party_long:0 "" 
+ MOR_lib_conservatism_party:0 "" 
+ MOR_lib_conservatism_party_long:0 "" 
+ MOR_soc_conservatism_party:0 "" 
+ MOR_soc_conservatism_party_long:0 "" 
+ MOR_auth_democrat_party:0 "" 
+ MOR_auth_democrat_party_long:0 "" 
+ MOR_pat_autocrat_party:0 "" 
+ MOR_pat_autocrat_party_long:0 "" 
+ MOR_fascism_party:0 "" 
+ MOR_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ MOR_leninism:0 "Шарифская империя Марокко". 
+ MOR_leninism_DEF:0 "Шарифская империя Марокко". 
+ MOR_leninism_ADJ:0 "Марокканск." 
+ MOR_marxism:0 "Шарифская империя Марокко". 
+ MOR_marxism_DEF:0 "Шарифская империя Марокко". 
+ MOR_marxism_ADJ:0 "Марокканск." 
+ MOR_rev_socialism:0 "Шарифская империя Марокко". 
+ MOR_rev_socialism_DEF:0 "Шарифская империя Марокко". 
+ MOR_rev_socialism_ADJ:0 "Марокканск." 
+ MOR_soc_democracy:0 "Шарифская империя Марокко". 
+ MOR_soc_democracy_DEF:0 "Шарифская империя Марокко". 
+ MOR_soc_democracy_ADJ:0 "Марокканск." 
+ MOR_soc_liberal:0 "Шарифская империя Марокко". 
+ MOR_soc_liberal_DEF:0 "Шарифская империя Марокко". 
+ MOR_soc_liberal_ADJ:0 "Марокканск." 
+ MOR_lib_conservatism:0 "Шарифская империя Марокко". 
+ MOR_lib_conservatism_DEF:0 "Шарифская империя Марокко". 
+ MOR_lib_conservatism_ADJ:0 "Марокканск." 
+ MOR_soc_conservatism:0 "Шарифская империя Марокко". 
+ MOR_soc_conservatism_DEF:0 "Шарифская империя Марокко". 
+ MOR_soc_conservatism_ADJ:0 "Марокканск." 
+ MOR_auth_democrat:0 "Шарифская империя Марокко". 
+ MOR_auth_democrat_DEF:0 "Шарифская империя Марокко". 
+ MOR_auth_democrat_ADJ:0 "Марокканск." 
+ MOR_pat_autocrat:0 "Шарифская империя Марокко". 
+ MOR_pat_autocrat_DEF:0 "Шарифская империя Марокко". 
+ MOR_pat_autocrat_ADJ:0 "Марокканск." 
+ MOR_fascism:0 "Шарифская империя Марокко". 
+ MOR_fascism_DEF:0 "Шарифская империя Марокко". 
+ MOR_fascism_ADJ:0 "Марокканск." 
+
+### Focuses ### 
+
+ MOR_Focus_ID:0 "" 
+ MOR_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ MOR_french_influence:0 "Французское влияние" 
+ MOR_french_influence_desc:0 "" 
+ MOR_french_influence_1:0 "Усиленное французское влияние" 
+ MOR_french_influence_1_desc:0 "" 
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+ MOR_political.1.title:0 "Франция предлагает реформы" 
+ MOR_political.1.desc:0 "После визита германского кайзера французы предложили нашей нации ряд реформ, которые обеспечат нашу безопасность от внешних сил. Но эти реформы приведут к тому, что наша нация окажется в руках французов". 
+ MOR_political.1.a:0 "Отклонить французские реформы". 
+ MOR_political.1.b:0 "Принять французские реформы" 
+ MOR_political.2.title:0 "Приглашение миру" 
+ MOR_political.2.desc:0 "После визита кайзера в Танжер напряженность между французами и немцами достигла апогея, и главным предметом их беспокойства стало влияние на нашу страну. Чтобы не стать колониальной добычей для одной из этих наций, мы должны организовать конференцию, чтобы сгладить эту напряженность." 
+ MOR_political.2.a:0 "Разослать приглашения". 
+ MOR_political.3.title:0 "Марокко приглашает великие державы на конференцию" 
+ MOR_political.3.desc:0 "Королевство Марокко направило приглашение великим державам мира принять участие в конференции в Альхесирасе. Основной целью конференции будет поиск решения текущей напряженности между Германией и Францией. Она пройдет в неизвестном месте.\n\nПредставители США, Великобритании, Франции, Германии и других великих держав были приглашены принять участие в конференции." 
+ MOR_political.3.a:0 "Мы обязательно будем присутствовать!" 
+ MOR_political.3.b:0 "Пусть это разрешит кризис". 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ SHU_leninism_party:0 "" 
+ SHU_leninism_party_long:0 "" 
+ SHU_marxism_party:0 "" 
+ SHU_marxism_party_long:0 "" 
+ SHU_rev_socialism_party:0 "" 
+ SHU_rev_socialism_party_long:0 "" 
+ SHU_soc_democracy_party:0 "" 
+ SHU_soc_democracy_party_long:0 "" 
+ SHU_soc_liberal_party:0 "" 
+ SHU_soc_liberal_party_long:0 "" 
+ SHU_lib_conservatism_party:0 "" 
+ SHU_lib_conservatism_party_long:0 "" 
+ SHU_soc_conservatism_party:0 "" 
+ SHU_soc_conservatism_party_long:0 "" 
+ SHU_auth_democrat_party:0 "" 
+ SHU_auth_democrat_party_long:0 "" 
+ SHU_pat_autocrat_party:0 "" 
+ SHU_pat_autocrat_party_long:0 "" 
+ SHU_fascism_party:0 "" 
+ SHU_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ SHU_leninism:0 "Клика Шанкинг" 
+ SHU_leninism_DEF:0 "Клика Шанкинг" 
+ SHU_leninism_ADJ:0 "Шанкингск."
+ SHU_marxism:0 "Клика Шанкинг" 
+ SHU_marxism_DEF:0 "Клика Шанкинг" 
+ SHU_marxism_ADJ:0 "Шанкингск."
+ SHU_rev_socialism:0 "Клика Шанкинг" 
+ SHU_rev_socialism_DEF:0 "Клика Шанкинг" 
+ SHU_rev_socialism_ADJ:0 "Шанкингск."
+ SHU_soc_democracy:0 "Клика Шанкинг" 
+ SHU_soc_democracy_DEF:0 "Клика Шанкинг" 
+ SHU_soc_democracy_ADJ:0 "Шанкингск."
+ SHU_soc_liberal:0 "Клика Шанкинг" 
+ SHU_soc_liberal_DEF:0 "Клика Шанкинг" 
+ SHU_soc_liberal_ADJ:0 "Шанкингск."
+ SHU_lib_conservatism:0 "Клика Шанкинг" 
+ SHU_lib_conservatism_DEF:0 "Клика Шанкинг" 
+ SHU_lib_conservatism_ADJ:0 "Шанкингск."
+ SHU_soc_conservatism:0 "Клика Шанкинг" 
+ SHU_soc_conservatism_DEF:0 "Клика Шанкинг" 
+ SHU_soc_conservatism_ADJ:0 "Шанкингск."
+ SHU_auth_democrat:0 "Клика Шанкинг" 
+ SHU_auth_democrat_DEF:0 "Клика Шанкинг" 
+ SHU_auth_democrat_ADJ:0 "Шанкингск."
+ SHU_pat_autocrat:0 "Клика Шанкинг" 
+ SHU_pat_autocrat_DEF:0 "Клика Шанкинг" 
+ SHU_pat_autocrat_ADJ:0 "Шанкингск."
+ SHU_fascism:0 "Клика Шанкинг" 
+ SHU_fascism_DEF:0 "Клика Шанкинг" 
+ SHU_fascism_ADJ:0 "Шанкингск."
+
+### Focuses ### 
+
+ SHU_Focus_ID:0 "" 
+ SHU_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ SHU_Idea_ID:0 "" 
+ SHU_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

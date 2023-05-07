@@ -1,0 +1,190 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+ENG_misc.0.t:0 "Играть за Ирландию?". 
+ENG_misc.0.a:0 "Да, я хочу играть за Ирландию!". 
+ENG_misc.0.b:0 "Нет, я хочу продолжать играть за Великобританию!". 
+
+britain.0.t:0 "Упадок министерства Бальфура" 
+britain.0.d:0 "" 
+britain.0.a:0 "" 
+britain.1.t:0 "Закон об ответственности за саботаж профсоюзов" 
+britain.1.d:0 "" 
+britain.1.a:0 "" 
+britain.2.t:0 "Закон об иностранцах" 
+britain.2.d:0 "" 
+britain.2.a:0 "" 
+britain.3.t:0 "Закон о публичном опьянении в Ирландии" 
+britain.3.d:0 "" 
+britain.3.a:0 "" 
+britain.4.t:0 "Протесты против китайского труда в Южной Африке" 
+britain.4.d:0 "" 
+britain.4.a:0 "" 
+britain.5.t:0 "Дебаты по бюджету ВМС" 
+britain.5.d:0 "" 
+britain.5.a:0 "" 
+britain.6.t:0 "Комитет имперской обороны" 
+britain.6.d:0 "" 
+britain.6.a:0 "" 
+britain.7.t:0 "Последствия англо-бурской войны" 
+britain.7.d:0 "" 
+britain.7.a:0 "" 
+britain.8.t:0 "Дебаты по поводу имперских тарифов" 
+britain.8.d:0 "" 
+britain.8.a:0 "" 
+britain.8.b:0 "" 
+britain.8.c:0 "" 
+britain.9.t:0 "Крах правительства Бальфура" 
+britain.9.d:0 "" 
+britain.9.a:0 "" 
+
+britain_election.0.t:0 "Либералы побеждают на дополнительных выборах" 
+britain_election.0.d:0 "" 
+britain_election.0.a:0 "Это беспрецедентно" 
+britain_election.1.t:0 "Консерваторы сохраняют большинство на дополнительных выборах" 
+britain_election.1.d:0 "" 
+britain_election.1.a:0 "Они висят на волоске" 
+britain_election.2.t:0 "Лейбористы получают большинство на дополнительных выборах" 
+britain_election.2.d:0 "" 
+britain_election.2.a:0 "Это было неожиданно" 
+britain_election.3.t:0 "Дополнительные выборы безрезультатны" 
+britain_election.3.d:0 "" 
+britain_election.3.a:0 "Всеобщие выборы решат". 
+
+britain_TUC.1.t:0 "Скандал с Беном Тиллеттом" 
+britain_TUC.1.d:0 "" 
+britain_TUC.1.a:0 "Его репутации был нанесен серьезный ущерб" 
+britain_TUC.2.t:0 "TUC отправляет экономическую помощь в Дублин" 
+britain_TUC.2.d:0 "" 
+britain_TUC.2.a:0 "Щедрый подарок от английских профсоюзов" 
+britain_TUC.3.t:0 "TUC планирует забастовки сочувствия для помощи Дублину" 
+britain_TUC.3.d:0 "" 
+britain_TUC.3.a:0 "Это может закончиться очень плохо" 
+
+### Parties ### 
+
+ENG_leninism_party:0 "СДФ" 
+ENG_leninism_party_long:0 "Социал-демократическая федерация" 
+ENG_marxism_party:0 "СДФ" 
+ENG_marxism_party_long:0 "Социал-демократическая федерация" 
+ENG_rev_socialism_party:0 "СРП" 
+ENG_rev_socialism_party_long:0 "Социалистическая рабочая партия" 
+ENG_soc_democracy_party:0 "КПТП" 
+ENG_soc_democracy_party_long:0 "Комитет по трудовому представительству" 
+ENG_soc_liberal_party:0 "ЛП" 
+ENG_soc_liberal_party_long:0 "Либеральная партия" 
+ENG_lib_conservatism_party:0 "ЛЮП" 
+ENG_lib_conservatism_party_long:0 "Либеральная юнионистская партия" 
+ENG_soc_conservatism_party:0 "КП" 
+ENG_soc_conservatism_party_long:0 "Консервативная партия" 
+ENG_auth_democrat_party:0 "-" 
+ENG_auth_democrat_party_long:0 "-" 
+ENG_pat_autocrat_party:0 "-" 
+ENG_pat_autocrat_party_long:0 "-" 
+ENG_fascism_party:0 "-" 
+ENG_fascism_party_long:0 "-" 
+
+### Country Name ### 
+
+ENG_leninism:0 "Соединённое Королевство"
+ENG_leninism_DEF:0 "Соединённое Королевство"
+ENG_leninism_ADJ:0 "Британск." 
+ENG_marxism:0 "Соединённое Королевство"
+ENG_marxism_DEF:0 "Соединённое Королевство"
+ENG_marxism_ADJ:0 "Британск." 
+ENG_rev_socialism:0 "Соединённое Королевство"
+ENG_rev_socialism_DEF:0 "Соединённое Королевство"
+ENG_rev_socialism_ADJ:0 "Британск." 
+ENG_soc_democracy:0 "Соединённое Королевство"
+ENG_soc_democracy_DEF:0 "Соединённое Королевство"
+ENG_soc_democracy_ADJ:0 "Британск." 
+ENG_soc_liberal:0 "Соединённое Королевство"
+ENG_soc_liberal_DEF:0 "Соединённое Королевство"
+ENG_soc_liberal_ADJ:0 "Британск." 
+ENG_lib_conservativism:0 "Соединённое Королевство"
+ENG_lib_conservativism_DEF:0 "Соединённое Королевство"
+ENG_lib_conservativism_ADJ:0 "Британск." 
+ENG_soc_conservatism:0 "Соединённое Королевство"
+ENG_soc_conservatism_DEF:0 "Соединённое Королевство"
+ENG_soc_conservatism_ADJ:0 "Британск." 
+ENG_auth_democrat:0 "Соединённое Королевство"
+ENG_auth_democrat_DEF:0 "Соединённое Королевство"
+ENG_auth_democrat_ADJ:0 "Британск." 
+ENG_pat_autocrat:0 "Соединённое Королевство"
+ENG_pat_autocrat_DEF:0 "Соединённое Королевство"
+ENG_pat_autocrat_ADJ:0 "Британск." 
+ENG_fascism:0 "Соединённое Королевство"
+ENG_fascism_DEF:0 "Соединённое Королевство"
+ENG_fascism_ADJ:0 "Британск." 
+
+### Focuses ### 
+#Balfour 
+ENG_balfour_ministry:0 "Министерство Бальфура" 
+ENG_question_trade_unions_liability:0 "Вопрос об ответственности профсоюзов" 
+ENG_debate_aliens_act:0 "Обсуждение закона об иностранцах" 
+ENG_public_intoxication_ireland_bill:0 "Законопроект об общественном опьянении в Ирландии" 
+ENG_protests_chinese_labour:0 "Рассмотрение протестов по поводу китайской рабочей силы" 
+ENG_consolidate_red_cross:0 "Консолидировать Британский Красный Крест" 
+ENG_trimming_naval_expenses:0 "Предложить сокращение военно-морских расходов" 
+ENG_empower_committee_imperial_defense:0 "Наделить полномочиями Комитет имперской обороны" 
+ENG_army_performance_boer_war:0 "Обзор действий армии в бурской войне" 
+ENG_attempt_tarrif_reform:0 "Попытка реформы тарифов" 
+ENG_talks_liberal_unionists:0 "Беседы с консерваторами-протаррифовцами" 
+ENG_reach_moderate_liberals:0 "Обратиться к умеренным либералам" 
+ENG_reach_TUC:0 "Обращение к Конгрессу профсоюзов" 
+ENG_end_of_era:0 "Конец эпохи" 
+#Colonial 
+ENG_colonial_empire:0 "Имперские заботы" 
+ENG_ireland_place_empire:0 "Место Ирландии в империи" 
+ENG_endorsing_constructive_unionism:0 "Одобрение "конструктивного юнионизма"" 
+ENG_foster_land_act:0 "Земельный акт Фостера Уиндэма" 
+ENG_promulgate_devolution_scheme:0 "Промульгировать схему передачи полномочий" 
+ENG_advance_moderate_unionism:0 "Продвигать умеренную юнионистскую позицию" 
+
+### Ideas ### 
+ENG_edwardian_age:0 "Эдвардианская эпоха" 
+ENG_britannia_rules_waves:0 "Британия правит волнами" 
+ENG_sunset_fears:0 "Страхи заката" 
+ENG_sunset_fears2:0 "Страхи заката" 
+ENG_irish_question:0 "Ирландский вопрос" 
+ENG_labour_movement:0 "Растущее рабочее движение" 
+ENG_labour_movement_dock_strike:0 "Растущее рабочее движение" 
+ENG_dublin_strikes:0 "Дублинские забастовки" 
+ENG_dublin_lockout:0 "Дублинский локаут" 
+ENG_general_strike:0 "Всеобщая забастовка" 
+
+### Flags ### 
+
+### Tooltips ### 
+ENG_tt_unlock_focus:0 "§YЭтот фокус будет автоматически пропущен через события§!" 
+
+### Companies ### 
+
+### Ministers ### 
+ENG_arthur_balfour:0 "Артур Джеймс Бальфур" 
+ENG_henry_petty_fitzmaurice:0 "Генри Чарльз Кит Петти-Фитцморис" 
+ENG_austen_chamberlain:0 "Сэр Джозеф Остин Чемберлен" 
+ENG_aretas_akers_douglas:0 "Аретас Эйкерс-Дуглас" 
+
+### Leaders ### 
+
+### Tech? ### 
+
+###Decisions### 
+##Decisions Categories## 
+ENG_Anglo_German_Arms_Race:0 "Англо-германская гонка военно-морских вооружений" 
+ENG_Anglo_German_Arms_Race_desc:0 "С тех пор как в 1904 году наше правительство подписало Антанту Кордиаль с Французской Республикой, наши отношения с Германией значительно ухудшились. Немецкий адмирал Альфред фон Тирпиц предложил и реализовал ряд военно-морских законов, направленных на резкое увеличение германского флота открытого моря. Бюджет Тирпица предусматривал строительство 35 новых крейсеров и 7 линкоров, и ожидается, что дальнейшее финансирование последует за этими первоначальными усилиями. Не может быть никаких сомнений в том, что это расширение направлено на то, чтобы бросить вызов Британской империи: В то время как для нас большой флот является необходимостью из-за наших обширных заморских владений и стратегических соображений патрулирования мирового океана, для Германии это роскошь. Единственной возможной причиной такого наращивания вооружений может быть использование в качестве оружия первого удара по нашим флотам. Чтобы противостоять этой растущей угрозе британскому господству на морях, Адмиралтейство под руководством первого морского лорда Джеки Фишера предложило собственную программу военно-морского строительства." 
+ENG_political_cat:0 "Политические решения" 
+ENG_taba_ultimatum:0 "Угрожать туркам войной" 
+ENG_taba_ultimatum_desc:0 "Статус Табы как зависимой части Акабы был центральным аргументом в настойчивых попытках турок завоевать Табу, и многие за столом переговоров, похоже, воспринимают его всерьез. Если переговоры не смогут отстранить их от Табы, то, возможно, это сделает демонстрация военной силы". 
+
+
+
+
+ENG_lay_down_dreadnought:0 "Заложить и ввести в строй HMS Дредноут." 
+ENG_lay_down_dreadnought_desc:0 "Шестой корабль, носящий это имя, и самый амбициозный проект адмирала Фишера на сегодняшний день. "Дредноут" должен произвести революцию в линейных кораблях на долгие годы". 
+

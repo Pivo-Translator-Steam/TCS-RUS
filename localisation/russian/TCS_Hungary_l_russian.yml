@@ -1,0 +1,91 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+ HUN_political.1.title:0 "Скупщина Нови-Сада провозгласила объединение с Сербией" 
+ HUN_political.1.desc:0 "" 
+ HUN_political.1.a:0 "Наша нация рушится дальше" 
+
+### Parties ### 
+
+ HUN_leninism_party:0 "КПВ" 
+ HUN_leninism_party_long:0 "Коммунистическая партия Венгрии" 
+ HUN_marxism_party:0 "КПВ" 
+ HUN_marxism_party_long:0 "Коммунистическая партия Венгрии" 
+ HUN_rev_socialism_party:0 "ВСДП" 
+ HUN_rev_socialism_party_long:0 "Венгерская социал-демократическая партия" 
+ HUN_soc_democracy_party:0 "ВСДП" 
+ HUN_soc_democracy_party_long:0 "Венгерская социал-демократическая партия" 
+ HUN_soc_liberal_party:0 "ПН48(К)" 
+ HUN_soc_liberal_party_long:0 "Партия независимости 48 (Кароли)" 
+ HUN_lib_conservatism_party:0 "ГРП" 
+ HUN_lib_conservatism_party_long:0 "Гражданская радикальная партия" 
+ HUN_soc_conservatism_party:0 "ХП" 
+ HUN_soc_conservatism_party_long:0 "Христианская социальная народная Партия" 
+ HUN_auth_democrat_party:0 "" 
+ HUN_auth_democrat_party_long:0 "" 
+ HUN_pat_autocrat_party:0 "" 
+ HUN_pat_autocrat_party_long:0 "" 
+ HUN_fascism_party:0 "" 
+ HUN_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ HUN_leninism:0 "Венгерская Советская Республика" 
+ HUN_leninism_DEF:0 "Венгерская Советская Республика" 
+ HUN_leninism_ADJ:0 "Венгерск." 
+ HUN_marxism:0 "Венгерская Советская Республика" 
+ HUN_marxism_DEF:0 "Венгерская Советская Республика" 
+ HUN_marxism_ADJ:0 "Венгерск." 
+ HUN_rev_socialism:0 "Венгерская Народная Республика" 
+ HUN_rev_socialism_DEF:0 "Венгерская Народная Республика" 
+ HUN_rev_socialism_ADJ:0 "Венгерск." 
+ HUN_soc_democracy:0 "Венгерская Народная Республика" 
+ HUN_soc_democracy_DEF:0 "Венгерская Народная Республика" 
+ HUN_soc_democracy_ADJ:0 "Венгерск." 
+ HUN_soc_liberal:0 "Венгерская Народная Республика" 
+ HUN_soc_liberal_DEF:0 "Венгерская Народная Республика" 
+ HUN_soc_liberal_ADJ:0 "Венгерск." 
+ HUN_lib_conservativism:0 "Королевство Венгрия" 
+ HUN_lib_conservativism_DEF:0 "Королевство Венгрия" 
+ HUN_lib_conservativism_ADJ:0 "Венгерск." 
+ HUN_soc_conservatism:0 "Королевство Венгрия" 
+ HUN_soc_conservatism_DEF:0 "Королевство Венгрия" 
+ HUN_soc_conservatism_ADJ:0 "Венгерск." 
+ HUN_auth_democrat:0 "Королевство Венгрия" 
+ HUN_auth_democrat_DEF:0 "Королевство Венгрия" 
+ HUN_auth_democrat_ADJ:0 "Венгерск." 
+ HUN_pat_autocrat:0 "Королевство Венгрия" 
+ HUN_pat_autocrat_DEF:0 "Королевство Венгрия" 
+ HUN_pat_autocrat_ADJ:0 "Венгерск." 
+ HUN_fascism:0 "Королевство Венгрия" 
+ HUN_fascism_DEF:0 "Королевство Венгрия" 
+ HUN_fascism_ADJ:0 "Венгерск." 
+
+### Cosmetic Tags ### 
+
+### Focuses ### 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+HUN_mihaly_karolyi_hog:0 " Михали Кароли" 
+HUN_mihaly_karolyi_for:0 " Михали Кароли" 
+HUN_szende_pal:0 " Павел Сзенде". 
+HUN_batthyany_tivadar:0 " Тивадар Баттяны". 
+
+### Leaders ### 
+
+### Tech? ### 
+
+### Decisions ### 

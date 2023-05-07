@@ -1,0 +1,145 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+ ## Darfur ## 
+ DAR_leninism_party:0 "-" 
+ DAR_leninism_party_long:0 "" 
+ DAR_marxism_party:0 "-" 
+ DAR_marxism_party_long:0 "" 
+ DAR_rev_socialism_party:0 "-" 
+ DAR_rev_socialism_party_long:0 "" 
+ DAR_soc_democracy_party:0 "-" 
+ DAR_soc_democracy_party_long:0 "" 
+ DAR_soc_liberal_party:0 "-" 
+ DAR_soc_liberal_party_long:0 "" 
+ DAR_lib_conservatism_party:0 "-" 
+ DAR_lib_conservatism_party_long:0 "" 
+ DAR_soc_conservatism_party:0 "-" 
+ DAR_soc_conservatism_party_long:0 "" 
+ DAR_auth_democrat_party:0 "Зумрат Али Динар" 
+ DAR_auth_democrat_party_long:0 "Зумрат Али Динар" 
+ DAR_pat_autocrat_party:0 "Зумрат Али Динар" 
+ DAR_pat_autocrat_party_long:0 "Зумрат Али Динар" 
+ DAR_fascism_party:0 "-" 
+ DAR_fascism_party_long:0 "" 
+ ## Wadai ## 
+ WAD_leninism_party:0 "-" 
+ WAD_leninism_party_long:0 "" 
+ WAD_marxism_party:0 "-" 
+ WAD_marxism_party_long:0 "" 
+ WAD_rev_socialism_party:0 "-" 
+ WAD_rev_socialism_party_long:0 "" 
+ WAD_soc_democracy_party:0 "-" 
+ WAD_soc_democracy_party_long:0 "" 
+ WAD_soc_liberal_party:0 "-" 
+ WAD_soc_liberal_party_long:0 "" 
+ WAD_lib_conservatism_party:0 "-" 
+ WAD_lib_conservatism_party_long:0 "" 
+ WAD_soc_conservatism_party:0 "-" 
+ WAD_soc_conservatism_party_long:0 "" 
+ WAD_auth_democrat_party:0 "Зумрат Мухаммад Салих" 
+ WAD_auth_democrat_party_long:0 "Зумрат Мухаммад Салих" 
+ WAD_pat_autocrat_party:0 "Зумрат Мухаммад Салих" 
+ WAD_pat_autocrat_party_long:0 "Зумрат Мухаммад Салих" 
+ WAD_fascism_party:0 "-" 
+ WAD_fascism_party_long:0 "" 
+
+### Country Name ### 
+ ## Darfur ## 
+ DAR_leninism:0  "Народная Республика Дарфур" 
+ DAR_leninism_DEF:0  "Народная Республика Дарфур" 
+ DAR_leninism_ADJ:0 "Дарфурск." 
+ DAR_marxism:0  "Народная Республика Дарфур" 
+ DAR_marxism_DEF:0  "Народная Республика Дарфур" 
+ DAR_marxism_ADJ:0 "Дарфурск." 
+ DAR_rev_socialism:0  "Народная Республика Дарфур" 
+ DAR_rev_socialism_DEF:0  "Народная Республика Дарфур" 
+ DAR_rev_socialism_ADJ:0 "Дарфурск." 
+ DAR_soc_democracy:0 "Республика Дарфур" 
+ DAR_soc_democracy_DEF:0 "Республика Дарфур" 
+ DAR_soc_democracy_ADJ:0 "Дарфурск." 
+ DAR_soc_liberal:0 "Республика Дарфур" 
+ DAR_soc_liberal_DEF:0 "Республика Дарфур" 
+ DAR_soc_liberal_ADJ:0 "Дарфурск." 
+ DAR_lib_conservatism:0 "Республика Дарфур" 
+ DAR_lib_conservatism_DEF:0 "Республика Дарфур" 
+ DAR_lib_conservatism_ADJ:0 "Дарфурск." 
+ DAR_soc_conservatism:0 "Республика Дарфур" 
+ DAR_soc_conservatism_DEF:0 "Республика Дарфур" 
+ DAR_soc_conservatism_ADJ:0 "Дарфурск." 
+ DAR_auth_democrat:0  "Дарфур" 
+ DAR_auth_democrat_DEF:0  "Дарфур" 
+ DAR_auth_democrat_ADJ:0 "Дарфурск." 
+ DAR_pat_autocrat:0 "Султанат Дарфур" 
+ DAR_pat_autocrat_DEF:0 "Султанат Дарфур" 
+ DAR_pat_autocrat_ADJ:0 "Дарфурск." 
+ DAR_fascism:0 "Дарфурская империя" 
+ DAR_fascism_DEF:0 "Дарфурская империя" 
+ DAR_fascism_ADJ:0 "Дарфурск." 
+ ## Wadai ## 
+ WAD_leninism:0 "Народная Республика Вадаи" 
+ WAD_leninism_DEF:0 "Народная Республика Вадаи" 
+ WAD_leninism_ADJ:0 "Вадайск." 
+ WAD_marxism:0 "Народная Республика Вадаи" 
+ WAD_marxism_DEF:0 "Народная Республика Вадаи" 
+ WAD_marxism_ADJ:0 "Вадайск." 
+ WAD_rev_socialism:0 "Народная Республика Вадаи" 
+ WAD_rev_socialism_DEF:0 "Народная Республика Вадаи" 
+ WAD_rev_socialism_ADJ:0 "Вадайск." 
+ WAD_soc_democracy:0 "Республика Вадаи" 
+ WAD_soc_democracy_DEF:0 "Республика Вадаи" 
+ WAD_soc_democracy_ADJ:0 "Вадайск." 
+ WAD_soc_liberal:0 "Республика Вадаи" 
+ WAD_soc_liberal_DEF:0 "Республика Вадаи" 
+ WAD_soc_liberal_ADJ:0 "Вадайск." 
+ WAD_lib_conservatism:0 "Республика Вадаи" 
+ WAD_lib_conservatism_DEF:0 "Республика Вадаи" 
+ WAD_lib_conservatism_ADJ:0 "Вадайск." 
+ WAD_soc_conservatism:0 "Республика Вадаи" 
+ WAD_soc_conservatism_DEF:0 "Республика Вадаи" 
+ WAD_soc_conservatism_ADJ:0 "Вадайск." 
+ WAD_auth_democrat:0 "Вадаи" 
+ WAD_auth_democrat_DEF:0 "Вадаи" 
+ WAD_auth_democrat_ADJ:0 "Вадайск." 
+ WAD_pat_autocrat:0 "Султанат Вадаи" 
+ WAD_pat_autocrat_DEF:0 "Султанат Вадаи" 
+ WAD_pat_autocrat_ADJ:0 "Вадайск." 
+ WAD_fascism:0 "Вадайская империя" 
+ WAD_fascism_DEF:0 "Вадайская империя" 
+ WAD_fascism_ADJ:0 "Вадайск." 
+
+### Focuses ### 
+
+ DAR_Focus_ID:0 "" 
+ DAR_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+ ## Darfur ## 
+ DAR_british_tribute:0 "Британская дань" 
+ DAR_british_tribute_desc:0 "-" 
+ DAR_german_supplied_fursan:0 "Фурсан, поставляемый Германией" 
+ DAR_german_supplied_fursan_desc:0 "-" 
+ ## Wadai ## 
+ WAD_french_incursions:0 "Французские вторжения" 
+ WAD_french_incursions_desc:0 "-" 
+ WAD_imperial_ambitions:0 "Имперские амбиции" 
+ WAD_imperial_ambitions_desc:0 "-" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

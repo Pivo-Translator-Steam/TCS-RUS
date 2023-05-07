@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ SAA_leninism_party:0 "КПГ" 
+ SAA_leninism_party_long:0 "Коммунистическая партия Германии" 
+ SAA_marxism_party:0 "КПГ" 
+ SAA_marxism_party_long:0 "Коммунистическая партия Германии" 
+ SAA_rev_socialism_party:0 "НСДПГ" 
+ SAA_rev_socialism_party_long:0 "Независимая Социал-демократическая партия Германии" 
+ SAA_soc_democracy_party:0 "СДПГ" 
+ SAA_soc_democracy_party_long:0 "Социал-демократическая партия Германии" 
+ SAA_soc_liberal_party:0 "НДП" 
+ SAA_soc_liberal_party_long:0 "Немецкая демократическая партия" 
+ SAA_lib_conservatism_party:0 "НСНП" 
+ SAA_lib_conservatism_party_long:0 "Немецко-саарская народная партия" 
+ SAA_soc_conservatism_party:0 "ХНП" 
+ SAA_soc_conservatism_party_long:0 "Христианская народная партия" 
+ SAA_auth_democrat_party:0 "ДП" 
+ SAA_auth_democrat_party_long:0 "Деловая партия" 
+ SAA_pat_autocrat_party:0 "НННП" 
+ SAA_pat_autocrat_party_long:0 "Немецкая национальная народная партия" 
+ SAA_fascism_party:0 "НРП" 
+ SAA_fascism_party_long:0 "Немецкая рабочая партия" 
+
+### Country Name ### 
+
+ SAA_leninism:0 "Территория Саарского бассейна" 
+ SAA_leninism_DEF:0 "Территория Саарского бассейна" 
+ SAA_leninism_ADJ:0 "Саарландск."
+ SAA_marxism:0 "Территория Саарского бассейна" 
+ SAA_marxism_DEF:0 "Территория Саарского бассейна" 
+ SAA_marxism_ADJ:0 "Саарландск."
+ SAA_rev_socialism:0 "Территория Саарского бассейна" 
+ SAA_rev_socialism_DEF:0 "Территория Саарского бассейна" 
+ SAA_rev_socialism_ADJ:0 "Саарландск."
+ SAA_soc_democracy:0 "Территория Саарского бассейна" 
+ SAA_soc_democracy_DEF:0 "Территория Саарского бассейна" 
+ SAA_soc_democracy_ADJ:0 "Саарландск."
+ SAA_soc_liberal:0 "Территория Саарского бассейна" 
+ SAA_soc_liberal_DEF:0 "Территория Саарского бассейна" 
+ SAA_soc_liberal_ADJ:0 "Саарландск."
+ SAA_lib_conservatism:0 "Территория Саарского бассейна" 
+ SAA_lib_conservatism_DEF:0 "Территория Саарского бассейна" 
+ SAA_lib_conservatism_ADJ:0 "Саарландск."
+ SAA_soc_conservatism:0 "Территория Саарского бассейна" 
+ SAA_soc_conservatism_DEF:0 "Территория Саарского бассейна" 
+ SAA_soc_conservatism_ADJ:0 "Саарландск."
+ SAA_auth_democrat:0 "Территория Саарского бассейна" 
+ SAA_auth_democrat_DEF:0 "Территория Саарского бассейна" 
+ SAA_auth_democrat_ADJ:0 "Саарландск."
+ SAA_pat_autocrat:0 "Территория Саарского бассейна" 
+ SAA_pat_autocrat_DEF:0 "Территория Саарского бассейна" 
+ SAA_pat_autocrat_ADJ:0 "Саарландск."
+ SAA_fascism:0 "Территория Саарского бассейна" 
+ SAA_fascism_DEF:0 "Территория Саарского бассейна" 
+ SAA_fascism_ADJ:0 "Саарландск."
+
+### Focuses ### 
+
+ SAA_Focus_ID:0 "" 
+ SAA_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ SAA_Idea_ID:0 "" 
+ SAA_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

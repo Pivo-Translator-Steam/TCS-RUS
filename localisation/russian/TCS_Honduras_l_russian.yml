@@ -1,0 +1,121 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+ HON_diplomacy.1.title:0 "Гондурас просит вмешательства США" 
+ HON_diplomacy.1.desc:0 "Никарагуанское вторжение в Гондурас дошло до точки кипения, и правительство Гондураса просит нас вмешаться в него и установить мир". 
+ HON_diplomacy.1.a:0 "Никарагуанский экспансионизм должен быть остановлен". 
+
+### Parties ### 
+
+ HON_leninism_party:0 "" #1922 Partido Comunista de Honduras 
+ HON_leninism_party_long:0 "" 
+ HON_marxism_party:0 "" 
+ HON_marxism_party_long:0 "" 
+ HON_rev_socialism_party:0 "" 
+ HON_rev_socialism_party_long:0 "" 
+ HON_soc_democracy_party:0 "" 
+ HON_soc_democracy_party_long:0 "" 
+ HON_soc_liberal_party:0 "ЛПГ" 
+ HON_soc_liberal_party_long:0 "Либеральная партия Гондураса" 
+ HON_lib_conservatism_party:0 "ПКПС" 
+ HON_lib_conservatism_party_long:0 "Партия клуба Патриотический союз" 
+ HON_soc_conservatism_party:0 "НПГ" 
+ HON_soc_conservatism_party_long:0 "Национальная партия Гондураса" 
+ HON_auth_democrat_party:0 "НПГ" 
+ HON_auth_democrat_party_long:0 "Национальная партия Гондураса" 
+ HON_pat_autocrat_party:0 "" 
+ HON_pat_autocrat_party_long:0 "" 
+ HON_fascism_party:0 "" 
+ HON_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ HON_leninism:0 "Республика Гондурас" 
+ HON_leninism_DEF:0 "Республика Гондурас" 
+ HON_leninism_ADJ:0 "Гондурасск." 
+ HON_marxism:0 "Республика Гондурас" 
+ HON_marxism_DEF:0 "Республика Гондурас" 
+ HON_marxism_ADJ:0 "Гондурасск." 
+ HON_rev_socialism:0 "Республика Гондурас" 
+ HON_rev_socialism_DEF:0 "Республика Гондурас" 
+ HON_rev_socialism_ADJ:0 "Гондурасск." 
+ HON_soc_democracy:0 "Республика Гондурас" 
+ HON_soc_democracy_DEF:0 "Республика Гондурас" 
+ HON_soc_democracy_ADJ:0 "Гондурасск." 
+ HON_soc_liberal:0 "Республика Гондурас" 
+ HON_soc_liberal_DEF:0 "Республика Гондурас" 
+ HON_soc_liberal_ADJ:0 "Гондурасск." 
+ HON_lib_conservatism:0 "Республика Гондурас" 
+ HON_lib_conservatism_DEF:0 "Республика Гондурас" 
+ HON_lib_conservatism_ADJ:0 "Гондурасск." 
+ HON_soc_conservatism:0 "Республика Гондурас" 
+ HON_soc_conservatism_DEF:0 "Республика Гондурас" 
+ HON_soc_conservatism_ADJ:0 "Гондурасск." 
+ HON_auth_democrat:0 "Республика Гондурас" 
+ HON_auth_democrat_DEF:0 "Республика Гондурас" 
+ HON_auth_democrat_ADJ:0 "Гондурасск." 
+ HON_pat_autocrat:0 "Республика Гондурас" 
+ HON_pat_autocrat_DEF:0 "Республика Гондурас" 
+ HON_pat_autocrat_ADJ:0 "Гондурасск." 
+ HON_fascism:0 "Республика Гондурас" 
+ HON_fascism_DEF:0 "Республика Гондурас" 
+ HON_fascism_ADJ:0 "Гондурасск." 
+
+### Focuses ### 
+
+ HON_generic_army_effort:0 "Ejército de Honduras" 
+ HON_generic_aviation_effort:0 "Fuerza Aérea Hondureña" 
+ HON_generic_naval_effort:0 "Marina Militar de Honduras" 
+ HON_generic_industrial_effort:0 "Индустриализация нашей страны" 
+ HON_generic_equipment_effort:0 "Изучение иностранного оборудования" 
+ HON_generic_equipment_effort_2:0 "Исследование местного вооружения" 
+ HON_generic_equipment_effort_3:0 "Исследование модернизированных вооружений" 
+ HON_generic_doctrine_effort:0 "Центральноамериканская доктрина" 
+ HON_generic_doctrine_effort_2:0 "Доктрина вестернизированной армии" 
+ HON_generic_aviation_effort_2:0 "Изучение западных самолетов" 
+ HON_generic_flexible_navy:0 "Гибкий флот". 
+ HON_generic_destroyer_effort:0 "Разрушители Гондураса" 
+ HON_generic_construction_effort:0 "Городское развитие" 
+ HON_generic_construction_effort_2:0 "Индустриализация внутренних районов" 
+ HON_generic_infrastructure_effort:0 "Американские спонсируемые железные дороги" 
+ HON_generic_production_effort:0 "Оружейные фабрики, спонсируемые иностранцами" 
+ HON_generic_production_effort_2:0 "Гондурасская оружейная промышленность" 
+
+ HON_settle_border_dispute:0 "Урегулировать пограничный спор с Никарагуа" 
+ HON_resist_guatamala:0 "Противостоять вторжениям Гватамалы" 
+ HON_friendship_guatamala:0 "Договор о дружбе с Гватамалой" 
+ HON_friendship_el_salvador:0 "Договор о дружбе с Сальвадором" 
+ HON_nicuraguan_invasion:0 "Никарагуанское вторжение" 
+ HON_support_from_the_us:0 "Поддержка со стороны Соединенных Штатов" 
+ HON_central_american_peace_conference:0 "Центральноамериканская мирная конференция" 
+ HON_1908_elections:0 "Выборы 1908 года" 
+
+### Ideas ### 
+
+ HON_honduran_civil_war:0 "Гражданская война в Гондурасе" 
+ HON_honduran_civil_war_desc:0 "Либеральная оппозиция всегда была сильным противником нашего режима, решительно выступая против усилий нашего правительства сохранить нашу нацию. Напряженность окончательно закипела, когда глава нашего южного соседа, президент Селайя, начал активно вооружать и поддерживать либералов на границе, прикрываясь тем, что недавний Акт о дружбе с сальвадорцами был своего рода антиникарагуанским пактом. Мы должны попытаться уничтожить эти повстанческие организации и восстановить мир и порядок в наших границах, иначе полномасштабная гражданская война может стать неизбежной." 
+ HON_strong_liberal_opposition:0 "Сильная либеральная оппозиция" 
+ HON_strong_liberal_opposition_desc:0 "Либеральная оппозиция в нашей стране всегда была сильной силой с тех пор, как к власти пришло консервативное правительство Бонильи. Они постоянно пытались дестабилизировать наш политический порядок, чтобы получить власть для себя. Конфликты между нашими двумя блоками происходят спорадически, но в последнее время отношения, похоже, нормализуются." 
+
+### Flags ### 
+
+### Tooltips ### 
+HON_invasion_nicaragua_tt:0 " Вторжение [NIC.GetFlag]Никарагуа§! пропустит этот фокус". 
+HON_central_american_peace_conference_tt:0 " §ҮЦентральноамериканская мирная конференция§! завершит этот фокус." 
+ HON_elections_1908_tt:0 "§YВыборы 1908 года§! завершат этот фокус". 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+
+### Opinion Modifiers ### 
+ HON_NIC_border_agreement:0 "Пограничное соглашение" 
+ HON_friendship_pact:0 "Пакт о дружбе" 

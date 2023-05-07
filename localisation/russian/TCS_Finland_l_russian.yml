@@ -1,0 +1,83 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+FIN_leninism_party:0 "КПФ" 
+FIN_leninism_party_long:0 "Коммунистическая партия Финляндии" 
+FIN_marxism_party:0 "КПФ" 
+FIN_marxism_party_long:0 "Коммунистическая партия Финляндии" 
+FIN_rev_socialism_party:0 "КПФ" 
+FIN_rev_socialism_party_long:0 "Коммунистическая партия Финляндии" 
+FIN_soc_democracy_party:0 "СДПФ" 
+FIN_soc_democracy_party_long:0 "Социал-демократическая партия Финляндии" 
+FIN_soc_liberal_party:0 "СЛ" 
+FIN_soc_liberal_party_long:0 "Сельскохозяйственная лига" 
+FIN_lib_conservatism_party:0 "НФП" 
+FIN_lib_conservatism_party_long:0 "Нуорфинская партия" 
+FIN_soc_conservatism_party:0 "ФП" 
+FIN_soc_conservatism_party_long:0 "Финская партия" 
+FIN_auth_democrat_party:0 "ФП" 
+FIN_auth_democrat_party_long:0 "Финская партия" 
+FIN_pat_autocrat_party:0 "-" 
+FIN_pat_autocrat_party_long:0 "" 
+FIN_fascism_party:0 "-" 
+FIN_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+FIN_leninism:0 "" 
+FIN_leninism_DEF:0 "" 
+FIN_leninism_ADJ:0 "Финнск." 
+FIN_marxism:0 "" 
+FIN_marxism_DEF:0 "" 
+FIN_marxism_ADJ:0 "Финнск." 
+FIN_rev_socialism:0 "" 
+FIN_rev_socialism_DEF:0 "" 
+FIN_rev_socialism_ADJ:0 "Финнск." 
+FIN_soc_democracy:0 "Королевство Финляндия" 
+FIN_soc_democracy_DEF:0 "Королевство Финляндия" 
+FIN_soc_democracy_ADJ:0 "Финнск." 
+FIN_soc_liberal:0 "Королевство Финляндия" 
+FIN_soc_liberal_DEF:0 "Королевство Финляндия" 
+FIN_soc_liberal_ADJ:0 "Финнск." 
+FIN_lib_conservativism:0 "Королевство Финляндия" 
+FIN_lib_conservativism_DEF:0 "Королевство Финляндия" 
+FIN_lib_conservativism_ADJ:0 "Финнск." 
+FIN_soc_conservatism:0 "Королевство Финляндия" 
+FIN_soc_conservatism_DEF:0 "Королевство Финляндия" 
+FIN_soc_conservatism_ADJ:0 "Финнск." 
+FIN_auth_democrat:0 "Королевство Финляндия" 
+FIN_auth_democrat_DEF:0 "Королевство Финляндия" 
+FIN_auth_democrat_ADJ:0 "Финнск." 
+FIN_pat_autocrat:0 "Королевство Финляндия" 
+FIN_pat_autocrat_DEF:0 "Королевство Финляндия" 
+FIN_pat_autocrat_ADJ:0 "Финнск." 
+FIN_fascism:0 "Государство Финляндия"
+FIN_fascism_DEF:0 "Государство Финляндия"
+FIN_fascism_ADJ:0 "Финнск." 
+
+### Focuses ### 
+
+FIN_Focus_ID:0 "" 
+FIN_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

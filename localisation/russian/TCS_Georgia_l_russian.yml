@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+GEO_leninism_party:0 "ССРП" 
+GEO_leninism_party_long:0 "Сакартвелос Социалистическо-революционная партия" 
+GEO_marxism_party:0 "ССРП" 
+GEO_marxism_party_long:0 "Сакартвелос Социалистическо-революционная партия" 
+GEO_rev_socialism_party:0 "ССРП" 
+GEO_rev_socialism_party_long:0 "Сакартвелос Социалистическо-революционная партия" 
+GEO_soc_democracy_party:0 "ССДП" 
+GEO_soc_democracy_party_long:0 "Сакартвелос Социал-Демократическая Партия" 
+GEO_soc_liberal_party:0 "СПЛРПС" 
+GEO_soc_liberal_party_long:0 "Социалистическо-педералистско-лебисская революционная партия Сакартвело" 
+GEO_lib_conservatism_party:0 "СРДГП" 
+GEO_lib_conservatism_party_long:0 "Сакартвелос Радикал-Демократиул Глехта Партия" 
+GEO_soc_conservatism_party:0 "ЭДП" 
+GEO_soc_conservatism_party_long:0 "Эровнул-Демократиули Партия" 
+GEO_auth_democrat_party:0 "СЭП" 
+GEO_auth_democrat_party_long:0 "Сакартвелос Эровнули Партиа" 
+GEO_pat_autocrat_party:0 "СМЭС" 
+GEO_pat_autocrat_party_long:0 "Сакартвелос Мусулманта Эровнули Сабчо" 
+GEO_fascism_party:0 "-" 
+GEO_fascism_party_long:0 "-" 
+
+### Country Name ### 
+
+GEO_leninism:0 "Демократическая Республика Грузия" 
+GEO_leninism_DEF:0 "Демократическая Республика Грузия" 
+GEO_leninism_ADJ:0 "Грузинск." 
+GEO_marxism:0 "Демократическая Республика Грузия" 
+GEO_marxism_DEF:0 "Демократическая Республика Грузия" 
+GEO_marxism_ADJ:0 "Грузинск." 
+GEO_rev_socialism:0 "Демократическая Республика Грузия" 
+GEO_rev_socialism_DEF:0 "Демократическая Республика Грузия" 
+GEO_rev_socialism_ADJ:0 "Грузинск." 
+GEO_soc_democracy:0 "Демократическая Республика Грузия" 
+GEO_soc_democracy_DEF:0 "Демократическая Республика Грузия" 
+GEO_soc_democracy_ADJ:0 "Грузинск." 
+GEO_soc_liberal:0 "Демократическая Республика Грузия" 
+GEO_soc_liberal_DEF:0 "Демократическая Республика Грузия" 
+GEO_soc_liberal_ADJ:0 "Грузинск." 
+GEO_lib_conservatism:0 "Демократическая Республика Грузия" 
+GEO_lib_conservatism_DEF:0 "Демократическая Республика Грузия" 
+GEO_lib_conservatism_ADJ:0 "Грузинск." 
+GEO_soc_conservatism:0 "Демократическая Республика Грузия" 
+GEO_soc_conservatism_DEF:0 "Демократическая Республика Грузия" 
+GEO_soc_conservatism_ADJ:0 "Грузинск." 
+GEO_auth_democrat:0 "Демократическая Республика Грузия" 
+GEO_auth_democrat_DEF:0 "Демократическая Республика Грузия" 
+GEO_auth_democrat_ADJ:0 "Грузинск." 
+GEO_pat_autocrat:0 "Демократическая Республика Грузия" 
+GEO_pat_autocrat_DEF:0 "Демократическая Республика Грузия" 
+GEO_pat_autocrat_ADJ:0 "Грузинск." 
+GEO_fascism:0 "Демократическая Республика Грузия" 
+GEO_fascism_DEF:0 "Демократическая Республика Грузия" 
+GEO_fascism_ADJ:0 "Грузинск." 
+
+### Focuses ### 
+
+GEO_Focus_ID:0 "" 
+GEO_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+GEO_Idea_ID:0 "" 
+GEO_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

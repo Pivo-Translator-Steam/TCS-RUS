@@ -1,0 +1,87 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ARM_leninism_party:0 "ХКК" 
+ARM_leninism_party_long:0 "Хаястани Комовнистакан Ковсакч'оут'юн" #Armenian Communist Party 
+ARM_marxism_party:0 "ХЕД" 
+ARM_marxism_party_long:0 "Хай Елап'оксакан Дашнакч'оут'ивн" #Armenian Revolutionary Federation 
+ARM_rev_socialism_party:0 "ХЕД" 
+ARM_rev_socialism_party_long:0 "Хай Елап'оксакан Дашнакч'оут'ивн" #Armenian Revolutionary Federation 
+ARM_soc_democracy_party:0 "ХЕД" 
+ARM_soc_democracy_party_long:0 "Хай Елап'оксакан Дашнакч'оут'ивн" #Armenian Revolutionary Federation 
+ARM_soc_liberal_party:0 "АК" 
+ARM_soc_liberal_party_long:0 "Арменакан Ковсакч'овт'иун" 
+ARM_lib_conservatism_party:0 "ГАМ" 
+ARM_lib_conservatism_party_long:0 "Гёвлач'инери Анкакс Миовт'яун" #Independent Peasants Union 
+ARM_soc_conservatism_party:0 "ХЖК" 
+ARM_soc_conservatism_party_long:0 "Хай Жоловрдакан Ковсакч'овт'яун" #Armenian Populist Party 
+ARM_auth_democrat_party:0 "-" 
+ARM_auth_democrat_party_long:0 "" 
+ARM_pat_autocrat_party:0 "-" 
+ARM_pat_autocrat_party_long:0 "" 
+ARM_fascism_party:0 "-" 
+ARM_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ARM_leninism:0 "Республика Армения" 
+ARM_leninism_DEF:0 "Республика Армения" 
+ARM_leninism_ADJ:0 "Армянск." 
+ARM_marxism:0 "Республика Армения" 
+ARM_marxism_DEF:0 "Республика Армения" 
+ARM_marxism_ADJ:0 "Армянск." 
+ARM_rev_socialism:0 "Республика Армения" 
+ARM_rev_socialism_DEF:0 "Республика Армения" 
+ARM_rev_socialism_ADJ:0 "Армянск." 
+ARM_soc_democracy:0 "Республика Армения" 
+ARM_soc_democracy_DEF:0 "Республика Армения" 
+ARM_soc_democracy_ADJ:0 "Армянск." 
+ARM_soc_liberal:0 "Республика Армения" 
+ARM_soc_liberal_DEF:0 "Республика Армения" 
+ARM_soc_liberal_ADJ:0 "Армянск." 
+ARM_lib_conservatism:0 "Республика Армения" 
+ARM_lib_conservatism:0 "Республика Армения" 
+ARM_lib_conservatism_DEF:0 "Республика Армения" 
+ARM_lib_conservatism_ADJ:0 "Армянск." 
+ARM_soc_conservatism:0 "Республика Армения" 
+ARM_soc_conservatism_DEF:0 "Республика Армения" 
+ARM_soc_conservatism_ADJ:0 "Армянск." 
+ARM_auth_democrat:0 "Республика Армения" 
+ARM_auth_democrat_DEF:0 "Республика Армения" 
+ARM_auth_democrat_ADJ:0 "Армянск." 
+ARM_pat_autocrat:0 "Республика Армения" 
+ARM_pat_autocrat_DEF:0 "Республика Армения" 
+ARM_pat_autocrat_ADJ:0 "Армянск." 
+ARM_fascism:0 "Республика Армения" 
+ARM_fascism_DEF:0 "Республика Армения" 
+ARM_fascism_ADJ:0 "Армянск." 
+
+### Focuses ### 
+
+ARM_Focus_ID:0 "" 
+ARM_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ARM_Idea_ID:0 "" 
+ARM_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

@@ -1,0 +1,33 @@
+﻿l_russian:
+
+ TCS_crisis:0 "Кризис" 
+ #TCS_crisis_desc:0 "placeholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\nplaceholder text\n§YТекущие нейтральные страны:§! \n[crisis_undecided_0][crisis_undecided_1][crisis_undecided_2][crisis_undecided_3][crisis_undecided_4][crisis_undecided_5][crisis_undecided_6][crisis_undecided_7][crisis_undecided_8][crisis_undecided_9][crisis_undecided_10][crisis_undecided_11][crisis_undecided_12]\n§YC Текущая температура: §! [? global.crisis_temperature|R0]\n" 
+ join_offensive_side:0 "Присоединиться к стороне нападения" 
+ join_defensive_side:0 "Присоединиться к обороняющейся стороне" 
+ clear_array:0 "Очистить массивы (дебаг)" 
+ crisis_undecided_0_text:0 "[?global.crisis_undecided^0.GetFlag][?global.crisis_undecided^0.GetName]\n" 
+ crisis_undecided_1_text:0 "[?global.crisis_undecided^1.GetFlag][?global.crisis_undecided^1.GetName]\n" 
+ crisis_undecided_2_text:0 "[?global.crisis_undecided^2.GetFlag][?global.crisis_undecided^2.GetName]\n" 
+ crisis_undecided_3_text:0 "[?global.crisis_undecided^3.GetFlag][?global.crisis_undecided^3.GetName]\n" 
+ crisis_undecided_4_text:0 "[?global.crisis_undecided^4.GetFlag][?global.crisis_undecided^4.GetName]\n" 
+ crisis_undecided_5_text:0 "[?global.crisis_undecided^5.GetFlag][?global.crisis_undecided^5.GetName]\n" 
+ crisis_undecided_6_text:0 "[?global.crisis_undecided^6.GetFlag][?global.crisis_undecided^6.GetName]\n" 
+ crisis_undecided_7_text:0 "[?global.crisis_undecided^7.GetFlag][?global.crisis_undecided^7.GetName]\n" 
+ crisis_undecided_8_text:0 "[?global.crisis_undecided^8.GetFlag][?global.crisis_undecided^8.GetName]\n" 
+ crisis_undecided_9_text:0 "[?global.crisis_undecided^9.GetFlag][?global.crisis_undecided^9.GetName]\n" 
+ crisis_undecided_10_text:0 "[?global.crisis_undecided^10.GetFlag][?global.crisis_undecided^10.GetName]\n" 
+ crisis_undecided_11_text:0 "[?global.crisis_undecided^11.GetFlag][?global.crisis_undecided^11.GetName]\n" 
+ crisis_undecided_12_text:0 "[?global.crisis_undecided^12.GetFlag][?global.crisis_undecided^12.GetName]\n" 
+
+## Events ## 
+ CRISIS_bosnian.1.title:0 "Наша реакция на независимость Болгарии" 
+ CRISIS_bosnian.1.desc:0 "" 
+ CRISIS_bosnian.1.a:0 "Мы полностью аннексируем оккупированные боснийские земли" 
+
+ CRISIS_bosnian.2.title:0 "Объявить о нашем выходе из Нови-Пазара" 
+ CRISIS_bosnian.2.desc:0 "" 
+ CRISIS_bosnian.2.a:0 "Турки разберутся с Нови-Пазаром" 
+
+ CRISIS_bosnian_news.1.title:0 "Боснийский кризис" 
+ CRISIS_bosnian_news.1.desc:0 "" 
+ CRISIS_bosnian_news.1.a:0 "Кризис на Балканах, как обычно" 

@@ -1,0 +1,87 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+  tcs_estonian_commune.1:0 "Революционный совет" 
+
+### Parties ### 
+  ESR_leninism_party:0 "КПЭ (Б)" 
+  ESR_leninism_party_long:0 "Коммунистическая партия Эстонии (Большевики)" 
+  ESR_marxism_party:0 "КПЭ (М)" 
+  ESR_marxism_party_long:0 ""Коммунистическая партия Эстонии (Марксисты)" 
+  ESR_rev_socialism_party:0 "ПЭСР" 
+  ESR_rev_socialism_party_long:0 "Партия эстонских социалистов-революционеров" 
+  ESR_soc_democracy_party:0 "ЭСДРП" 
+  ESR_soc_democracy_party_long:0 "Эстонская социал-демократическая рабочая партия" 
+  ESR_soc_liberal_party:0 "ЭРДП" 
+  ESR_soc_liberal_party_long:0 "Эстонская радикально-демократическая партия" 
+  ESR_lib_conservatism_party:0 "НС" 
+  ESR_lib_conservatism_party_long:0 "Народный союз" 
+  ESR_soc_conservatism_party:0 "ЭДП" 
+  ESR_soc_conservatism_party_long:0 "Эстонская демократическая партия" 
+  ESR_auth_democrat_party:0 "ЛНЭ" 
+  ESR_auth_democrat_party_long:0 "Лига независимости Эстонии" 
+  ESR_pat_autocrat_party:0 "-" 
+  ESR_pat_autocrat_party_long:0 "-" 
+  ESR_fascism_party:0 "-" 
+  ESR_fascism_party_long:0 "-" 
+
+### Country Name ### 
+ ESR_leninism:0 "Коммуна трудового народа Эстонии" 
+ ESR_leninism_DEF:0 "Коммуна трудового народа Эстонии" 
+ ESR_leninism_ADJ:0 "Эстонск." 
+
+### Focuses ### 
+
+ESR_declaration_of_the_etk:0 "Декларация Э.Т.К" 
+ESR_reorganize_the_party:0 "Реорганизовать партию" 
+ESR_collectivize_key_industries:0 "Коллективизировать ключевые отрасли" 
+ESR_mobilize_the_red_riflemen:0 "Мобилизовать красных стрелков" 
+ESR_the_committee_for_revolutionary_defense:0 "Комитет революционной обороны" 
+ESR_the_tallinn_offensive:0 "Таллиннское наступление" 
+ESR_implement_war_communism:0 "Внедрение военного коммунизма" 
+ESR_expropriate_the_nobles_estates:0 "Экспроприировать дворянские поместья" 
+ESR_increase_small_scale_arms_productions:0 "Увеличить производство мелкокалиберного оружия" 
+ESR_peasant_grain_requisitions:0 "Потребности крестьян в зерне" 
+ESR_incorporate_left_ssrs:0 "Включить левые ССР" 
+ESR_arrest_non_bolshevik_party_members:0 "Арестовать членов небольшевистской партии" 
+ESR_create_the_estonian_workers_front:0 "Создать Эстонский рабочий фронт" 
+ESR_arrest_the_clergy:0 "Арестовать духовенство" 
+ESR_nationalize_estonian_banks:0 "Национализировать эстонские банки" 
+ESR_armoured_train_patrols:0 "Патрулирование бронепоездов" 
+ESR_promise_minority_autonomy:0 "Обещать автономию меньшинств" 
+
+ESR_red_victory_in_estonia:0 "Победа красных в Эстонии" 
+ESR_amnesty_for_the_defense_league:0 "Амнистия для Лиги обороны" 
+ESR_persecute_the_defense_league:0 "Преследование Лиги обороны" 
+ESR_peoples_commissariat_of_reconstruction:0 "Народный комиссариат реконструкции" 
+ESR_reopen_estonian_industries:0 "Возобновить эстонскую промышленность" 
+ESR_peoples_railway_commission:0 "Народная железнодорожная комиссия" 
+ESR_fate_of_the_commune:0 "Судьба коммуны" 
+
+### Ideas ### 
+ESR_soviet_controlled_military:0 "Советские контролируемые военные" 
+
+
+### Flags ### 
+
+ red_estonian_victory_flag:0 "Мы выиграли войну за независимость Эстонии" 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+ESR_jaan_anvelt:0 "Яан Анвельт" 
+ESR_johannes_magi:0 "Йоханнес Мяги" 
+ESR_hans_poogelmann:0 "Ганс Пёгельманн" 
+ESR_johannes_kaspert:0 "Йоханнес Кясперт" 
+ESR_viktor_kingissepp:0 "Виктор Кингисепп" 
+
+### Leaders ### 
+
+### Tech? ### 
+

@@ -1,0 +1,139 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Parties ### 
+
+ BAD_leninism_party:0 "СДПГ" 
+ BAD_leninism_party_long:0 "Социал-демократическая партия Германии - Левые радикалы" 
+ BAD_marxism_party:0 "СДПГ" 
+ BAD_marxism_party_long:0 "Социал-демократическая партия Германии - Марксисты" 
+ BAD_rev_socialism_party:0 "СДПГ" 
+ BAD_rev_socialism_party_long:0 "Социал-демократическая партия Германии - Революционисты"
+ BAD_soc_democracy_party:0 "СДПГ" 
+ BAD_soc_democracy_party_long:0 "Социал-демократическая партия Германии - Реформисты" 
+ BAD_soc_liberal_party:0 "СНП" 
+ BAD_soc_liberal_party_long:0 "Свободная народная партия" 
+ BAD_lib_conservatism_party:0 "НЛП" 
+ BAD_lib_conservatism_party_long:0 "Национально-либеральная партия" 
+ BAD_soc_conservatism_party:0 "Ц" 
+ BAD_soc_conservatism_party_long:0 "Партия центра" 
+ BAD_auth_democrat_party:0 "ПГР" 
+ BAD_auth_democrat_party_long:0 "Партия германского рейха" 
+ BAD_pat_autocrat_party:0 "КПГ" 
+ BAD_pat_autocrat_party_long:0 "Консервативная партия Германии" 
+ BAD_fascism_party:0 "ЭО" 
+ BAD_fascism_party_long:0 "Экономическое объединение" 
+
+ #1918 Startdate Parties 
+
+ BAD_1918_leninism_party:0 "Лига Спартака" #KPD 1918 30 December 
+ BAD_1918_leninism_party_long:0 "Лига Спартака" 
+ BAD_1918_marxism_party:0 "НСДПГ" 
+ BAD_1918_marxism_party_long:0 "Независимая социал-демократическая партия Германии - левое крыло" 
+ BAD_1918_rev_socialism_party:0 "НСДПГ" 
+ BAD_1918_rev_socialism_party_long:0 "Независимая социал-демократическая партия Германии - правое крыло" 
+ BAD_1918_soc_democracy_party:0 "СДПГ(Б)" 
+ BAD_1918_soc_democracy_party_long:0 "Социал-демократическая партия Германии(Большинство)" 
+ BAD_1918_soc_liberal_party:0 "ПНП" 
+ BAD_1918_soc_liberal_party_long:0 "Прогрессивная народная партия" 
+ BAD_1918_lib_conservatism_party:0 "НЛП" #DVP 1918 15 December 
+ BAD_1918_lib_conservatism_party_long:0 "Национально-либеральная партия" 
+ BAD_1918_soc_conservatism_party:0 "Ц" 
+ BAD_1918_soc_conservatism_party_long:0 "Партия центра" 
+ BAD_1918_auth_democrat_party:0 "-" #DNVP 1918 10 December 
+ BAD_1918_auth_democrat_party_long:0 "" 
+ BAD_1918_pat_autocrat_party:0 "КПГ" #DNVP 1918 10 December 
+ BAD_1918_pat_autocrat_party_long:0 "Консервативная партия Германии" 
+ BAD_1918_fascism_party:0 "НПО" #DNVP 1918 10 December #DAP 1919 5 January 
+ BAD_1918_fascism_party_long:0 "Немецкая партия Отечества" 
+
+ #Formed Parties 
+
+### Country Name ### 
+
+ BAD_leninism:0 "Великое герцогство Баден" 
+ BAD_leninism_DEF:0 "Великое герцогство Баден" 
+ BAD_leninism_ADJ:0 "Баденск." 
+ BAD_marxism:0 "Великое герцогство Баден" 
+ BAD_marxism_DEF:0 "Великое герцогство Баден" 
+ BAD_marxism_ADJ:0 "Баденск." 
+ BAD_rev_socialism:0 "Великое герцогство Баден" 
+ BAD_rev_socialism_DEF:0 "Великое герцогство Баден" 
+ BAD_rev_socialism_ADJ:0 "Баденск." 
+ BAD_soc_democracy:0 "Великое герцогство Баден" 
+ BAD_soc_democracy_DEF:0 "Великое герцогство Баден" 
+ BAD_soc_democracy_ADJ:0 "Баденск." 
+ BAD_soc_liberal:0 "Великое герцогство Баден" 
+ BAD_soc_liberal_DEF:0 "Великое герцогство Баден" 
+ BAD_soc_liberal_ADJ:0 "Баденск." 
+ BAD_lib_conservatism:0 "Великое герцогство Баден" 
+ BAD_lib_conservatism_DEF:0 "Великое герцогство Баден" 
+ BAD_lib_conservatism_ADJ:0 "Баденск." 
+ BAD_soc_conservatism:0 "Великое герцогство Баден" 
+ BAD_soc_conservatism_DEF:0 "Великое герцогство Баден" 
+ BAD_soc_conservatism_ADJ:0 "Баденск." 
+ BAD_auth_democrat:0 "Великое герцогство Баден" 
+ BAD_auth_democrat_DEF:0 "Великое герцогство Баден" 
+ BAD_auth_democrat_ADJ:0 "Баденск." 
+ BAD_pat_autocrat:0 "Великое герцогство Баден" 
+ BAD_pat_autocrat_DEF:0 "Великое герцогство Баден" 
+ BAD_pat_autocrat_ADJ:0 "Баденск." 
+ BAD_fascism:0 "Великое герцогство Баден" 
+ BAD_fascism_DEF:0 "Великое герцогство Баден" 
+ BAD_fascism_ADJ:0 "Баденск." 
+
+ BAD_1918_leninism:0 "Великое герцогство Баден" 
+ BAD_1918_leninism_DEF:0 "Великое герцогство Баден" 
+ BAD_1918_leninism_ADJ:0 "Баденск." 
+ BAD_1918_marxism:0 "Великое герцогство Баден" 
+ BAD_1918_marxism_DEF:0 "Великое герцогство Баден" 
+ BAD_1918_marxism_ADJ:0 "Баденск." 
+ BAD_1918_rev_socialism:0 "Великое герцогство Баден" 
+ BAD_1918_rev_socialism_DEF:0 "Великое герцогство Баден" 
+ BAD_1918_rev_socialism_ADJ:0 "Баденск." 
+ BAD_1918_soc_democracy:0 "Свободная Народная Республика Баден" 
+ BAD_1918_soc_democracy_DEF:0 "Свободная Народная Республика Баден" 
+ BAD_1918_soc_democracy_ADJ:0 "Баденск." 
+ BAD_1918_soc_liberal:0 "Великое герцогство Баден" 
+ BAD_1918_soc_liberal_DEF:0 "Великое герцогство Баден" 
+ BAD_1918_soc_liberal_ADJ:0 "Баденск." 
+ BAD_1918_lib_conservatism:0 "Великое герцогство Баден" 
+ BAD_1918_lib_conservatism_DEF:0 "Великое герцогство Баден" 
+ BAD_1918_lib_conservatism_ADJ:0 "Баденск." 
+ BAD_1918_soc_conservatism:0 "Великое герцогство Баден" 
+ BAD_1918_soc_conservatism_DEF:0 "Великое герцогство Баден" 
+ BAD_1918_soc_conservatism_ADJ:0 "Баденск." 
+ BAD_1918_auth_democrat:0 "Великое герцогство Баден" 
+ BAD_1918_auth_democrat_DEF:0 "Великое герцогство Баден" 
+ BAD_1918_auth_democrat_ADJ:0 "Баденск." 
+ BAD_1918_pat_autocrat:0 "Великое герцогство Баден" 
+ BAD_1918_pat_autocrat_DEF:0 "Великое герцогство Баден" 
+ BAD_1918_pat_autocrat_ADJ:0 "Баденск." 
+ BAD_1918_fascism:0 "Великое герцогство Баден" 
+ BAD_1918_fascism_DEF:0 "Великое герцогство Баден" 
+ BAD_1918_fascism_ADJ:0 "Баденск." 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Decisions ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Technology ### 
+
+### Equipment ### 
+
+### Parliament ### 
+
+### Events ### 
+
+### Focus Tree ### 

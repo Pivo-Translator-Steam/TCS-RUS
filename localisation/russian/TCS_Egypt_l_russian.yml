@@ -1,0 +1,83 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+EGY_leninism_party:0 "-" 
+EGY_leninism_party_long:0 "-" 
+EGY_marxism_party:0 "-" 
+EGY_marxism_party_long:0 "-" 
+EGY_rev_socialism_party:0 "-" 
+EGY_rev_socialism_party_long:0 "-" 
+EGY_soc_democracy_party:0 "-" 
+EGY_soc_democracy_party_long:0 "-" 
+EGY_soc_liberal_party:0 "-" 
+EGY_soc_liberal_party_long:0 "-" 
+EGY_lib_conservatism_party:0 "-" 
+EGY_lib_conservatism_party_long:0 "-" 
+EGY_soc_conservatism_party:0 "ХВ" 
+EGY_soc_conservatism_party_long:0 "аль-Хизб аль-Ватани" #National Party 
+EGY_auth_democrat_party:0 "ХВ" 
+EGY_auth_democrat_party_long:0 "аль-Хизб аль-Ватани" #National Party 
+EGY_pat_autocrat_party:0 "ХУ" 
+EGY_pat_autocrat_party_long:0 "аль-Хизб аль-Умма" #Umma Party - British Supported 
+EGY_fascism_party:0 "-" 
+EGY_fascism_party_long:0 "-" 
+
+### Country Name ### 
+
+ EGY_leninism:0 "Хедиват Египта" 
+ EGY_leninism_DEF:0 "Хедиват Египта" 
+ EGY_leninism_ADJ:0 "Египетск." 
+ EGY_marxism:0 "Хедиват Египта" 
+ EGY_marxism_DEF:0 "Хедиват Египта" 
+ EGY_marxism_ADJ:0 "Египетск." 
+ EGY_rev_socialism:0 "Хедиват Египта" 
+ EGY_rev_socialism_DEF:0 "Хедиват Египта" 
+ EGY_rev_socialism_ADJ:0 "Египетск." 
+ EGY_soc_democracy:0 "Хедиват Египта" 
+ EGY_soc_democracy_DEF:0 "Хедиват Египта" 
+ EGY_soc_democracy_ADJ:0 "Египетск." 
+ EGY_soc_liberal:0 "Хедиват Египта" 
+ EGY_soc_liberal_DEF:0 "Хедиват Египта" 
+ EGY_soc_liberal_ADJ:0 "Египетск." 
+ EGY_lib_conservatism:0 "Хедиват Египта" 
+ EGY_lib_conservatism_DEF:0 "Хедиват Египта" 
+ EGY_lib_conservatism_ADJ:0 "Египетск." 
+ EGY_soc_conservatism:0 "Хедиват Египта" 
+ EGY_soc_conservatism_DEF:0 "Хедиват Египта" 
+ EGY_soc_conservatism_ADJ:0 "Египетск." 
+ EGY_auth_democrat:0 "Хедиват Египта" 
+ EGY_auth_democrat_DEF:0 "Хедиват Египта" 
+ EGY_auth_democrat_ADJ:0 "Египетск." 
+ EGY_pat_autocrat:0 "Хедиват Египта" 
+ EGY_pat_autocrat_DEF:0 "Хедиват Египта" 
+ EGY_pat_autocrat_ADJ:0 "Египетск." 
+ EGY_fascism:0 "Хедиват Египта" 
+ EGY_fascism_DEF:0 "Хедиват Египта" 
+ EGY_fascism_ADJ:0 "Египетск." 
+
+### Focuses ### 
+
+### Ideas ### 
+
+ EGY_nominal_ottoman_state:0 "Номинальное османское правление" 
+ EGY_nominal_ottoman_state_desc:0 "История Египта в Османской империи была долгой и сложной, поскольку турецкое правление на наших землях было в лучшем случае маргинальным. В начале XIX века местный османский губернатор Мухаммед Али присвоил себе титул вали и создал Хедиват Египта, который был признан самоуправляемой территорией Османской империи после Восточного кризиса 1840 года. Однако в 1882 году все изменилось, когда Великобритания захватила контроль над страной у националистического режима, чтобы сохранить свои интересы в регионе. Несмотря на то, что сейчас мы находимся под контролем Великобритании, мы по-прежнему признаны международным сообществом как часть Османской империи". 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

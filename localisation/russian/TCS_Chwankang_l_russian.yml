@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ CHW_leninism_party:0 "" 
+ CHW_leninism_party_long:0 "" 
+ CHW_marxism_party:0 "" 
+ CHW_marxism_party_long:0 "" 
+ CHW_rev_socialism_party:0 "" 
+ CHW_rev_socialism_party_long:0 "" 
+ CHW_soc_democracy_party:0 "" 
+ CHW_soc_democracy_party_long:0 "" 
+ CHW_soc_liberal_party:0 "" 
+ CHW_soc_liberal_party_long:0 "" 
+ CHW_lib_conservatism_party:0 "" 
+ CHW_lib_conservatism_party_long:0 "" 
+ CHW_soc_conservatism_party:0 "" 
+ CHW_soc_conservatism_party_long:0 "" 
+ CHW_auth_democrat_party:0 "" 
+ CHW_auth_democrat_party_long:0 "" 
+ CHW_pat_autocrat_party:0 "" 
+ CHW_pat_autocrat_party_long:0 "" 
+ CHW_fascism_party:0 "" 
+ CHW_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ CHW_leninism:0 "Клика Чванканга" 
+ CHW_leninism_DEF:0 "Клика Чванканга" 
+ CHW_leninism_ADJ:0 "Чванкангск."
+ CHW_marxism:0 "Клика Чванканга" 
+ CHW_marxism_DEF:0 "Клика Чванканга" 
+ CHW_marxism_ADJ:0 "Чванкангск."
+ CHW_rev_socialism:0 "Клика Чванканга" 
+ CHW_rev_socialism_DEF:0 "Клика Чванканга" 
+ CHW_rev_socialism_ADJ:0 "Чванкангск."
+ CHW_soc_democracy:0 "Клика Чванканга" 
+ CHW_soc_democracy_DEF:0 "Клика Чванканга" 
+ CHW_soc_democracy_ADJ:0 "Чванкангск."
+ CHW_soc_liberal:0 "Клика Чванканга" 
+ CHW_soc_liberal_DEF:0 "Клика Чванканга" 
+ CHW_soc_liberal_ADJ:0 "Чванкангск."
+ CHW_lib_conservatism:0 "Клика Чванканга" 
+ CHW_lib_conservatism_DEF:0 "Клика Чванканга" 
+ CHW_lib_conservatism_ADJ:0 "Чванкангск."
+ CHW_soc_conservatism:0 "Клика Чванканга" 
+ CHW_soc_conservatism_DEF:0 "Клика Чванканга" 
+ CHW_soc_conservatism_ADJ:0 "Чванкангск."
+ CHW_auth_democrat:0 "Клика Чванканга" 
+ CHW_auth_democrat_DEF:0 "Клика Чванканга" 
+ CHW_auth_democrat_ADJ:0 "Чванкангск."
+ CHW_pat_autocrat:0 "Клика Чванканга" 
+ CHW_pat_autocrat_DEF:0 "Клика Чванканга" 
+ CHW_pat_autocrat_ADJ:0 "Чванкангск."
+ CHW_fascism:0 "Клика Чванканга" 
+ CHW_fascism_DEF:0 "Клика Чванканга" 
+ CHW_fascism_ADJ:0 "Чванкангск."
+
+### Focuses ### 
+
+ CHW_Focus_ID:0 "" 
+ CHW_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ CHW_Idea_ID:0 "" 
+ CHW_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

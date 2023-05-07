@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ ARG_leninism_party:0 "РФА" 
+ ARG_leninism_party_long:0 "Региональная федерация Аргентины" 
+ ARG_marxism_party:0 "СП (С)" 
+ ARG_marxism_party_long:0 "Социалистическая партия (Международная секция)" 
+ ARG_rev_socialism_party:0 "ВПТ" 
+ ARG_rev_socialism_party_long:0 "Всеобщий профсоюз трудящихся" 
+ ARG_soc_democracy_party:0 "СП" 
+ ARG_soc_democracy_party_long:0 "Социалистическая партия" 
+ ARG_soc_liberal_party:0 "РГС" 
+ ARG_soc_liberal_party_long:0 "Радикальный гражданский союз" 
+ ARG_lib_conservatism_party:0 "НГС" 
+ ARG_lib_conservatism_party_long:0 "Национальный гражданский союз" 
+ ARG_soc_conservatism_party:0 "НАП (М)" 
+ ARG_soc_conservatism_party_long:0 "Национальная автономистская партия (Линия Модерна)" 
+ ARG_auth_democrat_party:0 "НАП" 
+ ARG_auth_democrat_party_long:0 "Национальная автономистская партия" 
+ ARG_pat_autocrat_party:0 "-" 
+ ARG_pat_autocrat_party_long:0 "-" 
+ ARG_fascism_party:0 "-" 
+ ARG_fascism_party_long:0 "-" 
+
+### Country Name ### 
+
+ ARG_leninism:0 "Аргентинская Республика" 
+ ARG_leninism_DEF:0 "Аргентинская Республика" 
+ ARG_leninism_ADJ:0 "Аргентинск." 
+ ARG_marxism:0 "Аргентинская Республика" 
+ ARG_marxism_DEF:0 "Аргентинская Республика" 
+ ARG_marxism_ADJ:0 "Аргентинск." 
+ ARG_rev_socialism:0 "Аргентинская Республика" 
+ ARG_rev_socialism_DEF:0 "Аргентинская Республика" 
+ ARG_rev_socialism_ADJ:0 "Аргентинск." 
+ ARG_soc_democracy:0 "Аргентинская Республика" 
+ ARG_soc_democracy_DEF:0 "Аргентинская Республика" 
+ ARG_soc_democracy_ADJ:0 "Аргентинск." 
+ ARG_soc_liberal:0 "Аргентинская Республика" 
+ ARG_soc_liberal_DEF:0 "Аргентинская Республика" 
+ ARG_soc_liberal_ADJ:0 "Аргентинск." 
+ ARG_lib_conservatism:0 "Аргентинская Республика" 
+ ARG_lib_conservatism_DEF:0 "Аргентинская Республика" 
+ ARG_lib_conservatism_ADJ:0 "Аргентинск." 
+ ARG_soc_conservatism:0 "Аргентинская Республика" 
+ ARG_soc_conservatism_DEF:0 "Аргентинская Республика" 
+ ARG_soc_conservatism_ADJ:0 "Аргентинск." 
+ ARG_auth_democrat:0 "Аргентинская Республика" 
+ ARG_auth_democrat_DEF:0 "Аргентинская Республика" 
+ ARG_auth_democrat_ADJ:0 "Аргентинск." 
+ ARG_pat_autocrat:0 "Аргентинская Республика" 
+ ARG_pat_autocrat_DEF:0 "Аргентинская Республика" 
+ ARG_pat_autocrat_ADJ:0 "Аргентинск." 
+ ARG_fascism:0 "Аргентинская Республика" 
+ ARG_fascism_DEF:0 "Аргентинская Республика" 
+ ARG_fascism_ADJ:0 "Аргентинск." 
+
+### Focuses ### 
+
+ ARG_Focus_ID:0 "" 
+ ARG_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ ARG_Idea_ID:0 "" 
+ ARG_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

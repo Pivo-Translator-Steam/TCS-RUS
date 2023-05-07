@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ MAJ_leninism_party:0 "-" 
+ MAJ_leninism_party_long:0 "" 
+ MAJ_marxism_party:0 "-" 
+ MAJ_marxism_party_long:0 "" 
+ MAJ_rev_socialism_party:0 "-" 
+ MAJ_rev_socialism_party_long:0 "" 
+ MAJ_soc_democracy_party:0 "-" 
+ MAJ_soc_democracy_party_long:0 "" 
+ MAJ_soc_liberal_party:0 "-" 
+ MAJ_soc_liberal_party_long:0 "" 
+ MAJ_lib_conservatism_party:0 "-" 
+ MAJ_lib_conservatism_party_long:0 "" 
+ MAJ_soc_conservatism_party:0 "Ксисбияда Касрига Ах" 
+ MAJ_soc_conservatism_party_long:0 "Ксисбияда Касрига Ах (Умеренная фракция)" 
+ MAJ_auth_democrat_party:0 "Вааксда Даквада" 
+ MAJ_auth_democrat_party_long:0 "Вааксда Даквада (Придворная фракция)" 
+ MAJ_pat_autocrat_party:0 "Ксисбига Султан" 
+ MAJ_pat_autocrat_party_long:0 "Ксисбига Султан (Султанская фракция)" 
+ MAJ_fascism_party:0 "Кабсашада Кабиилка" 
+ MAJ_fascism_party_long:0 "Кабсашада Кабиилка (Племенная фракция)" 
+
+### Country Name ### 
+
+ MAJ_leninism:0 "Султанат Маджиртен" 
+ MAJ_leninism_DEF:0 "Султанат Маджиртен" 
+ MAJ_leninism_ADJ:0 "Маджиртенск.".
+ MAJ_marxism:0 "Султанат Маджиртен" 
+ MAJ_marxism_DEF:0 "Султанат Маджиртен" 
+ MAJ_marxism_ADJ:0 "Маджиртенск.".
+ MAJ_rev_socialism:0 "Султанат Маджиртен" 
+ MAJ_rev_socialism_DEF:0 "Султанат Маджиртен" 
+ MAJ_rev_socialism_ADJ:0 "Маджиртенск.".
+ MAJ_soc_democracy:0 "Султанат Маджиртен" 
+ MAJ_soc_democracy_DEF:0 "Султанат Маджиртен" 
+ MAJ_soc_democracy_ADJ:0 "Маджиртенск.".
+ MAJ_soc_liberal:0 "Султанат Маджиртен" 
+ MAJ_soc_liberal_DEF:0 "Султанат Маджиртен" 
+ MAJ_soc_liberal_ADJ:0 "Маджиртенск.".
+ MAJ_lib_conservatism:0 "Султанат Маджиртен" 
+ MAJ_lib_conservatism_DEF:0 "Султанат Маджиртен" 
+ MAJ_lib_conservatism_ADJ:0 "Маджиртенск.".
+ MAJ_soc_conservatism:0 "Султанат Маджиртен" 
+ MAJ_soc_conservatism_DEF:0 "Султанат Маджиртен" 
+ MAJ_soc_conservatism_ADJ:0 "Маджиртенск.".
+ MAJ_auth_democrat:0 "Султанат Маджиртен" 
+ MAJ_auth_democrat_DEF:0 "Султанат Маджиртен" 
+ MAJ_auth_democrat_ADJ:0 "Маджиртенск.".
+ MAJ_pat_autocrat:0 "Султанат Маджиртен" 
+ MAJ_pat_autocrat_DEF:0 "Султанат Маджиртен" 
+ MAJ_pat_autocrat_ADJ:0 "Маджиртенск.".
+ MAJ_fascism:0 "Султанат Маджиртен" 
+ MAJ_fascism_DEF:0 "Султанат Маджиртен" 
+ MAJ_fascism_ADJ:0 "Маджиртенск.".
+
+### Focuses ### 
+
+ MAJ_Focus_ID:0 "" 
+ MAJ_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ MAJ_Idea_ID:0 "" 
+ MAJ_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

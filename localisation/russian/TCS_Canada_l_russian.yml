@@ -1,0 +1,117 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ CAN_leninism_party:0 "-" 
+ CAN_leninism_party_long:0 "" 
+ CAN_marxism_party:0 "СПК" 
+ CAN_marxism_party_long:0 "Социалистическая партия Канады" 
+ CAN_rev_socialism_party:0 "СПК" 
+ CAN_rev_socialism_party_long:0 "Социалистическая партия Канады" 
+ CAN_soc_democracy_party:0 "Лейбористы" 
+ CAN_soc_democracy_party_long:0 "Лейбористы" 
+ CAN_soc_liberal_party:0 "ЛПК" 
+ CAN_soc_liberal_party_long:0 "Либеральная партия Канады" 
+ CAN_lib_conservatism_party:0 "КПК (Л)" 
+ CAN_lib_conservatism_party_long:0 "Консервативная партия Канады - Либералы" 
+ CAN_soc_conservatism_party:0 "КПК (Н)" 
+ CAN_soc_conservatism_party_long:0 "Консервативная партия Канады - Националисты" 
+ CAN_auth_democrat_party:0 "КПК" 
+ CAN_auth_democrat_party_long:0 "Консервативная партия Канады" 
+ CAN_pat_autocrat_party:0 "-" 
+ CAN_pat_autocrat_party_long:0 "" 
+ CAN_fascism_party:0 "-" 
+ CAN_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ CAN_leninism:0 "Канадская конфедерация" 
+ CAN_leninism_DEF:0 "Канадская конфедерация" 
+ CAN_leninism_ADJ:0 "Канадск." 
+ CAN_marxism:0 "Канадская конфедерация" 
+ CAN_marxism_DEF:0 "Канадская конфедерация" 
+ CAN_marxism_ADJ:0 "Канадск." 
+ CAN_rev_socialism:0 "Канадская конфедерация" 
+ CAN_rev_socialism_DEF:0 "Канадская конфедерация" 
+ CAN_rev_socialism_ADJ:0 "Канадск." 
+ CAN_soc_democracy:0 "Канадская конфедерация" 
+ CAN_soc_democracy_DEF:0 "Канадская конфедерация" 
+ CAN_soc_democracy_ADJ:0 "Канадск." 
+ CAN_soc_liberal:0 "Канадская конфедерация" 
+ CAN_soc_liberal_DEF:0 "Канадская конфедерация" 
+ CAN_soc_liberal_ADJ:0 "Канадск." 
+ CAN_lib_conservatism:0 "Канадская конфедерация" 
+ CAN_lib_conservatism_DEF:0 "Канадская конфедерация" 
+ CAN_lib_conservatism_ADJ:0 "Канадск." 
+ CAN_soc_conservatism:0 "Канадская конфедерация" 
+ CAN_soc_conservatism_DEF:0 "Канадская конфедерация" 
+ CAN_soc_conservatism_ADJ:0 "Канадск." 
+ CAN_auth_democrat:0 "Канадская конфедерация" 
+ CAN_auth_democrat_DEF:0 "Канадская конфедерация" 
+ CAN_auth_democrat_ADJ:0 "Канадск." 
+ CAN_pat_autocrat:0 "Канадская конфедерация" 
+ CAN_pat_autocrat_DEF:0 "Канадская конфедерация" 
+ CAN_pat_autocrat_ADJ:0 "Канадск." 
+ CAN_fascism:0 "Канадская конфедерация" 
+ CAN_fascism_DEF:0 "Канадская конфедерация" 
+ CAN_fascism_ADJ:0 "Канадск." 
+
+ CAN_dominion_leninism:0 "Доминион Канада" 
+ CAN_dominion_leninism_DEF:0 "Доминион Канада" 
+ CAN_dominion_leninism_ADJ:0 "Канадск." 
+ CAN_dominion_marxism:0 "Доминион Канада" 
+ CAN_dominion_marxism_DEF:0 "Доминион Канада" 
+ CAN_dominion_marxism_ADJ:0 "Канадск." 
+ CAN_dominion_rev_socialism:0 "Доминион Канада" 
+ CAN_dominion_rev_socialism_DEF:0 "Доминион Канада" 
+ CAN_dominion_rev_socialism_ADJ:0 "Канадск." 
+ CAN_dominion_soc_democracy:0 "Доминион Канада" 
+ CAN_dominion_soc_democracy_DEF:0 "Доминион Канада" 
+ CAN_dominion_soc_democracy_ADJ:0 "Канадск." 
+ CAN_dominion_soc_liberal:0 "Доминион Канада" 
+ CAN_dominion_soc_liberal_DEF:0 "Доминион Канада" 
+ CAN_dominion_soc_liberal_ADJ:0 "Канадск." 
+ CAN_dominion_lib_conservatism:0 "Доминион Канада" 
+ CAN_dominion_lib_conservatism_DEF:0 "Доминион Канада" 
+ CAN_dominion_lib_conservatism_ADJ:0 "Канадск." 
+ CAN_dominion_soc_conservatism:0 "Доминион Канада" 
+ CAN_dominion_soc_conservatism_DEF:0 "Доминион Канада" 
+ CAN_dominion_soc_conservatism_ADJ:0 "Канадск." 
+ CAN_dominion_auth_democrat:0 "Доминион Канада" 
+ CAN_dominion_auth_democrat_DEF:0 "Доминион Канада" 
+ CAN_dominion_auth_democrat_ADJ:0 "Канадск." 
+ CAN_dominion_pat_autocrat:0 "Доминион Канада" 
+ CAN_dominion_pat_autocrat_DEF:0 "Доминион Канада" 
+ CAN_dominion_pat_autocrat_ADJ:0 "Канадск." 
+ CAN_dominion_fascism:0 "Доминион Канада" 
+ CAN_dominion_fascism_DEF:0 "Доминион Канада" 
+ CAN_dominion_fascism_ADJ:0 "Канадск." 
+
+### Focuses ### 
+
+ CAN_Focus_ID:0 "" 
+ CAN_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ CAN_Idea_ID:0 "" 
+ CAN_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

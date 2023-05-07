@@ -1,0 +1,77 @@
+﻿l_russian:
+
+### Bookmark & Leader Desc. ### 
+
+### Parties ### 
+
+ RPR_leninism_party:0 "КПР" 
+ RPR_leninism_party_long:0 "Коммунистическая партия Румынии" 
+ RPR_marxism_party:0 "КПР" 
+ RPR_marxism_party_long:0 "Коммунистическая партия Румынии" 
+ RPR_rev_socialism_party:0 "СПР" 
+ RPR_rev_socialism_party_long:0 "Социалистическая партия Румынии" 
+ RPR_soc_democracy_party:0 "НПД" 
+ RPR_soc_democracy_party_long:0 "Националистическая Партия-Демократы" 
+ RPR_soc_liberal_party:0 "КПД" 
+ RPR_soc_liberal_party_long:0 "Консервативная партия-Демократы" 
+ RPR_lib_conservatism_party:0 "НЛП" 
+ RPR_lib_conservatism_party_long:0 "Национальная либеральная партия" 
+ RPR_soc_conservatism_party:0 "КП" 
+ RPR_soc_conservatism_party_long:0 "Консервативная партия" 
+ RPR_auth_democrat_party:0 "Дом Гогенцоллернов" 
+ RPR_auth_democrat_party_long:0 "Дом Гогенцоллернов-Зигмарингенов" 
+ RPR_pat_autocrat_party:0 "НДП-К" 
+ RPR_pat_autocrat_party_long:0 "Националистическо-демократическая партия - Куза" 
+ RPR_fascism_party:0 "НДП-К" 
+ RPR_fascism_party_long:0 "Националистическо-демократическая партия - Куза" 
+
+### Country Name ### 
+
+ RPR_leninism:0 "Восстание румынских крестьян" 
+ RPR_leninism_DEF:0 "Восстание румынских крестьян" 
+ RPR_leninism_ADJ:0 "Румынск." 
+ RPR_marxism:0 "Восстание румынских крестьян" 
+ RPR_marxism_DEF:0 "Восстание румынских крестьян" 
+ RPR_marxism_ADJ:0 "Румынск." 
+ RPR_rev_socialism:0 "Восстание румынских крестьян" 
+ RPR_rev_socialism_DEF:0 "Восстание румынских крестьян" 
+ RPR_rev_socialism_ADJ:0 "Румынск." 
+ RPR_soc_democracy:0 "Восстание румынских крестьян" 
+ RPR_soc_democracy_DEF:0 "Восстание румынских крестьян" 
+ RPR_soc_democracy_ADJ:0 "Румынск." 
+ RPR_soc_liberal:0 "Восстание румынских крестьян" 
+ RPR_soc_liberal_DEF:0 "Восстание румынских крестьян" 
+ RPR_soc_liberal_ADJ:0 "Румынск." 
+ RPR_lib_conservatism:0 "Восстание румынских крестьян" 
+ RPR_lib_conservatism_DEF:0 "Восстание румынских крестьян" 
+ RPR_lib_conservatism_ADJ:0 "Румынск." 
+ RPR_soc_conservatism:0 "Восстание румынских крестьян" 
+ RPR_soc_conservatism_DEF:0 "Восстание румынских крестьян" 
+ RPR_soc_conservatism_ADJ:0 "Румынск." 
+ RPR_auth_democrat:0 "Восстание румынских крестьян" 
+ RPR_auth_democrat_DEF:0 "Восстание румынских крестьян" 
+ RPR_auth_democrat_ADJ:0 "Румынск." 
+ RPR_pat_autocrat:0 "Восстание румынских крестьян" 
+ RPR_pat_autocrat_DEF:0 "Восстание румынских крестьян" 
+ RPR_pat_autocrat_ADJ:0 "Румынск." 
+ RPR_fascism:0 "Восстание румынских крестьян" 
+ RPR_fascism_DEF:0 "Восстание румынских крестьян" 
+ RPR_fascism_ADJ:0 "Румынск." 
+
+### Events ### 
+
+### Focuses ### 
+
+### Ideas ### 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Opinions ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Decisions ### 

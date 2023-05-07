@@ -1,0 +1,129 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ LIT_leninism_party:0 "КПЛ" 
+ LIT_leninism_party_long:0 "Коммунистическая партия Литвы" 
+ LIT_marxism_party:0 "КПЛ" 
+ LIT_marxism_party_long:0 "Коммунистическая партия Литвы" 
+ LIT_rev_socialism_party:0 "СДПЛ" 
+ LIT_rev_socialism_party_long:0 "Социал-демократическая партия Литвы" 
+ LIT_soc_democracy_party:0 "СДПЛ" 
+ LIT_soc_democracy_party_long:0 "Социал-демократическая партия Литвы" 
+ LIT_soc_liberal_party:0 "СНДПЛ" 
+ LIT_soc_liberal_party_long:0 "Социалистическая народно-демократическая партия Литвы" 
+ LIT_lib_conservatism_party:0 "ЛКС" 
+ LIT_lib_conservatism_party_long:0 "Литовский крестьянский союз" 
+ LIT_soc_conservatism_party:0 "ХДПЛ" 
+ LIT_soc_conservatism_party_long:0 "Христианско-демократическая партия Литвы" 
+ LIT_auth_democrat_party:0 "ПНП" 
+ LIT_auth_democrat_party_long:0 "Партия народного прогресса" 
+ LIT_pat_autocrat_party:0 "ПНП" 
+ LIT_pat_autocrat_party_long:0 "Партия народного прогресса" 
+ LIT_fascism_party:0 "ПНП" 
+ LIT_fascism_party_long:0 "Партия народного прогресса" 
+
+### Country Name ### 
+
+ LIT_leninism:0 "Литовская Республика" 
+ LIT_leninism_DEF:0 "Литовская Республика" 
+ LIT_leninism_ADJ:0 "Литовск." 
+ LIT_marxism:0 "Литовская Республика" 
+ LIT_marxism_DEF:0 "Литовская Республика" 
+ LIT_marxism_ADJ:0 "Литовск." 
+ LIT_rev_socialism:0 "Литовская Республика" 
+ LIT_rev_socialism_DEF:0 "Литовская Республика" 
+ LIT_rev_socialism_ADJ:0 "Литовск." 
+ LIT_soc_democracy:0 "Литовская Республика" 
+ LIT_soc_democracy_DEF:0 "Литовская Республика" 
+ LIT_soc_democracy_ADJ:0 "Литовск." 
+ LIT_soc_liberal:0 "Литовская Республика" 
+ LIT_soc_liberal_DEF:0 "Литовская Республика" 
+ LIT_soc_liberal_ADJ:0 "Литовск." 
+ LIT_lib_conservatism:0 "Литовская Республика" 
+ LIT_lib_conservatism_DEF:0 "Литовская Республика" 
+ LIT_lib_conservatism_ADJ:0 "Литовск." 
+ LIT_soc_conservatism:0 "Литовская Республика" 
+ LIT_soc_conservatism_DEF:0 "Литовская Республика" 
+ LIT_soc_conservatism_ADJ:0 "Литовск." 
+ LIT_auth_democrat:0 "Литовская Республика" 
+ LIT_auth_democrat_DEF:0 "Литовская Республика" 
+ LIT_auth_democrat_ADJ:0 "Литовск." 
+ LIT_pat_autocrat:0 "Литовская Республика" 
+ LIT_pat_autocrat_DEF:0 "Литовская Республика" 
+ LIT_pat_autocrat_ADJ:0 "Литовск." 
+ LIT_fascism:0 "Литовская Республика" 
+ LIT_fascism_DEF:0 "Литовская Республика" 
+ LIT_fascism_ADJ:0 "Литовск." 
+
+ LIT_KINGDOM_leninism:0"Королевство Литва"
+ LIT_KINGDOM_leninism_DEF:0"Королевство Литва"
+ LIT_KINGDOM_leninism_ADJ:0 "Литовск." 
+ LIT_KINGDOM_marxism:0"Королевство Литва"
+ LIT_KINGDOM_marxism_DEF:0"Королевство Литва"
+ LIT_KINGDOM_marxism_ADJ:0 "Литовск." 
+ LIT_KINGDOM_rev_socialism:0"Королевство Литва"
+ LIT_KINGDOM_rev_socialism_DEF:0"Королевство Литва"
+ LIT_KINGDOM_rev_socialism_ADJ:0 "Литовск." 
+ LIT_KINGDOM_soc_democracy:0"Королевство Литва"
+ LIT_KINGDOM_soc_democracy_DEF:0"Королевство Литва"
+ LIT_KINGDOM_soc_democracy_ADJ:0 "Литовск." 
+ LIT_KINGDOM_soc_liberal:0"Королевство Литва"
+ LIT_KINGDOM_soc_liberal_DEF:0"Королевство Литва"
+ LIT_KINGDOM_soc_liberal_ADJ:0 "Литовск." 
+ LIT_KINGDOM_lib_conservatism:0"Королевство Литва"
+ LIT_KINGDOM_lib_conservatism_DEF:0"Королевство Литва"
+ LIT_KINGDOM_lib_conservatism_ADJ:0 "Литовск." 
+ LIT_KINGDOM_soc_conservatism:0"Королевство Литва"
+ LIT_KINGDOM_soc_conservatism_DEF:0"Королевство Литва"
+ LIT_KINGDOM_soc_conservatism_ADJ:0 "Литовск." 
+ LIT_KINGDOM_auth_democrat:0"Королевство Литва"
+ LIT_KINGDOM_auth_democrat_DEF:0"Королевство Литва"
+ LIT_KINGDOM_auth_democrat_ADJ:0 "Литовск." 
+ LIT_KINGDOM_pat_autocrat:0"Королевство Литва"
+ LIT_KINGDOM_pat_autocrat_DEF:0"Королевство Литва"
+ LIT_KINGDOM_pat_autocrat_ADJ:0 "Литовск." 
+ LIT_KINGDOM_fascism:0"Королевство Литва"
+ LIT_KINGDOM_fascism_DEF:0"Королевство Литва"
+ LIT_KINGDOM_fascism_ADJ:0 "Литовск." 
+
+### Focuses ### 
+
+ LIT_Focus_ID:0 "-" 
+ LIT_Focus_ID_desc:0 "-" 
+
+### Ideas ### 
+
+### Decisions ### 
+
+ LIT_seize_palanga_category:0 "Захватить Палангу" 
+ LIT_seize_palanga_category_desc:0 "Латвийская Социалистическая Советская Республика все еще восстанавливается после изнурительной битвы с националистическими силами, мы должны воспользоваться этой возможностью и вернуть спорный порт Паланга." 
+ LIT_seize_palanga_de:0 "Оккупировать Палангу" 
+ LIT_seize_palanga_de_desc:0 "Оккупировать Палангу" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+ ### Ministers ### 
+LIT_augustinas_voldemaras_hog:0 "Августинас Вольдемарас" 
+LIT_augustinas_voldemaras_for:0 "Августинас Вольдемарас" 
+ LIT_martynas_ycas:0 "Мартинас Ычас" 
+ LIT_vladas_stasinskas:0 "Владас Стасинскас" 
+ ### General Staff ### 
+ ### Army Chief ### 
+
+ ### Air Chief ### 
+ ### Navy Chief ### 
+ ### Leaders ### 
+
+### Tech? ### 
+

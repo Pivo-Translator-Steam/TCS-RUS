@@ -1,0 +1,144 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+crn_yug_denounce:0 "Denounced the Fiuman Government" 
+
+### Events ### 
+
+crn.1.t:0 "Д'Аннунцио марширует по Фиуме" 
+crn.1.d:0 "С момента падения Австро-Венгерской империи город Фиуме был центром разногласий между нашим правительством и Италией.\nС незначительным итальянским большинством в городском населении, он был центром притязаний радикальных националистических итальянских кругов, и даже был занят итальянской королевской армией после перемирия в Вилла Джусти. \nСамый город, однако, не был обещан Италии в Лондонском пакте, и итальянские претензии на эту территорию сыграли важную роль в неудачном приобретении Далмации или любого другого бывшего немецкого колониального владения в Версальском договоре. \nЭто, однако, возмутило те же ультранационалистические круги, которые претендовали на город, и, прежде всего, известного поэта Габриэле д'Аннунцио, который громко заявлял об "освобождении" города.\nВ последние недели он собрал "легион" примерно из 2600 человек, в основном ветеранов кампании на Изонцо; сегодня он маршировал на город!" 
+crn.1.a:0 "Возмутительно!" 
+crn.1.a.tooltip:0 "§RЭти "легионеры" не просто заняли город, они также провозгласили его независимость! §!" 
+crn.2.t:0 "Il Natale di Sangue" 
+crn.2.d:0 "Кровавое Рождество" 
+crn.2.a:0 "Будь проклято их коррумпированное правительство!" 
+crn.2.a.tooltip:0 "§BD'Annunzio был изгнан, и теперь автономистское правительство захватило власть в новом Свободном Государстве Фиуме.\n§!" 
+crn.3.t:0 "Парламентские выборы в Фиуме" 
+crn.3.d:0 "Время выборов" 
+crn.3.a:0 "Автономистская партия победила" 
+crn.3.a.tooltip:0 "§BПобеда Автономистской партии даст Фиуме возможность остаться независимым.\n§!§RМы, однако, будем иметь дело с наиболее радикальными фракциями.\n§!" 
+crn.3.b:0 "Национальный блок победил" 
+crn.3.b.tooltip:0 "§GПобеда фило-итальянского Национального блока на выборах приведет нас к возможному объединению с Италией.\n§!" 
+crn.5.t:0 "[From.GetAdjectiveCap] Правительство осуждает нас" 
+crn.5.d:0 "[From.GetAdjectiveCap] Ублюдки осудили наше демократически избранное правительство!" 
+crn.5.a:0 "Следует ожидать" 
+
+### Parties ### 
+
+CRN_leninism_party:0 "КПР" 
+CRN_leninism_party_long:0 "Кооператив портовых рабочих" 
+CRN_marxism_party:0 "МСПР" 
+CRN_marxism_party_long:0 "Международная социалистическая партия Риеки" 
+CRN_rev_socialism_party:0 "НБ" 
+CRN_rev_socialism_party_long:0 "Национальный блок - Синистра" 
+CRN_soc_democracy_party:0 "СД" 
+CRN_soc_democracy_party_long:0 "Синистра Демократия" 
+CRN_soc_liberal_party:0 "ЛЛ" 
+CRN_soc_liberal_party_long:0 "Либеральные левые" 
+CRN_lib_conservatism_party:0 "НБ" 
+CRN_lib_conservatism_party_long:0 "Национальный блок - либералы" 
+CRN_soc_conservatism_party:0 "АП" 
+CRN_soc_conservatism_party_long:0 "Автономистская партия" 
+CRN_auth_democrat_party:0 "ПК" 
+CRN_auth_democrat_party_long:0 "Партито Кроато" 
+CRN_pat_autocrat_party:0 "ПП" 
+CRN_pat_autocrat_party_long:0 "Партия прав" 
+CRN_fascism_party:0 "НБ" 
+CRN_fascism_party_long:0 "Национальный блок - правые" 
+
+### Country Name ### 
+
+CRN_leninism:0 "Итальянское регентство Карнаро" 
+CRN_leninism_DEF:0 "Итальянское регентство Карнаро" 
+CRN_leninism_ADJ:0 "Фиумск." 
+CRN_marxism:0 "Итальянское регентство Карнаро" 
+CRN_marxism_DEF:0 "Итальянское регентство Карнаро" 
+CRN_marxism_ADJ:0 "Фиумск." 
+CRN_rev_socialism:0 "Итальянское регентство Карнаро" 
+CRN_rev_socialism_DEF:0 "Итальянское регентство Карнаро" 
+CRN_rev_socialism_ADJ:0 "Фиумск." 
+CRN_soc_democracy:0 "Итальянское регентство Карнаро" 
+CRN_soc_democracy_DEF:0 "Итальянское регентство Карнаро" 
+CRN_soc_democracy_ADJ:0 "Фиумск." 
+CRN_soc_liberal:0 "Итальянское регентство Карнаро" 
+CRN_soc_liberal_DEF:0 "Итальянское регентство Карнаро" 
+CRN_soc_liberal_ADJ:0 "Фиумск." 
+CRN_lib_conservativism:0 "Итальянское регентство Карнаро" 
+CRN_lib_conservatism_DEF:0 "Итальянское регентство Карнаро" 
+CRN_lib_conservatism_ADJ:0 "Фиумск." 
+CRN_soc_conservatism:0 "Итальянское регентство Карнаро" 
+CRN_soc_conservatism_DEF:0 "Итальянское регентство Карнаро" 
+CRN_soc_conservatism_ADJ:0 "Фиумск." 
+CRN_auth_democrat:0 "Итальянское регентство Карнаро" 
+CRN_auth_democrat_DEF:0 "Итальянское регентство Карнаро" 
+CRN_auth_democrat_ADJ:0 "Фиумск." 
+CRN_pat_autocrat:0 "Итальянское регентство Карнаро" 
+CRN_pat_autocrat_DEF:0 "Итальянское регентство Карнаро" 
+CRN_pat_autocrat_ADJ:0 "Фиумск." 
+CRN_fascism:0 "Итальянское регентство Карнаро" 
+CRN_fascism_DEF:0 "Итальянское регентство Карнаро" 
+CRN_fascism_ADJ:0 "Фиумск." 
+CRN_LIB_leninism:0 "Свободный город Фиуме" 
+CRN_LIB_leninism_DEF:0 "Свободный город Фиуме" 
+CRN_LIB_leninism_ADJ:0 "Фиумск." 
+CRN_LIB_marxism:0 "Свободный город Фиуме" 
+CRN_LIB_marxism_DEF:0 "Свободный город Фиуме" 
+CRN_LIB_marxism_ADJ:0 "Фиумск." 
+CRN_LIB_rev_socialism:0 "Свободный город Фиуме" 
+CRN_LIB_rev_socialism_DEF:0 "Свободный город Фиуме" 
+CRN_LIB_rev_socialism_ADJ:0 "Фиумск." 
+CRN_LIB_soc_democracy:0 "Свободный город Фиуме" 
+CRN_LIB_soc_democracy_DEF:0 "Свободный город Фиуме" 
+CRN_LIB_soc_democracy_ADJ:0 "Фиумск." 
+CRN_LIB_soc_liberal:0 "Свободный город Фиуме" 
+CRN_LIB_soc_liberal_DEF:0 "Свободный город Фиуме" 
+CRN_LIB_soc_liberal_ADJ:0 "Фиумск." 
+CRN_LIB_lib_conservatism:0 "Свободный город Фиуме" 
+CRN_LIB_lib_conservatism_DEF:0 "Свободный город Фиуме" 
+CRN_LIB_lib_conservatism_ADJ:0 "Фиумск." 
+CRN_LIB_soc_conservatism:0 "Свободный город Фиуме" 
+CRN_LIB_soc_conservatism_DEF:0 "Свободный город Фиуме" 
+CRN_LIB_soc_conservatism_ADJ:0 "Фиумск." 
+CRN_LIB_auth_democrat:0 "Свободный город Фиуме" 
+CRN_LIB_auth_democrat_DEF:0 "Свободный город Фиуме" 
+CRN_LIB_auth_democrat_ADJ:0 "Фиумск." 
+CRN_LIB_pat_autocrat:0 "Свободный город Фиуме" 
+CRN_LIB_pat_autocrat_DEF:0 "Свободный город Фиуме" 
+CRN_LIB_pat_autocrat_ADJ:0 "Фиумск." 
+CRN_LIB_fascism:0 "Свободный город Фиуме" 
+CRN_LIB_fascism_DEF:0 "Свободный город Фиуме" 
+CRN_LIB_fascism_ADJ:0 "Фиумск." 
+
+### Focuses ### 
+
+CRN_Focus_ID:0 "" 
+CRN_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+CRN_Idea_ID:0 "" 
+CRN_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+CRN_Guido_Keller_for_fas:0 "Гвидо Келлер" 
+CRN_Antonio_Grossich_hog_fas:0 "Антонио Гроссич" 
+CRN_Giuseppe_Giuriati_sec_fas:0 "Джузеппе Джуриати" 
+CRN_Harukichi_Shimoi_eco_fas:0 "Харукичи Шимои" 
+
+### Leaders ### 
+
+### Tech? ### 
+
+### Trait ### 
+
+eco_samurai_di_fiume:0 "Самурай Фиуме" ###lol 

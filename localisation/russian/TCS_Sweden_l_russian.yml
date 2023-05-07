@@ -1,0 +1,346 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+SWE_diplomatic_mission:0 "Дипломатическая миссия от §YШвеции§!" 
+SWE_diplomatic_mission_neg:0 "Дипломатическая миссия к сопернику" 
+SWE_diplomatic_mission_ENG:0 "Дипломатическая миссия в §YБританию§!" 
+SWE_diplomatic_mission_GER:0 "Дипломатическая миссия в §YГерманию§!" 
+SWE_trade_deal:0 "Торговая сделка" 
+SWE_large_diaspora:0 "Большая диаспора" 
+
+### Events ### 
+sweden_pol.1:0 "Правительство Бострёма уходит в отставку" 
+sweden_pol.1.title:0 "Правительство Бострёма уходит в отставку" 
+sweden_pol.1.desc:0 "Правительство во главе с Эриком Бострёмом было вынуждено уйти в отставку из-за неспособности гарантировать сохранение Соединенного Королевства Швеции и Норвегии." ! 
+sweden_pol.1.a:0 "Типа неэпично, ngl" 
+
+sweden_pol.2:0 "Правительство Рамстедта уходит в отставку" 
+sweden_pol.2.title:0 "Правительство Рамстедта уходит в отставку" 
+sweden_pol.2.desc:0 "Перед правительством Рамстедта стояла задача обеспечить, чтобы норвежцы не вышли из союза самостоятельно, но оно потерпело неудачу." 
+sweden_pol.2.a:0 "Брух момент" 
+
+sweden_pol.3:0 "Выборы 1905 года" 
+sweden_pol.3.title:0 "Выборы 1905 года" 
+sweden_pol.3.desc:0 "Получены результаты всеобщих выборов 1905 года". 
+sweden_pol.3.a:0 "Это победа либералов" 
+
+sweden_pol.5.title:0 "Конец Карлштадских переговоров" 
+sweden_pol.5.desc:0 "23 октября 1905 года завершились Карлштадские переговоры. В результате этих переговоров полная независимость Норвегии признана нашим правительством, и все претензии на наши бывшие владения были оставлены." 
+sweden_pol.5.a:0 "För brödrafolkens väl...". 
+
+### Parties ### 
+
+SWE_leninism_party:0 "О" 
+SWE_leninism_party_long:0 "Общество" 
+SWE_marxism_party:0 "О" 
+SWE_marxism_party_long:0 "Общество" 
+SWE_rev_socialism_party:0 "О" 
+SWE_rev_socialism_party_long:0 "Общество" 
+SWE_soc_democracy_party:0 "ШСДРП" 
+SWE_soc_democracy_party_long:0 "Шведская социал-демократическая рабочая партия" 
+SWE_soc_liberal_party:0 "ЛКП" 
+SWE_soc_liberal_party_long:0 "Либеральная коалиционная партия" 
+SWE_lib_conservatism_party:0 "ЛМП" 
+SWE_lib_conservatism_party_long:0 "Лантманнапартиет" 
+SWE_soc_conservatism_party:0 "ГУР" 
+SWE_soc_conservatism_party_long:0 "Группа умеренных реформистов" 
+SWE_auth_democrat_party:0 "Бернадотт" 
+SWE_auth_democrat_party_long:0 "Дом Бернадоттов" 
+SWE_pat_autocrat_party:0 "-" 
+SWE_pat_autocrat_party_long:0 "-" 
+SWE_fascism_party:0 "-" 
+SWE_fascism_party_long:0 "-" 
+
+### Parties Parliament 
+
+SWE_ideological_allegiance:0 "Политические союзники Андры Каммарен" 
+SWE_libcon_1:0 "£GFX_soc_liberal §QЛибералы§!" 
+SWE_soccon_1:0 "£GFX_soc_conservatism §DКонсерваторы§!" 
+SWE_socdem_1:0 "£GFX_soc_democracy §PСоциал-демократы§!" 
+SWE_autdem_1:0 "£GFX_auth_democrat §gМонархисты§!" 
+SWE_revsoc_1:0 "£GFX_rev_socialism §IКоммунисты§!" 
+#SWE_autdem_1:0 "£GFX_auth_democrat  §SMonarkisterna§!" 
+
+SWE_andra_kammaren_lobbying_party_0:0 "Лоббировать £GFX_soc_conservatism §DКонсерваторов§! чтобы §YПоддержать§! £GFX_soc_liberal §QЛиберальные Реформы§!". 
+SWE_andra_kammaren_lobbying_party_1:0 "Лоббировать £GFX_soc_liberal §QЛибералов§! чтобы §YПоддержать§! £GFX_soc_conservatism §DКонсервативные реформы§!". 
+SWE_andra_kammaren_lobbying_party_2:0 "Лоббировать £GFX_soc_conservatism §DГруппу Умеренных§! для §YПоддержки§!". 
+SWE_andra_kammaren_lobbying_party_3:0 "Радикализировать £GFX_soc_conservatism §DКонсерваторов§! в £GFX_auth_democrat §gМонархистов§!". 
+SWE_andra_kammaren_lobbying_party_4:0 "Лоббировать £GFX_rev_socialism §IОбщество§! для §YПоддержки§!". 
+SWE_andra_kammaren_lobbying_party_5:0 "Лоббировать £GFX_auth_democrat §SМонаркистерну§! для §YПоддержки§!" 
+
+SWE_current_issue_header:0 " §YТекущая проблема:§!" 
+SWE_current_issue_none:0 "Нет" 
+SWE_current_issue_1:0 "Вопрос о избирательном праве" 
+SWE_current_issue_2:0 "Права трудящихся" 
+SWE_current_issue_3:0 "Норвежская модель" 
+SWE_current_issue_4:0 "Представительство в Андра Каммарен" 
+
+SWE_reform_swe_nor_union_breakup:0 "Расторжение союза" 
+### Country Name ### 
+
+SWE_leninism:0 "Королевство Швеция" 
+SWE_leninism_DEF:0 "Королевство Швеция" 
+SWE_leninism_ADJ:0 "Шведск." 
+SWE_marxism:0 "Королевство Швеция" 
+SWE_marxism_DEF:0 "Королевство Швеция" 
+SWE_marxism_ADJ:0 "Шведск." 
+SWE_rev_socialism:0 "Королевство Швеция" 
+SWE_rev_socialism_DEF:0 "Королевство Швеция" 
+SWE_rev_socialism_ADJ:0 "Шведск." 
+SWE_soc_democracy:0 "Королевство Швеция" 
+SWE_soc_democracy_DEF:0 "Королевство Швеция" 
+SWE_soc_democracy_ADJ:0 "Шведск." 
+SWE_soc_liberal:0 "Королевство Швеция" 
+SWE_soc_liberal_DEF:0 "Королевство Швеция" 
+SWE_soc_liberal_ADJ:0 "Шведск." 
+SWE_lib_conservatism:0 "Королевство Швеция" 
+SWE_lib_conservatism_DEF:0 "Королевство Швеция" 
+SWE_lib_conservatism_ADJ:0 "Шведск." 
+SWE_soc_conservatism:0 "Королевство Швеция" 
+SWE_soc_conservatism_DEF:0 "Королевство Швеция" 
+SWE_soc_conservatism_ADJ:0 "Шведск." 
+SWE_auth_democrat:0 "Королевство Швеция" 
+SWE_auth_democrat_DEF:0 "Королевство Швеция" 
+SWE_auth_democrat_ADJ:0 "Шведск." 
+SWE_pat_autocrat:0 "Королевство Швеция" 
+SWE_pat_autocrat_DEF:0 "Королевство Швеция" 
+SWE_pat_autocrat_ADJ:0 "Шведск." 
+SWE_fascism:0 "Королевство Швеция" 
+SWE_fascism_DEF:0 "Королевство Швеция" 
+SWE_fascism_ADJ:0 "Шведск." 
+
+
+SWE_swedennorway_leninism:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_leninism_DEF:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_leninism_ADJ:0 "Шведско-Норвежск." 
+SWE_swedennorway_marxism:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_marxism_DEF:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_marxism_ADJ:0 "Шведско-Норвежск." 
+SWE_swedennorway_rev_socialism:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_rev_socialism_DEF:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_rev_socialism_ADJ:0 "Шведско-Норвежск." 
+SWE_swedennorway_soc_democracy:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_soc_democracy_DEF:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_soc_democracy_ADJ:0 "Шведско-Норвежск." 
+SWE_swedennorway_soc_liberal:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_soc_liberal_DEF:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_soc_liberal_ADJ:0 "Шведско-Норвежск." 
+SWE_swedennorway_lib_conservatism:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_lib_conservatism_DEF:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_lib_conservatism_ADJ:0 "Шведско-Норвежск." 
+SWE_swedennorway_soc_conservatism:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_soc_conservatism_DEF:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_soc_conservatism_ADJ:0 "Шведско-Норвежск." 
+SWE_swedennorway_auth_democrat:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_auth_democrat_DEF:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_auth_democrat_ADJ:0 "Шведско-Норвежск." 
+SWE_swedennorway_pat_autocrat:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_pat_autocrat_DEF:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_pat_autocrat_ADJ:0 "Шведско-Норвежск." 
+SWE_swedennorway_fascism:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_fascism_DEF:0 "Объединенные королевства Швеция и Норвегия"
+SWE_swedennorway_fascism_ADJ:0 "Шведско-Норвежск." 
+
+### Focuses ### 
+
+SWE_Focus_ID:0 "" 
+SWE_Focus_ID_desc:0 "" 
+
+### Flags ### 
+reform_in_progress:0 "Реформа в процессе" 
+SWE_1905_elections:0 "§YВыборы в Швеции 1905 года§! произошли". 
+royal_propaganda:0 " §ҮКоролевская пропаганда§!" 
+promoted_reforms:0 "§YРеформы продвигаются§!" 
+karlstad_negotiations:0 " §ҮКарлстадские переговоры§! произошли." 
+
+forsta_kammaren_support_majority:0 "Имеет §GПоддержку§! от §YПервой палаты§!". 
+andra_kammaren_support_majority:0 "Имеет §GПоддержку§! от §YВторой палаты§!" 
+
+Staaff_government:0 "§ҮКабинет Карла Стааффа§!" 
+Lindman_government:0 "§YКабинет Арвида Линдмана§!" 
+
+royal_propaganda_tt:0 "§RНа предстоящие выборы могут повлиять.§!" 
+promote_reforms_tt:0 "§RНа предстоящие выборы могут повлиять.§!" 
+
+### Decisions ### 
+SWE_forsta_kammaren_lobbying:0 "Лоббируйте членов Первой Палаты за §YПоддержку§!". 
+SWE_pass_liberal_voting_reforms:0 "Принять §YЛиберальные реформы голосования§!". 
+SWE_pass_conservative_voting_reforms:0 "Принять §DКонсервативные реформы голосования§!" 
+SWE_spread_royalist_propaganda:0 "Распространять §YКоролевскую Пропаганду§!". 
+SWE_resign_the_cabinet:0 "§RОтставка кабинета§!". 
+SWE_pass_voting_reform:0 "Принять §YРеформу голосования§! или §RОтставить кабинет§!". 
+
+SWE_diplomacy:0 "Дипломатия" 
+
+### Tooltips ### 
+new_row_tt:0 " \n" 
+SWE_begin_dissolve_union_tt:0 "Риксдаг начинает обсуждение §YРаспуска Союза§!". 
+reform_start_tt:0 "§YНачинается голосование по реформе§!". 
+rewards_after_reform_tt:0 "\n§YЭффект, если реформа пройдет§!:" 
+
+liberals_support_refrom_tt:0 "£GFX_soc_liberal §QЛибералы§! будут §Gподдерживать§! эту реформу." 
+socdems_support_reform_tt:0 "£GFX_soc_democracy §PСоциал Демократы§! будут §Gподдерживать§! эту реформу." 
+conservatives_support_reform_tt:0 "£GFX_soc_conservatism §DКонсерваторы§! будут §Gподдерживать§! эту реформу." 
+monarchists_support_reform_tt:0 "£GFX_auth_democrat §gМонархисты§! будут §Gподдерживать§! эту реформу." 
+
+safety_reform_tt:0 "£GFX_soc_демократия §PСоциал-демократы§! присоединяются к §YКоалиционному правительству§!.\nРабочие довольны, будущие протесты будут менее склонны к насилию." 
+
+constitutional_revision_swe_nor_tt:0 "Конституция пересмотрена, ограничивая §YКоролевскую власть§! над политикой. Король, напрямую влияющий на риксдаг, будет рассматриваться как §YНарушение Конституции§!". 
+
+people_not_lords_tt:0 "§YПервая Палата§! больше не будет так благоволить £GFX_soc_conservatism §DКонсерваторов§! и богатым. Будет легче влиять на §YПервую Палату§!". 
+
+school_budget_tt:0 "Школьный бюджет увеличен, что, надеюсь, будет способствовать благополучию нации в долгосрочной перспективе. Это происходит за счет небольшого увеличения налогов". 
+
+issue_military_budget_increase_tt:0 "Увеличение военных расходов позволяет нам иметь большую армию". 
+
+employer_authority_tt:0 "Работодатели получат дополнительные полномочия, позволяющие им легче контролировать свой капитал." 
+
+issue_permanent_seats_tt:0 "Места в §YПервая Палата§! теперь постояння. Будет легче поколебать §YПервую Палату§!, если у власти находятся £GFX_soc_conservatism §DКонсерваторы§! или £GFX_auth_democrat §gМонархисты§!". 
+
+royal_influence_tt:0 "§YКороль§! будет и дальше поощряться к вмешательству в политику парламента". 
+
+liberals_no_support_refrom_tt:0 "£GFX_soc_liberal §QLлибералы§! не будут §Rподдерживать§! эту реформу." 
+socdems_no_support_reform_tt:0 "£GFX_soc_democracy §PСоциал Демократы§! не будут §Rподдерживать§! эту реформу." 
+conservatives_no_support_reform_tt:0 "£GFX_soc_conservatism §DКонсерваторы§! не будут §Rподдерживать§! эту реформу." 
+monarchists_no_support_reform_tt:0 "£GFX_auth_democrat §gМонархисты§! не будут §Rподдерживать§! эту реформу." 
+
+SWE_lobby_liberal_conservative_tt:0 "§W1-5§! £GFX_soc_conservatism §DКонсерваторов§! §Wстанут§! £GFX_soc_liberal §QЛибералами§!§W.§!\n" 
+SWE_lobby_liberal_reform_passed_tt:0 "§W15-25§! £GFX_soc_liberal §QLибералов§! §Wстанут§! £GFX_soc_conservatism §DКонсерваторами§!§W.§!\n§W2-5§! £GFX_soc_conservatism §DКонсерваторов§! §Wстанут§! £GFX_auth_democrat §gМонархистами§!§W.§!\n" 
+SWE_monarchists_creation_tt:0 "§W2-5§! £GFX_soc_conservatism §DCКонсерваторов§! §Wстанут§! £GFX_auth_democrat §gМонархистами§!§W.§!\n§YРешение §! о §YРадикализации§! £GFX_soc_conservatism §DКонсерваторов§! разблокировано." 
+SWE_monarchist_radicalize_tt:0 "§W2-5§! £GFX_soc_conservatism §DКонсерваторов§! §Wстанут§! £GFX_auth_democrat §gМонархистами§!§W.§!\n" 
+
+
+SWE_lobby_conservative_liberal_tt:0 "§W1-5§! £GFX_soc_либеральные §QLибералов§! §Wстанут§! £GFX_soc_conservatism §DКонсерваторами§!§W.§!\n" 
+SWE_lobby_conservative_reform_passed_tt:0 "§W15-25§! £GFX_soc_conservatism §DКонсерваторов§! §Wстанут§! £GFX_soc_либеральным §QЛибералами§!§W.§!\n" 
+
+SWE_forsta_kammaren_above_50_tt:0 "Поддержка от §YFörsta Kammaren§! выше §G50%§!". 
+SWE_andra_kammaren_above_50_tt:0 "Поддержка от §YAndra Kammaren§! выше §G50%§!". 
+
+SWE_forsta_kammaren_support_tt:0 "§GУвеличит§! Поддержку Первой Палаты.\n". 
+SWE_andra_kammaren_support_tt:0 "§GУвеличит§! Поддержку Второй Палаты.\n" 
+
+SWE_large_forsta_kammaren_support_tt:0 "§GЗначительно Увеличит§! Поддержку Первой Палаты.\n".  
+SWE_large_andra_kammaren_support_tt:0 "§GЗначительно Увеличит§! Поддержку Второй Палаты.\n" 
+ 
+
+SWE_forsta_kammaren_disapproval_tt:0 "§GПонизит§! Поддержку Первой Палаты.\n"  
+SWE_andra_kammaren_disapproval_tt:0 "§GПонизит§! Поддержку Второй Палаты.\n"  
+
+SWE_no_limit_king_tt:0 "§YВлияние короля на политику §YНе ограничено§!\n" 
+
+SWE_increase_monarch_power_tt:0 "Это §HУсилит Короля§!\n" 
+SWE_decrease_monarch_power_tt:0 "Это §HОслабит Короля§!\n" 
+
+sweden2_event_tt:0 "§RНынешний кабинет вынужден уйти в отставку.§Y\nНа его место придет кабинет во главе с Кристианом Лундебергом.§!\n" 
+
+sweden3a_event_tt:0 "§RДействующий кабинет вынужден уйти в отставку.§Y\nНа его место придет социал-либеральный кабинет во главе с Карлом Штааффом.§R\nПредупреждение! Если реформа голосования не будет принята в течение 120 дней после избрания этого кабинета, он будет заменен.§!\n" 
+sweden4_event_tt:0 "§RДействующий кабинет вынужден уйти в отставку.§Y\nНа его место придет либерально-консервативный кабинет во главе с Арвидом Линдманом." 
+
+partial_factory_generic_tt:0 "§YРазрабатывать§! регион дальше, чтобы получить доступ к этой §YФабрике§!". 
+
+138_partial_factory_tt:0 "Добавить §GПоловину§! §YГражданской Фабрики§! в §YСкании§!". 
+140_partial_factory_tt:0 "Добавить §GПоловину§! §YГражданской Фабрики§! в §YВестергётланд§!". 
+
+factories_for_good_relations_SWE_tt:0 "Получить одну §YГражданскую фабрику§! за хорошие отношения с §Y@GER[GER.GetNameDef]§!, §Y@NOR[NOR.GetNameDef]§! или §Y@DEN[DEN.GetNameDef]§!". 
+### Companies ### 
+
+### Ministers ### 
+
+SWE_Erik_Bostrom:0 "Эрик Бострём" 
+SWE_Johan_Ramstedt:0 "Йохан Рамстедт" 
+SWE_Christian_Lundeberg:0 "Кристиан Лундеберг" 
+SWE_Karl_Staaff_hg:0 "Карл Штаафф" 
+SWE_Arvid_Lindman:0 "Арвид Линдман". 
+
+SWE_August_Gyldenstolpe:0 "Август Гильденштольп" 
+SWE_Fredrik_Wachtmeister:0 "Фредрик Вахтмайстер" 
+SWE_Eric_Trolle:0 "Эрик Тролле" 
+
+SWE_Ernst_Meyer:0 "Эрнст Мейер" 
+SWE_Elof_Biesert:0 "Элоф Бизерт" 
+SWE_Carl_Swartz:0 "Карл Свартц" 
+
+SWE_Ossian_Berger:0 "Оссиан Бергер". 
+SWE_Gustaf_Berg:0 "Густав Берг". 
+SWE_Karl_Staaff_sm:0 "Карл Штаафф" 
+SWE_Albert_Petersson:0 "Альберт Петерссон" 
+
+### Leaders ### 
+
+### Tech? ### 
+
+### Parliament ### 
+SWE_parliament:0 "Шведский Риксдаг" 
+SWE_parliament_desc:1 "Законодательная власть Швеции в настоящее время работает на основе целого ряда законов, в которые были внесены изменения с 1809 года. В настоящее время существуют две законодательные палаты: Первая палата, которая косвенно назначает представителей по воле муниципальных собраний, и Вторая палата, которая напрямую избирается голосующим населением. Первая палата призвана сдерживать народную волю и отстаивать интересы "богатства, образования и качества", однако право голоса во второй палате также сильно ограничено богатством; к участию в выборах допускаются только мужчины, владеющие собственностью, или те, кто платит значительный подоходный налог. С 1862 года состоятельные незамужние женщины имеют право голоса на местных выборах, но в остальном им запрещено участвовать в выборах. Эти законы глубоко ограничили представительство рабочего класса в органах власти, и призывы к реформе неуклонно растут." 
+SWE_parliament_forsta_kammaren_support_header:0 "§YПервая Палата§!" 
+SWE_parliament_andra_kammaren_support_header:0 "§YВторая Палата§!" 
+SWE_parliament_forsta_kammaren_support_amount:0 "§G[?SWE.forsta_kammaren_support]§! / §Y[?SWE.forsta_kammaren_total]§!". 
+SWE_parliament_andra_kammaren_support_amount:0 "§G[?SWE.andra_kammaren_support]§! / §Y[?SWE.andra_kammaren_total]§!". 
+SWE_andra_kammaren_subtext:0 "§YГосударственная поддержка:§!" 
+SWE_ak_prc:0 "§Y[?ak_prc]%§!" 
+
+### Ideas ### 
+SWE_desire_for_sufferage:0 "Желание реформ" 
+SWE_failing_union:0 "Несостоявшийся союз" 
+SWE_monarch_power:0 "Сила Монархии"
+
+### Scripted Loc ### 
+Swe_Constitutional:0 "Конституционная монархия" 
+Swe_Weak:0 "Сильный риксдаг" 
+Swe_Equal:0 "Король и риксдаг" 
+Swe_Strong:0 "Сильный король" 
+Swe_Authoritarian:0 "Авторитарный король" 
+
+swe_epic_gamer_value:0 "§Y[?riksdag_cosmetic_numbers^riksdag_cosmetic_member_index]§! мест" 
+
+### Starting Focuses ### 
+SWE_new_riksdag:0 "Инаугурация нового Риксдага" 
+SWE_acknowledge_suffrage_desire:0 "Признать желание получить избирательное право" 
+SWE_attempt_to_stabilize_the_government:0 "Попытка стабилизировать правительство" 
+SWE_norway_more_autonomy:0 "Удовлетворить стремление норвежцев к автономии" 
+SWE_secure_the_new_government:0 "Стабилизировать новое правительство" 
+SWE_try_to_negotiate_with_stortinget:0 "Попытаться вести переговоры со Стортингетом" 
+SWE_decrease_royal_authority_nor:0 "Ограничить власть короля в Норвегии" 
+SWE_lundeberg_government:0 "Кабинет министров Лундеберга" 
+SWE_prepare_for_the_karlstad_negotiations:0 "Готовиться к переговорам в Карлстаде" 
+SWE_a_union_dissolved:0 "Законодательно распустить союз" 
+
+
+SWE_britain_state_visit:0 "Государственный визит из Великобритании" 
+SWE_germany_state_visit:0 "Государственный визит из Германии" 
+SWE_buy_british_ships:0 "Покупать британские корабли" 
+SWE_organize_the_royal_wedding:0 "Королевская свадьба принца" 
+SWE_negotiate_a_trade_deal_with_germany:0 "Заключить торговую сделку с Германией" 
+SWE_sample_german_rifles:0 "Образцы немецких винтовок" 
+SWE_diplomatic_mission_to_britain:0 "Дипломатическая миссия в Британию" 
+SWE_expand_lulea_ore_port:0 "Расширить железорудные порты Лулео" 
+SWE_diplomatic_mission_to_germany:0 "Дипломатическая миссия в Германию" 
+SWE_invite_british_shipbuilders_to_lindholmen:0 "Пригласить судостроителей в Линдхольмен" 
+SWE_negotiate_lease_of_narvik_port:0 "Запрос на аренду порта Нарвик" 
+SWE_expand_the_northern_railway:0 "Расширение Северной железной дороги" 
+SWE_establish_german_arms_factory:0 "Создание немецкого оружейного завода" 
+SWE_expand_the_merchant_fleet:0 "Расширить торговый флот" 
+SWE_iron_diplomacy:0 "Дипломатия с железом" 
+SWE_introduce_the_r_train:0 "Представить поезд 'R'" 
+
+SWE_proclaim_friendship_with_GER:0 "Провозгласить дружбу с Германией" 
+### Staaff 1 кабинет 
+SWE_1905_gather_support:0 "Заручиться поддержкой Первой Палаты" 
+SWE_Staaf_cabinet_secured:0 "Кабинет охраняется" 
+SWE_work_safety_reform:0 "Реформа охраны труда" 
+SWE_norwegian_model:0 "Норвежская модель" 
+SWE_people_not_lords:0 "Люди, а не лорды" 
+liberalism_triumphant_1905:0 "Торжествующий либерализм" 
+
+### Линдман 1 кабинет министров 
+SWE_Lindman_government_secured:0 "Кабинет обеспечен" 
+SWE_commit_to_moderate_social_reform:0 "Приверженность умеренным социальным реформам" 
+SWE_increase_school_budget:0 "Увеличить школьный бюджет" 
+SWE_increase_authority_of_employers:0 "Уступки ассоциациям работодателей" 
+SWE_preserve_the_past:0 "Сохранить прошлое" 
+SWE_increase_army_budget:0 "Финансировать армию" 
+SWE_lifetime_seats:0 "Постоянные места" 
+SWE_encourage_royal_involvement:0 "Разрешить дальнейшее королевское участие" 
+SWE_conservative_1905_success:0 "Успешный срок" 

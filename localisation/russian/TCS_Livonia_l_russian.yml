@@ -1,0 +1,141 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+ livonia.1.t:0 "Эстония оккупирует Пернов и Дерпт" 
+ livonia.1.d:0 "Последний представитель нашего правительства, Август Винниг, подписал соглашение с представителями новообразованной Эстонской республики, официально признав Перновскую и Дерптскую области своими, последние несколько верных стрелков, которых мы еще держали в гарнизонах этих областей, либо дезертировали, либо распущены. Очевидно, что пройдет не так много времени, пока немецкие позиции на Балтике полностью не рухнут." 
+ livonia.1.a:0 "Мы ничего не можем с этим поделать". 
+ livonia.2.t:0 "Латвия захватывает наши территории". 
+ livonia.2.d:0 "Народный совет Латвии взял на себя управление нашими территориями под именем новой Латвийской республики, а Регентский совет объявил о роспуске Объединенного Балтийского герцогства. Будущее Балтии теперь за новыми республиками". 
+ livonia.2.a:0 "Новая глава". 
+
+### Parties ### 
+
+ LIV_leninism_party:0 "-" 
+ LIV_leninism_party_long:0 "" 
+ LIV_marxism_party:0 "-" 
+ LIV_marxism_party_long:0 "" 
+ LIV_rev_socialism_party:0 "-" 
+ LIV_rev_socialism_party_long:0 "" 
+ LIV_soc_democracy_party:0 "-" 
+ LIV_soc_democracy_party_long:0 "" 
+ LIV_soc_liberal_party:0 "НБПП" 
+ LIV_soc_liberal_party_long:0 "Немецко-балтийская прогрессивная партия" 
+ LIV_lib_conservatism_party:0 "НЛП" 
+ LIV_lib_conservatism_party_long:0 "Национально-либеральная партия" 
+ LIV_soc_conservatism_party:0 "НБДП" 
+ LIV_soc_conservatism_party_long:0 "Немецко-балтийская демократическая партия" 
+ LIV_auth_democrat_party:0 "Регентский совет" 
+ LIV_auth_democrat_party_long:0 "Балтийский регентский совет" 
+ LIV_pat_autocrat_party:0 "Гильдия" 
+ LIV_pat_autocrat_party_long:0 "Малые и большие гильдии" 
+ LIV_fascism_party:0 "-" 
+ LIV_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ LIV_leninism:0 "Объединенное Балтийское герцогство" 
+ LIV_leninism_DEF:0 "Объединенное Балтийское герцогство" 
+ LIV_leninism_ADJ:0 "Балтийск." 
+ LIV_marxism:0 "Объединенное Балтийское герцогство" 
+ LIV_marxism_DEF:0 "Объединенное Балтийское герцогство" 
+ LIV_marxism_ADJ:0 "Балтийск." 
+ LIV_rev_socialism:0 "Объединенное Балтийское герцогство" 
+ LIV_rev_socialism_DEF:0 "Объединенное Балтийское герцогство" 
+ LIV_rev_socialism_ADJ:0 "Балтийск." 
+ LIV_soc_democracy:0 "Объединенное Балтийское герцогство" 
+ LIV_soc_democracy_DEF:0 "Объединенное Балтийское герцогство" 
+ LIV_soc_democracy_ADJ:0 "Балтийск." 
+ LIV_soc_liberal:0 "Объединенное Балтийское герцогство" 
+ LIV_soc_liberal_DEF:0 "Объединенное Балтийское герцогство" 
+ LIV_soc_liberal_ADJ:0 "Балтийск." 
+ LIV_lib_conservatism:0 "Объединенное Балтийское герцогство" 
+ LIV_lib_conservatism_DEF:0 "Объединенное Балтийское герцогство" 
+ LIV_lib_conservatism_ADJ:0 "Балтийск." 
+ LIV_soc_conservatism:0 "Объединенное Балтийское герцогство" 
+ LIV_soc_conservatism_DEF:0 "Объединенное Балтийское герцогство" 
+ LIV_soc_conservatism_ADJ:0 "Балтийск." 
+ LIV_auth_democrat:0 "Объединенное Балтийское герцогство" 
+ LIV_auth_democrat_DEF:0 "Объединенное Балтийское герцогство" 
+ LIV_auth_democrat_ADJ:0 "Балтийск." 
+ LIV_pat_autocrat:0 "Объединенное Балтийское герцогство" 
+ LIV_pat_autocrat_DEF:0 "Объединенное Балтийское герцогство" 
+ LIV_pat_autocrat_ADJ:0 "Балтийск." 
+ LIV_fascism:0 "Объединенное Балтийское герцогство" 
+ LIV_fascism_DEF:0 "Объединенное Балтийское герцогство" 
+ LIV_fascism_ADJ:0 "Балтийск." 
+
+ LIV_GRAND_DUCHY_leninism:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_leninism_DEF:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_leninism_ADJ:0 "Ливонск." 
+ LIV_GRAND_DUCHY_marxism:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_marxism_DEF:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_marxism_ADJ:0 "Ливонск." 
+ LIV_GRAND_DUCHY_rev_socialism:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_rev_socialism_DEF:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_rev_socialism_ADJ:0 "Ливонск." 
+ LIV_GRAND_DUCHY_soc_democracy:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_soc_democracy_DEF:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_soc_democracy_ADJ:0 "Ливонск." 
+ LIV_GRAND_DUCHY_soc_liberal:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_soc_liberal_DEF:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_soc_liberal_ADJ:0 "Ливонск." 
+ LIV_GRAND_DUCHY_lib_conservatism:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_lib_conservatism_DEF:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_lib_conservatism_ADJ:0 "Ливонск." 
+ LIV_GRAND_DUCHY_soc_conservatism:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_soc_conservatism_DEF:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_soc_conservatism_ADJ:0 "Ливонск." 
+ LIV_GRAND_DUCHY_auth_democrat:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_auth_democrat_DEF:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_auth_democrat_ADJ:0 "Ливонск." 
+ LIV_GRAND_DUCHY_pat_autocrat:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_pat_autocrat_DEF:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_pat_autocrat_ADJ:0 "Ливонск." 
+ LIV_GRAND_DUCHY_fascism:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_fascism_DEF:0 "Великое герцогство Ливонское" 
+ LIV_GRAND_DUCHY_fascism_ADJ:0 "Ливонск." 
+
+### Focuses ### 
+
+ LIV_Duchys_Dissolution:0 "Распад герцогства" 
+ LIV_Duchys_Dissolution_desc:0 "После поражения Германии в Великой войне и отступления ее гарнизонов на запад, наше положение стало весьма неустойчивым, без поддержки Германии наша легитимность практически сведена к нулю, и мы вряд ли что-то сможем сделать, чтобы изменить это. Наш крах неминуем". 
+ LIV_creation_ubd:0 "Создание объединенного Балтийского герцогства" 
+ LIV_creation_ubd_desc:0 "После создания [LIV.GetFlag]§YВеликого герцогства Ливонского§! и [COU.GetFlag]§YГерцогства Курляндского и Семигальского§! местные ландесраты обоих наших государств решили, что для нас обоих будет выгодно объединиться в централизованное Объединенное Балтийское герцогство." 
+ LIV_play_as_latvia:0 "Играть за[LAT.GetFlag]Латвию!". 
+ LIV_play_as_latvia_desc:0 "Начав как [LIV.GetFlag]§YОбъединённое Балтийское Герцегство§!, вы можете после его распада продолжить игру за [LAT.GetFlag]§YЛатвию§!, нация, которая будет вовлечена в различные восстания, перевороты и гражданские конфликты." 
+
+### Ideas ### 
+
+ LIV_nation_on_last_legs:0 "Нация на последних ногах" 
+ LIV_nation_on_last_legs_desc:0 "После поражения Германии в Великой войне и отступления ее гарнизонов на запад, наше положение стало весьма неустойчивым, без поддержки Германии наша легитимность практически сведена к нулю, и мы вряд ли что-то сможем сделать, чтобы изменить это. Наш крах неизбежен". 
+
+### Flags ### 
+
+ LIV_duchy_dissolution_over_flag:0 "Герцогство было распущено" 
+
+### Decisions ### 
+
+ LIV_duchy_dissolution_category:0 "Будущее объединенного Балтийского герцогства" 
+ LIV_duchy_dissolution_category_desc:0 "После поражения Германии в Великой войне и отступления ее гарнизонов на запад, наше положение стало весьма неустойчивым, без поддержки Германии наша легитимность практически нулевая, и мы вряд ли сможем что-то сделать, чтобы изменить это. Наш крах неминуем". 
+ LIV_duchy_dissolution:0 "Распад герцогства" 
+ LIV_duchy_dissolution_desc:0 "Распад герцогства" 
+
+### Tooltips ### 
+
+ LIV_Switch_Latvia_tt:0 "§YПереключается на Латвию.§!" 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+ POLITICS_LIV_REGENCY_COUNCIL_DESC:0 "Регентский совет состоит из четырех балтийских немцев, трех эстонцев и трех латышей и был сформирован с целью короновать герцога Адольфа Фридриха Мекленбургского в качестве монарха объединенного Балтийского герцогства". 
+
+### Tech? ### 
+

@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### Bookmark ### 
+
+### Opinions ### 
+
+### Events ### 
+
+### Parties ### 
+
+ SIC_leninism_party:0 "" 
+ SIC_leninism_party_long:0 "" 
+ SIC_marxism_party:0 "" 
+ SIC_marxism_party_long:0 "" 
+ SIC_rev_socialism_party:0 "" 
+ SIC_rev_socialism_party_long:0 "" 
+ SIC_soc_democracy_party:0 "" 
+ SIC_soc_democracy_party_long:0 "" 
+ SIC_soc_liberal_party:0 "" 
+ SIC_soc_liberal_party_long:0 "" 
+ SIC_lib_conservatism_party:0 "" 
+ SIC_lib_conservatism_party_long:0 "" 
+ SIC_soc_conservatism_party:0 "" 
+ SIC_soc_conservatism_party_long:0 "" 
+ SIC_auth_democrat_party:0 "" 
+ SIC_auth_democrat_party_long:0 "" 
+ SIC_pat_autocrat_party:0 "" 
+ SIC_pat_autocrat_party_long:0 "" 
+ SIC_fascism_party:0 "" 
+ SIC_fascism_party_long:0 "" 
+
+### Country Name ### 
+
+ SIC_leninism:0 "Сычуаньская клика" 
+ SIC_leninism_DEF:0 "Сычуаньская клика" 
+ SIC_leninism_ADJ:0 "Сычуаньск." 
+ SIC_marxism:0 "Сычуаньская клика" 
+ SIC_marxism_DEF:0 "Сычуаньская клика" 
+ SIC_marxism_ADJ:0 "Сычуаньск." 
+ SIC_rev_socialism:0 "Сычуаньская клика" 
+ SIC_rev_socialism_DEF:0 "Сычуаньская клика" 
+ SIC_rev_socialism_ADJ:0 "Сычуаньск." 
+ SIC_soc_democracy:0 "Сычуаньская клика" 
+ SIC_soc_democracy_DEF:0 "Сычуаньская клика" 
+ SIC_soc_democracy_ADJ:0 "Сычуаньск." 
+ SIC_soc_liberal:0 "Сычуаньская клика" 
+ SIC_soc_liberal_DEF:0 "Сычуаньская клика" 
+ SIC_soc_liberal_ADJ:0 "Сычуаньск." 
+ SIC_lib_conservatism:0 "Сычуаньская клика" 
+ SIC_lib_conservatism_DEF:0 "Сычуаньская клика" 
+ SIC_lib_conservatism_ADJ:0 "Сычуаньск." 
+ SIC_soc_conservatism:0 "Сычуаньская клика" 
+ SIC_soc_conservatism_DEF:0 "Сычуаньская клика" 
+ SIC_soc_conservatism_ADJ:0 "Сычуаньск." 
+ SIC_auth_democrat:0 "Сычуаньская клика" 
+ SIC_auth_democrat_DEF:0 "Сычуаньская клика" 
+ SIC_auth_democrat_ADJ:0 "Сычуаньск." 
+ SIC_pat_autocrat:0 "Сычуаньская клика" 
+ SIC_pat_autocrat_DEF:0 "Сычуаньская клика" 
+ SIC_pat_autocrat_ADJ:0 "Сычуаньск." 
+ SIC_fascism:0 "Сычуаньская клика" 
+ SIC_fascism_DEF:0 "Сычуаньская клика" 
+ SIC_fascism_ADJ:0 "Сычуаньск." 
+
+### Focuses ### 
+
+ SIC_Focus_ID:0 "" 
+ SIC_Focus_ID_desc:0 "" 
+
+### Ideas ### 
+
+ SIC_Idea_ID:0 "" 
+ SIC_Idea_ID_desc:0 "" 
+
+### Flags ### 
+
+### Tooltips ### 
+
+### Companies ### 
+
+### Ministers ### 
+
+### Leaders ### 
+
+### Tech? ### 
+

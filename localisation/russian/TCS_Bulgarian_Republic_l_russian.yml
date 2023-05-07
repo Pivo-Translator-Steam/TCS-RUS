@@ -1,0 +1,74 @@
+﻿l_russian:
+
+ BRP_leninism:0 "Республика Болгария" 
+ BRP_leninism_DEF:0 "Республика Болгария" 
+ BRP_leninism_ADJ:0 "Болгарск." 
+ BRP_marxism:0 "Республика Болгария" 
+ BRP_marxism_DEF:0 "Республика Болгария" 
+ BRP_marxism_ADJ:0 "Болгарск." 
+ BRP_rev_socialism:0 "Республика Болгария" 
+ BRP_rev_socialism_DEF:0 "Республика Болгария" 
+ BRP_rev_socialism_ADJ:0 "Болгарск." 
+ BRP_soc_democracy:0 "Республика Болгария" 
+ BRP_soc_democracy_DEF:0 "Республика Болгария" 
+ BRP_soc_democracy_ADJ:0 "Болгарск." 
+ BRP_soc_liberal:0 "Республика Болгария" 
+ BRP_soc_liberal_DEF:0 "Республика Болгария" 
+ BRP_soc_liberal_ADJ:0 "Болгарск." 
+ BRP_lib_conservatism:0 "Республика Болгария" 
+ BRP_lib_conservatism_DEF:0 "Республика Болгария" 
+ BRP_lib_conservatism_ADJ:0 "Болгарск." 
+ BRP_soc_conservatism:0 "Республика Болгария" 
+ BRP_soc_conservatism_DEF:0 "Республика Болгария" 
+ BRP_soc_conservatism_ADJ:0 "Болгарск." 
+ BRP_auth_democrat:0 "Республика Болгария" 
+ BRP_auth_democrat_DEF:0 "Республика Болгария" 
+ BRP_auth_democrat_ADJ:0 "Болгарск." 
+ BRP_pat_autocrat:0 "Республика Болгария" 
+ BRP_pat_autocrat_DEF:0 "Республика Болгария" 
+ BRP_pat_autocrat_ADJ:0 "Болгарск." 
+ BRP_fascism:0 "Республика Болгария" 
+ BRP_fascism_DEF:0 "Республика Болгария" 
+ BRP_fascism_ADJ:0 "Болгарск." 
+
+ ### Parties ### 
+ BRP_leninism_party:0 "-" 
+ BRP_leninism_party_long:0 "-" 
+ BRP_marxism_party:0 "БРСДП (ТС)" 
+ BRP_marxism_party_long:0 "Болгарская рабочая социал-демократическая партия (Тесни Социалисты)" 
+ BRP_rev_socialism_party:0 "БРСДП (ТС)" 
+ BRP_rev_socialism_party_long:0 "Болгарская рабочая социал-демократическая партия (Тесни Социалисты)" 
+ BRP_soc_democracy_party:0 "БЗНС" 
+ BRP_soc_democracy_party_long:0 "Балгарский Земедельский Народный Союз" 
+ BRP_soc_liberal_party:0 "РДП" 
+ BRP_soc_liberal_party_long:0 "Радикалдемократическая партия" 
+ BRP_lib_conservatism_party:0 "ПЛП" 
+ BRP_lib_conservatism_party_long:0 "Прогресивнолиберальная Партия" 
+ BRP_soc_conservatism_party:0 "НЛП" 
+ BRP_soc_conservatism_party_long:0 "Народнолиберальная Партия" 
+ BRP_auth_democrat_party:0 "ЛП" 
+ BRP_auth_democrat_party_long:0 "Либеральная Партия" 
+ BRP_pat_autocrat_party:0 "-" 
+ BRP_pat_autocrat_party_long:0 "-" 
+ BRP_fascism_party:0 "-" 
+ BRP_fascism_party_long:0 "-" 
+
+ ### Ideas ### 
+
+ ### Foci ### 
+
+ ### Events ### 
+
+
+ ### Decisions ### 
+
+ #Categories 
+
+ #Decisions 
+
+ #Tooltips 
+
+
+ #Ministers 
+
+ #Traits 
